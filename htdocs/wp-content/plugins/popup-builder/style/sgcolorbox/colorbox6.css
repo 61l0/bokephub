@@ -1,0 +1,123 @@
+/*
+	Colorbox Core Style:
+	The following CSS is consistent between example themes and should not be altered.
+*/
+#sgcolorbox.colorbox6, #sgcboxOverlay.colorbox6,.colorbox6 #sgcboxWrapper{position:absolute; top:0; left:0; z-index:2147483647; overflow:visible;}
+
+.colorbox6 #sgcboxWrapper {max-width:none;}
+
+#sgcboxOverlay.colorbox6{position:fixed; width:100%; height:100%;}
+
+.colorbox6 #sgcboxMiddleLeft,.colorbox6 #sgcboxBottomLeft{clear:left;}
+
+.colorbox6 #sgcboxContent{position:relative;}
+
+.colorbox6 #sgcboxLoadedContent{overflow:auto; -webkit-overflow-scrolling: touch;}
+
+.colorbox6 #sgcboxTitle{margin:0;}
+
+#sgcboxLoadingOverlay.colorbox6,.colorbox6 #sgcboxLoadingGraphic{position:absolute; top:0; left:0; width:100%; height:100%;}
+
+.colorbox6 #sgcboxPrevious,.colorbox6 #sgcboxNext,.colorbox6 #sgcboxClose,.colorbox6 #sgcboxSlideshow{cursor:pointer;}
+
+.colorbox6 .sgcboxPhoto{float:left; margin:auto; border:0; display:block; max-width:none; -ms-interpolation-mode:bicubic;}
+
+.colorbox6 .sgcboxIframe{width:100%; height:100%; display:block; border:0; padding:0; margin:0;}
+
+#sgcolorbox.colorbox6,.colorbox6 #sgcboxContent,.colorbox6 #sgcboxLoadedContent{box-sizing:content-box; -moz-box-sizing:content-box; -webkit-box-sizing:content-box;}
+
+/*
+	User Style:
+	Change the following styles to modify the appearance of Colorbox. They are
+	ordered & tabbed in a way that represents the nesting of the generated HTML.
+*/
+
+#sgcboxOverlay.colorbox6{opacity: 1; filter: alpha(opacity = 99);}
+
+#sgcboxOverlay.colorbox6 {background:url(../../img/colorbox6/colorbox_overlay.png) repeat 0 0;}
+
+#sgcolorbox.colorbox6{outline:0;}
+
+	.colorbox6 #sgcboxTopLeft{width:25px; height:25px; background:url(../../img/colorbox6/border1.png) no-repeat 0 0;}
+
+	.colorbox6 #sgcboxTopCenter{height:25px; background:url(../../img/colorbox6/border1.png) repeat-x 0 -50px;}
+
+	.colorbox6 #sgcboxTopRight{width:25px; height:25px; background:url(../../img/colorbox6/border1.png) no-repeat -25px 0;}
+
+	.colorbox6 #sgcboxBottomLeft{width:25px; height:25px; background:url(../../img/colorbox6/border1.png) no-repeat 0 -25px;}
+
+	.colorbox6 #sgcboxBottomCenter{height:25px; background:url(../../img/colorbox6/border1.png) repeat-x 0 -75px;}
+
+	.colorbox6 #sgcboxBottomRight{width:25px; height:25px; background:url(../../img/colorbox6/border1.png) no-repeat -25px -25px;}
+
+	.colorbox6 #sgcboxMiddleLeft{width:25px; background:url(../../img/colorbox6/border2.png) repeat-y 0 0;}
+
+	.colorbox6 #sgcboxMiddleRight{width:25px; background:url(../../img/colorbox6/border2.png) repeat-y -25px 0;}
+
+	.colorbox6 #sgcboxContent{background:#fff; overflow:visible;}
+
+		.colorbox6 .sgcboxIframe{background:#fff;}
+
+		.colorbox6 #sgcboxError{padding:50px; border:1px solid #ccc;}
+
+		/*.colorbox6 #sgcboxLoadedContent{margin-bottom:20px;}*/
+
+		.colorbox6 #sgcboxTitle{position:absolute; bottom:0px; left:0; text-align:center; width:100%; color:#999;}
+
+		.colorbox6 #sgcboxCurrent{position:absolute; bottom:0px; left:100px; color:#999;}
+
+		#sgcboxLoadingOverlay.colorbox6{background:#fff url(../../img/colorbox6/loading.gif) no-repeat 5px 5px;}
+
+		/* these elements are buttons, and may need to have additional styles reset to avoid unwanted base styles */
+		.colorbox6 #sgcboxPrevious,.colorbox6 #sgcboxNext,.colorbox6 #sgcboxSlideshow,.colorbox6 #sgcboxClose {border:0; padding:0; margin:0; overflow:visible; width:auto; background:none; }
+
+
+		/* avoid outlines on :active (mouseclick), but preserve outlines on :focus (tabbed navigating) */
+
+		.colorbox6 #sgcboxPrevious:active,.colorbox6 #sgcboxNext:active,.colorbox6 #sgcboxSlideshow:active,.colorbox6 #sgcboxClose:active {outline:0;}
+
+		.colorbox6 #sgcboxSlideshow{position:absolute; bottom:0px; right:42px; color:#444;}
+
+		.colorbox6 #sgcboxPrevious{position:absolute; bottom:0px; left:0; color:#444;}
+
+		.colorbox6 #sgcboxNext{position:absolute; bottom:0px; left:63px; color:#444;}
+
+		.colorbox6 #sgcboxClose{
+			position:absolute; 
+			top:-28px;
+			right:-26px;
+			display:block;
+			background:url(../../img/colorbox6/colorbox_sprite.png) no-repeat 2px 0;
+			text-indent: -9999px;
+			width:37px;
+			height:37px;
+		}
+
+		.colorbox6 #sgcboxClose:hover {
+			background-position: 2px 0px !important;
+		}
+/*
+  The following fixes a problem where IE7 and IE8 replace a PNG's alpha transparency with a black fill
+  when an alpha filter (opacity change) is set on the element or ancestor element.  This style is not applied to or needed in IE9.
+  See: http://jacklmoore.com/notes/ie-transparency-problems/
+*/
+
+
+.colorbox6 .sgcboxIE #sgcboxTopLeft,
+
+.colorbox6 .sgcboxIE #sgcboxTopCenter,
+
+.colorbox6 .sgcboxIE #sgcboxTopRight,
+
+.colorbox6 .sgcboxIE #sgcboxBottomLeft,
+
+.colorbox6 .sgcboxIE #sgcboxBottomCenter,
+
+.colorbox6 .sgcboxIE #sgcboxBottomRight,
+
+.colorbox6 .sgcboxIE #sgcboxMiddleLeft,
+
+.colorbox6 .sgcboxIE #sgcboxMiddleRight {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#00FFFFFF,endColorstr=#00FFFFFF);
+
+}

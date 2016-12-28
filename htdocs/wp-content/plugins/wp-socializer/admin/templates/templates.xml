@@ -1,0 +1,623 @@
+<items>
+	
+	<item name="Simple template 2 - Compact" image="/images/template_2_compact.png" desc="hhhhjhjhjh" author="Aakash Chakravarthy" version="1.0" url="http://www.aakashweb.com">
+		<settings>wpsr_retweet_type==compact;;
+		wpsr_retweet_service==twitter;;
+		wpsr_facebook_btstyle==button_count;;
+		wpsr_facebook_showfaces==0;;
+		wpsr_facebook_width==90;;
+		
+		wpsr_template[1][inhome]==0;;
+		wpsr_template[1][insingle]==1;;
+		wpsr_template[1][inpage]==1;;
+		wpsr_template[1][incategory]==0;;
+		wpsr_template[1][intag]==0;;
+		wpsr_template[1][indate]==0;;
+		wpsr_template[1][inauthor]==0;;
+		wpsr_template[1][insearch]==0;;
+		wpsr_template[1][inexcerpt]==0;;
+		wpsr_template[1][infeed]==0;;
+		wpsr_template[1][abvcontent]==1;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==1;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==1;;
+		wpsr_template[2][intag]==1;;
+		wpsr_template[2][indate]==1;;
+		wpsr_template[2][inauthor]==1;;
+		wpsr_template[2][insearch]==1;;
+		wpsr_template[2][inexcerpt]==1;;
+		wpsr_template[2][infeed]==1;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+				
+		wpsr_socialbt_loadcss==1;;
+		</settings>
+		<template1>
+			<![CDATA[
+<div class="wp-socializer-buttons clearfix">
+	<span class="wpsr-btn">{facebook-like}</span>
+	<span class="wpsr-btn">{retweet-bt}</span>
+	<span class="wpsr-btn">{plusone-medium}</span>
+	<span class="wpsr-btn">{linkedin-right}</span>
+	<span class="wpsr-btn">{pinterest-horizontal}</span>
+</div>
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h3>Share and Enjoy</h3>
+{social-bts-16px}
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Simple template 2 - Large - Inverted" image="/images/template_2_large_inv.png" desc="" author="Aakash Chakravarthy" version="1.0" url="http://www.aakashweb.com">
+		<settings>wpsr_retweet_type==normal;;
+		wpsr_retweet_service==twitter;;
+		wpsr_facebook_btstyle==box_count;;
+		wpsr_facebook_showfaces==0;;
+		wpsr_facebook_width==55;;
+		
+		wpsr_template[1][inhome]==1;;
+		wpsr_template[1][insingle]==1;;
+		wpsr_template[1][inpage]==1;;
+		wpsr_template[1][incategory]==1;;
+		wpsr_template[1][intag]==1;;
+		wpsr_template[1][indate]==1;;
+		wpsr_template[1][inauthor]==1;;
+		wpsr_template[1][insearch]==1;;
+		wpsr_template[1][inexcerpt]==1;;
+		wpsr_template[1][infeed]==1;;
+		wpsr_template[1][abvcontent]==1;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==0;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==0;;
+		wpsr_template[2][intag]==0;;
+		wpsr_template[2][indate]==0;;
+		wpsr_template[2][inauthor]==0;;
+		wpsr_template[2][insearch]==0;;
+		wpsr_template[2][inexcerpt]==0;;
+		wpsr_template[2][infeed]==0;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+				
+		wpsr_socialbt_loadcss==1;;
+		</settings>
+		<template1>
+			<![CDATA[
+{social-bts-32px}
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h3>Share and Enjoy</h3>
+<div class="wp-socializer-buttons clearfix">
+	<span class="wpsr-btn">{facebook-like}</span>
+	<span class="wpsr-btn">{retweet-bt}</span>
+	<span class="wpsr-btn">{plusone-tall}</span>
+	<span class="wpsr-btn">{linkedin-top}</span>
+	<span class="wpsr-btn">{pinterest-vertical}</span>
+</div>
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Simple template - Compact" image="/images/template_compact.png" desc="" author="Aakash Chakravarthy" version="2.0" url="http://www.aakashweb.com">
+		<settings>wpsr_retweet_type==compact;;
+		wpsr_retweet_service==twitter;;
+		wpsr_facebook_btstyle==button_count;;
+		wpsr_facebook_showfaces==0;;
+		wpsr_facebook_width==90;;
+		
+		wpsr_template[1][inhome]==0;;
+		wpsr_template[1][insingle]==1;;
+		wpsr_template[1][inpage]==1;;
+		wpsr_template[1][incategory]==0;;
+		wpsr_template[1][intag]==0;;
+		wpsr_template[1][indate]==0;;
+		wpsr_template[1][inauthor]==0;;
+		wpsr_template[1][insearch]==0;;
+		wpsr_template[1][inexcerpt]==0;;
+		wpsr_template[1][infeed]==0;;
+		wpsr_template[1][abvcontent]==1;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==1;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==1;;
+		wpsr_template[2][intag]==1;;
+		wpsr_template[2][indate]==1;;
+		wpsr_template[2][inauthor]==1;;
+		wpsr_template[2][insearch]==1;;
+		wpsr_template[2][inexcerpt]==1;;
+		wpsr_template[2][infeed]==1;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+				
+		wpsr_socialbt_loadcss==1;;
+		</settings>
+		<template1>
+			<![CDATA[
+<div class="wp-socializer-buttons clearfix">
+	<span class="wpsr-btn">{facebook-like}</span>
+	<span class="wpsr-btn">{retweet-bt}</span>
+	<span class="wpsr-btn">{plusone-medium}</span>
+	<span class="wpsr-btn">{linkedin-right}</span>
+	<span class="wpsr-btn">{stumbleupon-1}</span>
+</div>
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h3>Share and Enjoy</h3>
+{social-bts-16px}
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Simple template - Large" image="/images/template_large.png" desc="" author="Aakash Chakravarthy" version="2.0" url="http://www.aakashweb.com">
+		<settings>wpsr_retweet_type==normal;;
+		wpsr_retweet_service==twitter;;
+		wpsr_facebook_btstyle==box_count;;
+		wpsr_facebook_showfaces==0;;
+		wpsr_facebook_width==55;;
+		
+		wpsr_template[1][inhome]==0;;
+		wpsr_template[1][insingle]==1;;
+		wpsr_template[1][inpage]==1;;
+		wpsr_template[1][incategory]==0;;
+		wpsr_template[1][intag]==0;;
+		wpsr_template[1][indate]==0;;
+		wpsr_template[1][inauthor]==0;;
+		wpsr_template[1][insearch]==0;;
+		wpsr_template[1][inexcerpt]==0;;
+		wpsr_template[1][infeed]==0;;
+		wpsr_template[1][abvcontent]==1;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==1;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==1;;
+		wpsr_template[2][intag]==1;;
+		wpsr_template[2][indate]==1;;
+		wpsr_template[2][inauthor]==1;;
+		wpsr_template[2][insearch]==1;;
+		wpsr_template[2][inexcerpt]==1;;
+		wpsr_template[2][infeed]==1;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+		
+		wpsr_socialbt_loadcss==1;;
+		</settings>
+		<template1>
+			<![CDATA[
+<div class="wp-socializer-buttons clearfix">
+	<span class="wpsr-btn">{facebook-like}</span>
+	<span class="wpsr-btn">{retweet-bt}</span>
+	<span class="wpsr-btn">{plusone-tall}</span>
+	<span class="wpsr-btn">{stumbleupon-5}</span>
+	<span class="wpsr-btn">{reddit-2}</span>
+	<span class="wpsr-btn">{linkedin-top}</span>
+</div>
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h3>Share and Enjoy</h3>
+{social-bts-32px}
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Simple template - Compact - Inverted" image="/images/template_compact_inv.png" desc="" author="Aakash Chakravarthy" version="2.1" url="http://www.aakashweb.com">
+		<settings>wpsr_retweet_type==compact;;
+		wpsr_retweet_service==twitter;;
+		wpsr_facebook_btstyle==button_count;;
+		wpsr_facebook_showfaces==0;;
+		wpsr_facebook_width==90;;
+		
+		wpsr_template[1][inhome]==1;;
+		wpsr_template[1][insingle]==1;;
+		wpsr_template[1][inpage]==1;;
+		wpsr_template[1][incategory]==1;;
+		wpsr_template[1][intag]==1;;
+		wpsr_template[1][indate]==1;;
+		wpsr_template[1][inauthor]==1;;
+		wpsr_template[1][insearch]==1;;
+		wpsr_template[1][inexcerpt]==1;;
+		wpsr_template[1][infeed]==1;;
+		wpsr_template[1][abvcontent]==1;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==0;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==0;;
+		wpsr_template[2][intag]==0;;
+		wpsr_template[2][indate]==0;;
+		wpsr_template[2][inauthor]==0;;
+		wpsr_template[2][insearch]==0;;
+		wpsr_template[2][inexcerpt]==0;;
+		wpsr_template[2][infeed]==0;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+		
+		wpsr_socialbt_loadcss==1;;
+		</settings>
+		<template1>
+			<![CDATA[
+{social-bts-16px}
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h3>Share and Enjoy</h3>
+<div class="wp-socializer-buttons clearfix">
+	<span class="wpsr-btn">{facebook-like}</span>
+	<span class="wpsr-btn">{retweet-bt}</span>
+	<span class="wpsr-btn">{plusone-medium}</span>
+	<span class="wpsr-btn">{linkedin-right}</span>
+	<span class="wpsr-btn">{stumbleupon-1}</span>
+</div>
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Simple template - Large - Inverted" image="/images/template_large_inv.png" desc="" author="Aakash Chakravarthy" version="2.1" url="http://www.aakashweb.com">
+		<settings>wpsr_retweet_type==normal;;
+		wpsr_retweet_service==twitter;;
+		wpsr_facebook_btstyle==box_count;;
+		wpsr_facebook_showfaces==0;;
+		wpsr_facebook_width==55;;
+		
+		wpsr_template[1][inhome]==1;;
+		wpsr_template[1][insingle]==1;;
+		wpsr_template[1][inpage]==1;;
+		wpsr_template[1][incategory]==1;;
+		wpsr_template[1][intag]==1;;
+		wpsr_template[1][indate]==1;;
+		wpsr_template[1][inauthor]==1;;
+		wpsr_template[1][insearch]==1;;
+		wpsr_template[1][inexcerpt]==1;;
+		wpsr_template[1][infeed]==1;;
+		wpsr_template[1][abvcontent]==1;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==0;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==0;;
+		wpsr_template[2][intag]==0;;
+		wpsr_template[2][indate]==0;;
+		wpsr_template[2][inauthor]==0;;
+		wpsr_template[2][insearch]==0;;
+		wpsr_template[2][inexcerpt]==0;;
+		wpsr_template[2][infeed]==0;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+		
+		wpsr_socialbt_loadcss==1;;
+		</settings>
+		
+		<template1>
+			<![CDATA[
+{social-bts-32px}
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h3>Share and Enjoy</h3>
+<div class="wp-socializer-buttons clearfix">
+	<span class="wpsr-btn">{facebook-like}</span>
+	<span class="wpsr-btn">{retweet-bt}</span>
+	<span class="wpsr-btn">{plusone-tall}</span>
+	<span class="wpsr-btn">{stumbleupon-5}</span>
+	<span class="wpsr-btn">{reddit-2}</span>
+	<span class="wpsr-btn">{linkedin-top}</span>
+</div>
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Addthis template - Compact" image="/images/template_addthis_compact.png" desc="" author="Aakash Chakravarthy" version="1.6" url="http://www.aakashweb.com">
+		<settings>wpsr_addthis_sharecount==grouped;;
+		
+		wpsr_template[1][inhome]==0;;
+		wpsr_template[1][insingle]==1;;
+		wpsr_template[1][inpage]==1;;
+		wpsr_template[1][incategory]==0;;
+		wpsr_template[1][intag]==0;;
+		wpsr_template[1][indate]==0;;
+		wpsr_template[1][inauthor]==0;;
+		wpsr_template[1][insearch]==0;;
+		wpsr_template[1][inexcerpt]==0;;
+		wpsr_template[1][infeed]==0;;
+		wpsr_template[1][abvcontent]==1;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==1;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==1;;
+		wpsr_template[2][intag]==1;;
+		wpsr_template[2][indate]==1;;
+		wpsr_template[2][inauthor]==1;;
+		wpsr_template[2][insearch]==1;;
+		wpsr_template[2][inexcerpt]==1;;
+		wpsr_template[2][infeed]==0;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+		
+		wpsr_socialbt_loadcss==1;;
+		</settings>
+		
+		<template1>
+			<![CDATA[
+<div class="buttons-wrap">{addthis-tb-16px}</div>
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h3>Share and Enjoy</h3>
+<div class="buttons-wrap">{addthis-sc}</div>
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Addthis template - Large" image="/images/template_addthis_large.png" desc="" author="Aakash Chakravarthy" version="1.6" url="http://www.aakashweb.com">
+		<settings>wpsr_addthis_sharecount==grouped;;
+
+		wpsr_template[1][inhome]==0;;
+		wpsr_template[1][insingle]==1;;
+		wpsr_template[1][inpage]==1;;
+		wpsr_template[1][incategory]==0;;
+		wpsr_template[1][intag]==0;;
+		wpsr_template[1][indate]==0;;
+		wpsr_template[1][inauthor]==0;;
+		wpsr_template[1][insearch]==0;;
+		wpsr_template[1][inexcerpt]==0;;
+		wpsr_template[1][infeed]==0;;
+		wpsr_template[1][abvcontent]==1;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==1;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==1;;
+		wpsr_template[2][intag]==1;;
+		wpsr_template[2][indate]==1;;
+		wpsr_template[2][inauthor]==1;;
+		wpsr_template[2][insearch]==1;;
+		wpsr_template[2][inexcerpt]==1;;
+		wpsr_template[2][infeed]==0;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+		
+		wpsr_socialbt_loadcss==1;;
+		</settings>
+		
+		<template1>
+			<![CDATA[
+<div class="buttons-wrap">{addthis-tb-32px}</div>
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h3>Share and Enjoy</h3>
+<div class="buttons-wrap">{addthis-sc}</div>
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Sharethis template - Compact" image="/images/template_sharethis_compact.png" desc="" author="Aakash Chakravarthy" version="1.6" url="http://www.aakashweb.com">
+		<settings>
+		wpsr_template[1][inhome]==0;;
+		wpsr_template[1][insingle]==1;;
+		wpsr_template[1][inpage]==1;;
+		wpsr_template[1][incategory]==0;;
+		wpsr_template[1][intag]==0;;
+		wpsr_template[1][indate]==0;;
+		wpsr_template[1][inauthor]==0;;
+		wpsr_template[1][insearch]==0;;
+		wpsr_template[1][inexcerpt]==0;;
+		wpsr_template[1][infeed]==0;;
+		wpsr_template[1][abvcontent]==1;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==1;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==1;;
+		wpsr_template[2][intag]==1;;
+		wpsr_template[2][indate]==1;;
+		wpsr_template[2][inauthor]==1;;
+		wpsr_template[2][insearch]==1;;
+		wpsr_template[2][inexcerpt]==1;;
+		wpsr_template[2][infeed]==0;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+		
+		wpsr_socialbt_loadcss==1;;
+		</settings>
+		
+		<template1>
+			<![CDATA[
+<p>{sharethis-regular}</p>
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h3>Share and Enjoy</h3>
+<p>{sharethis-hcount}</p>
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Sharethis template - Large" image="/images/template_sharethis_large.png" desc="" author="Aakash Chakravarthy" version="1.6" url="http://www.aakashweb.com">
+	
+		<settings>
+		wpsr_template[1][inhome]==1;;
+		wpsr_template[1][insingle]==1;;
+		wpsr_template[1][inpage]==1;;
+		wpsr_template[1][incategory]==1;;
+		wpsr_template[1][intag]==1;;
+		wpsr_template[1][indate]==1;;
+		wpsr_template[1][inauthor]==1;;
+		wpsr_template[1][insearch]==1;;
+		wpsr_template[1][inexcerpt]==1;;
+		wpsr_template[1][infeed]==0;;
+		wpsr_template[1][abvcontent]==1;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==0;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==0;;
+		wpsr_template[2][intag]==0;;
+		wpsr_template[2][indate]==0;;
+		wpsr_template[2][inauthor]==0;;
+		wpsr_template[2][insearch]==0;;
+		wpsr_template[2][inexcerpt]==0;;
+		wpsr_template[2][infeed]==0;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+		wpsr_socialbt_loadcss==1;;
+		</settings>
+		
+		<template1>
+			<![CDATA[
+<p>{sharethis-bt}</p>
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h3>Share and Enjoy</h3>
+<p>{sharethis-vcount}</p>
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Social buttons 16px - 1" image="/images/template_socialbts_16px_1.png" desc="" author="Aakash Chakravarthy" version="1.6" url="http://www.aakashweb.com">
+		<settings>wpsr_socialbt_target==1;;
+		wpsr_socialbt_loadcss==1;;
+		wpsr_socialbt_effect==none;;
+		wpsr_socialbt_label==1;;
+		wpsr_socialbt_columns==4;;
+		
+		wpsr_template[1][inhome]==0;;
+		wpsr_template[1][insingle]==0;;
+		wpsr_template[1][inpage]==0;;
+		wpsr_template[1][incategory]==0;;
+		wpsr_template[1][intag]==0;;
+		wpsr_template[1][indate]==0;;
+		wpsr_template[1][inauthor]==0;;
+		wpsr_template[1][insearch]==0;;
+		wpsr_template[1][inexcerpt]==0;;
+		wpsr_template[1][infeed]==0;;
+		wpsr_template[1][abvcontent]==0;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==0;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==0;;
+		wpsr_template[2][intag]==0;;
+		wpsr_template[2][indate]==0;;
+		wpsr_template[2][inauthor]==0;;
+		wpsr_template[2][insearch]==0;;
+		wpsr_template[2][inexcerpt]==0;;
+		wpsr_template[2][infeed]==0;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+		</settings>
+		
+		<template1>
+			<![CDATA[
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h2>Share this article</h2>
+{social-bts-16px}
+			]]>
+		</template2>
+
+	</item>
+	
+	<item name="Social buttons 32px - 1" image="/images/template_socialbts_32px_1.png" desc="" author="Aakash Chakravarthy" version="1.6" url="http://www.aakashweb.com">
+		<settings>wpsr_socialbt_target==1;;
+		wpsr_socialbt_loadcss==1;;
+		wpsr_socialbt_effect==none;;
+		wpsr_socialbt_label==1;;
+		wpsr_socialbt_columns==4;;
+		
+		wpsr_template[1][inhome]==0;;
+		wpsr_template[1][insingle]==0;;
+		wpsr_template[1][inpage]==0;;
+		wpsr_template[1][incategory]==0;;
+		wpsr_template[1][intag]==0;;
+		wpsr_template[1][indate]==0;;
+		wpsr_template[1][inauthor]==0;;
+		wpsr_template[1][insearch]==0;;
+		wpsr_template[1][inexcerpt]==0;;
+		wpsr_template[1][infeed]==0;;
+		wpsr_template[1][abvcontent]==0;;
+		wpsr_template[1][blwcontent]==0;;
+		
+		wpsr_template[2][inhome]==0;;
+		wpsr_template[2][insingle]==1;;
+		wpsr_template[2][inpage]==1;;
+		wpsr_template[2][incategory]==0;;
+		wpsr_template[2][intag]==0;;
+		wpsr_template[2][indate]==0;;
+		wpsr_template[2][inauthor]==0;;
+		wpsr_template[2][insearch]==0;;
+		wpsr_template[2][inexcerpt]==0;;
+		wpsr_template[2][infeed]==0;;
+		wpsr_template[2][abvcontent]==0;;
+		wpsr_template[2][blwcontent]==1;;
+		</settings>
+		
+		<template1>
+			<![CDATA[
+			]]>
+		</template1>
+		
+		<template2>
+			<![CDATA[
+<h2>Share this article</h2>
+{social-bts-32px}
+			]]>
+		</template2>
+
+	</item>
+</items>

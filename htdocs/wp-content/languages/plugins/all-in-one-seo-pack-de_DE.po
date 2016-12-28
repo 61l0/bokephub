@@ -1,0 +1,3263 @@
+# Translation of Plugins - All in One SEO Pack - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - All in One SEO Pack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-11-12 17:05:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - All in One SEO Pack - Stable (latest release)\n"
+
+#: aioseop_class.php:3062
+msgid "Welcome to version %s. Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Willkommen zur %s Version. Danke dass du die aktuellste und beste All in One SEO Pack Pro benutzt! Bitte überprüfe deine Einstellungen, da wir stets neue Features für dich hinzufügen!"
+
+#: aioseop_class.php:104 aioseop_class.php:114 aioseop_class.php:126
+#: aioseop_class.php:167 aioseop_class.php:3196
+msgid "%current_date% - The current date (localized)"
+msgstr "%current_date% - Das aktuelle Datum (lokalisiert)"
+
+#: aioseop_class.php:80
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation.  This will help to prevent duplicate content penalties by Google"
+msgstr "Diese Option wird automatisch Cononical URLs für deine komplette WordPress Installation generieren. Dies wird dazu beitragen, doppelte Inhaltsstrafen von Google zu verhindern"
+
+#: admin/display/general-metaboxes.php:42
+msgid "CLICK HERE"
+msgstr "KLICKE HIER"
+
+#: modules/aioseop_sitemap.php:989
+msgid "Removed empty file %s."
+msgstr "Entferne leere Datei %s."
+
+#: inc/commonstrings.php:45
+msgid "This displays an SEO News widget on the dashboard."
+msgstr "Dies zeigt SEO Nachrichten im Widget im Dashboard an."
+
+#: inc/commonstrings.php:42
+msgid "Show SEO News"
+msgstr "Zeig mir SEO Neuigkeiten"
+
+#: modules/aioseop_sitemap.php:622
+msgid " and changes are automatically submitted to search engines"
+msgstr "und Veränderungen werden automatisch zu Suchmaschinen eingereicht"
+
+#: modules/aioseop_sitemap.php:620
+msgid " Your sitemap has been created"
+msgstr "Deine Sitemap wurde erstellt."
+
+#: modules/aioseop_sitemap.php:619
+msgid "Click here to %s."
+msgstr "Klick hier um %s."
+
+#: modules/aioseop_opengraph.php:85
+msgid "Enter your Facebook Admin ID here. You can look up your Facebook ID using this tool http://findmyfbid.com/"
+msgstr "Füge deine Facebook Admin ID hier ein. Du kannst deine Facebook ID mit diesem Tool nachschauen http://findmyfbid.com/"
+
+#: admin/display/welcome-content.php:65
+msgid "Continue to the General Settings"
+msgstr "Weiter zu den Allgemeinen Einstellungen"
+
+#: admin/display/dashboard_widget.php:25
+msgid "SEO News"
+msgstr "SEO Neuigkeiten"
+
+#: admin/display/welcome.php:118
+msgid "Credits"
+msgstr "Authoren"
+
+#: admin/display/welcome.php:114
+msgid "What&#8217;s New"
+msgstr "Was ist neu"
+
+#: admin/display/welcome.php:109
+msgid "All in One SEO Pack %s contains new features, bug fixes, increased security, and tons of under the hood performance improvements."
+msgstr "All in One SEO Pack %s enthält neue Features, Bug-Fixes, erhöhte Security und viele Performance-Verbesserungen unter der Haube."
+
+#: admin/display/welcome.php:107
+msgid "Welcome to All in One SEO Pack %s"
+msgstr "Wilkommen zum All in One SEO Pack %s"
+
+#: admin/display/welcome.php:51 admin/display/welcome.php:52
+msgid "Welcome to All in One SEO Pack"
+msgstr "Wilkommen zum All in One SEO Pack"
+
+#: admin/display/welcome-content.php:58
+msgid "You can control SEO on categories, tags and custom taxonomies with the Pro version"
+msgstr "Du kannst die SEO der Kategorien, Tags und Custom Taxonomies mit der Pro Version kontrollieren."
+
+#: admin/display/welcome-content.php:55
+msgid "You can get access to video tutorials about SEO with the Pro version"
+msgstr "Du kannst Zugang zu den Videokursen über SEO mit der Pro-Version bekommen"
+
+#: admin/display/welcome-content.php:52
+msgid "We have complete documentation on every setting and feature"
+msgstr "Wir haben vollständige Dokumentation für alle Einstellungen und Features"
+
+#: admin/display/welcome-content.php:49
+msgid "Did You Know?"
+msgstr "Wusstest Du?"
+
+#: admin/display/welcome-content.php:43
+msgid "Set up Google Analytics"
+msgstr "Stell Google Analytics ein"
+
+#: admin/display/welcome-content.php:40
+msgid "Submit an XML Sitemap to Google"
+msgstr "Eine XML-Sitemap an Google senden"
+
+#: admin/display/welcome-content.php:37
+msgid "Quality guidelines for SEO titles and descriptions"
+msgstr "Erstklassiges Handbuch für SEO Titel und Beschreibungen"
+
+#: admin/display/welcome-content.php:33
+msgid "Tips for good on-page SEO"
+msgstr "Tipps für gute On-Page SEO"
+
+#: admin/display/welcome-content.php:30
+msgid "Beginners Guide for Social Meta module"
+msgstr "Anfänger-Handbuch für das Social Meta Modul"
+
+#: admin/display/welcome-content.php:27
+msgid "Beginners Guide for XML Sitemap module"
+msgstr "Anfänger-Handbuch für das XML Sitemap Modul"
+
+#: admin/display/welcome-content.php:24
+msgid "Beginners Guide for All in One SEO Pack"
+msgstr "Anfänger-Handbuch für All in One SEO Pack"
+
+#: admin/display/welcome-content.php:21
+msgid "Get Started"
+msgstr "Erste Schritte"
+
+#: admin/display/welcome-content.php:17
+msgid "Translate"
+msgstr "Übersetze"
+
+#: admin/display/welcome-content.php:13
+msgid "Help translate All in One SEO Pack into your language."
+msgstr "Helfe All in One SEO Pack in Deine Sprache zu Übersetzen."
+
+#: admin/display/welcome-content.php:11
+msgid "Upgrade"
+msgstr "Aktualisierung"
+
+#: admin/display/welcome-content.php:7
+msgid "Upgrade to All in One SEO Pack Pro to access priority support and premium features."
+msgstr "Aktualisiere zu All in One SEO Pack Pro um Zugang zu bevorzugter Hilfe und Premium-Features zu bekommen."
+
+#: admin/display/welcome-content.php:6
+msgid "There are many ways you can help support All in One SEO Pack."
+msgstr "Es gibt viele Möglichkeiten wie du All in One SEO Pack unterstützen kannst."
+
+#: admin/display/welcome-content.php:5
+msgid "Support All in One SEO Pack"
+msgstr "Unterstütze All in One SEO Pack"
+
+#: admin/display/credits-content.php:61
+msgid "Translation contributors and translation editors"
+msgstr "Übersetzungs-Contributors und Redakteure"
+
+#: admin/display/credits-content.php:40
+msgid "Want to see your name and picture here as a community developer? Open a new issue on Github to report a bug or request a feature or find an issue and submit code!"
+msgstr "Möchtest du deinen Namen und Foto hier als Community Developer sehen? Öffne ein neues Problem in Github um einen Bug zu melden oder Featureantrag zu stellen oder finde ein Problem und Code einzureichen!"
+
+#: admin/display/credits-content.php:38
+msgid "Recent Rockstar Contributors"
+msgstr "Neueste Rockstar-Contributors"
+
+#: admin/display/credits-content.php:24 admin/display/credits-content.php:29
+#: admin/display/credits-content.php:34
+msgid "Development Team"
+msgstr "Entwicklungsteam"
+
+#: admin/display/credits-content.php:19
+msgid "Core Team"
+msgstr "Core Team"
+
+#: admin/display/credits-content.php:15
+msgid "Project Manager"
+msgstr "Projektmanager"
+
+#: admin/display/credits-content.php:10
+msgid "Project Lead"
+msgstr "Projektleiter"
+
+#: admin/display/credits-content.php:5
+msgid "Project Leaders"
+msgstr "Die Projektleiter"
+
+#: admin/display/credits-content.php:3
+msgid "All in One SEO Pack is created by a worldwide network of friendly folks like these."
+msgstr "All in One SEO Pack wurde von einem weltweiten Netzwerk von freundlichen Menschen wie diesen geschaffen."
+
+#: modules/aioseop_opengraph.php:372
+msgid "Custom Twitter Image"
+msgstr "Benutzerdefiniertes Twitter-Bild"
+
+#: modules/aioseop_opengraph.php:114
+msgid "This option lets you upload an image to use as the Twitter image for this Page or Post."
+msgstr "Diese Option erlaubt dir ein Bild als Twitter-Bild für diese Seite oder Beitrag hochzuladen."
+
+#: aioseop_class.php:865
+msgid "Redirect Attachments to Post Parent:"
+msgstr "Leite Anhänge zum übergeordneten Beitrag:"
+
+#: aioseop_class.php:229
+msgid "Redirect attachment pages to post parent."
+msgstr "Leite Anhangsseiten zum übergeordneten Beitrag weiter."
+
+#: modules/aioseop_sitemap.php:53
+msgid "Dynamically creates the XML sitemap instead of using a static file."
+msgstr "Erstellt die XML Sitemap dynamisch anstatt eine statische Datei zu benutzen."
+
+#: modules/aioseop_importer_exporter.php:551
+msgid "<b>Security warning:</b> Your file looks compromised. Please check the file for any script-injection."
+msgstr "<b>Sicherheitswarnung:</b> Deine Datei ist kompromittiert. Bitte überprüfe die Datei auf Script-Injektion."
+
+#. translators: %1$s expands to the number of languages All in One SEO Pack has
+#. been translated into. $2%s to the percentage translated of the current
+#. language, $3%s to the language name, %4$s and %5$s to anchor tags with link
+#. to translation page at translate.wordpress.org
+#: admin/display/general-metaboxes.php:79
+msgid "All in One SEO Pack has been translated into %1$s languages, but currently the %3$s translation is only %2$s percent complete. %4$s Click here %5$s to help get it to 100 percent."
+msgstr "All in One SEO Pack wurde in %1$s Sprachen übersetzt, aber zur Zeit ist die %3$s Übersetzung nur %2$s Prozent vollständigt. %4$s Klicke hier %5$s um uns zu helfen diese auf 100 Prozent zu vervollständigen."
+
+#: admin/meta_import.php:81 admin/meta_import.php:87
+msgid "Sorry, you can't do that. Please choose a platform and then click Analyze or Convert."
+msgstr "Das geht leider nicht. Bitte wähle eine Plattform und klicke Analysieren oder Konvertieren."
+
+#: aioseop_class.php:3079
+msgid "New in 2.4: Improved support for taxonomies, Woocommerce and massive performance improvements under the hood! Please review your settings on each options page!"
+msgstr "Neu in 2.4: Verbesserter Support für Taxonomies, Wocommerce und massive Performance-Verbesserungen unter der Haube! Bitte überprüfe deine Einstellungen auf allen Optionsseiten!"
+
+#: aioseop_class.php:431
+msgid "Capitalize Tag and Search Titles:"
+msgstr "Suchseiten-Titel und Schlagwortseiten-Titel großschreiben:"
+
+#: admin/meta_import.php:201
+msgid "Convert"
+msgstr "Konvertieren"
+
+#: admin/meta_import.php:200
+msgid "Analyze"
+msgstr "Analysieren"
+
+#: admin/meta_import.php:189
+msgid "Themes"
+msgstr "Themes"
+
+#: admin/meta_import.php:181
+msgid "Plugins"
+msgstr "Plugins"
+
+#: admin/meta_import.php:179
+msgid "Choose platform:"
+msgstr "Plattform wählen:"
+
+#: admin/meta_import.php:177
+msgid "Import SEO data from:"
+msgstr "SEO-Daten importieren von:"
+
+#: admin/meta_import.php:167
+msgid "Before performing an import, we strongly recommend that you make a backup of your site. We use and recommend %s BackupBuddy %s for backups."
+msgstr "Vor der Durchführung eines Imports empfehlen wir dringen, dass du ein Backup deiner Seite machst. Wir verwenden und empfehlen %s BackupBuddy %s für Backups."
+
+#: admin/meta_import.php:163
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "Klicke auf „Konvertieren“, um den Import durchzuführen. Nachdem der Import abgeschlossen ist, wirst Du darüber informiert, wie viele Datensätze importiert wurden und wie viele ignoriert werden mussten, basierend auf den obigen Kriterien."
+
+#: admin/meta_import.php:159
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in All in One SEO Pack, we will not import data from another plugin/theme."
+msgstr "Einige Plugins oder Themes haben möglicherweise andere Datenpunkte oder speichern Daten auf nicht stan­dar­di­sie­rte Weise. Falls diese Daten nicht importiert werden können, verbleiben sie unverändert in deiner Datenbank. SEO-kompatible Daten werden für dich zur Überprüfung angezeigt. Falls ein Beitrag oder eine Seite bereits SEO-Daten im All in One SEO Pack besitzt, werden diese Daten nicht von einem anderen Plugin/Theme importiert."
+
+#: admin/meta_import.php:159
+msgid "Please Note: "
+msgstr "Bitte beachte:"
+
+#: admin/meta_import.php:155
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into All in One SEO Pack, along with the number of records that will be imported."
+msgstr "Klicke auf „Analysieren“, um die Liste der SEO-Daten zu sehen, die in All in One SEO Pack importiert werden können, zusammen mit der Anzahl der zu importierenden Datensätze."
+
+#: admin/meta_import.php:151
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "Wähle aus welchem Plugin oder Theme du SEO-Daten importieren möchtest im Auswahlmenü."
+
+#: admin/meta_import.php:148
+msgid "Import SEO Settings"
+msgstr "Importiere SEO-Einstellungen"
+
+#: admin/meta_import.php:119
+msgid "Conversion Results"
+msgstr "Kon­ver­tie­rungsergebnisse"
+
+#: admin/meta_import.php:109
+msgid "Compatible data:"
+msgstr "Kompatible Daten:"
+
+#: admin/meta_import.php:105
+msgid "<p>Analyzing records in a %s to %s conversion&hellip;"
+msgstr "<p>Einträge analysieren in einer %s zu %s Umrechnung&hellip;"
+
+#: admin/meta_import.php:100 admin/meta_import.php:123
+msgid "Sorry, something went wrong. Please try again"
+msgstr "Entschuldigung, etwas ist schief gelaufen. Bitte versuche es erneut"
+
+#: admin/meta_import.php:96
+msgid "Analysis Results"
+msgstr "Analyseergebnisse"
+
+#: admin/meta_import.php:64
+msgid "SEO Data Import"
+msgstr "SEO-Datenimport"
+
+#: admin/meta_import.php:64
+msgid "Import SEO Data"
+msgstr "Importiere SEO-Einstellungen"
+
+#: admin/meta_import.php:37
+msgid "All in One SEO has been deactivated"
+msgstr "All in One SEO wurde deaktiviert"
+
+#: admin/meta_import.php:32
+msgid "The plugin All-In-One-SEO has been detected. Do you want to %simport its settings%s?"
+msgstr "Das Plugin All-In-One-SEO wurde entdeckt. Möchtest du die %sEinstellungen importieren%s?"
+
+#: admin/meta_import.php:28
+msgid "The plugin Yoast SEO has been detected. Do you want to %simport its settings%s into All in One SEO Pack?"
+msgstr "Das Plugin Yoast SEO wurde entdeckt. Möchtest du dessen Einstellungen in den All in One SEO Pack %simportieren%s?"
+
+#: modules/aioseop_feature_manager.php:75
+msgid "Pro Version Only"
+msgstr "Nur in der Pro Version"
+
+#: aioseop_class.php:3697
+msgid "%s Upgrade%s to All in One SEO Pack Pro for increased SEO compatibility for your products."
+msgstr "%s Upgrade%s auf All in One SEO Pack Pro für höhere SEO-Kompatibilität deiner Produkte."
+
+#: aioseop_class.php:3696
+msgid "We've detected you're running WooCommerce."
+msgstr "Wir haben festgestellt, dass du WooCommerce benutzt."
+
+#. Description of the plugin/theme
+msgid "Out-of-the-box SEO for your WordPress blog. Features like XML Sitemaps, SEO for custom post types, SEO for blogs or business sites, SEO for ecommerce sites, and much more. Almost 30 million downloads since 2007."
+msgstr "SEO für deinen WordPress-Blog. Features wie XML-Sitemaps, SEO für besondere Post-Types, SEO für Blogs oder geschäftliche Sites, SEO für eCommerce-Sites und vieles mehr. Fast 30 Millionen Downloads seit 2007."
+
+#: modules/aioseop_performance.php:318
+msgid "Check For Updates"
+msgstr "Nach Updates prüfen"
+
+#: modules/aioseop_performance.php:294
+msgid "%s has checked for updates."
+msgstr "%s hat geprüft ob Updates vorhanden sind."
+
+#: modules/aioseop_feature_manager.php:68
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Erstelle und manage deine Video-Sitemap mit diesem Feature, und stelle deine Video-Sitemap bei Google, Bing/Yahoo und Ask.com ein."
+
+#: modules/aioseop_feature_manager.php:63
+msgid "Image SEO"
+msgstr "SEO für Bilder"
+
+#: modules/aioseop_bad_robots.php:38
+msgid "Use Custom Blocklists"
+msgstr "Angepasste Blocklists verwenden"
+
+#: modules/aioseop_bad_robots.php:37
+msgid "Block Bad Bots using .htaccess"
+msgstr "Bad Bots via .htaccess blocken"
+
+#: modules/aioseop_bad_robots.php:35
+msgid "Block Referral Spam using HTTP"
+msgstr "Referral-Spam via HTTP blocken"
+
+#: modules/aioseop_bad_robots.php:34
+msgid "Block Bad Bots using HTTP"
+msgstr "Bad Bots via HTTP blocken"
+
+#: modules/aioseop_bad_robots.php:24
+msgid "Block Referral Spam using HTTP."
+msgstr "Referral-Spam via HTTP blocken."
+
+#: inc/commonstrings.php:39
+msgid "Manage Licenses"
+msgstr "Lizenzen verwalten"
+
+#: inc/commonstrings.php:38
+msgid "Notice: "
+msgstr "Hinweis:"
+
+#: inc/commonstrings.php:37
+msgid " Need a license key?"
+msgstr "Wird ein Lizenzschlüssel benötigt?"
+
+#: inc/commonstrings.php:36
+msgid "License Key is not set yet or invalid. "
+msgstr "Lizenzschlüssel ist nicht vorhanden oder ungültig."
+
+#: inc/commonstrings.php:35
+msgid "Purchase one now"
+msgstr "Jetzt kaufen"
+
+#: inc/commonstrings.php:32
+msgid "Finished scanning posts"
+msgstr "Scannen der Posts beendet"
+
+#: inc/commonstrings.php:29
+msgid "Scan"
+msgstr "Scan"
+
+#: inc/commonstrings.php:28
+msgid "You do not have access to this page; try logging in as an administrator."
+msgstr "Du hast keinen Zugriff auf diese Seite. Versuche, dich als ein Administrator anzumelden."
+
+#: inc/commonstrings.php:27
+msgid "Enable this option to only allow access to your sitemap by site administrators and major search engines."
+msgstr "Selektiere diese Option, um den Zugriff auf deine Sitemap auf Systemadministratoren und wichtige Suchmaschinen zu begrenzen."
+
+#: inc/commonstrings.php:26
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "Falls selektiert, werden nur Posts mit Videos in der Sitemap angezeigt. "
+
+#: inc/commonstrings.php:25
+msgid "Press the Scan button to scan your posts for videos! Do this if video content from a post or posts is not showing up in your sitemap."
+msgstr "Klicke auf den Scan-Button, um deine Posts nach Videos zu durchsuchen! Tue dies, falls Videos aus Posts oder Posts selbst nicht in der Sitemap erscheinen. "
+
+#: inc/commonstrings.php:24
+msgid "Restrict Access to Video Sitemap"
+msgstr "Zugriff auf Video-Sitemap beschränken"
+
+#: inc/commonstrings.php:23
+msgid "Scan Posts For Videos"
+msgstr "Beiträge nach Videos durchsuchen"
+
+#: inc/commonstrings.php:22
+msgid "Show Only Posts With Videos"
+msgstr "Nur Beiträge anzeigen, die Videos enthalten"
+
+#: all_in_one_seo_pack.php:332
+msgid "Upgrade to Pro"
+msgstr "Auf Pro upgraden"
+
+#: all_in_one_seo_pack.php:321
+msgid "Documentation"
+msgstr "﻿Dokumentation"
+
+#: all_in_one_seo_pack.php:311
+msgid "SEO Settings"
+msgstr "SEO Einstellungen"
+
+#: aioseop_class.php:4707
+msgid "About"
+msgstr "Über"
+
+#: aioseop_class.php:3760
+msgid "Debug String"
+msgstr "Debug-String"
+
+#: aioseop_class.php:3071
+msgid "Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Danke dass du die neueste und beste Version von All in One SEO Pack Pro benutzt! Bitte überprüfe deine Einstellungen, weil wir ständig neue Eigenschaften für dich hinzufügen!"
+
+#: aioseop_class.php:3238
+msgid "%taxonomy_description% - The description of the taxonomy"
+msgstr "%taxonomy_description% - Die Beschreibung der Taxonomie"
+
+#: aioseop_class.php:3237
+msgid "%taxonomy_title% - The original title of the taxonomy"
+msgstr "%taxonomy_title% - Der ursprüngliche Titel der Taxonomie"
+
+#: aioseop_class.php:3223
+msgid "Taxonomy Title Format:"
+msgstr "Format des Taxonomie-Titels:"
+
+#: aioseop_class.php:954 all_in_one_seo_pack.php:316
+msgid "Support Forum"
+msgstr "Support"
+
+#: aioseop_class.php:522
+msgid "SEO on only these taxonomies:"
+msgstr "SEO nur für diese Taxonomien:"
+
+#: aioseop_class.php:340
+msgid "License Key:"
+msgstr "Lizenzschlüssel:"
+
+#: aioseop_class.php:180
+msgid "Use these checkboxes to select which Taxonomies you want to use All in One SEO Pack with."
+msgstr "Verwende dieses Kontrollkästchen, um auszuwählen, welche Taxonomien du in Verbindung mit dem All in One SEO Pack nutzen willst."
+
+#: aioseop_class.php:79
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "Du wirst diesen Lizenzschlüssel erhalten, wenn du das Produkt gekauft hast. Dieser wird für automatische Updates benutzt."
+
+#: modules/aioseop_opengraph.php:202
+msgid "Facebook App ID"
+msgstr "Facebook App-ID"
+
+#: modules/aioseop_opengraph.php:197
+msgid "Facebook Admin ID"
+msgstr "Facebook Administrator-ID"
+
+#: modules/aioseop_opengraph.php:86
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/apps/register"
+msgstr "Gib hier deine Facebook App ID ein. Informationen dazu, wie du deine Facebook App ID erhältst, findest du unter https://developers.facebook.com/docs/apps/register"
+
+#: aioseop_class.php:3675
+msgid "You can %s click here%s to go to your reading settings and toggle your blog visibility."
+msgstr "%sKlicke hier%s um unter Einstellungen > Lesen die Blog-Sichtbarkeit zu verändern."
+
+#: aioseop_class.php:3674
+msgid "Warning: You're blocking access to search engines."
+msgstr "Warnung: der Zugriff auf Suchmaschinen wird blockiert."
+
+#. Author URI of the plugin/theme
+msgid "https://michaeltorbert.com"
+msgstr "https://michaeltorbert.com"
+
+#. Author of the plugin/theme
+msgid "Michael Torbert"
+msgstr "Michael Torbert"
+
+#. Plugin URI of the plugin/theme
+msgid "https://semperfiwebdesign.com"
+msgstr "https://semperfiwebdesign.com"
+
+#. Plugin Name of the plugin/theme
+msgid "All In One SEO Pack"
+msgstr "All in One SEO Pack"
+
+#: modules/aioseop_sitemap.php:1321
+msgid "Failed to notify %s about changes to your sitemap at %s, unable to access via wp_remote_get()."
+msgstr "Benachrichtigung von %s über die Änderungen an deiner Sitemap am %s gescheitert, Verbindung via wp_remote_get() nicht möglich."
+
+#: modules/aioseop_sitemap.php:1318
+msgid "Failed to notify %s about changes to your sitemap at %s, error code %s."
+msgstr "Benachrichtigung von %s über die Änderungen an deiner Sitemap am %s gescheitert. Fehlercode %s."
+
+#: modules/aioseop_sitemap.php:1150
+msgid "static"
+msgstr "statisch"
+
+#: modules/aioseop_sitemap.php:1155
+msgid "dynamic"
+msgstr "dynamisch"
+
+#: modules/aioseop_sitemap.php:1152
+msgid "compressed"
+msgstr "komprimiert"
+
+#: modules/aioseop_sitemap.php:1026
+msgid "Delete Conflicting Files"
+msgstr "Im Konflikt stehende Dateien löschen"
+
+#: modules/aioseop_sitemap.php:1025
+msgid "Rename Conflicting Files"
+msgstr "Im Konflikt stehende Dateien umbenennen"
+
+#: modules/aioseop_sitemap.php:985
+msgid "Potential conflict with unknown file %s."
+msgstr "Möglicher Konflikt mit der unbekannten Datei %s."
+
+#: modules/aioseop_sitemap.php:980
+msgid "Warning: a static sitemap '%s' generated by All in One SEO Pack %s on %s already exists that may conflict with dynamic sitemap generation."
+msgstr "Warnung: eine statische Sitemap '%s', die von All in One SEO Pack %s am %s erstellt wurde, existiert bereits. Das kann zu Konflikten bei der dynamischen Seitenerstellung führen. "
+
+#: modules/aioseop_sitemap.php:901
+msgid "Couldn't find file %s!"
+msgstr "Konnte die Datei %s nicht finden!"
+
+#: modules/aioseop_sitemap.php:897
+msgid "Renamed %s to %s."
+msgstr "%s umbenannt zu %s."
+
+#: modules/aioseop_sitemap.php:893
+msgid "Couldn't rename file %s!"
+msgstr "Konnte Dateiname %s nicht ändern! "
+
+#: modules/aioseop_sitemap.php:883
+msgid "Deleted %s."
+msgstr "%s gelöscht."
+
+#: modules/aioseop_sitemap.php:866
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "Warnung: dynamische Sitemap Erstellung muss Permalinks erlauben."
+
+#: modules/aioseop_sitemap.php:643
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your blog."
+msgstr "Warnung: Deine Privatsphäre-Einstellungen sind so eingestellt, dass Suchmaschinen deine Seite nicht auflisten dürfen; Du kannst dies unter %s  für deinen Blog ändern."
+
+#: modules/aioseop_sitemap.php:641
+msgid "Privacy Settings"
+msgstr "Privatsphäre-Einstellungen"
+
+#: modules/aioseop_sitemap.php:639
+msgid "Reading Settings"
+msgstr "Leseeinstellungen"
+
+#: modules/aioseop_sitemap.php:633
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "Die dynamische Sitemap Erstellung scheint nicht die richtigen Überschreibungsregeln zu benutzen; bitte schalte alle anderen Sitemap Plugins oder Funktionalitäten auf deiner Seite aus und setze die Permalinks zurück."
+
+#: modules/aioseop_sitemap.php:619
+msgid "view your sitemap"
+msgstr "Deine Sitemap ansehen"
+
+#: modules/aioseop_sitemap.php:558
+msgid "Update Sitemap"
+msgstr "Sitemap aktualisieren"
+
+#: modules/aioseop_sitemap.php:481
+msgid " Taxonomy"
+msgstr "Taxonomie"
+
+#: modules/aioseop_sitemap.php:480
+msgid " Post Type"
+msgstr "Post Type"
+
+#: modules/aioseop_sitemap.php:479
+msgid "Manually set the frequency for the "
+msgstr "Die Frequenz händisch einstellen für"
+
+#: modules/aioseop_sitemap.php:478
+msgid "Manually set the priority for the "
+msgstr "Setze die Priorität händisch für"
+
+#: modules/aioseop_sitemap.php:474
+msgid "All Taxonomies"
+msgstr "Alle Taxonomien"
+
+#: modules/aioseop_sitemap.php:473
+msgid "All Post Types"
+msgstr "Alle Post Types"
+
+#: modules/aioseop_sitemap.php:471
+msgid "Media / Attachments"
+msgstr "Medien / Anhänge"
+
+#: modules/aioseop_sitemap.php:385
+msgid "Daily scheduled sitemap check has finished."
+msgstr "Die von dir eingerichtete tägliche Überprüfung der Sitemap ist abgeschlossen."
+
+#: modules/aioseop_sitemap.php:362
+msgid "Once Monthly"
+msgstr "Einmal monatlich"
+
+#: modules/aioseop_sitemap.php:358
+msgid "Once Weekly"
+msgstr "Einmal wöchentlich"
+
+#: modules/aioseop_sitemap.php:287
+msgid "Frequencies"
+msgstr "Frequenzen"
+
+#: modules/aioseop_sitemap.php:281
+msgid "Priorities"
+msgstr "Prioritäten"
+
+#: modules/aioseop_sitemap.php:275
+msgid "Excluded Items"
+msgstr "Ausgeschlossene Objekte"
+
+#: modules/aioseop_sitemap.php:265
+msgid "Excluded Pages"
+msgstr "Ausgeschlossene Seiten"
+
+#: modules/aioseop_sitemap.php:261
+msgid "Excluded Categories"
+msgstr "Ausgeschlossene Kategorien"
+
+#: modules/aioseop_sitemap.php:251
+msgid "Add URL"
+msgstr "URL hinzufügen"
+
+#: modules/aioseop_sitemap.php:244 modules/aioseop_sitemap.php:269
+msgid "Additional Pages"
+msgstr "Zusätzliche Seiten"
+
+#: modules/aioseop_sitemap.php:238
+msgid "Last Modified"
+msgstr "Zuletzt bearbeitet"
+
+#: modules/aioseop_sitemap.php:231
+msgid "Page Frequency"
+msgstr "Seitenfrequenz"
+
+#: modules/aioseop_sitemap.php:224
+msgid "Page Priority"
+msgstr "Seitenpriorität"
+
+#: modules/aioseop_sitemap.php:218
+msgid "Page URL"
+msgstr "Seiten URL"
+
+#: modules/aioseop_sitemap.php:212
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "Gib nachfolgend Informationen für jeden zusätzlichen Link für deine Sitemap ein, der nicht bereits automatisch von WordPress verwaltet wird."
+
+#: modules/aioseop_sitemap.php:198
+msgid "Manually set the %s of your %s."
+msgstr "Die %s deiner %s händisch setzen."
+
+#: modules/aioseop_sitemap.php:186
+msgid "author pages"
+msgstr "Autorenseiten"
+
+#: modules/aioseop_sitemap.php:185
+msgid "archive pages"
+msgstr "Archivseiten"
+
+#: modules/aioseop_sitemap.php:184
+msgid "taxonomies"
+msgstr "Taxonomien"
+
+#: modules/aioseop_sitemap.php:183
+msgid "posts"
+msgstr "Beiträge"
+
+#: modules/aioseop_sitemap.php:182
+msgid "homepage"
+msgstr "Homepage"
+
+#: modules/aioseop_sitemap.php:175
+msgid "frequency"
+msgstr "Frequenz"
+
+#: modules/aioseop_sitemap.php:174
+msgid "priority"
+msgstr "Priorität"
+
+#: modules/aioseop_sitemap.php:161
+msgid "Select Individual"
+msgstr "Einzeln auswählen"
+
+#: modules/aioseop_sitemap.php:160
+msgid "Do Not Override"
+msgstr "Nicht überschreiben"
+
+#: modules/aioseop_sitemap.php:144
+msgid "Sitemap Status"
+msgstr "Sitemap Status"
+
+#: modules/aioseop_sitemap.php:133
+msgid "Dynamically Generate Sitemap"
+msgstr "Sitemap dynamisch erstellen"
+
+#: modules/aioseop_sitemap.php:129
+msgid "Link From Virtual Robots.txt"
+msgstr "Verlinken von Virtual Robots.txt"
+
+#: modules/aioseop_sitemap.php:125
+msgid "Create Compressed Sitemap"
+msgstr "Komprimierte Sitemap erstellen"
+
+#: modules/aioseop_sitemap.php:123
+msgid "Include Author Pages"
+msgstr "Autorenseiten hinzufügen"
+
+#: modules/aioseop_sitemap.php:122
+msgid "Include Date Archive Pages"
+msgstr "Date Archive Pages hinzufügen"
+
+#: modules/aioseop_sitemap.php:118
+msgid "Taxonomies"
+msgstr "Taxonomien"
+
+#: modules/aioseop_sitemap.php:113
+msgid "Post Types"
+msgstr "Post Types"
+
+#: modules/aioseop_sitemap.php:107
+msgid "Maximum Posts Per Sitemap"
+msgstr "Maximale Anzahl von Beiträgen pro Sitemap"
+
+#: modules/aioseop_sitemap.php:103
+msgid "Paginate Sitemap Indexes"
+msgstr "Sitemap-Indexierungen paginieren"
+
+#: modules/aioseop_sitemap.php:101
+msgid "Enable Sitemap Indexes"
+msgstr "Sitemap-Indexierungen einschalten"
+
+#: modules/aioseop_sitemap.php:97
+msgid "Monthly"
+msgstr "monatlich"
+
+#: modules/aioseop_sitemap.php:96
+msgid "Weekly"
+msgstr "Wöchentlich"
+
+#: modules/aioseop_sitemap.php:95
+msgid "Daily"
+msgstr "Täglich"
+
+#: modules/aioseop_sitemap.php:94
+msgid "No Schedule"
+msgstr "Nichts geplant"
+
+#: modules/aioseop_sitemap.php:91
+msgid "Schedule Updates"
+msgstr "Aktualisierungen planen"
+
+#: modules/aioseop_sitemap.php:85
+msgid "Filename Prefix"
+msgstr "Präfix des Dateinamens"
+
+#: modules/aioseop_sitemap.php:59
+msgid "Use page slugs or page IDs, seperated by commas, to exclude pages from the sitemap."
+msgstr "Verwende, mit Kommas getrennt, die Seiten-Titelform oder Seiten-ID, um Seiten von der Sitemap auszuschließen."
+
+#: modules/aioseop_sitemap.php:58
+msgid "Entries from these categories will be excluded from the sitemap."
+msgstr "Einträge aus diesen Kategorien werden bei der Sitemap nicht berücksichtigt."
+
+#: modules/aioseop_sitemap.php:57
+msgid "Last modified date of the page."
+msgstr "Letzte Änderung der Seite an diesem Datum."
+
+#: modules/aioseop_sitemap.php:56
+msgid "The frequency of the page."
+msgstr "Die Frequenz der Seite."
+
+#: modules/aioseop_sitemap.php:55
+msgid "The priority of the page."
+msgstr "Die Priorität der Seite."
+
+#: modules/aioseop_sitemap.php:54
+msgid "URL to the page."
+msgstr "URL zu der Seite."
+
+#: modules/aioseop_sitemap.php:52
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "Setze einen Link zu Sitemap.xml in deiner virtuellen Robots.txt-Datei."
+
+#: modules/aioseop_sitemap.php:51
+msgid "Create a compressed sitemap file in .xml.gz format."
+msgstr "Erstelle eine Sitemap-Datei im .xml.gz Format."
+
+#: modules/aioseop_sitemap.php:50
+msgid "Include Author Archives in your sitemap."
+msgstr "Füge Autorenarchive deiner Sitemap hinzu."
+
+#: modules/aioseop_sitemap.php:49
+msgid "Include Date Archives in your sitemap."
+msgstr "Füge Datums-Archive deiner Sitemap hinzu."
+
+#: modules/aioseop_sitemap.php:48
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "Wähle aus, welche Taxonomy-Archive in deiner Sitemap auftauchen"
+
+#: modules/aioseop_sitemap.php:47
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Wähle aus, welche Post Types in deiner Sitemap auftauchen."
+
+#: modules/aioseop_sitemap.php:46
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Erlaubt dir, die maximale Anzahl von Beiträgen in einer Sitemap (bis zu 50.000) festzulegen."
+
+#: modules/aioseop_sitemap.php:45
+msgid "Split long sitemaps into separate files."
+msgstr "Teile lange Sitemaps in Einzeldateien auf."
+
+#: modules/aioseop_sitemap.php:44
+msgid "Organize sitemap entries into distinct files in your sitemap. Enable this only if your sitemap contains over 50,000 URLs or the file is over 5MB in size."
+msgstr "Organisiere deine Sitemap Einträge in bestimmte Dateien innerhalb deiner Sitemap. Aktiviere dies nur, wenn deine Sitemap mehr als 50.000 URLs enthält oder die Größe der Datei über 5MB ist."
+
+#: modules/aioseop_sitemap.php:43
+msgid "Notify search engines based on the selected schedule, and also update static sitemap daily if in use. (this uses WP-Cron, so make sure this is working properly on your server as well)"
+msgstr "Benachrichtige Suchmaschinen basierend auf dem ausgewählten Zeitplan, und aktualisiere die statische Sitemap auch täglich wenn in Benutzung. (Hierbei wird WP-Cron verwendet, um sicherzustellen, dass dies auch auf deinem Server funktioniert)"
+
+#: modules/aioseop_sitemap.php:42
+msgid "Specifies the name of your sitemap file. This will default to 'sitemap'."
+msgstr "Bestimmt den Namen deiner Sitemap-Datei. Der Standardname ist 'Sitemap'."
+
+#: modules/aioseop_sitemap.php:32
+msgid "XML Sitemap"
+msgstr "XML Sitemap"
+
+#: modules/aioseop_robots.php:363
+msgid "More Information"
+msgstr "Mehr Information"
+
+#: modules/aioseop_robots.php:361
+msgid "The red indicator means that the syntax is invalid for a robots.txt file."
+msgstr "Die rote Kennzeichnung bedeutet, dass die Syntax für die robots.txt-Datei falsch ist."
+
+#: modules/aioseop_robots.php:360
+msgid "The yellow indicator means that a non-standard extension was recognized; not all crawlers may recognize it or interpret it the same way. The Allow and Sitemap directives are commonly used by Google and Yahoo."
+msgstr "Die gelbe Anzeige bedeutet, dass eine nicht standard-konforme Erweiterung erkannt wurde; nicht alle Crawler können diese Datei erkennen oder auf die gleiche Weise analysieren. Die Allow and Sitemap Directives werden normalerweise von Google und Yahoo verwendet."
+
+#: modules/aioseop_robots.php:358
+msgid "Legend"
+msgstr "Legende"
+
+#: modules/aioseop_robots.php:299
+msgid "Proposed Changes"
+msgstr "Vorgeschlagene Änderungen"
+
+#: modules/aioseop_robots.php:299 modules/aioseop_robots.php:301
+msgid "Current File"
+msgstr "Aktuelle Datei"
+
+#: modules/aioseop_robots.php:154
+msgid "Your Robots.txt file has been optimized.  Here are the results and recommendations.  Click the Update Robots.txt File button below to write these changes to your Robots.txt file.  Click the Disregard Changes button to ignore these recommendations and keep your current Robots.txt file."
+msgstr "Deine Datei Robots.txt wurde optimiert. Hier sind die Ergebnisse und Empfehlungen. Klicke auf Update für die Datei Robots.txt, um die Änderungen in deine Robots.txt-Datei zu übernehmen. Klicke auf Änderungen verwerfen, um die Empfehlungen zu verwerfen und deine aktuelle Robots.txt-Datei zu behalten."
+
+#: modules/aioseop_robots.php:144
+msgid "Optimize your Robots.txt File"
+msgstr "Deine Robots.txt-Datei optimieren"
+
+#: modules/aioseop_robots.php:130
+msgid "Create a Robots.txt File"
+msgstr "Robots.txt-Datei erstellen"
+
+#: modules/aioseop_robots.php:97
+msgid "Optimize"
+msgstr "Optimieren"
+
+#: modules/aioseop_robots.php:91
+msgid "Disregard Changes"
+msgstr "Änderungen verwerfen"
+
+#: modules/aioseop_robots.php:84
+msgid "Update Robots.txt File"
+msgstr "Update für die Datei Robots.txt"
+
+#: modules/aioseop_robots.php:78
+msgid "Click the Optimize button below and All in One SEO Pack will analyze your Robots.txt file to make sure it complies with the standards for Robots.txt files.  The results will be displayed in a table below."
+msgstr "Klicke unten auf Optimieren und All in One SEO Pack wird deine Datei Robots.txt untersuchen, um sicherzustellen, dass sie mit dem Standard für Robots.txt-Dateien übereinstimmt. Das Ergebnis wird in der Tabelle unten angezeigt."
+
+#: modules/aioseop_robots.php:72
+msgid "Delete Robots.txt File"
+msgstr "Robots.txt-Datei löschen"
+
+#: modules/aioseop_robots.php:66
+msgid "Save Robots.txt File"
+msgstr "Robots.txt-Datei speichern"
+
+#: modules/aioseop_robots.php:60
+msgid "Add Rule"
+msgstr "Regel hinzufügen"
+
+#: modules/aioseop_robots.php:48
+msgid "Generate Robots.txt"
+msgstr "Erstelle Robots.txt"
+
+#: modules/aioseop_robots.php:28
+msgid "Use the rule builder below to add rules to create a new Robots.txt file.  If you already have a Robots.txt file you should use the File Editor feature in All in One SEO Pack to edit it or you can delete your current Robots.txt file and start a new one with the rule builder below."
+msgstr "Nutzen den Regel Builder, um Regeln für die Erstellung einer neuen Robots.txt Datei hinzuzufügen. Wenn du bereits eine Robots.txt-Datei hast, solltest du den Datei-Editor in All in one SEO Pack nutzen, um deine aktuelle Robots.txt-Datei zu verändern oder zu löschen und eine neue mit dem Regel Builder unten anzufangen."
+
+#: modules/aioseop_robots.php:20 modules/aioseop_robots.php:43
+msgid "Directory Path"
+msgstr "Verzeichnispfad"
+
+#: modules/aioseop_robots.php:19 modules/aioseop_robots.php:38
+msgid "User Agent"
+msgstr "User Agent"
+
+#: modules/aioseop_robots.php:18 modules/aioseop_robots.php:32
+msgid "Rule Type"
+msgstr "Regeltyp"
+
+#: modules/aioseop_performance.php:315
+msgid "Submit"
+msgstr "Absenden"
+
+#: modules/aioseop_performance.php:314
+msgid "E-mail debug information"
+msgstr "Informationen zu Fehlern bei der E-Mail-Übermittlung."
+
+#: modules/aioseop_performance.php:308
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "Fehler: Bitte gib vor dem Absenden eine E-Mail-Adresse an."
+
+#: modules/aioseop_performance.php:305
+msgid "Failed to send to %s."
+msgstr "Senden an %s fehlgeschlagen."
+
+#: modules/aioseop_performance.php:303
+msgid "Sent to %s."
+msgstr "Gesendet an %s."
+
+#: modules/aioseop_performance.php:302
+msgid "SFWD Debug Mail From Site %s."
+msgstr "SFWD Debug Mail von Seite %s."
+
+#: modules/aioseop_performance.php:288
+msgid "Form submission error: verification check failed."
+msgstr "Fehler bei der Übermittlung: Verifizierung gescheitert."
+
+#: modules/aioseop_performance.php:270
+msgid "All in One SEO Pack Pro Debug Info"
+msgstr "All in One SEO Pack Pro Debug Information"
+
+#: modules/aioseop_performance.php:255
+msgid "Active Theme"
+msgstr "Aktives Theme"
+
+#: modules/aioseop_performance.php:254
+msgid "Multisite"
+msgstr "Multisite"
+
+#: modules/aioseop_performance.php:253
+msgid "WordPress DB Version"
+msgstr "WordPress DB Version"
+
+#: modules/aioseop_performance.php:252
+msgid "WordPress Version"
+msgstr "WordPress Version"
+
+#: modules/aioseop_performance.php:251
+msgid "Home URL"
+msgstr "Home URL"
+
+#: modules/aioseop_performance.php:250
+msgid "Site URL"
+msgstr "Seiten URL"
+
+#: modules/aioseop_performance.php:249
+msgid "PHP XML support"
+msgstr "PHP XML Support"
+
+#: modules/aioseop_performance.php:248
+msgid "PHP IPTC support"
+msgstr "PHP IPTC Support"
+
+#: modules/aioseop_performance.php:247
+msgid "PHP Exif support"
+msgstr "PHP Exif Support"
+
+#: modules/aioseop_performance.php:246
+msgid "PHP Max Script Execute Time"
+msgstr "PHP Maximale Skript Ausführungszeit"
+
+#: modules/aioseop_performance.php:245
+msgid "PHP Max Post Size"
+msgstr "PHP Maximale Beitragsgröße"
+
+#: modules/aioseop_performance.php:244
+msgid "PHP Max Upload Size"
+msgstr "PHP Maximale Upload Größe"
+
+#: modules/aioseop_performance.php:243
+msgid "PHP Memory Limit"
+msgstr "PHP Memory Limit"
+
+#: modules/aioseop_performance.php:242
+msgid "PHP Allow URL fopen"
+msgstr "PHP Allow URL fopen"
+
+#: modules/aioseop_performance.php:241
+msgid "PHP Version"
+msgstr "PHP Version"
+
+#: modules/aioseop_performance.php:240
+msgid "SQL Mode"
+msgstr "SQL Mode"
+
+#: modules/aioseop_performance.php:239
+msgid "MYSQL Version"
+msgstr "MYSQL Version"
+
+#: modules/aioseop_performance.php:238
+msgid "Memory usage"
+msgstr "Speichernutzung"
+
+#: modules/aioseop_performance.php:237
+msgid "Server"
+msgstr "Server"
+
+#: modules/aioseop_performance.php:236
+msgid "Operating System"
+msgstr "Betriebssystem"
+
+#: modules/aioseop_performance.php:203 modules/aioseop_performance.php:208
+#: modules/aioseop_performance.php:213 modules/aioseop_performance.php:222
+msgid "Yes"
+msgstr "Ja"
+
+#: modules/aioseop_performance.php:198
+msgid " MByte"
+msgstr " MByte"
+
+#: modules/aioseop_performance.php:180 modules/aioseop_performance.php:185
+#: modules/aioseop_performance.php:190 modules/aioseop_performance.php:195
+#: modules/aioseop_performance.php:200 modules/aioseop_performance.php:228
+msgid "N/A"
+msgstr "Keine Angabe"
+
+#: modules/aioseop_performance.php:175
+msgid "Off"
+msgstr "Off"
+
+#: modules/aioseop_performance.php:173
+msgid "On"
+msgstr "On"
+
+#: modules/aioseop_performance.php:170
+msgid "Not set"
+msgstr "Nicht festgelegt"
+
+#: modules/aioseop_performance.php:86
+msgid "System Status"
+msgstr "Systemstatus"
+
+#: modules/aioseop_performance.php:49
+msgid "No limit"
+msgstr "Keine Grenze"
+
+#: modules/aioseop_performance.php:40
+msgid "Raise execution time"
+msgstr "Ausführungszeit erhöhen"
+
+#: modules/aioseop_performance.php:32 modules/aioseop_performance.php:44
+msgid "Use the system default"
+msgstr "Systemstandard anwenden"
+
+#: modules/aioseop_performance.php:28
+msgid "Raise memory limit"
+msgstr "Memory Limit erhöhen."
+
+#: modules/aioseop_performance.php:23
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "Verwende eine Ausgabenpufferung, um sicherzugehen dass der Titel umschrieben wird. Aktiviere diese Option, wenn du Probleme bekommst, weil das Titel-Tag durch dein Theme oder ein anderes Plugin gesetzt wird."
+
+#: modules/aioseop_performance.php:22
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "Diese Einstellung ermöglicht dir die PHP Ausführungszeit auf einen sinnvollen Wert zu erhöhen."
+
+#: modules/aioseop_performance.php:21
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "Diese Einstellung ermöglicht dir, das PHP Memory Limit auf einen sinnvollen Wert zu erhöhen. Hinweis: WordPress Core und andere WordPress Plugins können ebenfalls den Wert für das Memory Limit ändern."
+
+#: modules/aioseop_opengraph.php:1344
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "Wähle einen Standardwert, der am besten den Inhalt deines Inhaltstyps beschreibt."
+
+#: modules/aioseop_opengraph.php:1337
+msgid "Object Type"
+msgstr "Object Type"
+
+#: modules/aioseop_opengraph.php:817
+msgid "Scan your site for duplicate social meta tags."
+msgstr "Scanne deine Seite nach doppelten Social Meta Tags."
+
+#: modules/aioseop_opengraph.php:816
+msgid "Scan Now"
+msgstr "Jetzt scannen"
+
+#: modules/aioseop_opengraph.php:749
+msgid "Default "
+msgstr "Standard"
+
+#: modules/aioseop_opengraph.php:697
+msgid "Blog on front page detected, suggested Facebook Object Type is 'blog'."
+msgstr "Auf der Startseite wurde ein Blog gefunden, vorgeschlagener Facebook Object Type ist 'blog'."
+
+#: modules/aioseop_opengraph.php:692
+msgid "Static front page detected, suggested Facebook Object Type is 'website'."
+msgstr "Statische Startseite entdeckt, vorgeschlagener Facebook Object Type ist 'website'"
+
+#: modules/aioseop_opengraph.php:598
+msgid "Scan Social Meta"
+msgstr "Social Meta scannen"
+
+#: modules/aioseop_opengraph.php:593
+msgid "Twitter Settings"
+msgstr "Twitter Einstellungen"
+
+#: modules/aioseop_opengraph.php:577
+msgid "Facebook Settings"
+msgstr "Facebook Einstellungen"
+
+#: modules/aioseop_opengraph.php:567
+msgid "Image Settings"
+msgstr "Bildeinstellungen"
+
+#: modules/aioseop_opengraph.php:530
+msgid "Social Settings"
+msgstr "Settings für Social Media"
+
+#: modules/aioseop_opengraph.php:474
+msgid "Associated Name"
+msgstr "In Verbindung stehender Name"
+
+#: modules/aioseop_opengraph.php:470
+msgid "Organization"
+msgstr "Organisation"
+
+#: modules/aioseop_opengraph.php:469
+msgid "Person"
+msgstr "Person"
+
+#: modules/aioseop_opengraph.php:466
+msgid "Person or Organization?"
+msgstr "Person oder Organisation?"
+
+#: modules/aioseop_opengraph.php:460 modules/aioseop_opengraph.php:572
+msgid "Social Profile Links"
+msgstr "Links zu Sozialen Profilen"
+
+#: modules/aioseop_opengraph.php:458
+msgid "Show Facebook Author on Articles"
+msgstr "Facebook Autor bei Artikeln anzeigen"
+
+#: modules/aioseop_opengraph.php:454
+msgid "Show Facebook Publisher on Articles"
+msgstr "Facebook Publisher bei Artikeln anzeigen"
+
+#: modules/aioseop_opengraph.php:448
+msgid "Article Tags"
+msgstr "Artikel Tags"
+
+#: modules/aioseop_opengraph.php:442
+msgid "Article Section"
+msgstr "Artikelbereich"
+
+#: modules/aioseop_opengraph.php:437
+msgid "Debug This Post"
+msgstr "Fehlerbehebung für diesen Beitrag"
+
+#: modules/aioseop_opengraph.php:422
+msgid "Facebook Debug"
+msgstr "Facebook Debug"
+
+#: modules/aioseop_opengraph.php:392
+msgid "Enable Facebook Meta for"
+msgstr "Facebook Meta aktivieren für"
+
+#: modules/aioseop_opengraph.php:387
+msgid "Use Post Tags In Article Tags"
+msgstr "Beitrags-Tags in Artikel-Tags verwenden"
+
+#: modules/aioseop_opengraph.php:382
+msgid "Use Categories In Article Tags"
+msgstr "Kategorien in Artikel-Tags verwenden"
+
+#: modules/aioseop_opengraph.php:377
+msgid "Use Keywords In Article Tags"
+msgstr "Keywords in Artikel-Tags verwenden"
+
+#: modules/aioseop_opengraph.php:375
+msgid "Automatically Generate Article Tags"
+msgstr "Artikel Tags automatisch erstellen"
+
+#: modules/aioseop_opengraph.php:367
+msgid "Twitter Domain"
+msgstr "Twitter Domain"
+
+#: modules/aioseop_opengraph.php:365
+msgid "Show Twitter Author"
+msgstr "Twitter Autor anzeigen"
+
+#: modules/aioseop_opengraph.php:361
+msgid "Twitter Site"
+msgstr "Twitter Seite"
+
+#: modules/aioseop_opengraph.php:352
+msgid "Twitter Card Type"
+msgstr "Twitter Card Type"
+
+#: modules/aioseop_opengraph.php:346 modules/aioseop_opengraph.php:355
+msgid "Summary Large Image"
+msgstr "Zusammenfassung Großes Bild"
+
+#: modules/aioseop_opengraph.php:345 modules/aioseop_opengraph.php:356
+msgid "Summary"
+msgstr "Zusammenfassung"
+
+#: modules/aioseop_opengraph.php:342
+msgid "Default Twitter Card"
+msgstr "Standard Twitter Card"
+
+#: modules/aioseop_opengraph.php:330
+msgid "Specify Video Height"
+msgstr "Videohöhe eingeben"
+
+#: modules/aioseop_opengraph.php:318
+msgid "Specify Video Width"
+msgstr "Videobreite angeben"
+
+#: modules/aioseop_opengraph.php:314
+msgid "Custom Video"
+msgstr "Eigenes Video"
+
+#: modules/aioseop_opengraph.php:309
+msgid "Specify Image Height"
+msgstr "Bildhöhe angeben"
+
+#: modules/aioseop_opengraph.php:304
+msgid "Specify Image Width"
+msgstr "Bildbreite angeben"
+
+#: modules/aioseop_opengraph.php:300
+msgid "Custom Image"
+msgstr "Eigenes Image"
+
+#: modules/aioseop_opengraph.php:295
+msgid "Image"
+msgstr "Bild"
+
+#: modules/aioseop_opengraph.php:289 modules/aioseop_opengraph.php:415
+msgid "Facebook Object Type"
+msgstr "Facebook Object Type"
+
+#: modules/aioseop_opengraph.php:284
+msgid "Use Custom Field For Image"
+msgstr "Benutzerdefiniertes Feld für Bild nutzen"
+
+#: modules/aioseop_opengraph.php:279
+msgid "Default Image Height"
+msgstr "Standard Bildhöhe"
+
+#: modules/aioseop_opengraph.php:274
+msgid "Default Image Width"
+msgstr "Standard Bildbreite"
+
+#: modules/aioseop_opengraph.php:269
+msgid "Default OG:Image"
+msgstr "Standard OG:Image"
+
+#: modules/aioseop_opengraph.php:265
+msgid "Use Default If No Image Found"
+msgstr "Standardbild benutzen, falls kein Bild gefunden wird."
+
+#: modules/aioseop_opengraph.php:261
+msgid "First Available Image"
+msgstr "Erstes erhältliches Bild "
+
+#: modules/aioseop_opengraph.php:260
+msgid "Post Author Image"
+msgstr "Autorenbild posten"
+
+#: modules/aioseop_opengraph.php:259
+msgid "Image From Custom Field"
+msgstr "Bild von benutzerdefiniertem Feld"
+
+#: modules/aioseop_opengraph.php:258
+msgid "First Image In Content"
+msgstr "Erstes Bild im Inhalt"
+
+#: modules/aioseop_opengraph.php:257
+msgid "First Attached Image"
+msgstr "Erstes Bild im Anhang"
+
+#: modules/aioseop_opengraph.php:256
+msgid "Featured Image"
+msgstr "Beitragsbild"
+
+#: modules/aioseop_opengraph.php:255
+msgid "Default Image"
+msgstr "Standardbild"
+
+#: modules/aioseop_opengraph.php:252
+msgid "Select OG:Image Source"
+msgstr "OG:Image Quelle wählen"
+
+#: modules/aioseop_opengraph.php:248
+msgid "Autogenerate OG Descriptions"
+msgstr "OG Beschreibungen automatisch generieren"
+
+#: modules/aioseop_opengraph.php:242
+msgid "Home Article Tags"
+msgstr "Home Artikel-Tags"
+
+#: modules/aioseop_opengraph.php:238
+msgid "Home Image"
+msgstr "Home Bild"
+
+#: modules/aioseop_opengraph.php:226
+msgid "Home Description"
+msgstr "Home Beschreibung"
+
+#: modules/aioseop_opengraph.php:214
+msgid "Home Title"
+msgstr "Home Titel"
+
+#: modules/aioseop_opengraph.php:209
+msgid "Site Name"
+msgstr "Website-Name"
+
+#: modules/aioseop_opengraph.php:207
+msgid "Run Shortcodes In Description"
+msgstr "Shortcodes in Beschreibung verwenden"
+
+#: modules/aioseop_opengraph.php:206
+msgid "Run Shortcodes In Title"
+msgstr "Shortcodes in Titel verwenden"
+
+#: modules/aioseop_opengraph.php:193
+msgid "Use AIOSEO Title and Description"
+msgstr "Nutze AIOSEO Titel und Beschreibung"
+
+#: modules/aioseop_opengraph.php:188
+msgid "Scan Header"
+msgstr "Header scannen"
+
+#: modules/aioseop_opengraph.php:185
+msgid " characters. Open Graph allows up to a maximum of %s chars for the %s."
+msgstr " Zeichen. Open Graph erlaubt nur eine maximale Anzahl von %s Zeichen für %s."
+
+#: modules/aioseop_opengraph.php:130
+msgid "Add the name of the person or organization who owns these profiles."
+msgstr "Füge den Namen der Person oder Organisation hinzu, zu der diese Profile gehören."
+
+#: modules/aioseop_opengraph.php:129
+msgid "Add URLs for your website's social profiles here (Facebook, Twitter, Google+, Instagram, LinkedIn), one per line."
+msgstr "Hier URLs zu den Social Profiles deiner Webseite hinzufügen (Facebook, Twitter, Google+, Instagram, LinkedIn), eine pro Zeile"
+
+#: modules/aioseop_opengraph.php:128
+msgid "Are the social profile links for your website for a person or an organization?"
+msgstr "Gehören die Social Profile Links auf deiner Website zu einer Person oder zu einer Organisation?"
+
+#: modules/aioseop_opengraph.php:127
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "Erlaubt deinen Autoren, durch deine Facebook Seiten als Autoren auf dem Opengraph Meta für ihre Artikel identifiziert zu werden."
+
+#: modules/aioseop_opengraph.php:126
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "Verlinke Artikel mit der Facebook Seite, die mit deiner Website in Verbindung steht."
+
+#: modules/aioseop_opengraph.php:125
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "Diese Open Graph Meta ermöglicht dir, eine Liste von Schlagwörtern hinzuzufügen, die diesen Inhalt am besten beschreibt."
+
+#: modules/aioseop_opengraph.php:124
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "Diese Open Graph Meta ermöglicht dir, eine allgemeine Abschnittsbezeichnung hinzuzufügen, die diesen Inhalt am besten beschreibt."
+
+#: modules/aioseop_opengraph.php:123
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "Drücke diesen Button, damit Facebook diese Seite erneut aufgreift und den Fehler behebt."
+
+#: modules/aioseop_opengraph.php:122
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "Wähle den Open Graph Type, der am besten den Inhalt dieser Seite oder dieses Beitrags beschreibt."
+
+#: modules/aioseop_opengraph.php:121
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "Dies ist die Open Graph Description dieser Seite oder dieses Beitrags."
+
+#: modules/aioseop_opengraph.php:120
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "Dies ist der Open Graph Title dieser Seite oder dieses Beitrags."
+
+#: modules/aioseop_opengraph.php:119
+msgid "Select which Post Types you want to use All in One SEO Pack to set Open Graph meta values for."
+msgstr "Wähle die Inhaltstypen, für die All in One SEO Pack Open Graph Meta Werte setzen soll."
+
+#: modules/aioseop_opengraph.php:118
+msgid "Use post tags in generated article tags."
+msgstr "Nutze Beitrags-Tags in generierten Artikel-Tags."
+
+#: modules/aioseop_opengraph.php:117
+msgid "Use categories in generated article tags."
+msgstr "Nutze Kategorien in generierten Artikel-Tags."
+
+#: modules/aioseop_opengraph.php:116
+msgid "Use keywords in generated article tags."
+msgstr "Nutze Keywords in generierten Artikel-Tags."
+
+#: modules/aioseop_opengraph.php:115
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "Erstelle automatisch Artikel-Tags für Facebook Artikel, wenn keine angegeben wurden."
+
+#: modules/aioseop_opengraph.php:113
+msgid "Enter the name of your website here."
+msgstr "Gib den Namen deiner Website hier ein."
+
+#: modules/aioseop_opengraph.php:112
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "Erlaube deinen Autoren, auf den Twitter Cards als Urheber ihrer Beiträge mit ihrem Twitter-Nutzernamen ausgewiesen zu werden."
+
+#: modules/aioseop_opengraph.php:111
+msgid "Enter the Twitter username associated with your website here."
+msgstr "Gib den Twitter-Nutzername ein, der mit deiner Website verbunden ist."
+
+#: modules/aioseop_opengraph.php:109 modules/aioseop_opengraph.php:110
+msgid "Select the default type of Twitter card to display."
+msgstr "Wähle den Standardtyp für deine Twitter Card aus."
+
+#: modules/aioseop_opengraph.php:108
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "Gib die Höhe für dein Open Graph Video in Pixel (z, B. 600) an."
+
+#: modules/aioseop_opengraph.php:107
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "Gib die Breite für dein Open Graph Video in Pixel (z. B. 600) an."
+
+#: modules/aioseop_opengraph.php:106
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "Mit dieser Option kannst du einen Link zum Open Graph Video angeben, der für diese Seite oder Beitrag verwendet wird."
+
+#: modules/aioseop_opengraph.php:105
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "Gib die Höhe für dein Open Graph Bild in Pixeln (z. B. 600) an."
+
+#: modules/aioseop_opengraph.php:104
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "Gib die Breite für dein Open Graph Bild in Pixeln (z. B. 600) an."
+
+#: modules/aioseop_opengraph.php:103
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "Mit dieser Option kannst du ein Bild hochladen um es als Open Graph Bild für diese Seite oder Beitrag zu verwenden."
+
+#: modules/aioseop_opengraph.php:102
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "Mit dieser Option kannst du das Open Graph Bild auswählen, das für diese Seite oder Beitrag verwendet werden soll. Die Standardeinstellungen werden überschrieben."
+
+#: modules/aioseop_opengraph.php:101
+msgid "Set the Open Graph type for your website as either a blog or a website."
+msgstr "Legen den Open Graph Typ für deine Webseite entweder als Blog oder Website fest."
+
+#: modules/aioseop_opengraph.php:100
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "Gib den Namen für ein benutzerdefiniertes Feld ein (oder mehrere, mit Kommas getrennte Feldnamen), um dieses Feld zur Beschreibung des Open Graph Bildes auf Seiten oder Beiträgen zu verwenden."
+
+#: modules/aioseop_opengraph.php:99
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "Diese Einstellung erlaubt, eine Standardhöhe für Bilder festzulegen, wenn keine abweichenden Angaben gemacht werden."
+
+#: modules/aioseop_opengraph.php:98
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "Diese Einstellung erlaubt, eine Standardbreite für Bilder festzulegen, wenn keine abweichenden Angaben gemacht werden."
+
+#: modules/aioseop_opengraph.php:97
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "Diese Einstellung setzt ein Standardbild fest, das als Open Graph Image benutzt werden kann. Du kannst hier ein Bild hochladen, ein Bild aus deiner Medienbibliothek auswählen oder eine URL zu einem Bild eingeben."
+
+#: modules/aioseop_opengraph.php:96
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "Diese Einstellung legt fest, dass ein Standardbild benutzt wird, falls kein anderes oben gefunden wird."
+
+#: modules/aioseop_opengraph.php:95
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "Mit dieser Einstellung kannst du festzulegen, welches Bild als Standardbild für das Open Graph Image verwendet wird. Du kannst diese Einstellung bei einzelnen Beiträgen überschreiben."
+
+#: modules/aioseop_opengraph.php:94
+msgid "Check this and your Open Graph descriptions will be auto-generated from your content."
+msgstr "Wenn du dies auswählst, werden die Open Graph Descriptions automatisch aus deinem Inhalt generiert."
+
+#: modules/aioseop_opengraph.php:93
+msgid "The Home Tag allows you to add a list of keywords that best describe your home page content."
+msgstr "Das Home Tag ermöglicht dir, eine Liste von Keywords zu erstellen, die am besten den Inhalt deiner Homepage beschreiben."
+
+#: modules/aioseop_opengraph.php:92
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "Das Home Image ist das Open Graph Image für deine Homepage."
+
+#: modules/aioseop_opengraph.php:91
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "Die Home Beschreibung ist die Open Graph Beschreibung für deine Homepage."
+
+#: modules/aioseop_opengraph.php:90
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "Home Title ist der Open Graph Title für deine Homepage."
+
+#: modules/aioseop_opengraph.php:89
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "Der Websitename ist der Name, der zur Identifikation deiner Webseite benutzt wird."
+
+#: modules/aioseop_opengraph.php:88
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "Verwende Shortcodes, die in deinen Social Description Meta Tags angezeigt werden."
+
+#: modules/aioseop_opengraph.php:87
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "Verwende Shortcodes, die in deinen Social Title Meta Tags angezeigt werden."
+
+#: modules/aioseop_opengraph.php:84
+msgid "Checking this box will use the Home Title and Home Description set in All in One SEO Pack, General Settings as the Open Graph title and description for your home page."
+msgstr "Durch Markieren dieses Felds wird der Home Titel und die Home Beschreibung, die unter All in One SEO Pack, Allgemeine Einstellungen als Open Graph Titel und Beschreibung für deine Homepage festgelegt wurde, verwendet."
+
+#: modules/aioseop_opengraph.php:72 modules/aioseop_opengraph.php:79
+msgid "Website"
+msgstr "Website"
+
+#: modules/aioseop_opengraph.php:71 modules/aioseop_opengraph.php:78
+msgid "Blog"
+msgstr "Blog"
+
+#: modules/aioseop_opengraph.php:70 modules/aioseop_opengraph.php:80
+msgid "Article"
+msgstr "Artikel"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Episode"
+msgstr "Folge"
+
+#: modules/aioseop_opengraph.php:66
+msgid "TV Show"
+msgstr "Fernsehserie"
+
+#: modules/aioseop_opengraph.php:65
+msgid "Song"
+msgstr "Song"
+
+#: modules/aioseop_opengraph.php:64
+msgid "Product"
+msgstr "Produkt"
+
+#: modules/aioseop_opengraph.php:63
+msgid "Movie"
+msgstr "Film"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Game"
+msgstr "Spiel"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Food"
+msgstr "Essen"
+
+#: modules/aioseop_opengraph.php:60
+msgid "Drink"
+msgstr "Getränk"
+
+#: modules/aioseop_opengraph.php:59
+msgid "Book"
+msgstr "Buch"
+
+#: modules/aioseop_opengraph.php:58
+msgid "Album"
+msgstr "Album"
+
+#: modules/aioseop_opengraph.php:55
+msgid "State Province"
+msgstr "Bundesland"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Landmark"
+msgstr "Sehenswürdigkeit"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Country"
+msgstr "Land"
+
+#: modules/aioseop_opengraph.php:52
+msgid "City"
+msgstr "Stadt"
+
+#: modules/aioseop_opengraph.php:49
+msgid "Public Figure"
+msgstr "Öffentliche Person"
+
+#: modules/aioseop_opengraph.php:48
+msgid "Profile"
+msgstr "Profil"
+
+#: modules/aioseop_opengraph.php:47
+msgid "Politician"
+msgstr "Politiker"
+
+#: modules/aioseop_opengraph.php:46
+msgid "Musician"
+msgstr "Musiker"
+
+#: modules/aioseop_opengraph.php:45
+msgid "Director"
+msgstr "Regisseur"
+
+#: modules/aioseop_opengraph.php:44
+msgid "Author"
+msgstr "Autor"
+
+#: modules/aioseop_opengraph.php:43
+msgid "Athlete"
+msgstr "Sportler"
+
+#: modules/aioseop_opengraph.php:42
+msgid "Actor"
+msgstr "Schauspieler"
+
+#: modules/aioseop_opengraph.php:39
+msgid "University"
+msgstr "Universität"
+
+#: modules/aioseop_opengraph.php:38
+msgid "School"
+msgstr "Schule"
+
+#: modules/aioseop_opengraph.php:37
+msgid "Non Profit"
+msgstr "Gemeinnützig"
+
+#: modules/aioseop_opengraph.php:36
+msgid "Government"
+msgstr "Regierung"
+
+#: modules/aioseop_opengraph.php:35
+msgid "Band"
+msgstr "Band"
+
+#: modules/aioseop_opengraph.php:32
+msgid "Sports Team"
+msgstr "Sportteam"
+
+#: modules/aioseop_opengraph.php:31
+msgid "Sports League"
+msgstr "Sportliga"
+
+#: modules/aioseop_opengraph.php:30
+msgid "Cause"
+msgstr "Anliegen"
+
+#: modules/aioseop_opengraph.php:27
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: modules/aioseop_opengraph.php:26
+msgid "Hotel"
+msgstr "Hotel"
+
+#: modules/aioseop_opengraph.php:25
+msgid "Cafe"
+msgstr "Cafe"
+
+#: modules/aioseop_opengraph.php:24
+msgid "Company"
+msgstr "Firma"
+
+#: modules/aioseop_opengraph.php:23
+msgid "Bar"
+msgstr "Bar"
+
+#: modules/aioseop_opengraph.php:20
+msgid "Sport"
+msgstr "Sport"
+
+#: modules/aioseop_opengraph.php:19
+msgid "Activity"
+msgstr "Aktivität"
+
+#: admin/aioseop_module_class.php:2550
+msgid "Update Options"
+msgstr "Optionen aktualisieren"
+
+#: admin/aioseop_module_class.php:2482
+msgid "All in One SEO Options Updated."
+msgstr "All in One SEO Optionen aktualisiert."
+
+#: admin/aioseop_module_class.php:2473
+msgid "Options Reset."
+msgstr "Optionen zurücksetzen."
+
+#: admin/aioseop_module_class.php:2470 modules/aioseop_sitemap.php:871
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "Sicherheitsüberprüfung - Wenn du dies fälschlicherweise erhältst, melde dich von WordPress ab und dann wieder an."
+
+#: admin/aioseop_module_class.php:2252
+msgid "Click for Help!"
+msgstr "Klicke hier, um Hilfe zu erhalten!"
+
+#: admin/aioseop_module_class.php:2213
+msgid " characters. Most search engines use a maximum of %s chars for the %s."
+msgstr " Zeichen. Die meisten Suchmaschinen nutzen höchstens %s Zeichen für die %s."
+
+#: admin/aioseop_module_class.php:1676
+msgid "Click here for documentation on this setting"
+msgstr "Klicke hier für eine Dokumentation zu dieser Einstellung"
+
+#: modules/aioseop_importer_exporter.php:511
+msgid "Settings export file for All in One SEO Pack"
+msgstr "Einstellungen für Export-Datei in All in One SEO Pack"
+
+#: modules/aioseop_importer_exporter.php:463
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>Warnung:</b> Folgender Beitrag konnte nicht gefunden werden: <b>\"%s\"</b>"
+
+#: modules/aioseop_importer_exporter.php:414
+msgid "<b>Warning:</b> Line not matched: <b>\"%s\"</b>, On Line: <b>%s</b>"
+msgstr "<b>Warnung:</b> Zeile passt nicht: <b>\"%s\"</b> in Zeile: <b>%s</b>"
+
+#: modules/aioseop_importer_exporter.php:155
+msgid ""
+"You may change this by activating or deactivating\n"
+"\t\t\t\t\t\tmodules in the Feature Manager."
+msgstr "Du kannst dies verändern, indem du Module im Feature-Manager aktivierst oder deaktivierst."
+
+#: modules/aioseop_importer_exporter.php:148
+msgid "There are no other modules currently loaded!"
+msgstr "Derzeit sind keine weiteren Module geladen!"
+
+#: modules/aioseop_importer_exporter.php:115
+msgid "Export"
+msgstr "Export"
+
+#: modules/aioseop_importer_exporter.php:64
+msgid ""
+"Note: If General Settings is checked, the\n"
+"\t\t\t\t\t\t\t\tGeneral Settings, the Feature Manager settings,\n"
+"\t\t\t\t\t\t\t\tand the following currently active modules will\n"
+"\t\t\t\t\t\t\t\thave their settings data exported:"
+msgstr "Hinweis: Wenn die allgemeinen Einstellungen ausgewählt sind, werden die allgemeinen Einstellungen, die Einstellungen des Feature-Managers und die Einstellungen der folgenden, gegenwärtig aktiven Module exportiert:"
+
+#: modules/aioseop_importer_exporter.php:51
+msgid "Export Post Types:"
+msgstr "Exportiere Inhaltstypen:"
+
+#: modules/aioseop_importer_exporter.php:43
+msgid "Export Settings"
+msgstr "Export Einstellungen"
+
+#: modules/aioseop_importer_exporter.php:37
+#: modules/aioseop_importer_exporter.php:105
+msgid "Import"
+msgstr "Importieren"
+
+#: modules/aioseop_importer_exporter.php:29
+msgid "Select which Post Types you want to export your All in One SEO Pack meta data for.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Wähle aus, für welche Inhaltstypen du deine All in One SEO Pack Meta-Daten exportieren möchtest. <br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Klicke hier, um die Dokumentation für diese Einstellung zu bekommen</a>"
+
+#: modules/aioseop_importer_exporter.php:25
+msgid "You may choose to export settings from active modules, and content from post data.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Du kannst die Einstellungen und Inhalte von Beitrags-Daten exportieren. <br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Klicke hier, um die Dokumentation für diese Einstellung zu bekommen</a>"
+
+#: modules/aioseop_importer_exporter.php:21
+msgid "Select a valid All in One SEO Pack ini file and click 'Import' to import options from a previous state or install of All in One SEO Pack.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Wähle eine gültige All in One SEO Pack ini-Datei und klicke auf 'Import', um Optionen einer vorherigen Einstellung oder All in One SEO Pack-Installation zu importieren.<br /><a href='https://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Klicke hier, um die Dokumentation für diese Einstellung zu bekommen</a>."
+
+#: inc/aioseop_functions.php:816
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/aioseop_functions.php:813
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/aioseop_functions.php:807
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/aioseop_functions.php:571
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "Bitte lies für eine Fehlerbehebung deiner Social Meta in der Dokumentation jedes einzelnen Tools nach, wie es verwendet wird."
+
+#: inc/aioseop_functions.php:561
+msgid "You should avoid duplicate social meta tags. You can use these free tools from Facebook and Twitter to validate your social meta and check for errors:"
+msgstr "Du solltest doppelte Social-Meta-Tags vermeiden. Du kannst diese Gratis-Tools von Facebook, Google und Twitter benutzen, um dein Social-Meta zu validieren und auf Fehler zu überprüfen:"
+
+#: inc/aioseop_functions.php:560
+msgid "You may prefer to use the social meta tags that are being output by the other plugin(s) or theme. If so, then you should deactivate this Social Meta feature in All in One SEO Pack Feature Manager."
+msgstr "Möglicherweise möchtest du lieber die Social-Meta-Tags eines anderen Plugins oder Themes verwenden. Falls das so ist, solltest du dieses Social-Meta-Feature im All in One SEO Pack Feature-Manager deaktivieren."
+
+#: inc/aioseop_functions.php:559
+msgid "All in One SEO Pack has detected that a plugin(s) or theme is also outputting social meta tags on your site. You can view this social meta in the source code of your site (check your browser help for instructions on how to view source code)."
+msgstr "All in One SEO Pack hat festgestellt, dass ein Plugin(s) oder Theme auch Social-Meta-Tags auf deiner Seite ausgibt. Du kannst diese Social-Meta-Daten im Quelltext deiner Website sehen (finde über die Hilfe deines Browsers heraus, wie du dir den Quelltext ansehen kannst)."
+
+#: inc/aioseop_functions.php:558
+msgid "What Does This Mean?"
+msgstr "Was bedeutet das?"
+
+#: inc/aioseop_functions.php:555
+msgid "No duplicate meta tags found."
+msgstr "Keine doppelten Meta Tags gefunden."
+
+#: inc/aioseop_functions.php:546
+msgid "Duplicate %s Meta"
+msgstr "Dupliziere %s Meta"
+
+#: inc/aioseop_functions.php:482
+msgid "Row %s not found; no rows were deleted."
+msgstr "Reihe %s nicht gefunden; keine Reihen wurden gelöscht."
+
+#: inc/aioseop_functions.php:382
+msgid "Unauthorized access; try reloading the page."
+msgstr "Unerlaubter Zugriff; versuch, die Seite neu zu laden."
+
+#: inc/aioseop_functions.php:359 inc/aioseop_functions.php:710
+#: modules/aioseop_performance.php:205 modules/aioseop_performance.php:210
+#: modules/aioseop_performance.php:215 modules/aioseop_performance.php:224
+msgid "No"
+msgstr "Nein"
+
+#: inc/aioseop_functions.php:254
+msgid "Insert time"
+msgstr "Einfügungszeit"
+
+#: inc/aioseop_functions.php:253
+msgid "Revisions"
+msgstr "Revisionen"
+
+#: inc/aioseop_functions.php:252
+msgid "Slug may not be empty!"
+msgstr "Titelform darf nicht leer sein!"
+
+#: inc/aioseop_functions.php:251
+msgid "Please wait..."
+msgstr "Bitte warten ..."
+
+#: inc/aioseop_functions.php:249
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: inc/aioseop_functions.php:248
+msgid "Save"
+msgstr "Speichern"
+
+#: inc/aioseop_functions.php:247
+msgid "Post"
+msgstr "Veröffentlichen"
+
+#: inc/aioseop_functions.php:246 inc/aioseop_functions.php:363
+#: inc/aioseop_functions.php:714
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/aioseop_functions.php:176
+msgid "SEO Keywords"
+msgstr "SEO Suchbegriffe"
+
+#: inc/aioseop_functions.php:174
+msgid "SEO Description"
+msgstr "SEO Beschreibung"
+
+#: inc/aioseop_functions.php:173
+msgid "SEO Title"
+msgstr "SEO Titel"
+
+#: modules/aioseop_file_editor.php:108
+msgid "Update .htaccess"
+msgstr ".htaccess aktualisieren"
+
+#: modules/aioseop_file_editor.php:102
+msgid "Update robots.txt"
+msgstr "Robots.txt aktualisieren"
+
+#: modules/aioseop_file_editor.php:65
+msgid "Edit robots.txt"
+msgstr "Robots.txt ändern"
+
+#: modules/aioseop_file_editor.php:60
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: modules/aioseop_file_editor.php:59
+msgid "robots.txt"
+msgstr "robots.txt"
+
+#: modules/aioseop_file_editor.php:43 modules/aioseop_file_editor.php:70
+msgid "Edit .htaccess"
+msgstr ".htaccess ändern"
+
+#: modules/aioseop_file_editor.php:34
+msgid "Edit Robots.txt"
+msgstr "Robots.txt ändern"
+
+#: modules/aioseop_file_editor.php:30
+msgid ".htaccess editor"
+msgstr ".htaccess Editor"
+
+#: modules/aioseop_file_editor.php:29 modules/aioseop_robots.php:21
+msgid "Robots.txt editor"
+msgstr "Robots.txt Editor"
+
+#: modules/aioseop_feature_manager.php:149
+msgid "Reset Features"
+msgstr "Features zurücksetzen"
+
+#: modules/aioseop_feature_manager.php:147
+msgid "Update Features"
+msgstr "Features aktualisieren"
+
+#: inc/commonstrings.php:21 modules/aioseop_feature_manager.php:67
+#: modules/aioseop_feature_manager.php:74
+msgid "Video Sitemap"
+msgstr "Video Sitemap"
+
+#: modules/aioseop_feature_manager.php:62
+msgid "Coming Soon..."
+msgstr "Bald erhältlich..."
+
+#: modules/aioseop_feature_manager.php:46
+msgid "Exports and imports your All in One SEO Pack plugin settings."
+msgstr "Exportiert und importiert deine All in One SEO Pack Plugin Einstellungen."
+
+#: modules/aioseop_feature_manager.php:45
+#: modules/aioseop_importer_exporter.php:16
+msgid "Importer & Exporter"
+msgstr "Importer & Exporter"
+
+#: modules/aioseop_feature_manager.php:54
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "Optimiere die Performance in Bezug auf SEO und prüfe deinen Systemstatus."
+
+#: modules/aioseop_feature_manager.php:53 modules/aioseop_performance.php:15
+msgid "Performance"
+msgstr "Leistung"
+
+#: modules/aioseop_feature_manager.php:50
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "Halte schädlich agierende Bots davon ab, deine Website zu verlangsamen."
+
+#: modules/aioseop_feature_manager.php:42
+msgid "Edit your robots.txt file and your .htaccess file to fine-tune your site."
+msgstr "Verändere deine robots.txt-Datei und deine .htaccess-Datei, um deine Website präzise einzustellen."
+
+#: modules/aioseop_feature_manager.php:41 modules/aioseop_file_editor.php:19
+msgid "File Editor"
+msgstr "Datei Editor"
+
+#: modules/aioseop_feature_manager.php:38
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "Erstelle und validiere deine robots,txt-Datei, um Suchmaschinen durch deine Seite zu führen."
+
+#: modules/aioseop_feature_manager.php:37 modules/aioseop_robots.php:12
+#: modules/aioseop_robots.php:175
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: modules/aioseop_feature_manager.php:34
+msgid "Activate this feature to add Social Meta data to your site to deliver closer integration between your website/blog and Facebook, Twitter, and Google+."
+msgstr "Aktiviere dieses Feature, um Social Meta Daten deiner Website hinzuzufügen, um eine engere Verbindung zwischen deiner Website/deinem Blog und Facebook, Twitter und Google+ herzustellen."
+
+#: modules/aioseop_feature_manager.php:33 modules/aioseop_opengraph.php:14
+msgid "Social Meta"
+msgstr "Social Meta"
+
+#: modules/aioseop_feature_manager.php:30
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Erstelle und verwalte mit diesem Feature XML Sitemaps und übermittle deine XML Sitemap an Google, Bing/Yahoo und Ask.com"
+
+#: modules/aioseop_feature_manager.php:29
+msgid "XML Sitemaps"
+msgstr "XML Sitemaps"
+
+#: modules/aioseop_feature_manager.php:23
+msgid "Feature Manager"
+msgstr "Feature Manager"
+
+#: aioseop_class.php:4437
+msgid "Main Settings"
+msgstr "Haupteinstellungen"
+
+#: admin/aioseop_module_class.php:2012 admin/aioseop_module_class.php:2287
+#: admin/aioseop_module_class.php:2586 aioseop_class.php:4747
+#: aioseop_class.php:4765
+msgid "Help"
+msgstr "Hilfe"
+
+#: aioseop_class.php:4717
+msgid "Version"
+msgstr "Version"
+
+#: aioseop_class.php:4717
+msgid "Support"
+msgstr "Support"
+
+#: aioseop_class.php:4702
+msgid "Join Our Mailing List"
+msgstr "Abonniere unsere Mailingliste"
+
+#: aioseop_class.php:4618
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: aioseop_class.php:4494
+msgid "Upgrade To Pro"
+msgstr "Upgrade auf Pro"
+
+#: aioseop_class.php:4514
+msgid "Edit SEO"
+msgstr "SEO bearbeiten"
+
+#: aioseop_class.php:4487
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/deprecated.php:173 inc/deprecated.php:220 inc/deprecated.php:261
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: inc/deprecated.php:145
+msgid "Connect With Google Analytics"
+msgstr "Mit Google Analytics verbinden"
+
+#: inc/deprecated.php:138
+msgid "Remove Stored Credentials"
+msgstr "Gespeicherte Daten entfernen"
+
+#: inc/deprecated.php:137
+msgid "Disconnect From Google Analytics"
+msgstr "Von Google Analytics abmelden"
+
+#: aioseop_class.php:3736
+msgid "Debug Warning: All in One SEO Pack meta data was included again from %s filter. Called %s times!"
+msgstr "Debug Warnung: All in One SEO Pack Metadaten wurden erneut von %s Filter eingeschlossen. %s mal aufgerufen!"
+
+#: admin/display/general-metaboxes.php:140
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Du fängst gerade erst an? Lies die Einführung für Einsteiger"
+
+#: admin/display/general-metaboxes.php:136
+msgid "Watch video tutorials"
+msgstr "Einführungsvideos ansehen"
+
+#: admin/display/general-metaboxes.php:132
+msgid "View the Changelog"
+msgstr "Changelog ansehen"
+
+#: admin/display/general-metaboxes.php:127
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "All in One SEO Pro Plugin Changelog"
+
+#: admin/display/general-metaboxes.php:124
+msgid "Access our Premium Support Forums"
+msgstr "Zugang zu unseren Premium Support Foren"
+
+#: admin/display/general-metaboxes.php:123
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "All in One SEO Pro Plugin Support Forum"
+
+#: admin/display/general-metaboxes.php:119
+msgid "Read the All in One SEO Pack user guide"
+msgstr "Lese das All in One SEO Pack Benutzerhandbuch"
+
+#: admin/display/general-metaboxes.php:103
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "Melde dich noch heute an, und erhalte ein Gratis-Exemplar unseres eBooks 5 SEO Tips for Wordpress (Wert 39$)"
+
+#: admin/display/general-metaboxes.php:101
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "Trag dich in unsere Mailingliste ein, um Tipps, Tricks und WordPress-Geheimnisse zu erhalten."
+
+#: aioseop_class.php:948
+msgid "UPGRADE TO PRO VERSION"
+msgstr "UPGRADE AUF PRO VERSION"
+
+#: admin/display/general-metaboxes.php:42
+msgid "Pro Version"
+msgstr "Pro Version"
+
+#: admin/display/general-metaboxes.php:37
+msgid "Reset Dismissed Notices"
+msgstr "Abgelehnte Anmerkungen zurücksetzen"
+
+#: aioseop_class.php:3388
+msgid "noydir"
+msgstr "noydir"
+
+#: aioseop_class.php:3387
+msgid "ydir"
+msgstr "ydir"
+
+#: aioseop_class.php:3386
+msgid "Default - noydir"
+msgstr "Standard - noydir"
+
+#: aioseop_class.php:3380
+msgid "noodp"
+msgstr "noodp"
+
+#: aioseop_class.php:3379
+msgid "odp"
+msgstr "odp"
+
+#: aioseop_class.php:3378
+msgid "Default - noodp"
+msgstr "Standard - noodp"
+
+#: aioseop_class.php:3372
+msgid "nofollow"
+msgstr "nofollow"
+
+#: aioseop_class.php:3371
+msgid "follow"
+msgstr "folgen"
+
+#: aioseop_class.php:3370
+msgid "Default - nofollow"
+msgstr "Standard - nofollow"
+
+#: aioseop_class.php:3364
+msgid "noindex"
+msgstr "noindex"
+
+#: aioseop_class.php:3363
+msgid "index"
+msgstr "index"
+
+#: aioseop_class.php:3362
+msgid "Default - noindex"
+msgstr "Standard - noindex"
+
+#: aioseop_class.php:3280
+msgid "Reset ALL Settings to Defaults"
+msgstr "ALLE Einstellungen auf Standard zurücksetzen"
+
+#: aioseop_class.php:3276
+msgid "Reset General Settings to Defaults"
+msgstr "Allgemeine Einstellungen auf Standard zurücksetzen"
+
+#: aioseop_class.php:3097
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! New since 2.2: Control who accesses your site with the new Robots.txt Editor and File Editor modules!  Enable them from the Feature Manager.  Remember to review your settings, we have added some new ones!"
+msgstr "Danke, dass du das neue und beste All in One SEO Pack aller Zeiten benutzt! Neu seit 2.2: Kontrolliere, mit dem neuen Robots.txt Editor und Datei-Editor-Modulen, wer auf deine Website zugreift! Aktiviere diese im Feature Manager. Denk daran, deine Einstellungen zu überprüfen; wir haben einige neue hinzugefügt!"
+
+#: aioseop_class.php:3061 aioseop_class.php:3078 aioseop_class.php:3096
+msgid "Review Your Settings"
+msgstr "Einstellungen anschauen"
+
+#: aioseop_class.php:3089
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Danke, dass du das neue und beste All in One SEO Pack aller Zeiten benutzt! Bitte überprüfen deine Einstellungen, da wir ständig neue Features für dich hinzufügen!"
+
+#: aioseop_class.php:3070 aioseop_class.php:3088
+msgid "Welcome to Version %s!"
+msgstr "Willkommen zu Version %s!"
+
+#: aioseop_class.php:3188
+msgid "%%tax_%s%% - This post's associated %s taxonomy title"
+msgstr "%%tax_%s%% - Der Titel der %s Taxonomie des Beitrags"
+
+#: aioseop_class.php:3184
+msgid "%post_title% - The original title of the post."
+msgstr "%post_title% - Der Original-Titel des Beitrags."
+
+#: aioseop_class.php:3170
+msgid "Title Format:"
+msgstr "Titelformat:"
+
+#: aioseop_class.php:3162
+msgid "Everywhere Else"
+msgstr "Überall sonst"
+
+#: aioseop_class.php:3162
+msgid "Front Page"
+msgstr "Startseite"
+
+#: aioseop_class.php:1119
+msgid "Advanced Settings"
+msgstr "Erweiterte Einstellungen"
+
+#: aioseop_class.php:1098
+msgid "Noindex Settings"
+msgstr "Noindex Einstellungen"
+
+#: aioseop_class.php:1071
+msgid "Google Settings"
+msgstr "Google Einstellungen"
+
+#: aioseop_class.php:1066
+msgid "Webmaster Verification"
+msgstr "Webmaster Verifizierung"
+
+#: aioseop_class.php:1061
+msgid "Display Settings"
+msgstr "Anzeigeeinstellungen"
+
+#: aioseop_class.php:1056
+msgid "Custom Post Type Settings"
+msgstr "Einstellungen für benutzerdefinierte Inhaltstypen"
+
+#: aioseop_class.php:1035
+msgid "Title Settings"
+msgstr "Titel Einstellungen"
+
+#: aioseop_class.php:1137
+msgid "Keyword Settings"
+msgstr "Keyword Einstellungen"
+
+#: aioseop_class.php:1030 modules/aioseop_opengraph.php:562
+msgid "Home Page Settings"
+msgstr "Homepage Einstellungen"
+
+#: aioseop_class.php:1009
+msgid "Disable Google Analytics"
+msgstr "Google Analytics ausschalten"
+
+#: aioseop_class.php:1007
+msgid "Disable on this page/post"
+msgstr "Auf dieser Seite/bei diesem Post ausschalten"
+
+#: aioseop_class.php:1006
+msgid "Exclude From Sitemap"
+msgstr "Von Sitemap ausschließen"
+
+#: aioseop_class.php:1005
+msgid "Robots Meta NOYDIR"
+msgstr "Robots Meta NOYDIR"
+
+#: aioseop_class.php:1004
+msgid "Robots Meta NOODP"
+msgstr "Robots Meta NOODP"
+
+#: aioseop_class.php:1001
+msgid "Robots Meta NOFOLLOW"
+msgstr "Robots Meta NOFOLLOW"
+
+#: aioseop_class.php:997
+msgid "Robots Meta NOINDEX"
+msgstr "Robots Meta NOINDEX"
+
+#: aioseop_class.php:992
+msgid "Custom Canonical URL"
+msgstr "Selbst erstellte kanonische URL"
+
+#: aioseop_class.php:988
+msgid "Keywords (comma separated)"
+msgstr "Keywords (mit Kommata getrennt)"
+
+#: aioseop_class.php:980 modules/aioseop_opengraph.php:406
+msgid "Description"
+msgstr "Beschreibung"
+
+#: aioseop_class.php:974 modules/aioseop_opengraph.php:398
+msgid "Title"
+msgstr "Titel"
+
+#: aioseop_class.php:957
+msgid "Preview Snippet"
+msgstr "Preview Snippet"
+
+#: aioseop_class.php:948
+msgid "Upgrade to All in One SEO Pack Pro Version"
+msgstr "Upgrade zu All in One SEO Pack Pro"
+
+#: aioseop_class.php:898
+msgid "Log important events:"
+msgstr "Wichtige Ereignisse protokollieren:"
+
+#: aioseop_class.php:892
+msgid "Additional Blog Page Headers:"
+msgstr "Zusätzliche Blog-Seiten Header:"
+
+#: aioseop_class.php:886
+msgid "Additional Front Page Headers:"
+msgstr "Zusätzliche Startseiten-Header:"
+
+#: aioseop_class.php:880
+msgid "Additional Page Headers:"
+msgstr "Zusätzliche Page Headers:"
+
+#: aioseop_class.php:874
+msgid "Additional Post Headers:"
+msgstr "Zusätzliche Beitrags-Header:"
+
+#: aioseop_class.php:869
+msgid "Exclude Pages:"
+msgstr "Seiten ausschließen:"
+
+#: aioseop_class.php:861
+msgid "Unprotect Post Meta Fields:"
+msgstr "Post Meta Feld nicht schützen:"
+
+#: aioseop_class.php:857
+msgid "Use Schema.org Markup"
+msgstr "Schema.org Markup nutzen"
+
+#: aioseop_class.php:853
+msgid "Never Shorten Long Descriptions:"
+msgstr "Beschreibungen niemals kürzen:"
+
+#: aioseop_class.php:849
+msgid "Remove Descriptions For Paginated Pages:"
+msgstr "Beschreibungen von paginierten Seiten entfernen:"
+
+#: aioseop_class.php:844
+msgid "Run Shortcodes In Autogenerated Descriptions:"
+msgstr "Shortcodes in automatisch erstellten Beschreibungen ausführen:"
+
+#: aioseop_class.php:840
+msgid "Autogenerate Descriptions:"
+msgstr "Beschreibungen automatisch erstellen:"
+
+#: aioseop_class.php:836
+msgid "Avoid Using The Excerpt In Descriptions:"
+msgstr "Verwendung von Auszügen in Beschreibungen vermeiden:"
+
+#: aioseop_class.php:832
+msgid "Exclude site from Yahoo! Directory:"
+msgstr "Seite von Yahoo! Directory ausschließen:"
+
+#: aioseop_class.php:828
+msgid "Exclude site from the Open Directory Project:"
+msgstr "Seite vom Open Directory Project ausnehmen:"
+
+#: aioseop_class.php:824
+msgid "Use nofollow for paginated pages/posts:"
+msgstr "Nofollow für paginierte Seiten/Beiträge verwenden:"
+
+#: aioseop_class.php:820
+msgid "Use noindex for paginated pages/posts:"
+msgstr "Noindex für paginierte Seiten/Beiträge verwenden:"
+
+#: aioseop_class.php:814
+msgid "Use noindex for Taxonomy Archives:"
+msgstr "Noindex für Taxonomy Archives verwenden:"
+
+#: aioseop_class.php:810
+msgid "Use noindex for the 404 page:"
+msgstr "Noindex für 404 Seite verwenden:"
+
+#: aioseop_class.php:806
+msgid "Use noindex for the Search page:"
+msgstr "Noindex für Suche verwenden:"
+
+#: aioseop_class.php:802
+msgid "Use noindex for Tag Archives:"
+msgstr "Noindes für Tag-Archive verwenden"
+
+#: aioseop_class.php:798
+msgid "Use noindex for Author Archives:"
+msgstr "Noindex für Autorenarchive verwenden"
+
+#: aioseop_class.php:794
+msgid "Use noindex for Date Archives:"
+msgstr "Noindex für Datums-Archive verwenden:"
+
+#: aioseop_class.php:790
+msgid "Use noindex for Categories:"
+msgstr "Noindex für Kategorien verwenden:"
+
+#: aioseop_class.php:785
+msgid "Dynamically Generate Keywords for Posts Page/Archives:"
+msgstr "Dynamisch Keywords für Beitrags-Seite/Archive erstellen:"
+
+#: aioseop_class.php:780
+msgid "Use Tags for META keywords:"
+msgstr "Tags für META Keywords nutzen:"
+
+#: aioseop_class.php:775
+msgid "Use Categories for META keywords:"
+msgstr "Kategorien für META Keywords nutzen:"
+
+#: aioseop_class.php:763
+msgid "Enhanced Ecommerce:"
+msgstr "Erweiterte E-Commerce:"
+
+#: aioseop_class.php:751
+msgid "Enhanced Link Attribution:"
+msgstr "Erweiterte Link Attribution:"
+
+#: aioseop_class.php:739
+msgid "Track Outbound Links:"
+msgstr "Ausgehende Links tracken:"
+
+#: aioseop_class.php:727
+msgid "Exclude Users From Tracking:"
+msgstr "Folgende Nutzer vom Tracking ausschließen:"
+
+#: aioseop_class.php:715
+msgid "Display Advertiser Tracking:"
+msgstr "Advertiser Tracking anzeigen"
+
+#: aioseop_class.php:703
+msgid "Anonymize IP Addresses:"
+msgstr "IP Adressen anonymisieren:"
+
+#: aioseop_class.php:690
+msgid "Additional Domains:"
+msgstr "Zusätzliche Domains:"
+
+#: aioseop_class.php:678
+msgid "Track Multiple Domains:"
+msgstr "Mehrere Domains tracken:"
+
+#: aioseop_class.php:666
+msgid "Tracking Domain:"
+msgstr "Domain tracken:"
+
+#: aioseop_class.php:650
+msgid "Advanced Analytics Options:"
+msgstr "Erweiterte Analytics Einstellungen:"
+
+#: aioseop_class.php:644
+msgid "Google Analytics ID:"
+msgstr "Google Analytics ID:"
+
+#: aioseop_class.php:638
+msgid "Specify Publisher URL:"
+msgstr "Publisher URL angeben:"
+
+#: aioseop_class.php:628
+msgid "Display Publisher Meta on Front Page:"
+msgstr "Publisher Meta auf Startseite anzeigen:"
+
+#: aioseop_class.php:622
+msgid "Display Google Authorship:"
+msgstr "Google Autorenschaft anzeigen:"
+
+#: aioseop_class.php:612
+msgid "Advanced Authorship Options:"
+msgstr "Erweiterte Einstellungen zur Urheberschaft:"
+
+#: aioseop_class.php:606
+msgid "Specify A Preferred Name:"
+msgstr "Bevorzugten Namen angeben:"
+
+#: aioseop_class.php:603
+msgid "Set Preferred Site Name:"
+msgstr "Bevorzugten Seitennamen festlegen:"
+
+#: aioseop_class.php:600
+msgid "Display Sitelinks Search Box:"
+msgstr "Sitelinks Suchfeld anzeigen:"
+
+#: aioseop_class.php:595
+msgid "Disable Google Plus Profile:"
+msgstr "Google Plus Profil abschalten:"
+
+#: aioseop_class.php:590
+msgid "Google Plus Default Profile:"
+msgstr "Google Plus Standard Profil:"
+
+#: aioseop_class.php:585
+msgid "Pinterest Site Verification:"
+msgstr "Pinterest Site Verification:"
+
+#: aioseop_class.php:580
+msgid "Bing Webmaster Center:"
+msgstr "Bing Webmaster Center:"
+
+#: aioseop_class.php:575
+msgid "Google Webmaster Tools:"
+msgstr "Google Webmaster Tools:"
+
+#: inc/commonstrings.php:44
+msgid "Display Menu At The Top:"
+msgstr "Menü ganz oben anzeigen:"
+
+#: inc/commonstrings.php:43
+msgid "Display Menu In Admin Bar:"
+msgstr "Menü in Admin Bar anzeigen:"
+
+#: aioseop_class.php:569
+msgid "Show Column Labels for Custom Post Types:"
+msgstr "Zeige die Label der Reihen für benutzerdefinierte Inhaltstypen:"
+
+#: aioseop_class.php:559
+msgid "Custom titles:"
+msgstr "Custom Titles:"
+
+#: aioseop_class.php:554
+msgid "Default to NOYDIR:"
+msgstr "Standard auf NOYDIR:"
+
+#: aioseop_class.php:549
+msgid "Default to NOODP:"
+msgstr "Standard auf NOODP:"
+
+#: aioseop_class.php:544
+msgid "Default to NOFOLLOW:"
+msgstr "Standard auf NOFOLLOW:"
+
+#: aioseop_class.php:539
+msgid "Default to NOINDEX:"
+msgstr "Standard auf NOINDEX:"
+
+#: aioseop_class.php:528
+msgid "Enable Advanced Options:"
+msgstr "Erweiterte Einstellungen einschalten:"
+
+#: aioseop_class.php:516
+msgid "SEO on only these post types:"
+msgstr "SEO nur für diese Inhaltstypen:"
+
+#: aioseop_class.php:507
+msgid "SEO for Custom Post Types:"
+msgstr "SEO für benutzerdefinierte Inhaltstypen:"
+
+#: aioseop_class.php:501
+msgid "Paged Format:"
+msgstr "Format paginiert:"
+
+#: aioseop_class.php:495
+msgid "404 Title Format:"
+msgstr "Format 404-Titel:"
+
+#: aioseop_class.php:489
+msgid "Description Format"
+msgstr "Beschreibungs-Format"
+
+#: aioseop_class.php:483
+msgid "Search Title Format:"
+msgstr "Suche Titelformat:"
+
+#: aioseop_class.php:477
+msgid "Tag Title Format:"
+msgstr "Format Tag-Titel:"
+
+#: aioseop_class.php:471
+msgid "Author Archive Title Format:"
+msgstr "Format Autorenarchiv-Titel:"
+
+#: aioseop_class.php:465
+msgid "Date Archive Title Format:"
+msgstr "Format Datums-Archiv-Titel:"
+
+#: aioseop_class.php:459
+msgid "Archive Title Format:"
+msgstr "Format Archiv-Titel:"
+
+#: aioseop_class.php:453
+msgid "Category Title Format:"
+msgstr "Format Kategorie-Titel:"
+
+#: aioseop_class.php:447
+msgid "Post Title Format:"
+msgstr "Format Beitragstitel:"
+
+#: aioseop_class.php:441
+msgid "Page Title Format:"
+msgstr "Format Seitentitel:"
+
+#: aioseop_class.php:435
+msgid "Home Page Title Format:"
+msgstr "Homepage Titelformat:"
+
+#: aioseop_class.php:422
+msgid "Use Original Title:"
+msgstr "Ursprungstitel verwenden:"
+
+#: aioseop_class.php:412 modules/aioseop_performance.php:63
+msgid "Force Rewrites:"
+msgstr "Erzwinge Umschreiben:"
+
+#: aioseop_class.php:403
+msgid "Rewrite Titles:"
+msgstr "Titel umschreiben:"
+
+#: aioseop_class.php:398
+msgid "Enable Custom Canonical URLs:"
+msgstr "Selbsterstellte kanonische URLs einschalten:"
+
+#: aioseop_class.php:393
+msgid "No Pagination for Canonical URLs:"
+msgstr "Keine Paginierung für kanonische URLs:"
+
+#: aioseop_class.php:389
+msgid "Canonical URLs:"
+msgstr "Kanonische URLs:"
+
+#: aioseop_class.php:380
+msgid "Use Static Front Page Instead"
+msgstr "Stattdessen statische Startseite verwenden"
+
+#: aioseop_class.php:373
+msgid "Home Keywords (comma separated):"
+msgstr "Home Keywords (getrennt durch Kommata)"
+
+#: aioseop_class.php:369 aioseop_class.php:385 aioseop_class.php:408
+#: aioseop_class.php:418 aioseop_class.php:427 aioseop_class.php:512
+#: aioseop_class.php:533 aioseop_class.php:617 aioseop_class.php:633
+#: aioseop_class.php:655 modules/aioseop_performance.php:68
+msgid "Disabled"
+msgstr "Deaktiviert"
+
+#: aioseop_class.php:368 aioseop_class.php:384 aioseop_class.php:407
+#: aioseop_class.php:417 aioseop_class.php:426 aioseop_class.php:511
+#: aioseop_class.php:532 aioseop_class.php:616 aioseop_class.php:632
+#: aioseop_class.php:654 modules/aioseop_performance.php:67
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: aioseop_class.php:364
+msgid "Use Keywords:"
+msgstr "Keywords verwenden:"
+
+#: aioseop_class.php:354
+msgid "Home Description:"
+msgstr "Home Beschreibung:"
+
+#: aioseop_class.php:344
+msgid "Home Title:"
+msgstr "Home Titel:"
+
+#: aioseop_class.php:335
+msgid "Disable Google Analytics on this page."
+msgstr "Google Analytics auf dieser Seite deaktivieren."
+
+#: aioseop_class.php:334
+msgid "Disable SEO on this page."
+msgstr "SEO auf dieser Seite deaktivieren."
+
+#: aioseop_class.php:333
+msgid "Don't display this page in the sitemap."
+msgstr "Diese Seite in der Sitemap nicht anzeigen."
+
+#: aioseop_class.php:332
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for this page."
+msgstr "Markiere dieses Feld, um Yahoo! zu bitten, keine Beschreibungen dieser Seite für die Yahoo! directory zu nutzen."
+
+#: aioseop_class.php:331
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for this page."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, keine Beschreibungen aus dem Open Directory Project dieser Seite zu benutzen."
+
+#: aioseop_class.php:330
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, dass sie keinen Links dieser Seite folgen sollen."
+
+#: aioseop_class.php:329
+msgid "Check this box to ask search engines not to index this page."
+msgstr "Markiere dieses Feld, um Suchmaschinen darum zu bitten, diese Seite nicht zu indexieren."
+
+#: aioseop_class.php:328
+msgid "Override the canonical URLs for this post."
+msgstr "Die kanonischen URLs für diesen Beitrag überschreiben."
+
+#: aioseop_class.php:327
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "Mit Komma getrennte Liste der wichtigsten Schlüsselwörtern für diese Seite, die als META Schlüsselwörter verwendet werden."
+
+#: aioseop_class.php:326
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "META Beschreibung für diese Seite. Überschreibt alle automatisch erstellten Beschreibungen."
+
+#: aioseop_class.php:325
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "Ein selbst erstellter Titel, der im Title Tag für diese Seite auftaucht."
+
+#: aioseop_class.php:324
+msgid "A preview of what this page might look like in search engine results."
+msgstr "Eine Vorschau, wie diese Seite in Suchmaschinenergebnissen aussehen könnte."
+
+#: aioseop_class.php:234
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Was du hier eingibst, wird wortgetreu in den Header der Homepage geschrieben, wenn du unter Einstellungen &gt; Lesen eingestellt hat, dass die Startseite die neuesten Beiträge anzeigen soll. Es wird auch wortwörtlich in den Header auf der Beitragsseite übernommen, wenn du in Einstellungen &gt; Lesen eine ausgewählt hast. Du kannst hier alle möglichen zusätzliche Header eingeben, auch Referenzen zu Stylesheets."
+
+#: aioseop_class.php:233
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "Was du hier eingibst, wird unverändert in den Header der Startseite übernommen, wenn du eine statische Seite unter Einstellungen, Lesen, Startseite zeigt eingerichtet hast. Du kannst hier beliebig viele Header eingeben, auch Referenzen zu Stylesheets. Die Einstellung fällt auf zusätzliche Seiten-Header zurück, wenn du diese festgelegt hast und hier nicht eingegeben wird."
+
+#: aioseop_class.php:232
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Was du hier eingibst, wird unverändert in den Header aller Seiten übernommen. Du kannst hier beliebig viele Header eingeben, auch Referenzen zu Stylesheets."
+
+#: aioseop_class.php:231
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Was du hier eingibst, wird unverändert in den Header aller Beiträge übernommen. Du kannst hier beliebig viele Header eingeben, auch Referenzen zu Stylesheets."
+
+#: aioseop_class.php:230
+msgid "Enter a comma separated list of pages here to be excluded by All in One SEO Pack.  This is helpful when using plugins which generate their own non-WordPress dynamic pages.  Ex: <em>/forum/, /contact/</em>  For instance, if you want to exclude the virtual pages generated by a forum plugin, all you have to do is add forum or /forum or /forum/ or and any URL with the word \\\"forum\\\" in it, such as http://mysite.com/forum or http://mysite.com/forum/someforumpage here and it will be excluded from All in One SEO Pack."
+msgstr "Gib hier eine Liste mit Komma getrennter Seiten ein, die von All in One SEO Pack nicht berücksichtigt werden sollen. Das ist nützlich, wenn du Plugins verwendest, die eigene dynamische nicht-WordPress Seiten erstellen. Z.B. <em>/forum/, /contact/</em> Wenn du zum Beispiel virtuelle Seiten, die durch ein Foren-Plugin erstellt werden, ausschließen möchtest, musst du lediglich /forum oder /forum/ oder irgendeine URL mit dem Wort \"forum\" wie etwa http://mysite.com/forum oder http://mysite.com/forum/someforumpage hier eingeben und sie wird von All in One SEO Pack nicht berücksichtigt."
+
+#: aioseop_class.php:228
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "Markiere dies um den Schutz interner Beitrags-Meta-Felder für die Verwendung mit XMLRPC aufzuheben. Wenn du nicht weißt, worum es dabei geht, lass das Feld leer."
+
+#: aioseop_class.php:227
+msgid "Check this to support Schema.org markup, i.e., itemprop on supported metadata."
+msgstr "Markiere dieses Feld, um Schema.org-Markup zu unterstützen, z.B. itemprop für unterstützte Metadaten."
+
+#: aioseop_class.php:226
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "Markiere dieses Feld, um die Kürzung deiner Beschreibung unabhängig von ihrer Länge zu verhindern."
+
+#: aioseop_class.php:225
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "Markiere dieses Feld, um Meta-Beschreibungen von Seite 2 und folgende von paginierten Seiten zu entfernen."
+
+#: aioseop_class.php:224
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "Markiere dieses Feld, damit Shortcodes für automatisch aus Inhalten erstellten Beschreibungen ausgeführt werden."
+
+#: aioseop_class.php:223
+msgid "Check this and your Meta Descriptions will be auto-generated from your excerpt or content."
+msgstr "Markiere dieses Feld, um Meta-Beschreibungen automatisch aus dem Auszug deiner Inhalte generieren zu lassen."
+
+#: aioseop_class.php:222
+msgid "Check this and your Meta Descriptions won't be generated from the excerpt."
+msgstr "Markiere dieses Feld, um Meta-Beschreiobungen nicht aus dem Auszug zu erstellen."
+
+#: aioseop_class.php:221
+msgid "Set the default noydir setting for each Post Type."
+msgstr "Lege die Standard noydir-Einstellung für jeden Inhaltsyp fest."
+
+#: aioseop_class.php:220
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for your entire site."
+msgstr "Markiere dieses Feld, um Yahoo! zu bitten, für diese Seite keine Beschreibungen vom Yahoo!-Verzeichnis zu benutzen."
+
+#: aioseop_class.php:219
+msgid "Set the default noodp setting for each Post Type."
+msgstr "Legen Sie die Standard noodp Einstellung für jeden Inhaltstyp fest."
+
+#: aioseop_class.php:218
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for your entire site."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, für die gesamte Website keine Beschreibungen aus dem Open Directory Projekt zu verwenden."
+
+#: aioseop_class.php:217
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, dass sie keine Links von paginierten Seiten/Beiträgen folgen sollen. Nützlich um doppelte Einträge zu vermeiden."
+
+#: aioseop_class.php:216
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, paginierte Seiten/Beiträge nicht zu indexieren. Nützlich um doppelte Einträge zu vermeiden."
+
+#: aioseop_class.php:215
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, Archive für eigene Taxonomie nicht zu indexieren. Nützlich um doppelte Einträge zu vermeiden."
+
+#: aioseop_class.php:214
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, 404-Seite nicht zu indexieren."
+
+#: aioseop_class.php:213
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, die Such-Seite nicht zu indexieren. Nützlich um doppelte Einträge zu vermeiden."
+
+#: aioseop_class.php:212
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, keine Tag-Archive zu indexieren. Nützlich um doppelte Einträge zu verhindern."
+
+#: aioseop_class.php:211
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, Autoren-Archive nicht zu indexieren. Nützlich um doppelte Einträge zu verhindern."
+
+#: aioseop_class.php:210
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, Datum-Archive nicht zu indexieren. Nützlich um doppelte Einträge zu verhindern."
+
+#: aioseop_class.php:209
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "Markiere dieses Feld, um Suchmaschinen zu bitten, Kategorie-Archive nicht zu indexieren. Nützlich um doppelte Einträge zu verhindern."
+
+#: aioseop_class.php:207
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "Legen Sie die Standard NOFOLLOW Einstellung für jeden Inhaltstyp fest."
+
+#: aioseop_class.php:206
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "Legen Sie die Standard NOINDEX Einstellung für jeden Inhaltstyp fest."
+
+#: aioseop_class.php:205
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "Dies aktiviert den Support für erweiterten E-Commerce in Google Anlaytics."
+
+#: aioseop_class.php:204
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "Dies aktiviert den Support für erweiterte Link Attribution in Google Analytics."
+
+#: aioseop_class.php:203
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "Markiere dieses Feld, um ausgehende Links mit Google Analytics zu tracken."
+
+#: aioseop_class.php:202
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "Eingeloggte Nutzer nach ihren Rollen vom Tracking durch Google Analytics ausschließen."
+
+#: aioseop_class.php:201
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "Dies aktiviert den Support für die Anzeige der Advertiser Features in Google Analytics."
+
+#: aioseop_class.php:200
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "Dies aktiviert den Support für IP Anonymisierung in Google Analytics."
+
+#: aioseop_class.php:199
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "Füge hier eine Liste zusätzlicher Domains ein, die du tracken möchten. Gib pro Zeile eine Domain ohne http:// ein."
+
+#: aioseop_class.php:198
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "Verwende diese Einstellung, um über mehrere oder zusätzliche Domains hinweg zu tracken."
+
+#: aioseop_class.php:197
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "Gib deinen Domainnamen ohne http:// ein, um deine Cookie Domain einzurichten."
+
+#: aioseop_class.php:196
+msgid "Check to use advanced Google Analytics options."
+msgstr "Markiere dieses Feld, um fortgeschrittene Google Analytics-Einstellungen zu verwenden."
+
+#: aioseop_class.php:195
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "Gib hier deine Google Analytics ID ein, um das Besucherverhalten auf deiner Website mit Google Analytics zu tracken."
+
+#: aioseop_class.php:194
+msgid "Press the connect button to connect with Google Analytics; or if already connected, press the disconnect button to disable and remove any stored analytics credentials."
+msgstr "Drücke den Connect-Button, um dich mit Google Analytics zu verbinden; oder wenn du bereits verbunden bist, drücke den Disconnect-Button, um gespeicherte Analytics Daten zu deaktivieren und entfernen."
+
+#: aioseop_class.php:193
+msgid "Add markup to tell Google the preferred name for your website."
+msgstr "Füge Markup hinzu, um Google den bevorzugten Namen deiner Webseite mitzuteilen."
+
+#: aioseop_class.php:192
+msgid "Add markup to display the Google Sitelinks Search Box next to your search results in Google."
+msgstr "Füge Markup hinzu, um die Google Sitelinks Search Box neben deinen Suchergebnissen in Google anzuzeigen."
+
+#: aioseop_class.php:191
+msgid "The Google+ profile you enter here will appear on your homepage only as the rel=\\\"publisher\\\" tag. It is recommended that the URL you enter here should be the Google+ profile for your business."
+msgstr "Das Google+ Profil, das du hier eingibst, wird auf deiner Homepage als rel=\\\"publisher\\\" Tag angezeigt. Es wird empfohlen, dass die URL, die du hier eingibst, dem Google+ Profil deiner Tätigkeit entspricht."
+
+#: aioseop_class.php:190
+msgid "This option allows you to control whether rel=\\\"publisher\\\" is displayed on the homepage of your site. Google recommends using this if the site is a business website."
+msgstr "Diese Einstellung erlaubt dir einzustellen, ob rel=\\\"publisher\\\" auf der Homepage deiner Webseite angezeigt wird. Google empfiehlt diese Einstellung, wenn deine Webseite kommerziell ist."
+
+#: aioseop_class.php:189
+msgid "This option allows you to control which types of pages you want to display rel=\\\"author\\\" on for Google authorship. The options include the Front Page (the homepage of your site), Posts, Pages, and any Custom Post Types. The Everywhere Else option includes 404, search, categories, tags, custom taxonomies, date archives, author archives and any other page template."
+msgstr "Diese Einstellung ermöglicht dir zu bestimmen, welche Seitentypen du mit rel=\\\"author\\\" für Google Authorship anzeigen möchtest. Diese Einstellung schließt die Startseite (die Homepage deiner Webseite) mit ein, auch Beiträge, Seiten und alle anderen benutzerdefinierten Inhaltstypen. Die Option Überall Sonst schließt 404, Suche, Kategorien, Tags, eigene Taxonomien, Datums-Archive, Autorenarchive und alle übrigen Seitentemplates ein."
+
+#: aioseop_class.php:188
+msgid "Enable this to display advanced options for controlling Google Plus authorship information on your website."
+msgstr "Aktiviere dies um erweiterte Einstellungen für Google Plus Urheber-Informationen auf deiner Website anzuzeigen."
+
+#: aioseop_class.php:187
+msgid "Check this to remove the Google Plus field from the user profile screen."
+msgstr "Markiere dieses Feld, um das Google+ Feld von der Nutzerprofil-Ansicht zu entfernen."
+
+#: aioseop_class.php:186
+msgid "Enter your Google+ Profile URL here to add the rel=“author” tag to your site for Google authorship. It is recommended that the URL you enter here should be your personal Google+ profile.  Use the Advanced Authorship Options below if you want greater control over the use of authorship."
+msgstr "Gibt hier die URL zu deinem Google+ Profil ein um zu deiner Website das Tag rel=\"author\" für den Google Urheber hinzuzufügen. Es wird empfohlen dass die URL die du hier eingibst die deines persönlichen Google+ Profils entspricht. Benutze die Advanced Authorship Option unten, falls du mehr Kontrolle über die Nutzung der Autorschaft haben möchtest."
+
+#: aioseop_class.php:185
+msgid "Enter your verification code here to verify your site with Pinterest.<br /><a href='https://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Gib hier deinen Bestätigungscode ein, um deine Webseite bei Pinterest zu bestätigen.<br /><a href='https://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Klicke hier, um die Dokumentation für diese Einstellung zu bekommen</a>"
+
+#: aioseop_class.php:184
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools.<br /><a href='https://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Gib hier deinen Bestätigungscode ein, um deine Website bei Bing Webmaster Tools zu bestätigen.<br /><a href='https://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Klicke hier, um die Dokumentation für diese Einstellung zu bekommen</a>"
+
+#: aioseop_class.php:183
+msgid "Enter your verification code here to verify your site with Google Webmaster Tools.<br /><a href='https://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Gib hier deinen Bestätigungscode ein, um die Verwendung der Google Webmaster Tools für deine Website zu bestätigen. <br /><a href='https://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Klicke hier, um die Dokumentation für deine Einstellung zu bekommen</a>"
+
+#: inc/commonstrings.php:47
+msgid "Check this to move the All in One SEO Pack menu item to the top of your WordPress Dashboard menu."
+msgstr "Markiere dieses Feld, um den Menüeintrag für das All in One SEO Pack in deinem WordPress Dashboard-Menü ganz nach oben zu setzen."
+
+#: inc/commonstrings.php:46
+msgid "Check this to add All in One SEO Pack to the Admin Bar for easy access to your SEO settings."
+msgstr "Markiere dieses Feld, um All in One SEO Pack der Admin Bar hinzuzufügen, damit du leichter an deine SEO Einstellungen kommst."
+
+#: aioseop_class.php:182
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "Hier kannst du auswählen, welche Fenster die Spalten mit dem SEO Titel, den SEO Schlagwörter und der SEO Beschreibung anzeigen sollen."
+
+#: aioseop_class.php:181
+msgid "This allows you to set the title tags for each Custom Post Type."
+msgstr "Dies ermöglicht dir, die Title Tags für jeden benutzerdefinierten Inhaltstyp einzurichten."
+
+#: aioseop_class.php:179
+msgid "Use these checkboxes to select which Post Types you want to use All in One SEO Pack with."
+msgstr "Verwende diese Checkboxen, um auszuwählen, bei welchen Inhaltstypen du All in One SEO Pack verwenden möchtest."
+
+#: aioseop_class.php:178
+msgid "This will show or hide the advanced options for SEO for Custom Post Types."
+msgstr "Dies zeigt oder versteckt die erweiterten Einstellungen für SEO für benutzerdefinierte Inhaltstypen."
+
+#: aioseop_class.php:177
+msgid "Check this if you want to use All in One SEO Pack with any Custom Post Types on this site."
+msgstr "Markiere dieses Feld, falls du All in One SEO Pack auf dieser Website mit beliebigen benutzerdefinierten Inhaltstypen verwenden möchtest."
+
+#: aioseop_class.php:176
+msgid "%page% - The page number"
+msgstr "%page% - die Seitennummer"
+
+#: aioseop_class.php:175 aioseop_class.php:3181 aioseop_class.php:3234
+msgid "The following macros are supported:"
+msgstr "Folgende Makros werden unterstützt:"
+
+#: aioseop_class.php:174
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "Die Zeichenkette wird dem Titel paginierter Index-Seiten (wie Home oder Archiv-Seiten) angehangen/vorangestellt."
+
+#: aioseop_class.php:173
+msgid "%404_title% - Additional 404 title input\""
+msgstr "%404_title% - Zusätzlicher 404 Titel Input\""
+
+#: aioseop_class.php:172
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - Der URL-Pfad in lesbarer Form wie \"Url That Does Not Exist\""
+
+#: aioseop_class.php:171
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - Der ursprüngliche URL-Pfad wie \"/url-that-does-not-exist/\""
+
+#: aioseop_class.php:168
+msgid "This controls the format of the title tag for the 404 page.<br />The following macros are supported:"
+msgstr "Steuert das Titel-Tag für die 404 Seite.<br />Folgende Makros werden unterstützt:"
+
+#: aioseop_class.php:166
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr "%wp_title% - Der ursprüngliche WordPress Titel, z. B. post_title für Beiträge"
+
+#: aioseop_class.php:164
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr "%description% - Die vom Plugin ursprünglich vorgegebene Beschreibung, z. B. der Auszug, falls eines festgelegt oder automatisch erstellt wurde, wenn diese Einstellung eingestellt wurde"
+
+#: aioseop_class.php:161
+msgid "This controls the format of Meta Descriptions.The following macros are supported:"
+msgstr "Steuert das Format der Meta Beschreibungen. Folgende Makros werden unterstützt:"
+
+#: aioseop_class.php:160
+msgid "%search% - What was searched for"
+msgstr "%search% - Wonach gesucht wurde"
+
+#: aioseop_class.php:157
+msgid "This controls the format of the title tag for the Search page.<br />The following macros are supported:"
+msgstr "Steuert das Format des Titel-Tags für die Suche-Seite.<br />Folgende Makros werden unterstützt:"
+
+#: aioseop_class.php:155
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - Name des Tags"
+
+#: aioseop_class.php:152
+msgid "This controls the format of the title tag for Tag Archives.<br />The following macros are supported:"
+msgstr "Steuert das Format des Titel-Tags für Tag-Archive.<br />Die folgenden Makros werden unterstützt:"
+
+#: aioseop_class.php:150
+msgid "%author% - The original archive title given by wordpress, e.g. \"Steve\" or \"John Smith\""
+msgstr "%author% - Der ursprünglich von WordPress vorgegebene Autorenname, z. B. \"Steve\" oder \"John Smith\""
+
+#: aioseop_class.php:147
+msgid "This controls the format of the title tag for Author Archives.<br />The following macros are supported:"
+msgstr "Steuert das Format des Titel-Tag für Autorenarchive. <br />Die folgenden Makros werden unterstützt:"
+
+#: aioseop_class.php:145
+msgid "%year% - The original archive year given by wordpress, e.g. \"2007\""
+msgstr "%year% - Das ursprüngliche von WordPress vorgegebene Archiv-Jahr, z. B. \"2007\""
+
+#: aioseop_class.php:144
+msgid "%month% - The original archive month given by wordpress, e.g. \"August\""
+msgstr "%month% - Der ursprüngliche von WordPress vorgegebene Archiv-Monat, z. B. \"August\""
+
+#: aioseop_class.php:143
+msgid "%day% - The original archive day given by wordpress, e.g. \"17\""
+msgstr "%day% - Der ursprünglich von WordPress vorgegebene Archiv-Tag, z. B. \"17\""
+
+#: aioseop_class.php:142
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - Der ursprünglich von WordPress vorgegebene Archiv-Title, z. B. \"2007\" oder \"2007 August\""
+
+#: aioseop_class.php:139
+msgid "This controls the format of the title tag for Date Archives.<br />The following macros are supported:"
+msgstr "Steuert das Format des Titel-Tags für Datum-Archive.<br />Die folgenden Makros werden unterstützt:"
+
+#: aioseop_class.php:137
+msgid "%archive_title - The original archive title given by wordpress"
+msgstr "%archive_title - Der ursprünglich von WordPress vorgegebene Archiv-Titel"
+
+#: aioseop_class.php:134
+msgid "This controls the format of the title tag for Custom Post Archives.<br />The following macros are supported:"
+msgstr "Steuert das Format für den Titel-Tag für benutzerdefinierte Inhalts-Archive.<br />Die folgenden Makros werden unterstützt:"
+
+#: aioseop_class.php:132
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - Beschreibung der Kategorie"
+
+#: aioseop_class.php:131
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - Der ursprüngliche Titel der Kategorie"
+
+#: aioseop_class.php:128
+msgid "This controls the format of the title tag for Category Archives.<br />The following macros are supported:"
+msgstr "Steuert das Format des Titel-Tags für Kategorie-Archive.<br />Die folgenden Makros werden unterstützt:"
+
+#: aioseop_class.php:125 aioseop_class.php:3195
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - Der Nachname des Autors dieses Beitrags (großgeschrieben)"
+
+#: aioseop_class.php:124 aioseop_class.php:3194
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - Der (großgeschriebene) Vorname des Autors dieses Beitrags"
+
+#: aioseop_class.php:123 aioseop_class.php:3193
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - Der ausgeschriebene Name des Autors dieses Beitrags"
+
+#: aioseop_class.php:122 aioseop_class.php:3192
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - Login für den Beitragsautoren"
+
+#: aioseop_class.php:121
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - Alias für %category_title%"
+
+#: aioseop_class.php:120
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - Die (Haupt-)Kategorie des Beitrags"
+
+#: aioseop_class.php:119 aioseop_class.php:165
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - Ursprünglicher Titel des Beitrags"
+
+#: aioseop_class.php:116
+msgid "This controls the format of the title tag for Posts.<br />The following macros are supported:"
+msgstr "Hiermit können Sie das Format des Titel Tags für Beiträge verändern. <br />Folgende Makros werden unterstützt:"
+
+#: aioseop_class.php:106
+msgid "This controls the format of the title tag for Pages.<br />The following macros are supported:"
+msgstr "Hiermit können Sie das Format des Titel Tags für Seiten verändern. <br />Folgende Makros werden unterstützt:"
+
+#: aioseop_class.php:103 aioseop_class.php:113
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - Familienname des Autors dieser Seite (großgeschrieben)"
+
+#: aioseop_class.php:102 aioseop_class.php:112
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - Vorname des Autors dieser Seite (großgeschrieben)"
+
+#: aioseop_class.php:101 aioseop_class.php:111
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - Name des Autors für diese Seite"
+
+#: aioseop_class.php:100 aioseop_class.php:110
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - Autoren-Login für diese Seite"
+
+#: aioseop_class.php:99 aioseop_class.php:109
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - Ursprünglicher Titel der Seite"
+
+#: aioseop_class.php:98 aioseop_class.php:108 aioseop_class.php:118
+#: aioseop_class.php:130 aioseop_class.php:136 aioseop_class.php:141
+#: aioseop_class.php:149 aioseop_class.php:154 aioseop_class.php:159
+#: aioseop_class.php:163 aioseop_class.php:170 aioseop_class.php:3183
+#: aioseop_class.php:3236
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - Beschreibung des Blogs"
+
+#: aioseop_class.php:97 aioseop_class.php:107 aioseop_class.php:117
+#: aioseop_class.php:129 aioseop_class.php:135 aioseop_class.php:140
+#: aioseop_class.php:148 aioseop_class.php:153 aioseop_class.php:158
+#: aioseop_class.php:162 aioseop_class.php:169 aioseop_class.php:3182
+#: aioseop_class.php:3235
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - Name des Blogs"
+
+#: aioseop_class.php:96
+msgid "This controls the format of the title tag for your Home Page.<br />The following macros are supported:"
+msgstr "Hiermit wird das Format des Titel-Schlagwortes deiner Homepage geregelt. <br />Die folgenden Makros werden unterstützt:"
+
+#: aioseop_class.php:94
+msgid "Check this and Search Page Titles and Tag Page Titles will have the first letter of each word capitalized."
+msgstr "Markiere dieses Feld und bei Suchseiten-Titeln und Schlagwortseiten-Titeln werden die Anfangsbuchstaben jedes Wortes großgeschrieben."
+
+#: aioseop_class.php:93
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the title bar and in the source code. If enabled, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: Using the default post title format below, Rewrite Titles will write all post titles as 'Post Title | Blog Name'. If you have manually defined a title using All in One SEO Pack, this will become the title of your post in the format string."
+msgstr "Beachte, dass sich hier alles um das Titel-Tag dreht, also was du in der Titelleiste deines Browserfensters siehst. Der Titel erscheint NICHT auf deiner Seite, sonder nur in der Titelleiste und im Quelltext. Wenn aktiviert, werden alle Titel für Seiten, Beiträge, Kategorien, Suche und Archivseiten umgeschrieben. Für die meisten kannst du ein Format festlegen. Beispiel: Durch Verwendung des Standard-Beitragstitels unten werden mit Titel umschreiben alle Beitragstitel auf 'Beitragstitel | Blog-Name' geändert. Wenn du manuell einen Titel mit All in One SEO Pack definiert hast, wird dieser als der Titel für deinen Beitrag verwendet."
+
+#: aioseop_class.php:92
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Markiere dieses Feld, wenn deine Schlüsselwörter auf deiner Beitrags-Seite (in WordPress unter Einstellungen, Lesen, Startseite zeigt festgelegt) und deinen Archivseiten dynamisch aus den Schlüsselwörtern der auf dieser Seite gezeigten Beiträge generiert werden sollen. Ist das Feld nicht markiert, werden die Schlüsselwörter verwendet, die beim Bearbeiten der Beitragsseite als Schlüsselwörter angegeben wurden."
+
+#: aioseop_class.php:91
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Markiere dieses Feld, wenn du die für einen Beitrag verwendeten Schlagwörter (zusätzlich zu den bei der Beitragsbearbeitung festgelegten Schlüsselwörtern) als Meta-Schlüsselwörter für diesen Beitrag verwenden möchtest. "
+
+#: aioseop_class.php:90
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Markiere dieses Feld, wenn du Kategorien für einen bestimmten Beitrag (zusätzlich zu allen Schlüsselwörtern, die die beim Bearbeiten des Beitrags festlegst) als Meta-Schlüsselwörter verwenden möchtest."
+
+#: aioseop_class.php:89
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Diese Einstellung ermöglicht dir, die Verwendung von Meta-Schlüsselwörtern über die gesamte Website ein- und auszuschalten."
+
+#: aioseop_class.php:88
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "Durch Markieren diese Einstellung wird der Titel, die Beschreibung und Schlüsselwörter verwendet, die auf deiner statischen Startseite festgelegt wurden."
+
+#: aioseop_class.php:87
+msgid "Enter a comma separated list of your most important keywords for your site that will be written as Meta Keywords on your homepage. Do not stuff everything in here."
+msgstr "Gib eine durch Komma getrennte Liste wichtiger Schlagwörter für deine Website ein, die als Meta-Keywords in deine Homepage geschrieben werden. Pack hier nicht alles rein."
+
+#: aioseop_class.php:86
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "Dies wird die Meta-Beschreibung für deine Homepage. Sie ist unabhängig von allen anderen Einstellungen. Die Standardeinstellung ist keine Meta-Beschreibung, wenn dies nicht eingestellt wird."
+
+#: aioseop_class.php:85
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "Wie der Name schon sagt, wird dies der Meta-Titel deiner Homepage. Er ist unabhängig von allen anderen Einstellungen. Wenn hier nichts ausgewählt wird, wird der Standard-Seitentitel (in WordPress unter Einstellungen, Allgemein, Seitentitel) genutzt."
+
+#: aioseop_class.php:84
+msgid "Check this and All in One SEO Pack will create a log of important events (all-in-one-seo-pack.log) in its plugin directory which might help debugging. Make sure this directory is writable."
+msgstr "Markiere dies, um All in One SEO Pack ein Log wichtiger Ereignisse (all_in_one_seo_pack.log) erstellen und in sein Plugin-Verzeichnis schreiben zu lassen, was bei der Fehlersuche hilfreich sein kann. Vergewissere dich, dass das Verzeichnis beschreibbar ist."
+
+#: aioseop_class.php:83
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "Verwende wp_title, um den Titel zu bekommen, der vom Theme verwendet wird; dies ist standardmäßig deaktiviert. Wenn du diese Einstellung wählst, lege deine Titel-Formate entsprechend an, da dein Theme versuchen könnte, ebenfalls eigene SEO-Titel zu nutzen."
+
+#: aioseop_class.php:82
+msgid "Checking this option will allow you to customize Canonical URLs for specific posts."
+msgstr "Markiere dieses Feld, um kanonische URLs für bestimmte Beiträge anzupassen."
+
+#: aioseop_class.php:81
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "Markiere dieses Feld, um kanonische URL für den paginierten Inhalt bis zur ersten Seite festzulegen."
+
+#: aioseop_class.php:69 aioseop_class.php:1025
+#: modules/aioseop_opengraph.php:557
+msgid "General Settings"
+msgstr "Haupteinstellungen"
+
+#: aioseop_class.php:68
+msgid "%s Plugin Options"
+msgstr "%s Plugin Einstellungen"
+
+#: modules/aioseop_bad_robots.php:182
+msgid "No rules to update!"
+msgstr "Keine Regeln zu aktualisieren!"
+
+#: modules/aioseop_bad_robots.php:146 modules/aioseop_bad_robots.php:179
+msgid "Failed to update .htaccess rules!"
+msgstr ".htaccess Regeln konnten nicht aktualisiert werden!"
+
+#: modules/aioseop_bad_robots.php:144 modules/aioseop_bad_robots.php:177
+msgid "Updated .htaccess rules."
+msgstr ".htacess Regeln aktualisiert."
+
+#: modules/aioseop_bad_robots.php:157
+msgid "Apache module %s is required!"
+msgstr "Apache Modul %s benötigt!"
+
+#: modules/aioseop_bad_robots.php:109
+msgid "Blocked bot with IP %s -- matched referer %s found in blocklist."
+msgstr "Blockierter Bot mit IP %s -- übereinstimmend mit Referer %s in der Blockliste."
+
+#: modules/aioseop_bad_robots.php:103
+msgid "Blocked bot with IP %s -- matched user agent %s found in blocklist."
+msgstr "Blockierter Bot mit der IP %s  -- übereinstimmend mit User Agent %s in der Blockliste."
+
+#: modules/aioseop_bad_robots.php:60
+msgid "No requests yet."
+msgstr "Bisher keine Anfragen."
+
+#: modules/aioseop_bad_robots.php:59
+msgid "Log Of Blocked Bots"
+msgstr "Blockierte Bots archivieren"
+
+#: modules/aioseop_bad_robots.php:48
+msgid "Referer Blocklist"
+msgstr "Referer Blocklist"
+
+#: modules/aioseop_bad_robots.php:40
+msgid "User Agent Blocklist"
+msgstr "User Agent Blocklist"
+
+#: modules/aioseop_bad_robots.php:36
+msgid "Track Blocked Bots"
+msgstr "Blockierte Bots verfolgen"
+
+#: modules/aioseop_bad_robots.php:30
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "Log der aktuellen Anfragen blockierter Bots anzeigen. Anmerkung: hiermit werden keine Bots getrackt, die bereits vom Webserver/durch .htaccess geblockt werden."
+
+#: modules/aioseop_bad_robots.php:29
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "Liste der geblockten Referers, die zum Blocken von Bad Bots genutzt werden."
+
+#: modules/aioseop_bad_robots.php:28
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "Liste der geblockten User Agents, die zum Blocken von Bad Bots genutzt werden."
+
+#: modules/aioseop_bad_robots.php:27
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "Markiere dieses Feld, um die Liste der geblockten User Agents zum Blocken von Bad Bots zu bearbeiten."
+
+#: modules/aioseop_bad_robots.php:26
+msgid "Block bad robots via Apache .htaccess rules. Warning: this will change your web server configuration, make sure you are able to edit this file manually as well."
+msgstr "Blockiere Bad Robots via Apache .htaccess rules. Warnung: dies ändert die Konfiguration für deinen Webserver. Vergewissere dich, dass du diese Datei auch manuell verändern kannst."
+
+#: modules/aioseop_bad_robots.php:25
+msgid "Log and show recent requests from blocked bots."
+msgstr "Archiviere und zeige Anfragen von blockierten Bots."
+
+#: modules/aioseop_bad_robots.php:23
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "Anfragen von User Agents, die als Störer bekannt sind, blocken."
+
+#: modules/aioseop_bad_robots.php:17 modules/aioseop_feature_manager.php:49
+msgid "Bad Bot Blocker"
+msgstr "Bad Bot Blocker"

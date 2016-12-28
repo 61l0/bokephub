@@ -1,0 +1,3230 @@
+# Translation of Stable (latest release) in Korean
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-08-26 15:33:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: aioseop_class.php:230
+msgid "Redirect attachment pages to post parent."
+msgstr "부모를 등록하기 위해 첨부 페이지에 리다이렉트하세요."
+
+#: aioseop_class.php:898
+msgid "Redirect Attachments to Post Parent:"
+msgstr "부모를 등록하기 위해 첨부파일을 리다이렉트하세요:"
+
+#: modules/aioseop_opengraph.php:114
+msgid "This option lets you upload an image to use as the Twitter image for this Page or Post."
+msgstr "이 옵션은 페이지 또는 글을 위한 Twitter 이미지를 사용하기 위해 이미지를 업로드하게 해줍니다."
+
+#: modules/aioseop_opengraph.php:372
+msgid "Custom Twitter Image"
+msgstr "사용자 정의 Twitter 이미지"
+
+#: modules/aioseop_sitemap.php:54
+msgid "Dynamically creates the XML sitemap instead of using a static file."
+msgstr "정적 파일을 사용하는 것 대신에 XML 사이트 맵을 동적으로 만듭니다"
+
+#: modules/aioseop_importer_exporter.php:556
+msgid "<b>Security warning:</b> Your file looks compromised. Please check the file for any script-injection."
+msgstr "<b>보안 경고:</b> 파일이 손상된 것으로 보입니다. 스크립트 - 인젝션에 해당하는 파일을 확인하세요"
+
+#. translators: %1$s expands to the number of languages All in One SEO Pack has
+#. been translated into. $2%s to the percentage translated of the current
+#. language, $3%s to the language name, %4$s and %5$s to anchor tags with link
+#. to translation page at translate.wordpress.org
+#: admin/display/general-metaboxes.php:98
+msgid "All in One SEO Pack has been translated into %1$s languages, but currently the %3$s translation is only %2$s percent complete. %4$s Click here %5$s to help get it to 100 percent."
+msgstr "All in One SEO Pack이 %1$s(으)로 번역되었습니다, 하지만 현재 %3$s 번역이 %2$s 퍼센트만 완성되었습니다. %4$s 이곳을 클릭하셔서 %5$s 100 퍼센트가 되도록 도와주세요."
+
+#: admin/meta_import.php:79 admin/meta_import.php:85
+msgid "Sorry, you can't do that. Please choose a platform and then click Analyze or Convert."
+msgstr "죄송합니다, 이건 하실 수 없습니다. 플랫폼을 선택하시고 분석 또는 전환을 클릭하세요."
+
+#: admin/meta_import.php:198
+msgid "Analyze"
+msgstr "분석"
+
+#: admin/meta_import.php:199
+msgid "Convert"
+msgstr "전환"
+
+#: aioseop_class.php:452
+msgid "Capitalize Tag and Search Titles:"
+msgstr "태그 및 검색 타이틀 대문자로 쓰기:"
+
+#: aioseop_class.php:3086
+msgid "New in 2.4: Improved support for taxonomies, Woocommerce and massive performance improvements under the hood! Please review your settings on each options page!"
+msgstr "2.4 신규: 내부에 텍사노미, Woocommerce, 거대한 성능 향상을 위한 향상된 지원! 각 옵션 페이지에 설정을 리뷰하세요!"
+
+#: admin/meta_import.php:187
+msgid "Themes"
+msgstr "테마"
+
+#: admin/meta_import.php:149
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "SEO 데이터를 불러오길 원하는 플러그인이나 테마를 선택하시려면 아래의 드롭다운을 사용하세요."
+
+#: admin/meta_import.php:153
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into All in One SEO Pack, along with the number of records that will be imported."
+msgstr "불러 올 레코드 수와 함께, All in One SEO Pack에 불러올 수 있는 SEO 데이터의 목록을 확인하기 위해 \"분석\"을 클릭하세요."
+
+#: admin/meta_import.php:157
+msgid "Please Note: "
+msgstr "참고:"
+
+#: admin/meta_import.php:157
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in All in One SEO Pack, we will not import data from another plugin/theme."
+msgstr "일부 플러그인 및 테마는 유사한 데이터를 공유하지 않습니다, 또는 이들은 비표준 방식으로 데이터를 저장합니다. 이 데이터를 불러올 수 없다면, 이는 귀하의 데이터 베이스에 변경되지 않은 채로 남아있을 것입니다. 모든 호환이 가능한 SEO 데이터는 귀하가 리뷰하도록 표시될 것입니다. 포스트나 페이지가 이미 All in One SEO Pack에 SEO 데이터를 가지고 있다면, 다른 플러그인/테마에서 데이터를 불러오지 않을 것입니다."
+
+#: admin/meta_import.php:161
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "불러오기를 수행하기 위해 \"전환\"을 클릭하세요. 불러오기가 완료되면, 위의 기준에 따라, 얼마나 많은 레코드를 불러왔는지와 얼마나 많은 레코드가 무시되었는지에 대한 알림을 받습니다."
+
+#: admin/meta_import.php:165
+msgid "Before performing an import, we strongly recommend that you make a backup of your site. We use and recommend %s BackupBuddy %s for backups."
+msgstr "불러오기를 수행하기 전에, 사이트를 백업해두는 것을 강력하게 권장합니다. 저희는 백업을 위해 %s BackupBuddy %s 사용을 권장합니다."
+
+#: admin/meta_import.php:175
+msgid "Import SEO data from:"
+msgstr "SEO 데이터 불러오기:"
+
+#: admin/meta_import.php:177
+msgid "Choose platform:"
+msgstr "플랫폼 선택:"
+
+#: admin/meta_import.php:179
+msgid "Plugins"
+msgstr "플러그인"
+
+#: admin/meta_import.php:94
+msgid "Analysis Results"
+msgstr "분석 결과"
+
+#: admin/meta_import.php:98 admin/meta_import.php:121
+msgid "Sorry, something went wrong. Please try again"
+msgstr "죄송합니다, 어떤 오류가 발생하였습니다. 다시 시도해주세요"
+
+#: admin/meta_import.php:103
+msgid "<p>Analyzing records in a %s to %s conversion&hellip;"
+msgstr "<p>%s에서 %s로의 전환 기록 분석&hellip;"
+
+#: admin/meta_import.php:107
+msgid "Compatible data:"
+msgstr "호환 가능한 데이터:"
+
+#: admin/meta_import.php:117
+msgid "Conversion Results"
+msgstr "전환 결과"
+
+#: admin/meta_import.php:146
+msgid "Import SEO Settings"
+msgstr "SEO 설정 불러오기"
+
+#: admin/meta_import.php:28
+msgid "The plugin Yoast SEO has been detected. Do you want to %simport its settings%s into All in One SEO Pack?"
+msgstr "Yoast SEO 플러그인이 감지되었습니다. All in One SEO Pack으로 %s해당 설정을 불러오길%s 원하십니까?"
+
+#: admin/meta_import.php:32
+msgid "The plugin All-In-One-SEO has been detected. Do you want to %simport its settings%s?"
+msgstr "All-In-One-SEO 플러그인이 감지되었습니다. %s해당 설정을 불러오길%s 원하십니까"
+
+#: admin/meta_import.php:37
+msgid "All in One SEO has been deactivated"
+msgstr "All in One SEO가 비활성화 되었습니다"
+
+#: admin/meta_import.php:62
+msgid "Import SEO Data"
+msgstr "SEO 데이터 불러오기"
+
+#: admin/meta_import.php:62
+msgid "SEO Data Import"
+msgstr "SEO 데이터 들여오기"
+
+#: modules/aioseop_feature_manager.php:75
+msgid "Pro Version Only"
+msgstr "Pro 버전만 해당"
+
+#: aioseop_class.php:3707
+msgid "We've detected you're running WooCommerce."
+msgstr "WooCommerce를 작동 중이시라는 걸 감지하였습니다."
+
+#: aioseop_class.php:3708
+msgid "%s Upgrade%s to All in One SEO Pack Pro for increased SEO compatibility for your products."
+msgstr "귀하의 제품을 위해 향상된 SEO 호환성에 해당하는 All in One SEO Pack Pro로 %s 업그레이드%s를 하세요."
+
+#: modules/aioseop_performance.php:318
+msgid "Check For Updates"
+msgstr "업데이트 확인"
+
+#. Description of the plugin/theme
+msgid "Out-of-the-box SEO for your WordPress blog. Features like XML Sitemaps, SEO for custom post types, SEO for blogs or business sites, SEO for ecommerce sites, and much more. Almost 30 million downloads since 2007."
+msgstr "귀하의 WordPress 블로그를 위한 특별 SEO. XML 사이트맵과 같은 기능, 사용자 설정 포스트 유형 전용 SEO, 블로그 또는 비즈니스 사이트용 SEO, e-commerce 사이트용 SEO 등. 2007년 이후로 약 3천만 다운로드."
+
+#: inc/commonstrings.php:39
+msgid "Manage Licenses"
+msgstr "라이센스 관리"
+
+#: modules/aioseop_bad_robots.php:24
+msgid "Block Referral Spam using HTTP."
+msgstr "HTTP를 사용하여 레퍼럴 스팸 차단하기."
+
+#: modules/aioseop_bad_robots.php:34
+msgid "Block Bad Bots using HTTP"
+msgstr "HTTP를 사용하여 배드 봇 차단하기"
+
+#: modules/aioseop_bad_robots.php:35
+msgid "Block Referral Spam using HTTP"
+msgstr "HTTP를 사용하여 레퍼럴 스팸 차단하기"
+
+#: modules/aioseop_bad_robots.php:37
+msgid "Block Bad Bots using .htaccess"
+msgstr ".htaccess를 사용하여 배드 봇 차단하기"
+
+#: modules/aioseop_bad_robots.php:38
+msgid "Use Custom Blocklists"
+msgstr "사용자 설정 블랙 리스트 사용하기"
+
+#: modules/aioseop_feature_manager.php:63
+msgid "Image SEO"
+msgstr "이미지 SEO"
+
+#: modules/aioseop_feature_manager.php:68
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "이 기능을 사용하여 비디오 사이트 맵을 만들고 관리하세요, 그리고 Google, Bing/Yahoo, Ask.com에 비디오 스트림 맵을 제출하세요."
+
+#: modules/aioseop_performance.php:294
+msgid "%s has checked for updates."
+msgstr "%s에서 업데이트를 확인했습니다."
+
+#: inc/commonstrings.php:32
+msgid "Finished scanning posts"
+msgstr "포스트 스캔 완료됨"
+
+#: inc/commonstrings.php:35
+msgid "Purchase one now"
+msgstr "지금 하나 구매하기"
+
+#: inc/commonstrings.php:36
+msgid "License Key is not set yet or invalid. "
+msgstr "라이센스 키가 설정되지 않았거나 유효하지 않습니다."
+
+#: inc/commonstrings.php:37
+msgid " Need a license key?"
+msgstr "라이센스 키가 필요한가요?"
+
+#: inc/commonstrings.php:38
+msgid "Notice: "
+msgstr "안내:"
+
+#: inc/commonstrings.php:25
+msgid "Press the Scan button to scan your posts for videos! Do this if video content from a post or posts is not showing up in your sitemap."
+msgstr "비디오용 포스트를 스캔하시려면 '스캔' 버튼을 눌러주세요! 포스트에 있는 비디오 콘텐츠가 귀하의 사이트 맵에 표시되지 않는다면 이 방법을 사용해보세요."
+
+#: inc/commonstrings.php:26
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "확인란을 선택하시면, 이들 중 비디오가 있는 포스트만 사이트 맵에 표시됩니다."
+
+#: inc/commonstrings.php:27
+msgid "Enable this option to only allow access to your sitemap by site administrators and major search engines."
+msgstr "귀하의 사이트 맵에 사이트 관리자와 주요 검색 엔진만 액세스 할 수 있게 하려면, 이 옵션을 활성화하세요."
+
+#: inc/commonstrings.php:28
+msgid "You do not have access to this page; try logging in as an administrator."
+msgstr "이 페이지에 액세스 권한이 없습니다. 관리자로 로그인하여 다시 시도해주세요."
+
+#: inc/commonstrings.php:29
+msgid "Scan"
+msgstr "스캔"
+
+#: all_in_one_seo_pack.php:284
+msgid "Amazon Wishlist"
+msgstr "Amazon 소망 목록"
+
+#: inc/commonstrings.php:22
+msgid "Show Only Posts With Videos"
+msgstr "비디오 포스트만 표시"
+
+#: inc/commonstrings.php:23
+msgid "Scan Posts For Videos"
+msgstr "비디오용 포스트 스캔"
+
+#: inc/commonstrings.php:24
+msgid "Restrict Access to Video Sitemap"
+msgstr "비디오 사이트 맵에 액세스 제한"
+
+#: all_in_one_seo_pack.php:336
+msgid "Upgrade to Pro"
+msgstr "Pro 로 업그레이드"
+
+#: all_in_one_seo_pack.php:325
+msgid "Documentation"
+msgstr "문서화"
+
+#: all_in_one_seo_pack.php:315
+msgid "SEO Settings"
+msgstr "SEO 설정"
+
+#: aioseop_class.php:3242
+msgid "%taxonomy_title% - The original title of the taxonomy"
+msgstr "%taxonomy_title% - 텍사노미의 원제목"
+
+#: aioseop_class.php:3243
+msgid "%taxonomy_description% - The description of the taxonomy"
+msgstr "%taxonomy_description% - 텍사노미의 설명"
+
+#: aioseop_class.php:3078
+msgid "Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "최신형의 가장 훌륭한 All in One SEO Pack Pro을 사용해주셔서 감사합니다! 새로운 기능을 항상 추가하고 있으니 설정을 항상 확인해주세요!"
+
+#: aioseop_class.php:3771
+msgid "Debug String"
+msgstr "디버그 스트링"
+
+#: aioseop_class.php:4730
+msgid "About"
+msgstr "소개"
+
+#: aioseop_class.php:547
+msgid "SEO on only these taxonomies:"
+msgstr "해당 텍사노미에만 있는 SEO:"
+
+#: aioseop_class.php:991 all_in_one_seo_pack.php:320
+msgid "Support Forum"
+msgstr "플러그인 지원 포럼"
+
+#: aioseop_class.php:3228
+msgid "Taxonomy Title Format:"
+msgstr "텍사노미 타이틀 형식:"
+
+#: aioseop_class.php:80
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "제품을 구매했을 때 받는 라이센스 키입니다. 이는 자동 업그레이드를 위해 사용됩니다."
+
+#: aioseop_class.php:179
+msgid "Use these checkboxes to select which Taxonomies you want to use All in One SEO Pack with."
+msgstr "All in One SEO Pack과 함께 사용하길 원하는 텍사노미를 선택하시려면 확인란을 사용하세요."
+
+#: aioseop_class.php:347
+msgid "License Key:"
+msgstr "라이센스 키:"
+
+#: aioseop_class.php:3685
+msgid "Warning: You're blocking access to search engines."
+msgstr "경고: 검색 엔진의 접근을 차단하고 있습니다."
+
+#: aioseop_class.php:3686
+msgid "You can %s click here%s to go to your reading settings and toggle your blog visibility."
+msgstr "읽기 설정에 이동하여 블로그 가시성을 토클하려면 %s이곳을 클릭%s하세요."
+
+#: modules/aioseop_opengraph.php:85
+msgid "Enter your Facebook Admin ID here. Information about how to get your Facebook Admin ID can be found at https://developers.facebook.com/docs/platforminsights/domains"
+msgstr "Facebook 관리자 ID를 이곳에 입력하세요. Facebook 관리자 ID 찾는 방법은 https://developers.facebook.com/docs/platforminsights/domains 에서 확인하실 수 있습니다"
+
+#: modules/aioseop_opengraph.php:86
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/platforminsights/domains"
+msgstr "Facebook App ID를 이곳에 입력하세요. Facebook App ID를 찾는 방법은 https://developers.facebook.com/docs/platforminsights/domains에서 확인하실 수 있습니다"
+
+#: modules/aioseop_opengraph.php:197
+msgid "Facebook Admin ID"
+msgstr "Facebook 관리자 ID"
+
+#: modules/aioseop_opengraph.php:202
+msgid "Facebook App ID"
+msgstr "Facebook 앱 ID"
+
+#: modules/aioseop_sitemap.php:55
+msgid "Use rewrites to generate your sitemap on the fly. NOTE: This is required for WordPress Multisite."
+msgstr "귀하의 사이트 맵을 만들기 위해 때때로 다시쓰기를 사용하세요. 주의: 이는 WordPress 멀티사이트에 필요합니다."
+
+#: modules/aioseop_sitemap.php:56
+msgid "URL to the page."
+msgstr "해당 페이지로의 URL."
+
+#: modules/aioseop_sitemap.php:57
+msgid "The priority of the page."
+msgstr "페이지의 우선권."
+
+#: modules/aioseop_sitemap.php:58
+msgid "The frequency of the page."
+msgstr "페이지의 빈도."
+
+#: modules/aioseop_sitemap.php:59
+msgid "Last modified date of the page."
+msgstr "해당 페이지의 마지막 수정일."
+
+#: modules/aioseop_sitemap.php:60
+msgid "Entries from these categories will be excluded from the sitemap."
+msgstr "사이트 맵에서 제외 될 카테고리의 엔트리."
+
+#: modules/aioseop_sitemap.php:61
+msgid "Use page slugs or page IDs, seperated by commas, to exclude pages from the sitemap."
+msgstr "사이트 맵에서 페이지를 제외하기 위해, 쉼표로 나누어진 페이지 slugs 또는 페이지 ID를 사용하세요."
+
+#: modules/aioseop_sitemap.php:89
+msgid "Filename Prefix"
+msgstr "파일 이름 접두사"
+
+#: modules/aioseop_sitemap.php:94
+msgid "Notify Google"
+msgstr "Google에 알리기"
+
+#: modules/aioseop_sitemap.php:95
+msgid "Notify Bing"
+msgstr "Bing에 알리기"
+
+#: modules/aioseop_sitemap.php:97
+msgid "Schedule Updates"
+msgstr "일정 업데이트"
+
+#: modules/aioseop_sitemap.php:100
+msgid "No Schedule"
+msgstr "일정 없음"
+
+#: modules/aioseop_sitemap.php:101
+msgid "Daily"
+msgstr "일간"
+
+#: modules/aioseop_sitemap.php:102
+msgid "Weekly"
+msgstr "주간"
+
+#: modules/aioseop_sitemap.php:103
+msgid "Monthly"
+msgstr "월간"
+
+#: modules/aioseop_sitemap.php:107
+msgid "Enable Sitemap Indexes"
+msgstr "사이트 맵 인덱스 활성화"
+
+#: modules/aioseop_sitemap.php:109
+msgid "Paginate Sitemap Indexes"
+msgstr "사이트 맵 인덱스 페이지 작성"
+
+#: modules/aioseop_sitemap.php:113
+msgid "Maximum Posts Per Sitemap"
+msgstr "사이트 맵 당 최대 포스트"
+
+#: modules/aioseop_sitemap.php:119
+msgid "Post Types"
+msgstr "포스트 유형"
+
+#: modules/aioseop_sitemap.php:124
+msgid "Taxonomies"
+msgstr "텍사노미"
+
+#: modules/aioseop_sitemap.php:128
+msgid "Include Date Archive Pages"
+msgstr "데이터 아카이브 페이지 포함"
+
+#: modules/aioseop_sitemap.php:129
+msgid "Include Author Pages"
+msgstr "작성자 페이지 포함"
+
+#: modules/aioseop_sitemap.php:131
+msgid "Create Compressed Sitemap"
+msgstr "압축된 사이트 맵 만들기"
+
+#: modules/aioseop_sitemap.php:135
+msgid "Link From Virtual Robots.txt"
+msgstr "가상 Robots.txt의 링크"
+
+#: modules/aioseop_sitemap.php:139
+msgid "Dynamically Generate Sitemap"
+msgstr "사이트 맵 동적 생성"
+
+#: modules/aioseop_sitemap.php:147
+msgid "Debug Log"
+msgstr "디버그 로그"
+
+#: modules/aioseop_sitemap.php:161
+msgid "Sitemap Status"
+msgstr "사이트 맵 상태"
+
+#: modules/aioseop_sitemap.php:177
+msgid "Do Not Override"
+msgstr "오버라이드 안 함"
+
+#: modules/aioseop_sitemap.php:178
+msgid "Select Individual"
+msgstr "개별 선택"
+
+#: modules/aioseop_sitemap.php:191
+msgid "priority"
+msgstr "우선권"
+
+#: modules/aioseop_sitemap.php:192
+msgid "frequency"
+msgstr "빈도"
+
+#: modules/aioseop_sitemap.php:199
+msgid "homepage"
+msgstr "홈페이지"
+
+#: modules/aioseop_sitemap.php:200
+msgid "posts"
+msgstr "포스트"
+
+#: modules/aioseop_sitemap.php:201
+msgid "taxonomies"
+msgstr "텍사노미"
+
+#: modules/aioseop_sitemap.php:202
+msgid "archive pages"
+msgstr "아카이브 페이지"
+
+#: modules/aioseop_sitemap.php:203
+msgid "author pages"
+msgstr "작성자 페이지"
+
+#: modules/aioseop_sitemap.php:215
+msgid "Manually set the %s of your %s."
+msgstr "%s 중 %s 수동 설정."
+
+#: modules/aioseop_sitemap.php:229
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "WordPress를 통해 관리되지 않은 사이트 맵의 추가 링크가 있는 경우, 아래에 정보를 입력하세요."
+
+#: modules/aioseop_sitemap.php:235
+msgid "Page URL"
+msgstr "페이지 URL"
+
+#: modules/aioseop_sitemap.php:241
+msgid "Page Priority"
+msgstr "페이지 우선권"
+
+#: modules/aioseop_sitemap.php:248
+msgid "Page Frequency"
+msgstr "페이지 빈도"
+
+#: modules/aioseop_sitemap.php:255
+msgid "Last Modified"
+msgstr "마지막 수정"
+
+#: modules/aioseop_sitemap.php:261 modules/aioseop_sitemap.php:286
+msgid "Additional Pages"
+msgstr "추가적인 페이지"
+
+#: modules/aioseop_sitemap.php:268
+msgid "Add URL"
+msgstr "URL 추가"
+
+#: modules/aioseop_sitemap.php:278
+msgid "Excluded Categories"
+msgstr "제외된 카테고리"
+
+#: modules/aioseop_sitemap.php:282
+msgid "Excluded Pages"
+msgstr "제외된 페이지"
+
+#: modules/aioseop_sitemap.php:292
+msgid "Excluded Items"
+msgstr "제외된 항목"
+
+#: modules/aioseop_sitemap.php:298
+msgid "Priorities"
+msgstr "우선권"
+
+#: modules/aioseop_sitemap.php:304
+msgid "Frequencies"
+msgstr "빈도"
+
+#: modules/aioseop_sitemap.php:373
+msgid "Once Weekly"
+msgstr "매주 한번"
+
+#: modules/aioseop_sitemap.php:377
+msgid "Once Monthly"
+msgstr "매달 한번"
+
+#: modules/aioseop_sitemap.php:400
+msgid "Daily scheduled sitemap check has finished."
+msgstr "일일 예정된 사이트 맵 확인이 완료되었습니다."
+
+#: modules/aioseop_sitemap.php:486
+msgid "Media / Attachments"
+msgstr "미디어 / 첨부파일"
+
+#: modules/aioseop_sitemap.php:488
+msgid "All Post Types"
+msgstr "전체 포스트 유형"
+
+#: modules/aioseop_sitemap.php:489
+msgid "All Taxonomies"
+msgstr "전체 텍사노미"
+
+#: modules/aioseop_sitemap.php:493
+msgid "Manually set the priority for the "
+msgstr "다음의 우선권 수동 설정: "
+
+#: modules/aioseop_sitemap.php:494
+msgid "Manually set the frequency for the "
+msgstr "다음의 빈도 수동 설정: "
+
+#: modules/aioseop_sitemap.php:495
+msgid " Post Type"
+msgstr "포스트 유형"
+
+#: modules/aioseop_sitemap.php:496
+msgid " Taxonomy"
+msgstr "텍사노미"
+
+#: modules/aioseop_sitemap.php:573 modules/aioseop_sitemap.php:635
+msgid "Update Sitemap"
+msgstr "사이트 맵 업데이트"
+
+#: modules/aioseop_sitemap.php:633
+msgid "Please review your settings below and click %s to build your sitemap; then, %s."
+msgstr "아래의 설정을 검토하시고 %s 사이트 맵을 만드시려면 이곳을 클릭하세요 %s"
+
+#: modules/aioseop_sitemap.php:636
+msgid "view your sitemap"
+msgstr "사이트 맵 보기"
+
+#: modules/aioseop_sitemap.php:639
+msgid "Note: you are using dynamic sitemap generation to keep your sitemap current; this will not generate a static sitemap file."
+msgstr "참고: 사이트 맵을 현재로 유지하기 위해 동적 사이트 맵 생성을 사용하고 있습니다; 이 경우 고정 사이트 맵 파일을 생성하지 않게 됩니다."
+
+#: modules/aioseop_sitemap.php:643
+msgid "Dynamic sitemap generation appears to be using the correct rewrite rules."
+msgstr "동적 사이트 맵 생성은 정확한 다시쓰기 규칙을 사용하여 나타납니다."
+
+#: modules/aioseop_sitemap.php:645
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "동적 사이트 맵 생성은 정확한 다시쓰기 규칙을 사용하여 나타나지 않습니다; 사이트 맵에서 다른 사이트 맵 플러그인이나 기능을 비활성화하고 고유주소(permalinks)를 재설정하세요."
+
+#: modules/aioseop_sitemap.php:651
+msgid "Reading Settings"
+msgstr "읽기 설정"
+
+#: modules/aioseop_sitemap.php:653
+msgid "Privacy Settings"
+msgstr "개인정보 보호설정"
+
+#: modules/aioseop_sitemap.php:655
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your blog."
+msgstr "경고: 귀하의 개인정보 보호설정은 귀하의 사이트를 인덱스 하지 않는 것으로 검색 엔진에 설정되었습니다. 이는 블로그 %s 아래에서 변경하실 수 있습니다."
+
+#: modules/aioseop_sitemap.php:859
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "경고: 동적 사이트 맵 생성은 고유주소(permalinks)를 활성화 해야합니다."
+
+#: modules/aioseop_sitemap.php:876
+msgid "Deleted %s."
+msgstr "%s 삭제됨."
+
+#: modules/aioseop_sitemap.php:886
+msgid "Couldn't rename file %s!"
+msgstr "파일 %s 이름을 재설정할 수 없습니다!"
+
+#: modules/aioseop_sitemap.php:890
+msgid "Renamed %s to %s."
+msgstr "%s에서 %s(으)로 이름 변경됨."
+
+#: modules/aioseop_sitemap.php:894
+msgid "Couldn't find file %s!"
+msgstr "%s 파일을 찾을 수 없습니다!"
+
+#: modules/aioseop_sitemap.php:971
+msgid "Warning: a static sitemap '%s' generated by All in One SEO Pack %s on %s already exists that may conflict with dynamic sitemap generation."
+msgstr "경고: %s의 %s All in One SEO Pack으로 생성된 동적 사이트 맵 %s'은 이미 존재하며, 이는 동적 사이트 맵 생성의 충돌을 일으켰을 수 있습니다."
+
+#: modules/aioseop_sitemap.php:976
+msgid "Potential conflict with unknown file %s."
+msgstr "알 수 없는 %s 파일과 잠재적인 충돌."
+
+#: modules/aioseop_sitemap.php:1007
+msgid "Rename Conflicting Files"
+msgstr "충돌하는 파일 이름 재설정"
+
+#: modules/aioseop_sitemap.php:1008
+msgid "Delete Conflicting Files"
+msgstr "충돌하는 파일 삭제"
+
+#: modules/aioseop_sitemap.php:1143
+msgid "compressed"
+msgstr "압축됨"
+
+#: modules/aioseop_sitemap.php:1146
+msgid "dynamic"
+msgstr "동적"
+
+#: modules/aioseop_sitemap.php:1141
+msgid "static"
+msgstr "고정"
+
+#: modules/aioseop_sitemap.php:1297
+msgid "Successfully notified %s about changes to your sitemap at %s."
+msgstr "%s에 귀하의 사이트 맵의 변경 사항에 대한 %s 을(를) 성공적으로 알렸습니다."
+
+#: modules/aioseop_sitemap.php:1299
+msgid "Failed to notify %s about changes to your sitemap at %s, error code %s."
+msgstr "오류 코드 %s , %s에서 사이트 맵의 변경에 관한 %s을/를 알리는데 실패하였습니다."
+
+#: modules/aioseop_sitemap.php:1302
+msgid "Failed to notify %s about changes to your sitemap at %s, unable to access via wp_remote_get()."
+msgstr "%s에서 사이트 맵의 변경에 대한 %s을/를 알리는데 실패하여 wp_remote_get()을/를 통해 액세스 할 수 없습니다."
+
+#: modules/aioseop_sitemap.php:1305
+msgid "Did not notify %s about changes to your sitemap."
+msgstr "사이트 맵 변경에 관한 %s을/를 알리지 않았습니다."
+
+#: modules/aioseop_sitemap.php:1355
+msgid "Updated sitemap settings."
+msgstr "사이트맵 설정이 업데이트 되었습니다."
+
+#. Plugin Name of the plugin/theme
+msgid "All In One SEO Pack"
+msgstr "All In One SEO Pack"
+
+#. Plugin URI of the plugin/theme
+msgid "http://semperfiwebdesign.com"
+msgstr "http://semperfiwebdesign.com"
+
+#. Author of the plugin/theme
+msgid "Michael Torbert"
+msgstr "Michael Torbert"
+
+#. Author URI of the plugin/theme
+msgid "http://michaeltorbert.com"
+msgstr "http://michaeltorbert.com"
+
+#: aioseop_class.php:1146
+msgid "Noindex Settings"
+msgstr "Noindex 설정"
+
+#: aioseop_class.php:1167
+msgid "Advanced Settings"
+msgstr "고급 설정"
+
+#: aioseop_class.php:3168
+msgid "Front Page"
+msgstr "첫 페이지"
+
+#: aioseop_class.php:3168
+msgid "Everywhere Else"
+msgstr "다른 곳"
+
+#: aioseop_class.php:3176
+msgid "Title Format:"
+msgstr "제목 서식:"
+
+#: aioseop_class.php:3190
+msgid "%post_title% - The original title of the post."
+msgstr "%post_title% - 게시물의 원 제목."
+
+#: aioseop_class.php:3194
+msgid "%%tax_%s%% - This post's associated %s taxonomy title"
+msgstr "%%tax_%s%% - 이 게시물은 %s 분류 제목과 관련되어있습니다"
+
+#: aioseop_class.php:3077 aioseop_class.php:3095
+msgid "Welcome to Version %s!"
+msgstr "%s 버전에 오신 걸 환영합니다!"
+
+#: aioseop_class.php:3096
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! Please review your settings, as we're always adding new features for you!"
+msgstr "최신 All in One SEO Pack을 실행해주셔서 감사합니다! 저희는 항상 새로운 기능을 추가하오니 귀하의 설정을 확인해주시길 바랍니다!"
+
+#: aioseop_class.php:3085 aioseop_class.php:3103
+msgid "Review Your Settings"
+msgstr "설정 검토"
+
+#: aioseop_class.php:3104
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! New since 2.2: Control who accesses your site with the new Robots.txt Editor and File Editor modules!  Enable them from the Feature Manager.  Remember to review your settings, we have added some new ones!"
+msgstr "최신 All in One SEO Pack을 실행해주셔서 감사합니다! 최신 2.2 이후: 새로운 Robots.txt Editor 및 File Editor 모듈로 누가 귀하의 사이트에 액세스하는지 제어할 수 있습니다. Feature Manager으로 활성화할 수 있습니다. 새로운 기능이 일부 추가되었으니 귀하의 설정을 확인해주시길 바랍니다!"
+
+#: aioseop_class.php:3281
+msgid "Reset General Settings to Defaults"
+msgstr "일반 설정을 기본값으로 재설정하기"
+
+#: aioseop_class.php:3285
+msgid "Reset ALL Settings to Defaults"
+msgstr "모든 설정을 기본값으로 재설정하기"
+
+#: aioseop_class.php:3367
+msgid "Default - noindex"
+msgstr "기본값 - 색인 안됨"
+
+#: aioseop_class.php:3368
+msgid "index"
+msgstr "색인"
+
+#: aioseop_class.php:3369
+msgid "noindex"
+msgstr "색인 안됨"
+
+#: aioseop_class.php:3375
+msgid "Default - nofollow"
+msgstr "기본값 - 팔로우 비활성화"
+
+#: aioseop_class.php:3376
+msgid "follow"
+msgstr "팔로우"
+
+#: aioseop_class.php:3377
+msgid "nofollow"
+msgstr "팔로우 비활성화"
+
+#: aioseop_class.php:3383
+msgid "Default - noodp"
+msgstr "기본값 - odp 비활성화"
+
+#: aioseop_class.php:3384
+msgid "odp"
+msgstr "odp"
+
+#: aioseop_class.php:3385
+msgid "noodp"
+msgstr "odp 비활성화"
+
+#: aioseop_class.php:3391
+msgid "Default - noydir"
+msgstr "기본값 - ydir 비활성화"
+
+#: aioseop_class.php:3392
+msgid "ydir"
+msgstr "ydir"
+
+#: aioseop_class.php:3393
+msgid "noydir"
+msgstr "ydir 비활성화"
+
+#: admin/display/general-metaboxes.php:28
+msgid "by %s of %s."
+msgstr "%s 중 %s."
+
+#: admin/display/general-metaboxes.php:39
+msgid "Reset Dismissed Notices"
+msgstr "지운 경고 리셋"
+
+#: admin/display/general-metaboxes.php:44
+msgid "Pro Version"
+msgstr "프로 버전"
+
+#: admin/display/general-metaboxes.php:44 aioseop_class.php:985
+msgid "UPGRADE TO PRO VERSION"
+msgstr "프로 버전으로 업그레이드 하기"
+
+#: admin/display/general-metaboxes.php:70 all_in_one_seo_pack.php:280
+msgid "Donate"
+msgstr "기부"
+
+#: admin/display/general-metaboxes.php:73
+msgid "Donate with Paypal"
+msgstr "페이팔로 기부하기"
+
+#: admin/display/general-metaboxes.php:77
+msgid "My Amazon Wish List"
+msgstr "나의 아마존 위시 리스트"
+
+#: admin/display/general-metaboxes.php:80
+msgid "Follow us on Facebook"
+msgstr "페이스북에서 팔로우하기"
+
+#: admin/display/general-metaboxes.php:83
+msgid "Follow us on Twitter"
+msgstr "트위터에서 팔로우하기"
+
+#: admin/display/general-metaboxes.php:120
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "팁, 비법 및 WordPress 비결에 관한 메일링 리스트에 가입하세요."
+
+#: admin/display/general-metaboxes.php:122
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "오늘 가입하셔서 WordPress ($39 가치)의 전자책 5 SEO에 관한 무료 사본을 받아보세요."
+
+#: admin/display/general-metaboxes.php:138
+msgid "Read the All in One SEO Pack user guide"
+msgstr "All in One SEO Pack 사용자 설명서 읽기"
+
+#: admin/display/general-metaboxes.php:142
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "All in One SEO Pro 플러그인 지원 포럼"
+
+#: admin/display/general-metaboxes.php:143
+msgid "Access our Premium Support Forums"
+msgstr "프리미엄 지원 포럼에 액세스하기"
+
+#: admin/display/general-metaboxes.php:146
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "All in One SEO Pro 플러그인 변경이력"
+
+#: admin/display/general-metaboxes.php:151
+msgid "View the Changelog"
+msgstr "변경이력 보기"
+
+#: admin/display/general-metaboxes.php:155
+msgid "Watch video tutorials"
+msgstr "동영상 튜토리얼 보기"
+
+#: admin/display/general-metaboxes.php:159
+msgid "Getting started? Read the Beginners Guide"
+msgstr "준비되셨나요? 초보자 가이드를 읽어주십시오"
+
+#: aioseop_class.php:3747
+msgid "Debug Warning: All in One SEO Pack meta data was included again from %s filter. Called %s times!"
+msgstr "디버그 경고: All in One SEO Pack 메타 데이터가 %s 필터에서 다시 포함되었습니다. %s 번 호출했습니다! "
+
+#: inc/deprecated.php:137
+msgid "Disconnect From Google Analytics"
+msgstr "Google Analytics에서 연결 해제하기"
+
+#: inc/deprecated.php:138
+msgid "Remove Stored Credentials"
+msgstr "저장된 인증 정보 제거하기"
+
+#: inc/deprecated.php:145
+msgid "Connect With Google Analytics"
+msgstr "Google Analytics로 연결하기"
+
+#: inc/deprecated.php:173 inc/deprecated.php:220 inc/deprecated.php:261
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: aioseop_class.php:4493
+msgid "SEO"
+msgstr "SEO"
+
+#: aioseop_class.php:4520
+msgid "Edit SEO"
+msgstr "SEO 편집하기"
+
+#: aioseop_class.php:4500
+msgid "Upgrade To Pro"
+msgstr "Pro로 업그레이드하기"
+
+#: aioseop_class.php:4628
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: aioseop_class.php:4681
+msgid "Thank you!"
+msgstr "감사합니다!"
+
+#: aioseop_class.php:4682
+msgid "Thank you for your donation, it helps keep this plugin free and actively developed!"
+msgstr "기부해주셔서 감사합니다, 해당 플러그인을 무료로 진행하고 적극적으로 개발하는데 도움이 됩니다!"
+
+#: aioseop_class.php:4725
+msgid "Join Our Mailing List"
+msgstr "메일링 리스트에 가입하기"
+
+#: aioseop_class.php:4740
+msgid "Support"
+msgstr "지원"
+
+#: aioseop_class.php:4740
+msgid "Version"
+msgstr "버전"
+
+#: admin/aioseop_module_class.php:1731 admin/aioseop_module_class.php:1985
+#: admin/aioseop_module_class.php:2262 aioseop_class.php:4770
+#: aioseop_class.php:4788
+msgid "Help"
+msgstr "도움말"
+
+#: aioseop_class.php:4457
+msgid "Main Settings"
+msgstr "메인 설정"
+
+#: modules/aioseop_feature_manager.php:23
+msgid "Feature Manager"
+msgstr "기능 관리자"
+
+#: modules/aioseop_feature_manager.php:29
+msgid "XML Sitemaps"
+msgstr "XML 사이트맵"
+
+#: modules/aioseop_feature_manager.php:30
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "해당 기능을 사용하여 XML 사이트맵을 생성 및 관리한 후, Google, Bing/Yahoo 및 Ask.com에 귀하의 XML 사이트맵을 올려주십시오."
+
+#: modules/aioseop_feature_manager.php:33 modules/aioseop_opengraph.php:14
+msgid "Social Meta"
+msgstr "소셜 메타"
+
+#: modules/aioseop_feature_manager.php:34
+msgid "Activate this feature to add Social Meta data to your site to deliver closer integration between your website/blog and Facebook, Twitter, and Google+."
+msgstr "해당 기능을 활성화한 후, 귀하의 웹사이트/블로그와 페이스북, 트위터, Google+ 간에 연동을 진행하시려면 귀하의 사이트에 소셜 메타 데이터를 추가해주십시오."
+
+#: modules/aioseop_feature_manager.php:37 modules/aioseop_robots.php:12
+#: modules/aioseop_robots.php:175
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: modules/aioseop_feature_manager.php:38
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "robots.txt 파일을 생성 및 인증한 후 귀하의 사이트를 통해서 검색 엔진을 따라 정해주십시오."
+
+#: modules/aioseop_feature_manager.php:41 modules/aioseop_file_editor.php:19
+msgid "File Editor"
+msgstr "파일 편집기"
+
+#: modules/aioseop_feature_manager.php:42
+msgid "Edit your robots.txt file and your .htaccess file to fine-tune your site."
+msgstr "귀하의 사이트를 세부조정 하려면 귀하의 robots.txt 파일 및 .htaccess 파일을 편집해주십시오."
+
+#: modules/aioseop_feature_manager.php:50
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "계속 가동하고 있는 자동처리 프로그램이 귀하의 웹사이트를 느리게 하는 것을 막습니다."
+
+#: modules/aioseop_feature_manager.php:53 modules/aioseop_performance.php:15
+msgid "Performance"
+msgstr "성능"
+
+#: modules/aioseop_feature_manager.php:54
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "SEO와 관련된 성능을 최적화한 후 귀하의 시스템 상태를 확인해주십시오."
+
+#: modules/aioseop_feature_manager.php:45
+#: modules/aioseop_importer_exporter.php:16
+msgid "Importer & Exporter"
+msgstr "가져오기 & 내보내기"
+
+#: modules/aioseop_feature_manager.php:46
+msgid "Exports and imports your All in One SEO Pack plugin settings."
+msgstr "귀하의 All in One SEO Pack 플러그인 설정 내보내기 및 가져오기."
+
+#: modules/aioseop_feature_manager.php:62
+msgid "Coming Soon..."
+msgstr "준비 중입니다..."
+
+#: inc/commonstrings.php:21 modules/aioseop_feature_manager.php:67
+#: modules/aioseop_feature_manager.php:74
+msgid "Video Sitemap"
+msgstr "동영상 사이트맵"
+
+#: modules/aioseop_feature_manager.php:147
+msgid "Update Features"
+msgstr "업데이트 기능"
+
+#: modules/aioseop_feature_manager.php:149
+msgid "Reset Features"
+msgstr "리셋 기능"
+
+#: modules/aioseop_file_editor.php:29 modules/aioseop_robots.php:21
+msgid "Robots.txt editor"
+msgstr "Robots.txt 편집기"
+
+#: modules/aioseop_file_editor.php:30
+msgid ".htaccess editor"
+msgstr ".htaccess 편집기"
+
+#: modules/aioseop_file_editor.php:34
+msgid "Edit Robots.txt"
+msgstr "Robots.txt 편집하기"
+
+#: modules/aioseop_file_editor.php:43 modules/aioseop_file_editor.php:70
+msgid "Edit .htaccess"
+msgstr ".htaccess 편집하기"
+
+#: modules/aioseop_file_editor.php:59
+msgid "robots.txt"
+msgstr "robots.txt"
+
+#: modules/aioseop_file_editor.php:60
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: modules/aioseop_file_editor.php:65
+msgid "Edit robots.txt"
+msgstr "robots.txt 편집하기"
+
+#: modules/aioseop_file_editor.php:102
+msgid "Update robots.txt"
+msgstr "robots.txt 업데이트"
+
+#: modules/aioseop_file_editor.php:108
+msgid "Update .htaccess"
+msgstr ".htaccess 업데이트"
+
+#: inc/aioseop_functions.php:192
+msgid "SEO Title"
+msgstr "SEO 타이틀"
+
+#: inc/aioseop_functions.php:193
+msgid "SEO Description"
+msgstr "SEO 설명"
+
+#: inc/aioseop_functions.php:195
+msgid "SEO Keywords"
+msgstr "SEO 키워드"
+
+#: inc/aioseop_functions.php:265 inc/aioseop_functions.php:382
+#: inc/aioseop_functions.php:734
+msgid "Edit"
+msgstr "편집"
+
+#: inc/aioseop_functions.php:266
+msgid "Post"
+msgstr "올리기"
+
+#: inc/aioseop_functions.php:267
+msgid "Save"
+msgstr "저장"
+
+#: inc/aioseop_functions.php:268
+msgid "Cancel"
+msgstr "취소"
+
+#: inc/aioseop_functions.php:270
+msgid "Please wait..."
+msgstr "잠시 기다려주십시오..."
+
+#: inc/aioseop_functions.php:271
+msgid "Slug may not be empty!"
+msgstr "슬러그는 비워 둘 수 없습니다!"
+
+#: inc/aioseop_functions.php:272
+msgid "Revisions"
+msgstr "수정"
+
+#: inc/aioseop_functions.php:273
+msgid "Insert time"
+msgstr "삽입 시간"
+
+#: inc/aioseop_functions.php:378 inc/aioseop_functions.php:730
+#: modules/aioseop_performance.php:205 modules/aioseop_performance.php:210
+#: modules/aioseop_performance.php:215 modules/aioseop_performance.php:224
+msgid "No"
+msgstr "아니오"
+
+#: inc/aioseop_functions.php:401
+msgid "Unauthorized access; try reloading the page."
+msgstr "허가되지 않은 접근; 페이지를 다시 로딩해주십시오."
+
+#: inc/aioseop_functions.php:501
+msgid "Row %s not found; no rows were deleted."
+msgstr "행 %s을/를 찾을 수 없습니다; 행이 삭제되지 않았습니다."
+
+#: inc/aioseop_functions.php:565
+msgid "Duplicate %s Meta"
+msgstr "%s 메타 중복"
+
+#: inc/aioseop_functions.php:574
+msgid "No duplicate meta tags found."
+msgstr "중복 메타 태그를 찾을 수 없습니다"
+
+#: inc/aioseop_functions.php:577
+msgid "What Does This Mean?"
+msgstr "이것은 무엇을 의미하나요?"
+
+#: inc/aioseop_functions.php:578
+msgid "All in One SEO Pack has detected that a plugin(s) or theme is also outputting social meta tags on your site. You can view this social meta in the source code of your site (check your browser help for instructions on how to view source code)."
+msgstr "All in One SEO Pack을 통해 플러그인(들) 또는 테마가 귀하의 사이트에 소셜 메타 태그를 출력 중임을 감지하였습니다. 귀하의 사이트의 소스 코드에서 소셜 메타를 확인하실 수 있습니다. (소스 코드를 확인하는 방법에 관한 지침은 브라우저의 도움말에서 확인하실 수 있습니다)."
+
+#: inc/aioseop_functions.php:579
+msgid "You may prefer to use the social meta tags that are being output by the other plugin(s) or theme. If so, then you should deactivate this Social Meta feature in All in One SEO Pack Feature Manager."
+msgstr "다른 플러그인(들) 또는 테마로 출력되는 소셜 메타 태그를 사용하시는 편이 좋습니다. 그렇게 하시려면, All in One SEO Pack 기능 관리자에서 해당 소셜 메타 기능을 비활성화해야합니다."
+
+#: inc/aioseop_functions.php:580
+msgid "You should avoid duplicate social meta tags. You can use these free tools from Facebook, Google and Twitter to validate your social meta and check for errors:"
+msgstr "중복 소셜 메타 태그를 중지하셔야합니다. 소셜 메타의 유효성을 검사하고 오류를 확인하기 위해, 페이스북, 구글 및 트위터에서 이 무료 도구를 사용하실 수 있습니다:"
+
+#: inc/aioseop_functions.php:591
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "소셜 메타의 오류를 검출하여 제거하시려면 이를 사용하는데 도움이 되는 각 도구에 대한 문서를 참조해주시길 바랍니다."
+
+#: inc/aioseop_functions.php:922
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/aioseop_functions.php:928
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/aioseop_functions.php:931
+msgid "Facebook"
+msgstr "Facebook"
+
+#: modules/aioseop_importer_exporter.php:21
+msgid "Select a valid All in One SEO Pack ini file and click 'Import' to import options from a previous state or install of All in One SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "파일에서 유효한 All in One SEO Pack을 선택한 후 이전 상태의 옵션을 가져오거나 All in One SEO Pack을 설치합니다. <br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>해당 설정에 관한 설명서는 여기를 클릭해주십시오</a>"
+
+#: modules/aioseop_importer_exporter.php:25
+msgid "You may choose to export settings from active modules, and content from post data.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "활성 모듈의 설정 및 포스트 데이터의 콘텐츠를 내보내도록 선택할 수 있습니다.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>해당 설정에 관한 설명서는 여기를 클릭해주십시오</a>"
+
+#: modules/aioseop_importer_exporter.php:29
+msgid "Select which Post Types you want to export your All in One SEO Pack meta data for.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "All in One SEO Pack 메타 데이터에서 어떤 포스트 유형을 내보내고자 하는지 선택해주십시오. <br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>해당 설정에 관한 설명서는 여기를 클릭해주십시오</a>"
+
+#: modules/aioseop_importer_exporter.php:37
+#: modules/aioseop_importer_exporter.php:105
+msgid "Import"
+msgstr "가져오기"
+
+#: modules/aioseop_importer_exporter.php:43
+msgid "Export Settings"
+msgstr "설정 내보내기"
+
+#: modules/aioseop_importer_exporter.php:51
+msgid "Export Post Types:"
+msgstr "포스트 유형 내보내기:"
+
+#: modules/aioseop_importer_exporter.php:64
+msgid ""
+"Note: If General Settings is checked, the\n"
+"\t\t\t\t\t\t\t\tGeneral Settings, the Feature Manager settings,\n"
+"\t\t\t\t\t\t\t\tand the following currently active modules will\n"
+"\t\t\t\t\t\t\t\thave their settings data exported:"
+msgstr ""
+"참고: 일반 설정을 선택하신 경우, \n"
+"일반 설정, 기능 관리자 설정 및 다음과 같은\n"
+"현재 활성화 모듈이 \n"
+"설정 데이터를 내보낼 것입니다:"
+
+#: modules/aioseop_importer_exporter.php:115
+msgid "Export"
+msgstr "내보내기"
+
+#: modules/aioseop_importer_exporter.php:148
+msgid "There are no other modules currently loaded!"
+msgstr "현재 로딩되는 다른 모듈은 없습니다!"
+
+#: modules/aioseop_importer_exporter.php:155
+msgid ""
+"You may change this by activating or deactivating\n"
+"\t\t\t\t\t\tmodules in the Feature Manager."
+msgstr ""
+"기능 관리자에서 모듈 활성화 또는 \n"
+"비활성화하여 변경할 수 있습니다."
+
+#: modules/aioseop_importer_exporter.php:416
+msgid "<b>Warning:</b> Line not matched: <b>\"%s\"</b>, On Line: <b>%s</b>"
+msgstr "<b>경고:</b> 매치하지 않는 라인: <b>\"%s\"</b>, 온-라인: <b>%s</b>"
+
+#: modules/aioseop_importer_exporter.php:465
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b>경고:</b> 다음 게시물을 찾을 수 없습니다: <b>\"%s\"</b>"
+
+#: modules/aioseop_importer_exporter.php:513
+msgid "Settings export file for All in One SEO Pack"
+msgstr "All in One SEO Pack의 파일 내보내기 설정"
+
+#: admin/aioseop_module_class.php:1412
+msgid "Click here for documentation on this setting"
+msgstr "해당 설정에 관한 문서는 여기를 클릭해주십시오"
+
+#: admin/aioseop_module_class.php:1920
+msgid " characters. Most search engines use a maximum of %s chars for the %s."
+msgstr "문자. 대부분의 검색 엔진은 %s의  최대 %s 문자를 사용합니다."
+
+#: admin/aioseop_module_class.php:1953
+msgid "Click for Help!"
+msgstr "도움말을 보시려면 클릭하세요!"
+
+#: admin/aioseop_module_class.php:2149 modules/aioseop_sitemap.php:864
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "보안 검사 - 오류가 발생되는 경우, WordPress를 로그아웃한 후 다시 돌아와주십시오"
+
+#: admin/aioseop_module_class.php:2152
+msgid "Options Reset."
+msgstr "옵션 재설정."
+
+#: admin/aioseop_module_class.php:2161
+msgid "All in One SEO Options Updated."
+msgstr "All in One SEO 옵션 업데이트됨."
+
+#: admin/aioseop_module_class.php:2226
+msgid "Update Options"
+msgstr "옵션 업데이트"
+
+#: modules/aioseop_opengraph.php:19
+msgid "Activity"
+msgstr "활동"
+
+#: modules/aioseop_opengraph.php:20
+msgid "Sport"
+msgstr "스포츠"
+
+#: modules/aioseop_opengraph.php:23
+msgid "Bar"
+msgstr "바"
+
+#: modules/aioseop_opengraph.php:24
+msgid "Company"
+msgstr "회사"
+
+#: modules/aioseop_opengraph.php:25
+msgid "Cafe"
+msgstr "카페"
+
+#: modules/aioseop_opengraph.php:26
+msgid "Hotel"
+msgstr "호텔"
+
+#: modules/aioseop_opengraph.php:27
+msgid "Restaurant"
+msgstr "레스토랑"
+
+#: modules/aioseop_opengraph.php:30
+msgid "Cause"
+msgstr "원인"
+
+#: modules/aioseop_opengraph.php:31
+msgid "Sports League"
+msgstr "스포츠 리그"
+
+#: modules/aioseop_opengraph.php:32
+msgid "Sports Team"
+msgstr "스포츠 팀"
+
+#: modules/aioseop_opengraph.php:35
+msgid "Band"
+msgstr "밴드"
+
+#: modules/aioseop_opengraph.php:36
+msgid "Government"
+msgstr "정부"
+
+#: modules/aioseop_opengraph.php:37
+msgid "Non Profit"
+msgstr "비영리"
+
+#: modules/aioseop_opengraph.php:38
+msgid "School"
+msgstr "학교"
+
+#: modules/aioseop_opengraph.php:39
+msgid "University"
+msgstr "대학교"
+
+#: modules/aioseop_opengraph.php:42
+msgid "Actor"
+msgstr "배우"
+
+#: modules/aioseop_opengraph.php:43
+msgid "Athlete"
+msgstr "선수"
+
+#: modules/aioseop_opengraph.php:44
+msgid "Author"
+msgstr "작가"
+
+#: modules/aioseop_opengraph.php:45
+msgid "Director"
+msgstr "감독"
+
+#: modules/aioseop_opengraph.php:46
+msgid "Musician"
+msgstr "음악가"
+
+#: modules/aioseop_opengraph.php:47
+msgid "Politician"
+msgstr "정치가"
+
+#: modules/aioseop_opengraph.php:48
+msgid "Profile"
+msgstr "프로필"
+
+#: modules/aioseop_opengraph.php:49
+msgid "Public Figure"
+msgstr "공인"
+
+#: modules/aioseop_opengraph.php:52
+msgid "City"
+msgstr "도시"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Country"
+msgstr "국가"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Landmark"
+msgstr "랜드마크"
+
+#: modules/aioseop_opengraph.php:55
+msgid "State Province"
+msgstr "지역"
+
+#: modules/aioseop_opengraph.php:58
+msgid "Album"
+msgstr "앨범"
+
+#: modules/aioseop_opengraph.php:59
+msgid "Book"
+msgstr "책"
+
+#: modules/aioseop_opengraph.php:60
+msgid "Drink"
+msgstr "음료"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Food"
+msgstr "음식"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Game"
+msgstr "게임"
+
+#: modules/aioseop_opengraph.php:63
+msgid "Movie"
+msgstr "영화"
+
+#: modules/aioseop_opengraph.php:64
+msgid "Product"
+msgstr "제품"
+
+#: modules/aioseop_opengraph.php:65
+msgid "Song"
+msgstr "노래"
+
+#: modules/aioseop_opengraph.php:66
+msgid "TV Show"
+msgstr "TV 쇼"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Episode"
+msgstr "에피소드"
+
+#: modules/aioseop_opengraph.php:70 modules/aioseop_opengraph.php:80
+msgid "Article"
+msgstr "글"
+
+#: modules/aioseop_opengraph.php:71 modules/aioseop_opengraph.php:78
+msgid "Blog"
+msgstr "블로그"
+
+#: modules/aioseop_opengraph.php:72 modules/aioseop_opengraph.php:79
+msgid "Website"
+msgstr "홈페이지 (있으면 적어주세요)"
+
+#: modules/aioseop_opengraph.php:84
+msgid "Checking this box will use the Home Title and Home Description set in All in One SEO Pack, General Settings as the Open Graph title and description for your home page."
+msgstr "이 확인란을 표시하면 홈 타이틀과 홈 설명이 All in One SEO Pack에 설정됩니다, 일반 설정은 그래픽 오픈 타이틀과 설명으로 귀하의 홈페이지에 설정됩니다."
+
+#: modules/aioseop_opengraph.php:87
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "소셜 타이틀 메타 태그에 표시되는 숏코드를 실행해주십시오."
+
+#: modules/aioseop_opengraph.php:88
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "소셜 설명 메타 태그에 표시되는 숏코드를 실행해주십시오."
+
+#: modules/aioseop_opengraph.php:89
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "사이트명은 귀하의 사이트를 식별하는데 사용되는 이름입니다."
+
+#: modules/aioseop_opengraph.php:90
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "홈 타이틀은 귀하의 홈 페이지의 오픈 그래프 제목입니다."
+
+#: modules/aioseop_opengraph.php:91
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "홈 설명은 귀하의 홈페이지의 오픈 그래프 설명입니다."
+
+#: modules/aioseop_opengraph.php:92
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "홈 이미지는 귀하의 홈 페이지의 오픈 그래프 이미지입니다."
+
+#: modules/aioseop_opengraph.php:93
+msgid "The Home Tag allows you to add a list of keywords that best describe your home page content."
+msgstr "홈 태그는 귀하의 홈 페이지의 콘텐츠를 가장 잘 표현하는 키워드 목록을 추가할 수 있게 해줍니다."
+
+#: modules/aioseop_opengraph.php:94
+msgid "Check this and your Open Graph descriptions will be auto-generated from your content."
+msgstr "체크하시면 오픈 그래프 설명이 귀하의 콘텐츠에서 자동 생성될 것입니다."
+
+#: modules/aioseop_opengraph.php:95
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "해당 옵션은 어떤 이미지를 오픈 그래프 이미지의 기본값으로 표시할 것인지 선택할 수 있게 해줍니다. 개별 게시물에서 오버라이드할 수 있습니다."
+
+#: modules/aioseop_opengraph.php:96
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "해당 옵션은 위에서 이미지를 찾을 수 없는 경우 기본 이미지로 돌아가게 해줍니다."
+
+#: modules/aioseop_opengraph.php:97
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "해당 옵션은 오픈 그래프 이미지로 사용될 수 있는 기본값 이미지로 설정합니다. 이미지를 업로드한 후, 미디어 라이브러리에서 이미지를 선택하거나 또는 이미지 URL을 이곳에 붙여 넣을 수 있습니다."
+
+#: modules/aioseop_opengraph.php:98
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "해당 옵션은 지정되지 않은 귀하의 이미지를 기본 너비로 설정할 수 있게 해줍니다."
+
+#: modules/aioseop_opengraph.php:99
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "해당 옵션은 지정되지 않은 귀하의 이미지를 기본 높이로 설정할 수 있게 해줍니다."
+
+#: modules/aioseop_opengraph.php:100
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "페이지 또는 포스트에 오픈 그래프 이미지를 지정하여 해당 필드를 사용하려면 사용자 정의 필드명(또는 여러 필드명을 쉼표로 구분)을 입력해주십시오."
+
+#: modules/aioseop_opengraph.php:101
+msgid "Set the Open Graph type for your website as either a blog or a website."
+msgstr "블로그나 웹 사이트 중 하나에 귀하의 웹 사이트를 위한 오픈 그래프 유형을 설정합니다."
+
+#: modules/aioseop_opengraph.php:102
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "해당 옵션은 페이지 또는 포스트에 사용될 오픈 그래프 이미지를 선택할 수 있게 해줍니다."
+
+#: modules/aioseop_opengraph.php:103
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "해당 옵션은 해당 페이지 또는 포스트에 오픈 그래프 이미지로서 사용할 이미지를 업로드할 수 있게 합니다."
+
+#: modules/aioseop_opengraph.php:104
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "오픈 그래프 이미지를 픽셀 너비로 입력해주십시오 (예. 600)."
+
+#: modules/aioseop_opengraph.php:105
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "오픈 그래프 이미지를 픽셀 높이로 입력해주십시오 (예. 600)."
+
+#: modules/aioseop_opengraph.php:106
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "해당 옵션은 페이지 또는 포스트에 사용될 오픈 그래프 비디오의 링크를 지정할 수 있게 해줍니다."
+
+#: modules/aioseop_opengraph.php:107
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "오픈 그래프 비디오를 픽셀 너비로 입력해주십시오 (예. 600)."
+
+#: modules/aioseop_opengraph.php:108
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "오픈 그래프 비디오를 픽셀 높이로 입력해주십시오 (예. 600)."
+
+#: modules/aioseop_opengraph.php:109 modules/aioseop_opengraph.php:110
+msgid "Select the default type of Twitter card to display."
+msgstr "표시 할 트위터 카드의 기본 유형을 선택해주십시오"
+
+#: modules/aioseop_opengraph.php:111
+msgid "Enter the Twitter username associated with your website here."
+msgstr "여기에 귀하의 웹 사이트와 관련된 트위터 사용자 이름을 입력해주십시오."
+
+#: modules/aioseop_opengraph.php:112
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "작성자가 트위터 사용자 이름으로 포스트에 관한 트위터 카드를 콘텐츠 제작자로서 식별할 수 있게 합니다."
+
+#: modules/aioseop_opengraph.php:113
+msgid "Enter the name of your website here."
+msgstr "이곳에 웹 사이트의 이름을 입력해주십시오."
+
+#: modules/aioseop_opengraph.php:115
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "그렇지 않은 경우 페이스북 유형 글에 관한 글 태그를 자동으로 생성합니다. "
+
+#: modules/aioseop_opengraph.php:116
+msgid "Use keywords in generated article tags."
+msgstr "생성된 문서 태그에 키워드를 사용하십시오."
+
+#: modules/aioseop_opengraph.php:117
+msgid "Use catergories in generated article tags."
+msgstr "생성된 문서 태그에 카테고리를 사용해주십시오."
+
+#: modules/aioseop_opengraph.php:118
+msgid "Use post tags in generated article tags."
+msgstr "생성된 글 태그에 포스트 태그를 사용해주십시오."
+
+#: modules/aioseop_opengraph.php:119
+msgid "Select which Post Types you want to use All in One SEO Pack to set Open Graph meta values for."
+msgstr "All in One SEO Pack에 사용하고자 하는 포스트 유형을 선택하여 오픈 그래프 메타 값을 설정합니다."
+
+#: modules/aioseop_opengraph.php:120
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "이것은 해당 페이지 또는 포스트의 오픈 그래프 타이틀입니다."
+
+#: modules/aioseop_opengraph.php:121
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "이것은 페이지 또는 포스트의 오픈 그래프에 관한 설명입니다. "
+
+#: modules/aioseop_opengraph.php:122
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "해당 페이지 또는 포스트의 콘텐츠를 가장 잘 표현할 수 있는 오픈 그래프 유형을 선택해주십시오."
+
+#: modules/aioseop_opengraph.php:123
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "페이스북을 다시 불러오려면 해당 버튼을 누른 후, 해당 페이지를 디버깅해줍니다."
+
+#: modules/aioseop_opengraph.php:124
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "해당 오픈 그래프 메타는 콘텐츠를 가장 잘 나타내주는 일반 섹션명을 추가할 수 있도록 해줍니다."
+
+#: modules/aioseop_opengraph.php:125
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "해당 오픈 그래프 메타는 해당 콘텐츠를 가장 잘 표현하는 키워드 목록을 추가할 수 있게 해줍니다."
+
+#: modules/aioseop_opengraph.php:126
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "귀하의 웹 사이트와 관련된 페이스북 페이지의 글과 연결합니다."
+
+#: modules/aioseop_opengraph.php:127
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "자신의 작성자가 페이스북 페이지로 그들의 글에 관한 오픈그래프 메타를 콘텐츠 작성자로서 식별할 수 있게 합니다."
+
+#: modules/aioseop_opengraph.php:128
+msgid "Are the social profile links for your website for a person or an organization?"
+msgstr "귀하의 개인 또는 조직용 웹 사이트에 소셜 프로필 링크가 있으신가요?"
+
+#: modules/aioseop_opengraph.php:129
+msgid "Add URLs for your website's social profiles here (Facebook, Twitter, Google+, Instagram, LinkedIn), one per line."
+msgstr "한 줄 씩 귀하의 웹 사이트 소셜 프로필 (페이스북, 트위터, Google+, 인스타그램, 링크딘) URL을 여기에 추가합니다."
+
+#: modules/aioseop_opengraph.php:130
+msgid "Add the name of the person or organization who owns these profiles."
+msgstr "해당 프로필(들)을 소유한 개인 또는 조직의 이름을 추가합니다."
+
+#: modules/aioseop_opengraph.php:185
+msgid " characters. Open Graph allows up to a maximum of %s chars for the %s."
+msgstr "문자. 오픈 그래프는 %s의 %s 문자를 최대까지 지정할 수 있습니다."
+
+#: modules/aioseop_opengraph.php:188
+msgid "Scan Header"
+msgstr "스캔 헤더"
+
+#: modules/aioseop_opengraph.php:193
+msgid "Use AIOSEO Title and Description"
+msgstr "AIOSEO 타이틀 및 설명 사용하기"
+
+#: modules/aioseop_opengraph.php:206
+msgid "Run Shortcodes In Title"
+msgstr "타이틀에 숏코드 실행하기"
+
+#: modules/aioseop_opengraph.php:207
+msgid "Run Shortcodes In Description"
+msgstr "설명에 숏코드 실행하기"
+
+#: modules/aioseop_opengraph.php:209
+msgid "Site Name"
+msgstr "사이트명"
+
+#: modules/aioseop_opengraph.php:214
+msgid "Home Title"
+msgstr "홈 타이틀"
+
+#: modules/aioseop_opengraph.php:226
+msgid "Home Description"
+msgstr "홈 설명"
+
+#: modules/aioseop_opengraph.php:238
+msgid "Home Image"
+msgstr "홈 이미지"
+
+#: modules/aioseop_opengraph.php:242
+msgid "Home Article Tags"
+msgstr "홈 글 태그"
+
+#: modules/aioseop_opengraph.php:248
+msgid "Autogenerate OG Descriptions"
+msgstr "OG 설명 자동 생성하기"
+
+#: modules/aioseop_opengraph.php:252
+msgid "Select OG:Image Source"
+msgstr "OG 선택하기: 이미지 소스"
+
+#: modules/aioseop_opengraph.php:255
+msgid "Default Image"
+msgstr "기본 이미지"
+
+#: modules/aioseop_opengraph.php:256
+msgid "Featured Image"
+msgstr "대표 이미지"
+
+#: modules/aioseop_opengraph.php:257
+msgid "First Attached Image"
+msgstr "첫 번째 첨부 이미지"
+
+#: modules/aioseop_opengraph.php:258
+msgid "First Image In Content"
+msgstr "콘텐츠 첫 번째 이미지"
+
+#: modules/aioseop_opengraph.php:259
+msgid "Image From Custom Field"
+msgstr "사용자 정의 필드 이미지"
+
+#: modules/aioseop_opengraph.php:260
+msgid "Post Author Image"
+msgstr "작성자 이미지 포스트"
+
+#: modules/aioseop_opengraph.php:261
+msgid "First Available Image"
+msgstr "첫 번째 사용 가능한 이미지"
+
+#: modules/aioseop_opengraph.php:265
+msgid "Use Default If No Image Found"
+msgstr "이미지를 찾을 수 없는 경우 기본값으로 사용합니다"
+
+#: modules/aioseop_opengraph.php:269
+msgid "Default OG:Image"
+msgstr "기본값 OG:이미지"
+
+#: modules/aioseop_opengraph.php:274
+msgid "Default Image Width"
+msgstr "기본 이미지 폭"
+
+#: modules/aioseop_opengraph.php:279
+msgid "Default Image Height"
+msgstr "기본 이미지 높이"
+
+#: modules/aioseop_opengraph.php:284
+msgid "Use Custom Field For Image"
+msgstr "사용자 정의 필드 이미지로 사용하기"
+
+#: modules/aioseop_opengraph.php:289 modules/aioseop_opengraph.php:415
+msgid "Facebook Object Type"
+msgstr "페이스북 개체 유형"
+
+#: modules/aioseop_opengraph.php:295
+msgid "Image"
+msgstr "이미지"
+
+#: modules/aioseop_opengraph.php:300
+msgid "Custom Image"
+msgstr "사용자 지정 이미지"
+
+#: modules/aioseop_opengraph.php:304
+msgid "Specify Image Width"
+msgstr "이미지 폭 지정하기"
+
+#: modules/aioseop_opengraph.php:309
+msgid "Specify Image Height"
+msgstr "이미지 높이 지정하기"
+
+#: modules/aioseop_opengraph.php:314
+msgid "Custom Video"
+msgstr "사용자 지정 동영상"
+
+#: modules/aioseop_opengraph.php:318
+msgid "Specify Video Width"
+msgstr "동영상 폭 지정하기"
+
+#: modules/aioseop_opengraph.php:330
+msgid "Specify Video Height"
+msgstr "동영상 높이 지정하기"
+
+#: modules/aioseop_opengraph.php:342
+msgid "Default Twitter Card"
+msgstr "기본 트위터 카드"
+
+#: modules/aioseop_opengraph.php:345 modules/aioseop_opengraph.php:356
+msgid "Summary"
+msgstr "요약"
+
+#: modules/aioseop_opengraph.php:346 modules/aioseop_opengraph.php:355
+msgid "Summary Large Image"
+msgstr "큰 이미지 요약"
+
+#: modules/aioseop_opengraph.php:352
+msgid "Twitter Card Type"
+msgstr "트위터 카드 유형"
+
+#: modules/aioseop_opengraph.php:361
+msgid "Twitter Site"
+msgstr "트위터 사이트"
+
+#: modules/aioseop_opengraph.php:365
+msgid "Show Twitter Author"
+msgstr "트위터 작성자 나타내기"
+
+#: modules/aioseop_opengraph.php:367
+msgid "Twitter Domain"
+msgstr "트위터 도메인"
+
+#: modules/aioseop_opengraph.php:375
+msgid "Automatically Generate Article Tags"
+msgstr "글 태그 자동으로 생성하기"
+
+#: modules/aioseop_opengraph.php:377
+msgid "Use Keywords In Article Tags"
+msgstr "글 태그에 키워드 사용하기"
+
+#: modules/aioseop_opengraph.php:382
+msgid "Use Categories In Article Tags"
+msgstr "글 태그에 카테고리 사용하기"
+
+#: modules/aioseop_opengraph.php:387
+msgid "Use Post Tags In Article Tags"
+msgstr "글 태그에 포스트 태그 사용하기"
+
+#: modules/aioseop_opengraph.php:392
+msgid "Enable Facebook Meta for"
+msgstr "페이스북 메타 활성화하기"
+
+#: modules/aioseop_opengraph.php:422
+msgid "Facebook Debug"
+msgstr "페이스북 디버그"
+
+#: modules/aioseop_opengraph.php:437
+msgid "Debug This Post"
+msgstr "해당 포스트 디버그하기"
+
+#: modules/aioseop_opengraph.php:442
+msgid "Article Section"
+msgstr "글 섹션"
+
+#: modules/aioseop_opengraph.php:448
+msgid "Article Tags"
+msgstr "글 태그"
+
+#: modules/aioseop_opengraph.php:454
+msgid "Show Facebook Publisher on Articles"
+msgstr "글에 페이스북 출판사 표시하기"
+
+#: modules/aioseop_opengraph.php:458
+msgid "Show Facebook Author on Articles"
+msgstr "글 페이스북 작성자 표시하기"
+
+#: modules/aioseop_opengraph.php:460 modules/aioseop_opengraph.php:572
+msgid "Social Profile Links"
+msgstr "소셜 프로필 링크"
+
+#: modules/aioseop_opengraph.php:466
+msgid "Person or Organization?"
+msgstr "개인이신가요,기업이신가요?"
+
+#: modules/aioseop_opengraph.php:469
+msgid "Person"
+msgstr "개인"
+
+#: modules/aioseop_opengraph.php:470
+msgid "Organization"
+msgstr "기업"
+
+#: modules/aioseop_opengraph.php:474
+msgid "Associated Name"
+msgstr "관련 이름"
+
+#: modules/aioseop_opengraph.php:530
+msgid "Social Settings"
+msgstr "소셜 설정"
+
+#: modules/aioseop_opengraph.php:567
+msgid "Image Settings"
+msgstr "이미지 설정"
+
+#: modules/aioseop_opengraph.php:577
+msgid "Facebook Settings"
+msgstr "페이스북 설정"
+
+#: modules/aioseop_opengraph.php:593
+msgid "Twitter Settings"
+msgstr "트위터 설정"
+
+#: modules/aioseop_opengraph.php:598
+msgid "Scan Social Meta"
+msgstr "소셜 메타 스캔하기"
+
+#: modules/aioseop_opengraph.php:632
+msgid "Static front page detected, suggested Facebook Object Type is 'website'."
+msgstr "고정 첫 페이지가 발견되었습니다, 페이스북 개체 유형은 '웹 사이트'로 추천됩니다."
+
+#: modules/aioseop_opengraph.php:637
+msgid "Blog on front page detected, suggested Facebook Object Type is 'blog'."
+msgstr "첫 페이지의 블로그가 발견되었습니다, 페이스북 개체 유형은 '블로그'로 추천됩니다."
+
+#: modules/aioseop_opengraph.php:689
+msgid "Default "
+msgstr "기본값"
+
+#: modules/aioseop_opengraph.php:756
+msgid "Scan Now"
+msgstr "지금 스캔"
+
+#: modules/aioseop_opengraph.php:757
+msgid "Scan your site for duplicate social meta tags."
+msgstr "중복 소셜 메타 태그에 관하여 귀하의 사이트를 스캔합니다."
+
+#: modules/aioseop_opengraph.php:1275
+msgid "Object Type"
+msgstr "개체 유형"
+
+#: modules/aioseop_opengraph.php:1282
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "포스트 유형의 콘텐츠를 가장 잘 표현하는 기본값을 선택합니다."
+
+#: modules/aioseop_performance.php:21
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "해당 설정은 PHP 메모리 한계를 적당한 값으로 늘릴 수 있습니다. 참고: WordPress 코어 및 기타 WordPress 플러그인도 또한 메모리 한계값을 변경할 수 있습니다."
+
+#: modules/aioseop_performance.php:22
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "해당 설정은 귀하의 PHP 실행 시간을 적당한 값으로 늘릴 수 있게 해줍니다."
+
+#: modules/aioseop_performance.php:23
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "해당 타이틀을 다시 편집하려면 출력 버퍼링을 사용합니다. 귀하의 테마 또는 다른 플러그인으로 설정된 타이틀 태그를 사용하여 문제가 발생하는 경우 해당 옵션을 사용합니다."
+
+#: modules/aioseop_performance.php:28
+msgid "Raise memory limit"
+msgstr "메모리 한계 늘리기"
+
+#: modules/aioseop_performance.php:32 modules/aioseop_performance.php:44
+msgid "Use the system default"
+msgstr "시스템 기본값 사용하기"
+
+#: modules/aioseop_performance.php:40
+msgid "Raise execution time"
+msgstr "실행 시간 늘리기"
+
+#: modules/aioseop_performance.php:49
+msgid "No limit"
+msgstr "제한 없음"
+
+#: modules/aioseop_performance.php:86
+msgid "System Status"
+msgstr "시스템 상태"
+
+#: modules/aioseop_performance.php:170
+msgid "Not set"
+msgstr "설정되지 않음"
+
+#: modules/aioseop_performance.php:173
+msgid "On"
+msgstr "켜짐"
+
+#: modules/aioseop_performance.php:175
+msgid "Off"
+msgstr "꺼짐"
+
+#: modules/aioseop_performance.php:180 modules/aioseop_performance.php:185
+#: modules/aioseop_performance.php:190 modules/aioseop_performance.php:195
+#: modules/aioseop_performance.php:200 modules/aioseop_performance.php:228
+msgid "N/A"
+msgstr "해당 없음"
+
+#: modules/aioseop_performance.php:198
+msgid " MByte"
+msgstr "MByte"
+
+#: modules/aioseop_performance.php:203 modules/aioseop_performance.php:208
+#: modules/aioseop_performance.php:213 modules/aioseop_performance.php:222
+msgid "Yes"
+msgstr "네"
+
+#: modules/aioseop_performance.php:236
+msgid "Operating System"
+msgstr "운영 체제"
+
+#: modules/aioseop_performance.php:237
+msgid "Server"
+msgstr "서버"
+
+#: modules/aioseop_performance.php:238
+msgid "Memory usage"
+msgstr "메모리 사용"
+
+#: modules/aioseop_performance.php:239
+msgid "MYSQL Version"
+msgstr "MYSQL 버전"
+
+#: modules/aioseop_performance.php:240
+msgid "SQL Mode"
+msgstr "SQL 모드"
+
+#: modules/aioseop_performance.php:241
+msgid "PHP Version"
+msgstr "PHP 버전"
+
+#: modules/aioseop_performance.php:242
+msgid "PHP Allow URL fopen"
+msgstr "PHP URL fopen 허용"
+
+#: modules/aioseop_performance.php:243
+msgid "PHP Memory Limit"
+msgstr "PHP 메모리 한계"
+
+#: modules/aioseop_performance.php:244
+msgid "PHP Max Upload Size"
+msgstr "PHP 최대 업로드 크기"
+
+#: modules/aioseop_performance.php:245
+msgid "PHP Max Post Size"
+msgstr "PHP 최대 포스트 크기"
+
+#: modules/aioseop_performance.php:246
+msgid "PHP Max Script Execute Time"
+msgstr "PHP 최대 스크립트 실행 시간"
+
+#: modules/aioseop_performance.php:247
+msgid "PHP Exif support"
+msgstr "PHP Exif 지원"
+
+#: modules/aioseop_performance.php:248
+msgid "PHP IPTC support"
+msgstr "PHP IPTC 지원"
+
+#: modules/aioseop_performance.php:249
+msgid "PHP XML support"
+msgstr "PHP XML 지원"
+
+#: modules/aioseop_performance.php:250
+msgid "Site URL"
+msgstr "사이트 URL"
+
+#: modules/aioseop_performance.php:251
+msgid "Home URL"
+msgstr "사이트 URL"
+
+#: modules/aioseop_performance.php:252
+msgid "WordPress Version"
+msgstr "WordPress 버전"
+
+#: modules/aioseop_performance.php:253
+msgid "WordPress DB Version"
+msgstr "WordPress DB 버전"
+
+#: modules/aioseop_performance.php:254
+msgid "Multisite"
+msgstr "멀티사이트"
+
+#: modules/aioseop_performance.php:255
+msgid "Active Theme"
+msgstr "활성화된 테마"
+
+#: modules/aioseop_performance.php:270
+msgid "All in One SEO Pack Pro Debug Info"
+msgstr "All in One SEO Pack Pro 디버그 정보"
+
+#: modules/aioseop_performance.php:288
+msgid "Form submission error: verification check failed."
+msgstr "제출 전송 오류: 인증 확인 실패됨."
+
+#: modules/aioseop_performance.php:302
+msgid "SFWD Debug Mail From Site %s."
+msgstr "사이트 %s에서의 SFWD 디버그 메일."
+
+#: modules/aioseop_performance.php:303
+msgid "Sent to %s."
+msgstr "%s에 전송됨."
+
+#: modules/aioseop_performance.php:305
+msgid "Failed to send to %s."
+msgstr "%s에 전송 실패됨."
+
+#: modules/aioseop_performance.php:308
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "오류: 제출 전에 이메일 주소를 입력하세요."
+
+#: modules/aioseop_performance.php:314
+msgid "E-mail debug information"
+msgstr "이메일 디버그 정보"
+
+#: modules/aioseop_performance.php:315
+msgid "Submit"
+msgstr "제출"
+
+#: modules/aioseop_robots.php:18 modules/aioseop_robots.php:32
+msgid "Rule Type"
+msgstr "규칙 유형"
+
+#: modules/aioseop_robots.php:19 modules/aioseop_robots.php:38
+msgid "User Agent"
+msgstr "사용자 에이전트"
+
+#: modules/aioseop_robots.php:20 modules/aioseop_robots.php:43
+msgid "Directory Path"
+msgstr "디렉토리 경로"
+
+#: modules/aioseop_robots.php:28
+msgid "Use the rule builder below to add rules to create a new Robots.txt file.  If you already have a Robots.txt file you should use the File Editor feature in All in One SEO Pack to edit it or you can delete your current Robots.txt file and start a new one with the rule builder below."
+msgstr "새로운 Robots.txt 파일을 만들기 위해 규칙을 추가하려면 아래의 규칙 생성기를 사용하세요. 이미 Robots.txt 파일이 있다면, 이를 편집하기 위해 All in One SEO Pack의 파일 편집 기능을 사용하시거나 현재 Robots.txt 파일을 삭제하고 아래의 규칙 생성기로 새로운 것을 만들어서 시작하실 수 있습니다."
+
+#: modules/aioseop_robots.php:48
+msgid "Generate Robots.txt"
+msgstr "Robots.txt 만들기"
+
+#: modules/aioseop_robots.php:60
+msgid "Add Rule"
+msgstr "규칙 추가"
+
+#: modules/aioseop_robots.php:66
+msgid "Save Robots.txt File"
+msgstr "Robots.txt 파일 저장"
+
+#: modules/aioseop_robots.php:72
+msgid "Delete Robots.txt File"
+msgstr "Robots.txt 파일 삭제"
+
+#: modules/aioseop_robots.php:78
+msgid "Click the Optimize button below and All in One SEO Pack will analyze your Robots.txt file to make sure it complies with the standards for Robots.txt files.  The results will be displayed in a table below."
+msgstr "아래의 최적화 버튼을 클릭하면 All in One SEO Pack은 Robots.txt 파일들이 표준을 따르는지 확인하기 위해 귀하의 Robots.txt 파일을 분석할 것입니다. 해당 결과는 아래의 표에 표시됩니다."
+
+#: modules/aioseop_robots.php:84
+msgid "Update Robots.txt File"
+msgstr "Robots.txt 파일 업데이트"
+
+#: modules/aioseop_robots.php:91
+msgid "Disregard Changes"
+msgstr "변경 사항 무시하기"
+
+#: modules/aioseop_robots.php:97
+msgid "Optimize"
+msgstr "최적화"
+
+#: modules/aioseop_robots.php:130
+msgid "Create a Robots.txt File"
+msgstr "Robots.txt 파일 만들기"
+
+#: modules/aioseop_robots.php:144
+msgid "Optimize your Robots.txt File"
+msgstr "Robots.txt 파일 최적화"
+
+#: modules/aioseop_robots.php:154
+msgid "Your Robots.txt file has been optimized.  Here are the results and recommendations.  Click the Update Robots.txt File button below to write these changes to your Robots.txt file.  Click the Disregard Changes button to ignore these recommendations and keep your current Robots.txt file."
+msgstr "귀하의 Robots.txt 파일이 최적화되었습니다. 이곳에서 결과와 권장사항을 확인하세요. 귀하의 Robots.txt 파일에 변경사항을 작성하기 위해 아래의 Robots.txt 파일 업데이트 버튼을 클릭하세요."
+
+#: modules/aioseop_robots.php:299 modules/aioseop_robots.php:301
+msgid "Current File"
+msgstr "현재 파일"
+
+#: modules/aioseop_robots.php:299
+msgid "Proposed Changes"
+msgstr "제안하는 변경사항"
+
+#: modules/aioseop_robots.php:358
+msgid "Legend"
+msgstr "Legend"
+
+#: modules/aioseop_robots.php:360
+msgid "The yellow indicator means that a non-standard extension was recognized; not all crawlers may recognize it or interpret it the same way. The Allow and Sitemap directives are commonly used by Google and Yahoo."
+msgstr "노란색 표시는 비표준 확장을 인식했음을 의미합니다; 모든 크롤러가 이를 인식하거나 동일한 방식으로 해석하는 것은 아닙니다. 허가 및 사이트 맵 명령은 일반적으로 Google 및 Yahoo에 의해 사용됩니다."
+
+#: modules/aioseop_robots.php:361
+msgid "The red indicator means that the syntax is invalid for a robots.txt file."
+msgstr "빨간색 표시는 robots.txt 파일에 신택스가 유효하지 않음을 의미합니다."
+
+#: modules/aioseop_robots.php:363
+msgid "More Information"
+msgstr "정보 더보기"
+
+#: modules/aioseop_sitemap.php:31
+msgid "XML Sitemap"
+msgstr "XML 사이트 맵"
+
+#: modules/aioseop_sitemap.php:41
+msgid "Specifies the name of your sitemap file. This will default to 'sitemap'."
+msgstr "사이트 맵 파일의 이름을 명시하세요. 이는 '사이트 맵'으로 기본 설정되어 있을 겁니다."
+
+#: modules/aioseop_sitemap.php:42
+msgid "Notify Google when you update your sitemap settings."
+msgstr "사이트 맵 설정을 업데이트 할 때, Google에게 공식적으로 알리세요."
+
+#: modules/aioseop_sitemap.php:43
+msgid "Notify Bing when you update your sitemap settings."
+msgstr "사이트 맵 설정을 업데이트 할 때, Bing에게 공식적으로 알리세요."
+
+#: modules/aioseop_sitemap.php:44
+msgid "Notify search engines based on the selected schedule, and also update static sitemap daily if in use. (this uses WP-Cron, so make sure this is working properly on your server as well)"
+msgstr "선택된 일정에 기초한 검색 엔진을 공식적으로 알리세요. 또한, 사용 중인 경우, 매일 정적 사이트 맵을 업데이트하세요. (이는 WP-Cron을 사용하므로, 귀하의 서버에서도 올바르게 작동하는지 확인하세요)"
+
+#: modules/aioseop_sitemap.php:45
+msgid "Organize sitemap entries into distinct files in your sitemap. Enable this only if your sitemap contains over 50,000 URLs or the file is over 5MB in size."
+msgstr "귀하의 사이트 맵에서 사이트 맵 엔트리를 각각의 다른 파일로 정리하세요. 사이트 맵이 50,000개 이상의 URL을 포함하거나 파일 크기가 5MB 이상인 경우에만 이를 활성화하세요."
+
+#: modules/aioseop_sitemap.php:46
+msgid "Split long sitemaps into separate files."
+msgstr "긴 사이트 맵을 각각의 다른 파일로 나누세요."
+
+#: modules/aioseop_sitemap.php:47
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "사이트 맵에 최대 포스트 수를 지정하실 수 있습니다 (최대 50,000개)."
+
+#: modules/aioseop_sitemap.php:48
+msgid "Select which Post Types appear in your sitemap."
+msgstr "사이트 맵에 어떤 포스트 유형을 표시할지 선택하세요."
+
+#: modules/aioseop_sitemap.php:49
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "귀하의 사이트 맵에 어떤 텍사노미 아카이브가 나타나는지 선택하세요"
+
+#: modules/aioseop_sitemap.php:50
+msgid "Include Date Archives in your sitemap."
+msgstr "사이트 맵에 데이터 아카이브를 포함하세요."
+
+#: modules/aioseop_sitemap.php:51
+msgid "Include Author Archives in your sitemap."
+msgstr "사이트 맵에 작성자 아카이브를 포함하세요."
+
+#: modules/aioseop_sitemap.php:52
+msgid "Create a compressed sitemap file in .xml.gz format."
+msgstr ".xml.gz 형식의 압축 사이트 맵 파일을 만드세요."
+
+#: modules/aioseop_sitemap.php:53
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "Sitemap.xml의 링크를 가상 Robots.txt 파일에 배치하세요."
+
+#: aioseop_class.php:170
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - 원래의 URL 경로, 예를 들면 \"/url-that-does-not-exist/\""
+
+#: aioseop_class.php:171
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% - 인간이 읽을 수 있는 형태의 URL 경로, 예를 들면 \"Url That Does Not Exist\""
+
+#: aioseop_class.php:172
+msgid "%404_title% - Additional 404 title input\""
+msgstr "%404_title% - 추가 404 제목 input\""
+
+#: aioseop_class.php:173
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "해당 문자열은 페이지화 인덱스 페이지의 타이틀에 첨부/추가됩니다."
+
+#: aioseop_class.php:174 aioseop_class.php:3187 aioseop_class.php:3239
+msgid "The following macros are supported:"
+msgstr "다음의 매크로가 지원됩니다:"
+
+#: aioseop_class.php:175
+msgid "%page% - The page number"
+msgstr "%page% - 페이지 번호"
+
+#: aioseop_class.php:176
+msgid "Check this if you want to use All in One SEO Pack with any Custom Post Types on this site."
+msgstr "해당 사이트에 사용자 정의 포스트 유형으로 All in One SEO Pack을 사용하시려면 이것을 선택합니다."
+
+#: aioseop_class.php:177
+msgid "This will show or hide the advanced options for SEO for Custom Post Types."
+msgstr "이것은 사용자 정의 포스트 유형에 관한 SEO의 고급 옵션을 표시하거나 숨겨줍니다."
+
+#: aioseop_class.php:178
+msgid "Use these checkboxes to select which Post Types you want to use All in One SEO Pack with."
+msgstr "체크 박스를 사용하여 All in One SEO Pack을 사용하고자 하는 포스트 유형을 선택합니다. "
+
+#: aioseop_class.php:180
+msgid "This allows you to set the title tags for each Custom Post Type."
+msgstr "이것은 각 사용자 정의 포스트 유형의 제목 태그를 설정할 수 있게 해줍니다."
+
+#: aioseop_class.php:181
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "SEO 타이틀, SEO 키워드 및 SEO 설명 칼럼을 어떤 화면에 표시할지를 선택하게 합니다."
+
+#: aioseop_class.php:182
+msgid "Check this to add All in One SEO Pack to the Admin Bar for easy access to your SEO settings."
+msgstr "All in One SEO Pack을 어드민 바에 추가하여 SEO 설정에 바로 액세스하시려면 이것을 체크해주십시오."
+
+#: aioseop_class.php:183
+msgid "Check this to move the All in One SEO Pack menu item to the top of your WordPress Dashboard menu."
+msgstr "WordPress Dashboard 메뉴 상단에 All in One SEO Pack 메뉴 항목을 이동시키려면 이것을 체크해주십시오."
+
+#: aioseop_class.php:184
+msgid "Enter your verification code here to verify your site with Google Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Google Webmaster 도구를 사용하여 귀하의 사이트를 검증하시려면 여기에 인증 코드를 입력해주십시오.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>해당 설정에 관한 설명서는 여기를 클릭해주십시오.</a>"
+
+#: aioseop_class.php:185
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Bing Webmaster 도구를 사용하여 귀하의 사이트를 검증하시려면 여기에 인증 코드를 입력해주십시오. <br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>해당 설정에 관한 설명서는 여기를 클릭해주십시오</a>"
+
+#: aioseop_class.php:186
+msgid "Enter your verification code here to verify your site with Pinterest.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Pinterest을 사용하여 귀하의 사이트를 검증하시려면 여기에 인증 코드를 입력해주십시오. <br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>해당 설정에 관한 설명서는 여기를 클릭해주십시오.</a>"
+
+#: aioseop_class.php:187
+msgid "Enter your Google+ Profile URL here to add the rel=“author” tag to your site for Google authorship. It is recommended that the URL you enter here should be your personal Google+ profile.  Use the Advanced Authorship Options below if you want greater control over the use of authorship."
+msgstr "여기에 Google+ Profile URL을 입력한 후 rel=“author”을/를 구글 저자에 관한 귀하의 사이트에 추가합니다. 여기에 입력한 URL은 개인 Google+ 프로필로 하시면 좋습니다. 저자 사용에 관하여 더 향상된 제어 기능을 원하신다면 아래 고급 저자 옵션을 사용해주십시오."
+
+#: aioseop_class.php:188
+msgid "Check this to remove the Google Plus field from the user profile screen."
+msgstr "사용자 프로필 화면에서 Google Plus 필드를 제거하려면 이것을 선택해주십시오."
+
+#: aioseop_class.php:189
+msgid "Enable this to display advanced options for controlling Google Plus authorship information on your website."
+msgstr "웹 사이트에 Google Plus 저자 정보를 제어하는 고급 옵션을 표시하려면 이것을 활성화해주십시오."
+
+#: aioseop_class.php:190
+msgid "This option allows you to control which types of pages you want to display rel=\\\"author\\\" on for Google authorship. The options include the Front Page (the homepage of your site), Posts, Pages, and any Custom Post Types. The Everywhere Else option includes 404, search, categories, tags, custom taxonomies, date archives, author archives and any other page template."
+msgstr "해당 옵션은 어떤 유형의 페이지를 Google 저자에 rel=\\\"author\\\"으로 표시하고자 하는지 제어하게 해줍니다. 해당 옵션에는 첫 페이지 (귀하의 사이트 홈페이지), 포스트, 페이지 및 사용자 정의 포스트 유형을 포함하고 있습니다. 어느 옵션에서든 404, 검색, 카테고리, 태그, 사용자 정의 분류, 날짜 아카이브, 저자 아카이브 및 기타 페이지 템플릿이 포함되어 있습니다. "
+
+#: aioseop_class.php:191
+msgid "This option allows you to control whether rel=\\\"publisher\\\" is displayed on the homepage of your site. Google recommends using this if the site is a business website."
+msgstr "해당 옵션은 rel=\\\"publisher\\\"를 귀하의 사이트 홈페이지에 표시할지의 여부를 제어할 수 있도록 해줍니다. 만일 해당 사이트가 비즈니스 웹 사이트인 경우 Google 사용을 추천드립니다."
+
+#: aioseop_class.php:192
+msgid "The Google+ profile you enter here will appear on your homepage only as the rel=\\\"publisher\\\" tag. It is recommended that the URL you enter here should be the Google+ profile for your business."
+msgstr "여기에 입력된 Google+ 프로필은 rel=\\\"publisher\\\" 태그로서만 귀하의 홈페이지에 나타날 것입니다. 여기에 입력하신 URL은 귀하의 비즈니스용 Google+ 프로필로 하시는 것이 좋습니다."
+
+#: aioseop_class.php:193
+msgid "Add markup to display the Google Sitelinks Search Box next to your search results in Google."
+msgstr "Google에 검색 결과 옆에 Google 사이트 링크 검색 창을 표시하시려면 마크업을 추가해주십시오."
+
+#: aioseop_class.php:194
+msgid "Add markup to tell Google the preferred name for your website."
+msgstr "귀하의 웹 사이트에 대한 선호 명칭을 구글에 알리시려면 마크업을 추가해주십시오."
+
+#: aioseop_class.php:195
+msgid "Press the connect button to connect with Google Analytics; or if already connected, press the disconnect button to disable and remove any stored analytics credentials."
+msgstr "Google Analytics로 연결하시려면 연결 버튼을 눌러주십시오; 이미 연결한 상태에서, 비활성화 및 저장된 분석 인증을 제거하시려면 연결 해제 버튼을 눌러주십시오."
+
+#: aioseop_class.php:196
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "Google Analytics을 사용하여 귀하의 사이트에 방문자 행동을 추적하시려면 Google Analytics ID를 여기에 입력해주십시오."
+
+#: aioseop_class.php:197
+msgid "Check to use advanced Google Analytics options."
+msgstr "고급 Google Analytics 옵션을 사용하시려면 체크해주십시오."
+
+#: aioseop_class.php:198
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "http:// 없이 도메인 명을 입력하여 쿠키 도메인을 설정할 수 있습니다."
+
+#: aioseop_class.php:199
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "다수 또는 추가적인 도메인 추적을 활성화 하시려면 해당 옵션을 사용합니다."
+
+#: aioseop_class.php:200
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "여기를 추적하시려면 추가 도메인 목록을 추가합니다. http:// 없이 한 줄 당 하나의 도메인 명을 입력해주십시오."
+
+#: aioseop_class.php:201
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "Google Analytics에 IP 익명화에 관한 지원을 활성화할 수 있습니다."
+
+#: aioseop_class.php:202
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "Google Analytics에서 광고주 기능 표시에 관한 지원을 활성화할 수 있습니다."
+
+#: aioseop_class.php:203
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "로그인한 사용자가 Google Analytics을 룰에 따라 추적하는 것을 허용하지 않습니다."
+
+#: aioseop_class.php:204
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "Google Analytics로 아웃바운드 링크를 추적하고자 하는 경우, 여기를 체크해주십시오."
+
+#: aioseop_class.php:205
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "Google Analytics에서 향상된 링크 기여에 관한 지원을 활성화할 수 있습니다."
+
+#: aioseop_class.php:206
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "Google Analytics에서 향상된 전자 상거래의 지원을 활성화할 수 있습니다."
+
+#: aioseop_class.php:207
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "각 포스트 유형에 관한 기본 NOINDEX 설정을 지정해주십시오."
+
+#: aioseop_class.php:208
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "각 포스트 유형에 관한 기본 NOFOLLOW 설정을 지정해주십시오."
+
+#: aioseop_class.php:210
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "검색 엔진이 카테고리 아카이브를 인덱스하지 못하게 요청하려면 이것을 체크해주십시오. 중복 콘텐츠를 방지하는데 유용합니다."
+
+#: aioseop_class.php:211
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "검색 엔진이 데이터 아카이브를 인덱스하지 못하게 요청하려면 이것을 체크해주십시오. 중복 콘텐츠를 방지하는데 유용합니다."
+
+#: aioseop_class.php:212
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "검색 엔진이 작성자 아카이브를 인덱스하지 못하게 요청하려면 이것을 체크해주십시오. 중복 콘텐츠를 방지하는데 유용합니다."
+
+#: aioseop_class.php:213
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "검색 엔진이 태그 아카이브를 인덱스하지 못하게 요청하려면 이것을 체크해주십시오. 중복 콘텐츠를 방지하는데 유용합니다."
+
+#: aioseop_class.php:214
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "검색 엔진이 검색 페이지에 인덱스하지 못하게 요청하려면 이것을 체크해주십시오. 중복 콘텐츠를 방지하는데 유용합니다."
+
+#: aioseop_class.php:215
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "검색 엔진이 404 페이지를 인덱스하지 못하게 요청하려면 이것을 체크해주십시오. "
+
+#: aioseop_class.php:216
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "검색 엔진이 사용자 정의 Taxonomy 아카이브 페이지를 인덱스하지 못하게 요청하려면 이것을 체크해주십시오. 중복 콘텐츠를 방지하는데 유용합니다."
+
+#: aioseop_class.php:217
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "검색 엔진이 페이지화로 작성된 페이지/포스트를 인덱스하지 못하게 요청하려면 이것을 체크해주십시오. 중복 콘텐츠를 방지하는데 유용합니다."
+
+#: aioseop_class.php:218
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "검색 엔진이 페이지화로 작성된 페이지/포스트에서 링크를 팔로우하지 못하게 요청하려면 이것을 체크해주십시오. 중복 콘텐츠를 방지하는데 유용합니다."
+
+#: aioseop_class.php:219
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for your entire site."
+msgstr "검색엔진이 전체 사이트의 오픈 디렉토리 프로젝트에서 설명을 사용하지 못하게 요청하시려면 해당 박스를 체크해주십시오."
+
+#: aioseop_class.php:220
+msgid "Set the default noodp setting for each Post Type."
+msgstr "각 포스트 유형을 기본 noodp 설정으로 설정합니다."
+
+#: aioseop_class.php:221
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for your entire site."
+msgstr "Yahoo!가 귀하의 전체 사이트에 관한 Yahoo! 디렉토리의 설명을 사용하지 못하게 요청하려면 해당 박스를 체크해주십시오."
+
+#: aioseop_class.php:222
+msgid "Set the default noydir setting for each Post Type."
+msgstr "각 포스트 유형을 기본 noydir 설정으로 설정합니다."
+
+#: aioseop_class.php:223
+msgid "Check this and your Meta Descriptions won't be generated from the excerpt."
+msgstr "이것을 체크하시면 귀하의 메타 설명이 발췌에서 생성되지 않게됩니다."
+
+#: aioseop_class.php:224
+msgid "Check this and your Meta Descriptions will be auto-generated from your excerpt or content."
+msgstr "이것을 체크하시면 귀하의 메타 설명은 발췌 또는 콘텐츠에서 자동 생성될 것입니다."
+
+#: aioseop_class.php:225
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "이것을 체크하시면 숏코드가 콘텐츠에서 자동 생성되는 설명을 실행하게 됩니다."
+
+#: aioseop_class.php:226
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "이것을 체크하시면 귀하의 메타 설명이 페이지화된 콘텐츠를 2 페이지 이상 제거할 것입니다."
+
+#: aioseop_class.php:227
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "이것을 체크하시면 귀하의 설명이 길이와 관계없이 생략되는 것을 방지해줍니다."
+
+#: aioseop_class.php:228
+msgid "Check this to support Schema.org markup, i.e., itemprop on supported metadata."
+msgstr "Schema.org 마크업을 지원하려면 이곳을 클릭하세요, 예) 지원하는 메타 데이터의 아이템프롭."
+
+#: aioseop_class.php:229
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "XMLRPC로 사용되는 내부 포스트 메타 항목을 보호하지 않으려면 이곳을 선택하세요. 이게 무엇인지 모르신다면, 선택해제 상태로 남겨두세요."
+
+#: aioseop_class.php:231
+msgid "Enter a comma separated list of pages here to be excluded by All in One SEO Pack.  This is helpful when using plugins which generate their own non-WordPress dynamic pages.  Ex: <em>/forum/, /contact/</em>  For instance, if you want to exclude the virtual pages generated by a forum plugin, all you have to do is add forum or /forum or /forum/ or and any URL with the word \\\"forum\\\" in it, such as http://mysite.com/forum or http://mysite.com/forum/someforumpage here and it will be excluded from All in One SEO Pack."
+msgstr "All in One SEO Pack에서 배제할 모든 페이지 목록을 쉼표로 개별적으로 적어주세요. 이는 비-Wordpress 동적 페이지를 만드는 플러그인을 사용할 때 유용할 수 있습니다.  예: <em>/forum/, /contact/</em> 예를 들어, 포럼 플러그인으로 생성된 가성 페이지를 배제하길 원하는 경우, 포럼을 추가하거나 /forum 또는 /forum/를 추가하시거나 이 안에 \\\"forum\\\"이라는 단어를 URL과 넣어주세요. 예: http://mysite.com/forum 또는 http://mysite.com/forum/someforumpage 그러면 All in One SEO Pack에서 배제될 것입니다."
+
+#: aioseop_class.php:232
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "이곳에 입력하시는 내용은 모든 포스트의 헤더에 글자 그대로 복사될 것입니다. 이곳에 원하시는 추가 헤더가 무엇이던 간에 입력하세요, 스타일 시트에 참조도 적으실 수 있습니다."
+
+#: aioseop_class.php:233
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "이곳에 입력하시는 내용은 모든 페이지의 헤더에 글자 그대로 복사될 것입니다. 이곳에 원하시는 추가 헤더가 무엇이던 간에 입력하세요, 스타일 시트에 참조도 적으실 수 있습니다."
+
+#: aioseop_class.php:234
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "이곳에서 작성하시는 내용은, 설정, 읽기, 프론트 페이지 표시에 고정 페이지를 설정하셨다면 프론트 페이지의 헤더에 글자 그대로 복사될 것입니다. 또한, 이곳에 원하시는 추가 헤더를 입력하시거나 스타일 시트에 참조로 입력하실 수 있습니다. 이들을 설정하고 아무것도 입력하지 않으셨다면 추가 페이지 헤더 사용을 실패할 것입니다."
+
+#: aioseop_class.php:235
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "이곳에서 작성하시는 내용은, 설정, 읽기에 선택된 최신 포스트를 표시하는 프론트 페이지가 있다면 홈 페이지의 헤더에 글자 그대로 복사될 것입니다. 또한, 설정, 읽기에 설정하신 경우 포스트 페이지의 헤더에 글자그대로 복사될 것입니다. 여기서 원하시는 것을 추가 헤더로 입력하실 수 있습니다, 이외에도 스타일 시트 참조로 입력하실 수 있습니다."
+
+#: aioseop_class.php:329
+msgid "A preview of what this page might look like in search engine results."
+msgstr "검색 엔진 결과처럼 보일 수 있는 이 페이지의 미리보기."
+
+#: aioseop_class.php:330
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "이 페이지를 위한 타이틀 태그에 나타나는 사용자 정의 타이틀."
+
+#: aioseop_class.php:331
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "해당 페이지를 위한 메타 설명. 이는 자동 생성된 설명을 오버라이트 할 것입니다."
+
+#: aioseop_class.php:332
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "메타 키워드로 다시 쓰여질 해당 페이지에 가장 중요한 키워드를 쉼표로 나누어서 적어주세요"
+
+#: aioseop_class.php:333
+msgid "Override the canonical URLs for this post."
+msgstr "이 포스트를 위한 Canonical(캐노니컬) URL 오버라이드하기."
+
+#: aioseop_class.php:334
+msgid "Check this box to ask search engines not to index this page."
+msgstr "이 페이지를 인덱스 하지 않도록 검색 엔진을 요청하려면 이 확인란을 클릭하세요."
+
+#: aioseop_class.php:335
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "이 페이지에서 링크를 팔로우 하지 않도록 검색 엔진에 요청하려면 이 확인란을 클릭하세요."
+
+#: aioseop_class.php:336
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for this page."
+msgstr "이 페이지에서 디렉토리 프로젝트 열기의 설명을 사용하지 않도록 검색 엔진에 요청하기 위해 이 확인란을 클릭하세요."
+
+#: aioseop_class.php:337
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for this page."
+msgstr "Yahoo에 요청하려면 이 확인란을 선택하세요! 이 페이지를 위한 디렉토리."
+
+#: aioseop_class.php:338
+msgid "Set the title attribute for menu links."
+msgstr "메뉴 링크를 위한 타이틀 속성 설정."
+
+#: aioseop_class.php:339
+msgid "Set the label for this page menu item."
+msgstr "이 페이지 메뉴 항목을 위해 이 라벨 설정."
+
+#: aioseop_class.php:340
+msgid "Don't display this page in the sitemap."
+msgstr "해당 사이트 맵에 이 페이지를 디스플레이하지 마세요."
+
+#: aioseop_class.php:341
+msgid "Disable SEO on this page."
+msgstr "이 페이지에 SEO를 비활성화하기."
+
+#: aioseop_class.php:342
+msgid "Disable Google Analytics on this page."
+msgstr "이 페이지에 Google Analytics을 비활성화하기."
+
+#: aioseop_class.php:351
+msgid "I enjoy this plugin and have made a donation:"
+msgstr "이 플러그인이 좋아서 기부했습니다:"
+
+#: aioseop_class.php:354
+msgid "Home Title:"
+msgstr "홈 제목:"
+
+#: aioseop_class.php:364
+msgid "Home Description:"
+msgstr "홈 설명:"
+
+#: aioseop_class.php:374
+msgid "Use Keywords:"
+msgstr "키워드 사용:"
+
+#: aioseop_class.php:378 aioseop_class.php:394 aioseop_class.php:428
+#: aioseop_class.php:438 aioseop_class.php:447 aioseop_class.php:536
+#: aioseop_class.php:557 aioseop_class.php:649 aioseop_class.php:665
+#: aioseop_class.php:687 modules/aioseop_performance.php:67
+msgid "Enabled"
+msgstr "활성화됨"
+
+#: aioseop_class.php:379 aioseop_class.php:395 aioseop_class.php:429
+#: aioseop_class.php:439 aioseop_class.php:448 aioseop_class.php:537
+#: aioseop_class.php:558 aioseop_class.php:650 aioseop_class.php:666
+#: aioseop_class.php:688 modules/aioseop_performance.php:68
+msgid "Disabled"
+msgstr "비활성화됨"
+
+#: aioseop_class.php:383
+msgid "Home Keywords (comma separated):"
+msgstr "홈 키워드 (콤마 분리):"
+
+#: aioseop_class.php:390
+msgid "Use Static Front Page Instead"
+msgstr "고정 앞 페이지 대신 사용"
+
+#: aioseop_class.php:399
+msgid "Canonical URLs:"
+msgstr "캐노니컬 URLs:"
+
+#: aioseop_class.php:403
+msgid "No Pagination for Canonical URLs:"
+msgstr "Canonical(캐노니컬) URL용 페이지 매기기 없음:"
+
+#: aioseop_class.php:408
+msgid "Enable Custom Canonical URLs:"
+msgstr "사용자 설정 Canonical(캐노니컬) URL 활성화:"
+
+#: aioseop_class.php:413
+msgid "Set Protocol For Canonical URLs:"
+msgstr "Canonical(캐노니컬) URL용 프로토콜 설정:"
+
+#: aioseop_class.php:417
+msgid "Auto"
+msgstr "자동"
+
+#: aioseop_class.php:418
+msgid "HTTP"
+msgstr "HTTP"
+
+#: aioseop_class.php:419
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: aioseop_class.php:424
+msgid "Rewrite Titles:"
+msgstr "제목 다시 쓰기:"
+
+#: aioseop_class.php:433 modules/aioseop_performance.php:63
+msgid "Force Rewrites:"
+msgstr "강제 다시쓰기:"
+
+#: aioseop_class.php:443
+msgid "Use Original Title:"
+msgstr "오리지널 타이틀 사용:"
+
+#: aioseop_class.php:456
+msgid "Capitalize Category Titles:"
+msgstr "카테고리 제목을 대문자화 하기:"
+
+#: aioseop_class.php:460
+msgid "Home Page Title Format:"
+msgstr "홈 페이지 타이틀 형식:"
+
+#: aioseop_class.php:466
+msgid "Page Title Format:"
+msgstr "페이지 제목 형식:"
+
+#: aioseop_class.php:472
+msgid "Post Title Format:"
+msgstr "글 제목 형식:"
+
+#: aioseop_class.php:478
+msgid "Category Title Format:"
+msgstr "카테고리 제목 형식:"
+
+#: aioseop_class.php:484
+msgid "Archive Title Format:"
+msgstr "글 보관함 제목 형식:"
+
+#: aioseop_class.php:490
+msgid "Date Archive Title Format:"
+msgstr "데이터 아카이브 타이틀 형식:"
+
+#: aioseop_class.php:496
+msgid "Author Archive Title Format:"
+msgstr "작성자 아카이브 타이틀 형식:"
+
+#: aioseop_class.php:502
+msgid "Tag Title Format:"
+msgstr "태그 제목 형식:"
+
+#: aioseop_class.php:508
+msgid "Search Title Format:"
+msgstr "검색 제목 형식:"
+
+#: aioseop_class.php:514
+msgid "Description Format"
+msgstr "설명 형식"
+
+#: aioseop_class.php:520
+msgid "404 Title Format:"
+msgstr "404 제목 형식:"
+
+#: aioseop_class.php:526
+msgid "Paged Format:"
+msgstr "페이지 형식:"
+
+#: aioseop_class.php:532
+msgid "SEO for Custom Post Types:"
+msgstr "사용자 정의 글 형식 SEO:"
+
+#: aioseop_class.php:541
+msgid "SEO on only these post types:"
+msgstr "오직 이 포스트 유형에만 SEO 사용:"
+
+#: aioseop_class.php:553
+msgid "Enable Advanced Options:"
+msgstr "고급 옵션 활성화:"
+
+#: aioseop_class.php:564
+msgid "Default to NOINDEX:"
+msgstr "NOINDEX로 기본값:"
+
+#: aioseop_class.php:569
+msgid "Default to NOFOLLOW:"
+msgstr "NOFOLLOW로 기본값:"
+
+#: aioseop_class.php:574
+msgid "Default to NOODP:"
+msgstr "NOODP로 기본값:"
+
+#: aioseop_class.php:579
+msgid "Default to NOYDIR:"
+msgstr "NOYDIR로 기본값:"
+
+#: aioseop_class.php:584
+msgid "Custom titles:"
+msgstr "사용자 설정 타이틀:"
+
+#: aioseop_class.php:594
+msgid "Show Column Labels for Custom Post Types:"
+msgstr "사용자 설정 포스트 유형으로 칼럼 라벨 표시:"
+
+#: aioseop_class.php:600
+msgid "Display Menu In Admin Bar:"
+msgstr "관리자바에 메뉴 표시:"
+
+#: aioseop_class.php:604
+msgid "Display Menu At The Top:"
+msgstr "상단에 메뉴 표시:"
+
+#: aioseop_class.php:608
+msgid "Google Webmaster Tools:"
+msgstr "Google Webmaster 툴:"
+
+#: aioseop_class.php:613
+msgid "Bing Webmaster Center:"
+msgstr "Bing Webmaster 센터:"
+
+#: aioseop_class.php:618
+msgid "Pinterest Site Verification:"
+msgstr "Pinterest 사이트 인증:"
+
+#: aioseop_class.php:623
+msgid "Google Plus Default Profile:"
+msgstr "Google Plus 기본 프로필:"
+
+#: aioseop_class.php:628
+msgid "Disable Google Plus Profile:"
+msgstr "Google Plus 프로필 비활성화:"
+
+#: aioseop_class.php:633
+msgid "Display Sitelinks Search Box:"
+msgstr "사이트 링크 검색창 표시:"
+
+#: aioseop_class.php:636
+msgid "Set Preferred Site Name:"
+msgstr "선호하는 사이트 이름 설정:"
+
+#: aioseop_class.php:639
+msgid "Specify A Preferred Name:"
+msgstr "선호하는 이름을 명시하세요:"
+
+#: aioseop_class.php:645
+msgid "Advanced Authorship Options:"
+msgstr "고급 작성자 옵션:"
+
+#: aioseop_class.php:655
+msgid "Display Google Authorship:"
+msgstr "Google 작성자 표시:"
+
+#: aioseop_class.php:661
+msgid "Display Publisher Meta on Front Page:"
+msgstr "앞 페이지에 퍼블리셔 메타 표시:"
+
+#: aioseop_class.php:671
+msgid "Specify Publisher URL:"
+msgstr "퍼즐리셔 URL 명시:"
+
+#: aioseop_class.php:677
+msgid "Google Analytics ID:"
+msgstr "Google Analytics ID:"
+
+#: aioseop_class.php:683
+msgid "Advanced Analytics Options:"
+msgstr "고급 분석 옵션:"
+
+#: aioseop_class.php:699
+msgid "Tracking Domain:"
+msgstr "도메인 트랙킹:"
+
+#: aioseop_class.php:711
+msgid "Track Multiple Domains:"
+msgstr "여러 도메인 트랙하기:"
+
+#: aioseop_class.php:723
+msgid "Additional Domains:"
+msgstr "추가 도메인:"
+
+#: aioseop_class.php:736
+msgid "Anonymize IP Addresses:"
+msgstr "IP 주소 익명화:"
+
+#: aioseop_class.php:748
+msgid "Display Advertiser Tracking:"
+msgstr "광고자 트랙킹 표시:"
+
+#: aioseop_class.php:760
+msgid "Exclude Users From Tracking:"
+msgstr "트랙킹에서 사용자 배제:"
+
+#: aioseop_class.php:772
+msgid "Track Outbound Links:"
+msgstr "Outbound 링크 트랙:"
+
+#: aioseop_class.php:784
+msgid "Enhanced Link Attribution:"
+msgstr "향상된 링크 속성:"
+
+#: aioseop_class.php:796
+msgid "Enhanced Ecommerce:"
+msgstr "향상된 Ecommerce:"
+
+#: aioseop_class.php:808
+msgid "Use Categories for META keywords:"
+msgstr "메타 키워드에 대해 카테고리를 사용하기:"
+
+#: aioseop_class.php:813
+msgid "Use Tags for META keywords:"
+msgstr "메타 키워드에 태그 사용하기:"
+
+#: aioseop_class.php:818
+msgid "Dynamically Generate Keywords for Posts Page/Archives:"
+msgstr "포스트 페이지/아카이브용 키워드 동적으로 생성:"
+
+#: aioseop_class.php:823
+msgid "Use noindex for Categories:"
+msgstr "카테고리 noindex 사용하기:"
+
+#: aioseop_class.php:827
+msgid "Use noindex for Date Archives:"
+msgstr "데이터 아카이브에 noindex 사용:"
+
+#: aioseop_class.php:831
+msgid "Use noindex for Author Archives:"
+msgstr "작성자 아카이브에 noindex 사용:"
+
+#: aioseop_class.php:835
+msgid "Use noindex for Tag Archives:"
+msgstr "태그 글보관함에 noindex 사용:"
+
+#: aioseop_class.php:839
+msgid "Use noindex for the Search page:"
+msgstr "검색 페이지에 noindex 사용:"
+
+#: aioseop_class.php:843
+msgid "Use noindex for the 404 page:"
+msgstr "404 page에 noindex 사용:"
+
+#: aioseop_class.php:847
+msgid "Use noindex for Taxonomy Archives:"
+msgstr "텍사노미 아카이브에 noindex 사용:"
+
+#: aioseop_class.php:853
+msgid "Use noindex for paginated pages/posts:"
+msgstr "쪽수가 매겨진 페이지/포스트에 noindex 사용:"
+
+#: aioseop_class.php:857
+msgid "Use nofollow for paginated pages/posts:"
+msgstr "쪽수가 매겨진 페이지/포스트에 언팔로우 사용:"
+
+#: aioseop_class.php:861
+msgid "Exclude site from the Open Directory Project:"
+msgstr "디렉토리 프로젝트 열기에서 사이트 제외:"
+
+#: aioseop_class.php:865
+msgid "Exclude site from Yahoo! Directory:"
+msgstr "Yahoo! 디렉토리에서 사이트 제외:"
+
+#: aioseop_class.php:869
+msgid "Avoid Using The Excerpt In Descriptions:"
+msgstr "설명에 엑스크립트(Excerpt) 사용 피하기:"
+
+#: aioseop_class.php:873
+msgid "Autogenerate Descriptions:"
+msgstr "설명 자동 생성하기:"
+
+#: aioseop_class.php:877
+msgid "Run Shortcodes In Autogenerated Descriptions:"
+msgstr "자동 생성된 설명에 단축코드 작동:"
+
+#: aioseop_class.php:882
+msgid "Remove Descriptions For Paginated Pages:"
+msgstr "쪽수가 매겨진 페이지의 설명 제거:"
+
+#: aioseop_class.php:886
+msgid "Never Shorten Long Descriptions:"
+msgstr "긴 설명을 절대 단축하지 않음:"
+
+#: aioseop_class.php:890
+msgid "Use Schema.org Markup"
+msgstr "Schema.org 마크업 사용"
+
+#: aioseop_class.php:894
+msgid "Unprotect Post Meta Fields:"
+msgstr "포스트 메타 항목 비보호:"
+
+#: aioseop_class.php:902
+msgid "Exclude Pages:"
+msgstr "제외 페이지:"
+
+#: aioseop_class.php:907
+msgid "Additional Post Headers:"
+msgstr "추가 글 헤더:"
+
+#: aioseop_class.php:913
+msgid "Additional Page Headers:"
+msgstr "추가 페이지 해더:"
+
+#: aioseop_class.php:919
+msgid "Additional Front Page Headers:"
+msgstr "추가 앞 페이지 헤더:"
+
+#: aioseop_class.php:925
+msgid "Additional Blog Page Headers:"
+msgstr "추가 블로그 페이지 헤더:"
+
+#: aioseop_class.php:931
+msgid "Log important events:"
+msgstr "중요 이벤트 로그:"
+
+#: aioseop_class.php:985
+msgid "Upgrade to All in One SEO Pack Pro Version"
+msgstr "All in One SEO Pack Pro Version으로 업그레이드"
+
+#: aioseop_class.php:994
+msgid "Preview Snippet"
+msgstr "스니펫 미리보기"
+
+#: aioseop_class.php:1011 modules/aioseop_opengraph.php:398
+msgid "Title"
+msgstr "타이틀"
+
+#: aioseop_class.php:1017 modules/aioseop_opengraph.php:406
+msgid "Description"
+msgstr "설명"
+
+#: aioseop_class.php:1025
+msgid "Keywords (comma separated)"
+msgstr "키워드 (쉼표로 분리)"
+
+#: aioseop_class.php:1029
+msgid "Custom Canonical URL"
+msgstr "사용자 정의 Canonical(캐노니컬) URL"
+
+#: aioseop_class.php:1034
+msgid "Robots Meta NOINDEX"
+msgstr "Robots 메타 비인덱스"
+
+#: aioseop_class.php:1038
+msgid "Robots Meta NOFOLLOW"
+msgstr "Robots 메타 언팔로우"
+
+#: aioseop_class.php:1041
+msgid "Robots Meta NOODP"
+msgstr "Robots 메타 노오디피"
+
+#: aioseop_class.php:1042
+msgid "Robots Meta NOYDIR"
+msgstr "Robots 메타 노야후"
+
+#: aioseop_class.php:1044
+msgid "Title Attribute"
+msgstr "타이틀 속성"
+
+#: aioseop_class.php:1049
+msgid "Menu Label"
+msgstr "메뉴 라벨"
+
+#: aioseop_class.php:1053
+msgid "Exclude From Sitemap"
+msgstr "사이트 맵에서 제외"
+
+#: aioseop_class.php:1054
+msgid "Disable on this page/post"
+msgstr "페이지/포스트에 비활성화"
+
+#: aioseop_class.php:1056
+msgid "Disable Google Analytics"
+msgstr "Google Analytics 비활성화"
+
+#: aioseop_class.php:1077 modules/aioseop_opengraph.php:562
+msgid "Home Page Settings"
+msgstr "홈 페이지 설정"
+
+#: aioseop_class.php:1185
+msgid "Keyword Settings"
+msgstr "키워드 설정"
+
+#: aioseop_class.php:1082
+msgid "Title Settings"
+msgstr "타이틀 설정"
+
+#: aioseop_class.php:1104
+msgid "Custom Post Type Settings"
+msgstr "사용자 정의 포스트 유형 설정"
+
+#: aioseop_class.php:1109
+msgid "Display Settings"
+msgstr "표시 설정"
+
+#: aioseop_class.php:1114
+msgid "Webmaster Verification"
+msgstr "웹 마스터 인증"
+
+#: aioseop_class.php:1119
+msgid "Google Settings"
+msgstr "Google 설정"
+
+#: aioseop_class.php:160
+msgid "%search% - What was searched for"
+msgstr "%search% - 검색 대상"
+
+#: aioseop_class.php:161
+msgid "This controls the format of Meta Descriptions.The following macros are supported:"
+msgstr "메타 설명에 관한 형식을 컨트롤합니다. 다음과 같이 매크로가 지원됩니다:"
+
+#: aioseop_class.php:164
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr "%description% - 플러그인에 의해 결정된 원래의 설명, 예를들면 설정된 경우의 요약 또는 옵션이 설정된 경우의 자동 생성된 것"
+
+#: aioseop_class.php:166
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr "%wp_title% - 원래의 워드프레스 제목, 예를들면 글의 post_title"
+
+#: aioseop_class.php:167
+msgid "This controls the format of the title tag for the 404 page.<br />The following macros are supported:"
+msgstr "404 페이지의 타이틀 태그에 관한 형식을 컨트롤합니다. <br />다음과 같이 매크로가 지원됩니다:"
+
+#: aioseop_class.php:121
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - 글의 (메인) 카테고리"
+
+#: aioseop_class.php:122
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - %category_title%의 별칭"
+
+#: aioseop_class.php:123 aioseop_class.php:3198
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - 이 글의 지은이 로그인"
+
+#: aioseop_class.php:124 aioseop_class.php:3199
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - 이 글의 지은이의 nicename"
+
+#: aioseop_class.php:125 aioseop_class.php:3200
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - 이 글의 지은이의 이름 (대문자)"
+
+#: aioseop_class.php:126 aioseop_class.php:3201
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - 이 글의 지은이의 성 (대문자)"
+
+#: aioseop_class.php:128
+msgid "This controls the format of the title tag for Category Archives.<br />The following macros are supported:"
+msgstr "카테고리 아카이브의 타이틀 태그 형식을 컨트롤합니다. <br />다음과 같이 매크로가 지원됩니다:"
+
+#: aioseop_class.php:131
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - 카테고리의 원래 제목"
+
+#: aioseop_class.php:132
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - 카테고리 설명"
+
+#: aioseop_class.php:134
+msgid "This controls the format of the title tag for Custom Post Archives.<br />The following macros are supported:"
+msgstr "사용자 지정 포스트 아카이브의 타이틀 태그 형식을 컨트롤합니다.<br />다음과 같이 매크로가 지원됩니다:"
+
+#: aioseop_class.php:137
+msgid "%archive_title - The original archive title given by wordpress"
+msgstr "%archive_title - Wordpress에 주어진 오리지널 아카이브 타이틀"
+
+#: aioseop_class.php:139
+msgid "This controls the format of the title tag for Date Archives.<br />The following macros are supported:"
+msgstr "데이터 아카이브의 제목 태그의 형식을 컨트롤합니다. <br />다음과 같이 매크로가 지원됩니다:"
+
+#: aioseop_class.php:142
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - Wordpress에 부여되는 오리지널 아카이브 제목, 예시. \"2007년\" or \"2007년 8월\""
+
+#: aioseop_class.php:143
+msgid "%day% - The original archive day given by wordpress, e.g. \"17\""
+msgstr "%day% - Wordpress에 주어진 오리지널 아카이브 날(日), 예시. \"17\""
+
+#: aioseop_class.php:144
+msgid "%month% - The original archive month given by wordpress, e.g. \"August\""
+msgstr "%month% - Wordpress에 부여되는 오리지널 아카이브 월(月), 예시. \"8월\""
+
+#: aioseop_class.php:145
+msgid "%year% - The original archive year given by wordpress, e.g. \"2007\""
+msgstr "%year% - Wordpress에 부여되는 오리지널 아카이브 연(年), 예시. \"2007년\""
+
+#: aioseop_class.php:147
+msgid "This controls the format of the title tag for Author Archives.<br />The following macros are supported:"
+msgstr "저자 아카이브의 타이틀 태그의 형식을 컨트롤합니다. <br />다음과 같이 매크로가 지원됩니다:"
+
+#: aioseop_class.php:150
+msgid "%author% - The original archive title given by wordpress, e.g. \"Steve\" or \"John Smith\""
+msgstr "%author% - Wordpress에 부여되는 오리지널 아카이브 제목, \"Steve\" or \"John Smith\""
+
+#: aioseop_class.php:152
+msgid "This controls the format of the title tag for Tag Archives.<br />The following macros are supported:"
+msgstr "태그 아카이브의 타이틀 태그 형식을 컨트롤합니다. <br />다음과 같이 매크로가 지원됩니다:"
+
+#: aioseop_class.php:155
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - 태그의 이름"
+
+#: aioseop_class.php:157
+msgid "This controls the format of the title tag for the Search page.<br />The following macros are supported:"
+msgstr "검색 페이지의 타이틀 태그에 관한 형식을 컨트롤합니다. <br />다음과 같이 매크로가 지원됩니다:"
+
+#: aioseop_class.php:101 aioseop_class.php:110 aioseop_class.php:119
+#: aioseop_class.php:130 aioseop_class.php:136 aioseop_class.php:141
+#: aioseop_class.php:149 aioseop_class.php:154 aioseop_class.php:159
+#: aioseop_class.php:163 aioseop_class.php:169 aioseop_class.php:3189
+#: aioseop_class.php:3241
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - 블로그 설명"
+
+#: aioseop_class.php:102 aioseop_class.php:111
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - 페이지 원래 제목"
+
+#: aioseop_class.php:103 aioseop_class.php:112
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - 이 페이지의 지은이 로그인"
+
+#: aioseop_class.php:104 aioseop_class.php:113
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - 이 페이지의 지은이 nicename"
+
+#: aioseop_class.php:105 aioseop_class.php:114
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - 이 페이지의 지은이 이름 (대문자)"
+
+#: aioseop_class.php:106 aioseop_class.php:115
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - 이 페이지의 지은이 성 (대문자)"
+
+#: aioseop_class.php:108
+msgid "This controls the format of the title tag for Pages.<br />The following macros are supported:"
+msgstr "페이지용 타이틀 태그의 형식을 제어합니다.<br />다음의 매크로가 지원됩니다:"
+
+#: aioseop_class.php:117
+msgid "This controls the format of the title tag for Posts.<br />The following macros are supported:"
+msgstr "포스트용 타이틀 태그의 형식을 제어합니다.<br />다음의 매크로가 지원됩니다:"
+
+#: aioseop_class.php:120 aioseop_class.php:165
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - 글의 원래 제목"
+
+#: aioseop_class.php:83
+msgid "Checking this option will allow you to customize Canonical URLs for specific posts."
+msgstr "해당 옵션 체크는 특정 게시물에 관한 Canonical URL을 사용자 지정할 수 있습니다."
+
+#: aioseop_class.php:84
+msgid "Set protocol for canonical URLs."
+msgstr "canonical URL에 관한 프로토콜을 설정합니다."
+
+#: aioseop_class.php:85
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "해당 테마로 사용된 타이틀을 받으려면 wp_title을 사용합니다; 이는 기본값으로 비활성화됩니다. 해당 옵션을 사용하시려면, 테마에 자신의 타이틀 SEO를 설정하는 바와 같이 귀하의 타이틀 형식을 알맞게 설정해주십시오."
+
+#: aioseop_class.php:86
+msgid "Check this and All in One SEO Pack will create a log of important events (all-in-one-seo-pack.log) in its plugin directory which might help debugging. Make sure this directory is writable."
+msgstr "이것을 체크하시면 All in One SEO Pack은 디버깅에 도움이 되는 플러그인 디렉토리에 중요한 이벤트(all-in-one-seo-pack.log) 로그를 생성합니다. 해당 디렉토리에 쓰기 권한이 있는지 확인해주시길 바랍니다."
+
+#: aioseop_class.php:87
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "해당 명에서 알 수 있듯이, 이는 귀하의 홈페이지의 메타 타이틀이 될 것입니다. 이는 다른 옵션과는 별개입니다. 설정하지 않으셨다면, 기본 사이트 타이틀 (설정, 일반, 사이트 타이틀의 항목 하에 WordPress에서 찾을 수 있음)이 사용될 것입니다. "
+
+#: aioseop_class.php:88
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "이것은 귀하의 홈페이지에 메타 설명이 될 것입니다. 이는 다른 옵션과는 별개입니다. 해당 기본값이 설정되지 않은 경우, 메타 설명이 되지 않습니다."
+
+#: aioseop_class.php:89
+msgid "Enter a comma separated list of your most important keywords for your site that will be written as Meta Keywords on your homepage. Do not stuff everything in here."
+msgstr "홈페이지에 메타 키워드로 쓸 귀하의 사이트에 관하여 가장 중요한 키워드 목록을 쉼표로 나눠서 입력해주십시오. 여기에 아무거나 채우지 마세요."
+
+#: aioseop_class.php:90
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "해당 옵션을 선택하시면 고정 첫 페이지에 설정된 타이틀, 설명 및 키워드를 사용합니다."
+
+#: aioseop_class.php:91
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "해당 옵션은 페이지 전체를 통틀어 메타 키워드의 사용을 전환할 수 있게 합니다."
+
+#: aioseop_class.php:92
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "해당 포스트의 메타 키워드로 사용되는 주어진 게시물에 카테고리를 원하는 경우, 이를 체크해주십시오 (포스트 편집하기 스크린에 기입한 키워드도 포함)"
+
+#: aioseop_class.php:93
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "해당 포스트의 메타 키워드로 사용되는 주어진 게시물에 태그를 원하는 경우, 이를 체크해주십시오 (포스트 편집하기 스크린에 기입한 키워드도 포함)"
+
+#: aioseop_class.php:94
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "만일 귀하의 포스트 페이지(설정, 읽기, 첫 페이지 표시의 항목 하에 WordPress에 설정된 페이지)에 키워드 및 아카이브 페이지를 해당 페이지에 표시되는 포스트의 키워드에서 동적으로 생성하려는 경우 이것을 체크해주십시오."
+
+#: aioseop_class.php:95
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the title bar and in the source code. If enabled, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: Using the default post title format below, Rewrite Titles will write all post titles as 'Post Title | Blog Name'. If you have manually defined a title using All in One SEO Pack, this will become the title of your post in the format string."
+msgstr "해당하는 것이 타이틀 태그에 관한 것인지 유의해주십시오. 이는 브라우저의 창 제목 표시 줄에 표시되는 것입니다. 이것은 페이지에 표시되지 않고 제목 표시줄 및 소스 코드에서만 표시됩니다. 활성화하려면, 전체 페이지, 포스트, 카테고리, 검색 및 아카이브 페이지 타이틀이 정정됩니다. 해당 대부분의 형식을 지정할 수 있습니다. 예시: 아래 기본값 포스트 타이틀 포멧을 사용하는 경우, 타이틀 정정하기는 전체 포스트 제목을 '포스트 타이틀 | 블로그 명'으로 기록할 것입니다. 만일 All in One SEO Pack을 사용하여 타이틀을 수동으로 명시하신다면, 해당 형식 문자열에 귀하의 게시물 제목이 명시될 것입니다."
+
+#: aioseop_class.php:96
+msgid "Check this and Search Page Titles and Tag Page Titles will have the first letter of each word capitalized."
+msgstr "이를 체크하시면 검색 페이지 타이틀과 태그 페이지 타이틀은 각 단어의 첫 글자는 대문자가 됩니다."
+
+#: aioseop_class.php:97
+msgid "Check this and Category Titles will have the first letter of each word capitalized."
+msgstr "여기에 체크하면 카테고리 제목의 각 단어의 첫 글자가 대문자로 됩니다."
+
+#: aioseop_class.php:99
+msgid "This controls the format of the title tag for your Home Page.<br />The following macros are supported:"
+msgstr "홈페이지의 타이틀 태그의 형식을 제어합니다.<br />다음의 매크로가 지원됩니다:"
+
+#: aioseop_class.php:100 aioseop_class.php:109 aioseop_class.php:118
+#: aioseop_class.php:129 aioseop_class.php:135 aioseop_class.php:140
+#: aioseop_class.php:148 aioseop_class.php:153 aioseop_class.php:158
+#: aioseop_class.php:162 aioseop_class.php:168 aioseop_class.php:3188
+#: aioseop_class.php:3240
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - 블로그 제목"
+
+#: aioseop_class.php:79
+msgid "All donations support continued development of this free software."
+msgstr "모든 기부는 이 무료 플러그인 소프트웨어의 지속적인 개발을 지원합니다."
+
+#: aioseop_class.php:81
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation.  This will help to prevent duplicate content penalties by <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a>."
+msgstr "해당 옵션은 WordPress 전체 설치를 위하여 Canonical URL을 자동으로 생성할 것입니다. 이는 <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a>에 의해서 중복 콘텐츠 불이익을 방지하는데 도움이 됩니다."
+
+#: aioseop_class.php:82
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "해당 옵션 체크는 첫 페이지에 매겨진 콘텐츠 전체를 Canonical URL로 설정합니다."
+
+#: modules/aioseop_bad_robots.php:17 modules/aioseop_feature_manager.php:49
+msgid "Bad Bot Blocker"
+msgstr "악성 봇 차단"
+
+#: modules/aioseop_bad_robots.php:23
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "503 악성 실행으로 알려진 사용자 에이전트에서 차단이 요청됩니다."
+
+#: modules/aioseop_bad_robots.php:25
+msgid "Log and show recent requests from blocked bots."
+msgstr "로그인하면 차단된 봇에서 최근 요청을 보여줍니다."
+
+#: modules/aioseop_bad_robots.php:26
+msgid "Block bad robots via Apache .htaccess rules. Warning: this will change your web server configuration, make sure you are able to edit this file manually as well."
+msgstr "Apaache .htaccess 룰을 통해 악성 로봇을 차단합니다. 경고: 이는 귀하의 웹 서버 설정을 변경하며, 또한 파일을 수동으로 편집할 수 있게 된다는 점을 유의하여 주십시오."
+
+#: modules/aioseop_bad_robots.php:27
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "이것을 체크하시면 악성 봇을 차단하는 허용되지 않은 사용자 에이전트의 목록을 편집할 수 있습니다. "
+
+#: modules/aioseop_bad_robots.php:28
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "이것은 악성 봇을 차단하는데 사용되는 비허용 사용자 에이전트 목록입니다."
+
+#: modules/aioseop_bad_robots.php:29
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "이것은 악성 봇을 차단하는데 사용되는 비허용 리퍼러 목록입니다."
+
+#: modules/aioseop_bad_robots.php:30
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "차단된 봇에서 가장 최근의 요청 로그를 표시합니다. 참고: 웹 서버 / .htaccess 수준에서 이미 차단된 봇은 추적하지 않습니다."
+
+#: modules/aioseop_bad_robots.php:36
+msgid "Track Blocked Bots"
+msgstr "차단된 봇 추적하기"
+
+#: modules/aioseop_bad_robots.php:40
+msgid "User Agent Blocklist"
+msgstr "사용자 에이전트 차단 목록"
+
+#: modules/aioseop_bad_robots.php:48
+msgid "Referer Blocklist"
+msgstr "리퍼러 차단 목록"
+
+#: modules/aioseop_bad_robots.php:59
+msgid "Log Of Blocked Bots"
+msgstr "차단된 봇 기록"
+
+#: modules/aioseop_bad_robots.php:60
+msgid "No requests yet."
+msgstr "아직 요청 없음."
+
+#: modules/aioseop_bad_robots.php:103
+msgid "Blocked bot with IP %s -- matched user agent %s found in blocklist."
+msgstr "차단된 봇(bot) IP %s -- 차단목록에서 발견된 사용자 %s 에이턴트와 매치됨."
+
+#: modules/aioseop_bad_robots.php:109
+msgid "Blocked bot with IP %s -- matched referer %s found in blocklist."
+msgstr "차단된 봇(bot) IP %s -- 차단목록에서 발견된 %s 참조자와 매치됨."
+
+#: modules/aioseop_bad_robots.php:157
+msgid "Apache module %s is required!"
+msgstr "아파치 모듈 %s 이/가 필요합니다!"
+
+#: modules/aioseop_bad_robots.php:144 modules/aioseop_bad_robots.php:177
+msgid "Updated .htaccess rules."
+msgstr ".htaccess 룰이 업데이트 되었습니다."
+
+#: modules/aioseop_bad_robots.php:146 modules/aioseop_bad_robots.php:179
+msgid "Failed to update .htaccess rules!"
+msgstr ".htaccess 룰을 업데이트하는데 실패하였습니다! "
+
+#: modules/aioseop_bad_robots.php:182
+msgid "No rules to update!"
+msgstr "업데이트할 룰이 없습니다!"
+
+#: aioseop_class.php:68
+msgid "%s Plugin Options"
+msgstr "%s 플러그인 옵션"
+
+#: aioseop_class.php:69 aioseop_class.php:1072
+#: modules/aioseop_opengraph.php:557
+msgid "General Settings"
+msgstr "일반 설정"

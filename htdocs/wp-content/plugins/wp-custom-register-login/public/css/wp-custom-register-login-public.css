@@ -1,0 +1,21 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+#wpcrlRegisterForm .alert, #wpcrlLoginForm .alert, #wpcrlResetPasswordSection .alert{
+ font-size: 14px;
+}
+
+.wpcrl-loader{
+ font-size: 12px;
+ padding: 10px 0;
+}
+.wpcrl-loader img{
+ padding-right: 8px;
+}
+
+.wpcrl-required-asterisk{
+    color: #ff0000;
+}
+

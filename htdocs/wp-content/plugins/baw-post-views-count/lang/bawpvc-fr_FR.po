@@ -1,0 +1,178 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BAW Post Views Count\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-11 15:35+0100\n"
+"PO-Revision-Date: 2015-09-11 15:35+0100\n"
+"Last-Translator: Julio Potier <julio@boiteaweb.fr>\n"
+"Language-Team: Juliobox <juliobosk@gmail.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../bawpv.php:86
+msgid "The most viewed posts on your site"
+msgstr "Les articles les plus vus sur votre site"
+
+#: ../bawpv.php:87 ../bawpv.php:111
+msgid "Most Viewed Posts"
+msgstr "Articles les plus vus"
+
+#: ../bawpv.php:201
+msgid "Title:"
+msgstr "Titre :"
+
+#: ../bawpv.php:204
+msgid "How many posts:"
+msgstr "Combien d'articles :"
+
+#: ../bawpv.php:207
+msgid "Which top do you want:"
+msgstr "Quel top voulez-vous :"
+
+#: ../bawpv.php:215
+msgid "Top for this author only:"
+msgstr "Top pour cet auteur seulement :"
+
+#: ../bawpv.php:217
+msgid "All authors"
+msgstr "Tous les auteurs"
+
+#: ../bawpv.php:229
+msgid "Date format"
+msgstr "Format de date"
+
+#: ../bawpv.php:231
+msgid "If you leave blank the actual time will be used."
+msgstr "Si vous laissez vide, la date actuelle sera utilisée."
+
+#: ../bawpv.php:233
+msgid "Show posts count:"
+msgstr "Afficher le nombres de vues :"
+
+#: ../bawpv.php:236
+msgid "Order"
+msgstr "Ordre"
+
+#: ../bawpv.php:238
+msgid "From most viewed to less viewed"
+msgstr "Du plus au moins vus"
+
+#: ../bawpv.php:239
+msgid "From less viewed to most viewed"
+msgstr "Du moins au plus vus"
+
+#: ../bawpv.php:340
+msgid "General"
+msgstr "Général"
+
+#: ../bawpv.php:341
+msgid "Count format"
+msgstr "Format du compteur"
+
+#: ../bawpv.php:342
+msgid "Display counter in post content"
+msgstr "Afficher le compteur dans le contenu de l'article"
+
+#: ../bawpv.php:343
+msgid "Do not count views for logged members"
+msgstr "Ne pas compter les vues pour les membres connectés"
+
+#: ../bawpv.php:344
+msgid "Do not count views for admins"
+msgstr "Ne pas compter les vues pour les admins"
+
+#: ../bawpv.php:345
+msgid "Select post types"
+msgstr "Choix des types de posts"
+
+#: ../bawpv.php:367
+msgid "Public"
+msgstr "Public"
+
+#: ../bawpv.php:367
+msgid "Not public"
+msgstr "Non public"
+
+#: ../bawpv.php:372
+msgid ""
+"Public: Whether a post type is intended to be used publicly either via the "
+"admin interface or by front-end users.<br />Not public: The opposite..."
+msgstr ""
+"Public : Qu'un type de post soit conçu pour être utilisé publiquement, soit "
+"par l'interface d'administration ou par les utilisateurs front-end.<br />Non "
+"public : Le contraire ..."
+
+#: ../bawpv.php:381
+msgid "Check me to avoid counting views for logged members."
+msgstr "Cochez moi pour éviter de compter les vues des membres connectés"
+
+#: ../bawpv.php:389
+msgid "Check me to avoid counting views for admins."
+msgstr "Cochez moi pour éviter de compter les vues des admins"
+
+#: ../bawpv.php:397
+msgid "seconds"
+msgstr "secondes"
+
+#: ../bawpv.php:405
+msgid "Use <code>%count%</code> to display the counter."
+msgstr "Utilisez <code>%count%</code> pour afficher le compteur."
+
+#: ../bawpv.php:413
+msgid "Will be displayed in bottom of content."
+msgstr "Sera affiché sous le contenu."
+
+#: ../bawpv.php:471
+msgid "(Clic value to edit it)"
+msgstr "(Cliquez pour éditer)"
+
+#: ../bawpv.php:483
+#, php-format
+msgid ""
+"%1$s: <span class=\"hide-if-no-js toggle_views\" onclick=\"jQuery(this)."
+"hide().next('span').show().find('input:visible').select();\" title=\"%4$s\">"
+"%2$d</span><span class=\"hide-if-js\"><input type=\"hidden\" name="
+"\"old_views_%1$s\" value=\"%2$d\" /><input type=\"hidden\" name="
+"\"old_views_date_%1$s\" value=\"%3$s\" /><input onblur=\"jQuery(jQuery(this)."
+"parent()).hide().prev('span').text(jQuery(this).val()).show();\" type="
+"\"number\" min=\"0\" size=\"2\" name=\"new_views_%1$s\" value=\"%2$d\" /></"
+"span> views"
+msgstr ""
+"%1$s: <span class=\"hide-if-no-js toggle_views\" onclick=\"jQuery(this)."
+"hide().next('span').show().find('input:visible').select();\" title=\"%4$s\">"
+"%2$d</span><span class=\"hide-if-js\"><input type=\"hidden\" name="
+"\"old_views_%1$s\" value=\"%2$d\" /><input type=\"hidden\" name="
+"\"old_views_date_%1$s\" value=\"%3$s\" /><input onblur=\"jQuery(jQuery(this)."
+"parent()).hide().prev('span').text(jQuery(this).val()).show();\" type=\"text"
+"\" size=\"2\" name=\"new_views_%1$s\" value=\"%2$d\" /></span> vues"
+
+#: ../bawpv.php:490
+msgid "Clic to edit me!"
+msgstr "Cliquez pour editer !"
+
+#: ../bawpv.php:496
+msgid "Check me to reset all views"
+msgstr "Cochez moi pour remettre à zéro tous les compteurs de vues"
+
+#: ../bawpv.php:561
+msgid "Settings"
+msgstr "Réglages"
+
+#~ msgid "Time between counts"
+#~ msgstr "Temps entre les compteurs"
+
+#~ msgid "About"
+#~ msgstr "A propos"
+
+#~ msgid "%s: %d views"
+#~ msgstr "%s : %d vues"
+
+#~ msgid "minutes"
+#~ msgstr "minutes"

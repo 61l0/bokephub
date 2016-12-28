@@ -1,0 +1,920 @@
+# Translation of Plugins - WP-PostRatings - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP-PostRatings - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-11 19:17:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP-PostRatings - Stable (latest release)\n"
+
+#: wp-postratings.php:618
+msgid "Vote Up"
+msgstr "Голосовать ЗА"
+
+#: wp-postratings.php:617
+msgid "Vote Down"
+msgstr "Голосовать ПРОТИВ"
+
+#: wp-postratings.php:581
+msgid "Invalid Post ID (#%s)."
+msgstr "Неправильный ID (#%s) записи."
+
+#: postratings-options.php:399
+msgid "Logged-in Users And Guests"
+msgstr "Зарегистрированные пользователи и гости"
+
+#: postratings-options.php:397
+msgid "Users Registered On Blog Only"
+msgstr "Только зарегистрированные на сайте пользователи"
+
+#: postratings-options.php:395
+msgid "Logged-in Users Only"
+msgstr "Только зарегистрированные пользователи"
+
+#: postratings-manager.php:513
+msgid "Rating Stats"
+msgstr "Статистика оценок"
+
+#: postratings-manager.php:356
+msgid "No Rating Logs Found"
+msgstr "Не найдены журналы оценок"
+
+#: postratings-manager.php:327 postratings-manager.php:329
+#: postratings-manager.php:335 postratings-manager.php:337
+msgid "User Rate This %s Star"
+msgid_plural "User Rate This %s Stars"
+msgstr[0] "Пользователь оценил эту запись в %s звезду"
+msgstr[1] "Пользователь оценил эту запись в %s звезды"
+msgstr[2] "Пользователь оценил эту запись в %s звезд"
+
+#: postratings-manager.php:263
+msgid "Rating Logs"
+msgstr "Журналы оценок"
+
+#: postratings-manager.php:24 postratings-options.php:24
+#: postratings-templates.php:24
+msgid "Access Denied"
+msgstr "Доступ запрещен"
+
+#: includes/postratings-widgets.php:174
+msgid "The minimum number of votes, before the rating displayed."
+msgstr "Минимальное число оценок для вывода рейтинга записи."
+
+#: wp-postratings.php:844
+msgid "%s user casted his vote."
+msgid_plural "%s users casted their vote."
+msgstr[0] "проголосовал %s посетитель."
+msgstr[1] "проголосовало %s посетителя."
+msgstr[2] "проголосовало %s посетителей."
+
+#. translators: 1: Sort by text 2: Sort order text
+#: postratings-manager.php:274
+msgid "Sorted by %1$s in %2$s order."
+msgstr "Отсортировано по полю %1$s в порядке %2$s значений."
+
+#. translators: 1: Number of ratings on page 2: Max on page 3: Total rating
+#: postratings-manager.php:266
+msgid "Displaying %1$s to %2$s of %3$s rating log entries."
+msgstr "Показано с %1$s по %2$s из %3$s записей журнала оценок."
+
+#. Author URI of the plugin/theme
+msgid "http://lesterchan.net"
+msgstr "http://lesterchan.net"
+
+#. Author of the plugin/theme
+msgid "Lester 'GaMerZ' Chan"
+msgstr "Lester 'GaMerZ' Chan"
+
+#. Description of the plugin/theme
+msgid "Adds an AJAX rating system for your WordPress site's content."
+msgstr "Плагин добавляет AJAX-систему оценок для записей и страниц вашего сайта."
+
+#. Plugin URI of the plugin/theme
+msgid "http://lesterchan.net/portfolio/programming/php/"
+msgstr "http://lesterchan.net/portfolio/programming/php/"
+
+#: includes/postratings-activation.php:67
+msgid "5 Stars"
+msgstr "5 Звезд"
+
+#: includes/postratings-activation.php:67
+msgid "4 Stars"
+msgstr "4 Звезды"
+
+#: includes/postratings-activation.php:67
+msgid "3 Stars"
+msgstr "3 Звезды"
+
+#: includes/postratings-activation.php:67
+msgid "2 Stars"
+msgstr "2 Звезды"
+
+#: includes/postratings-activation.php:67
+msgid "1 Star"
+msgstr "1 Звезда"
+
+#: includes/postratings-widgets.php:193
+msgid "** If you are not using any category or time range statistics, you can ignore it."
+msgstr "** Если вы не используете статистику по рубрикам или по интервалу времени, вы можете пропустить этот параметр."
+
+#: includes/postratings-widgets.php:192
+msgid "* Time range statistics does not support Minimum Votes field, you can ignore that it."
+msgstr "* Статистика по интервалу времени не поддерживает поле &laquo;Минимум оценок&raquo;, поэтому вы можете пропустить этот параметр."
+
+#: includes/postratings-widgets.php:189
+msgid "Use values like <strong>1 day</strong>, <strong>2 weeks</strong>, <strong>1 month</strong>."
+msgstr "Используйте значения вида <strong>1 day</strong> (дни), <strong>2 weeks</strong> (недели), <strong>1 month</strong> (месяцы)."
+
+#: includes/postratings-widgets.php:187
+msgid "Time Range:"
+msgstr "Интервал времени:"
+
+#: includes/postratings-widgets.php:184
+msgid "Seperate mutiple categories with commas."
+msgstr "Несколько ID рубрик разделите запятыми."
+
+#: includes/postratings-widgets.php:182
+msgid "Category IDs:"
+msgstr "ID рубрик:"
+
+#: includes/postratings-widgets.php:179
+msgid "<strong>0</strong> to disable."
+msgstr "<strong>0</strong> &mdash; отключить"
+
+#: includes/postratings-widgets.php:177
+msgid "Maximum Title Length (Characters):"
+msgstr "Максимальная длина заголовка записи (в символах):"
+
+#: includes/postratings-widgets.php:172
+msgid "Minimum Votes:"
+msgstr "Минимум оценок:"
+
+#: includes/postratings-widgets.php:168
+msgid "No. Of Records To Show:"
+msgstr "Сколько записей показывать:"
+
+#: includes/postratings-widgets.php:162
+msgid "%s Only"
+msgstr "Только %s"
+
+#: includes/postratings-widgets.php:159
+msgid "All"
+msgstr "Все"
+
+#: includes/postratings-widgets.php:157
+msgid "Include Ratings From:"
+msgstr "Показать оценки для:"
+
+#: includes/postratings-widgets.php:153
+msgid "Highest Score By Time Range And Category"
+msgstr "Самый высокий средний балл (по рубрикам и за интервал времени)"
+
+#: includes/postratings-widgets.php:152
+msgid "Highest Score By Time Range"
+msgstr "Самый высокий средний балл (за интервал времени)"
+
+#: includes/postratings-widgets.php:151
+msgid "Highest Score By Category"
+msgstr "Самый высокий средний балл (по рубрикам)"
+
+#: includes/postratings-widgets.php:150
+msgid "Highest Score"
+msgstr "Самый высокий средний балл"
+
+#: includes/postratings-widgets.php:148
+msgid "Lowest Rated By Time Range"
+msgstr "Самые низкие оценки (за интервал времени)"
+
+#: includes/postratings-widgets.php:147
+msgid "Lowest Rated By Category"
+msgstr "Самые низкие оценки (по рубрикам)"
+
+#: includes/postratings-widgets.php:146
+msgid "Lowest Rated"
+msgstr "Самые низкие оценки"
+
+#: includes/postratings-widgets.php:144
+msgid "Highest Rated By Time Range And Category"
+msgstr "Самые высокие оценки (по рубрикам и за интервал времени)"
+
+#: includes/postratings-widgets.php:143
+msgid "Highest Rated By Time Range"
+msgstr "Самые высокие оценки (за интервал времени)"
+
+#: includes/postratings-widgets.php:142
+msgid "Highest Rated By Category"
+msgstr "Самые высокие оценки (по рубрикам)"
+
+#: includes/postratings-widgets.php:141
+msgid "Highest Rated"
+msgstr "Самые высокие оценки"
+
+#: includes/postratings-widgets.php:139
+msgid "Most Rated By Time Range And Category"
+msgstr "Чаще всего оцениваемые (по рубрикам и за интервал времени)"
+
+#: includes/postratings-widgets.php:138
+msgid "Most Rated By Time Range"
+msgstr "Чаще всего оцениваемые (за интервал времени)"
+
+#: includes/postratings-widgets.php:137
+msgid "Most Rated By Category"
+msgstr "Чаще всего оцениваемые (по рубрикам)"
+
+#: includes/postratings-widgets.php:136
+msgid "Most Rated"
+msgstr "Чаще всего оцениваемые"
+
+#: includes/postratings-widgets.php:134
+msgid "Statistics Type:"
+msgstr "Тип статистики:"
+
+#: includes/postratings-widgets.php:130
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/postratings-widgets.php:28
+msgid "WP-PostRatings ratings statistics"
+msgstr "Статистика оценок WP-PostRatings"
+
+#: wp-postratings.php:1088 wp-postratings.php:1091
+msgid "%s vote"
+msgid_plural "%s votes"
+msgstr[0] "%s оценка"
+msgstr[1] "%s оценки"
+msgstr[2] "%s оценок"
+
+#: wp-postratings.php:1088
+msgid "%s rating"
+msgid_plural "%s ratings"
+msgstr[0] "%s балл"
+msgstr[1] "%s балла"
+msgstr[2] "%s баллов"
+
+#: wp-postratings.php:830 wp-postratings.php:832 wp-postratings.php:874
+msgid "%s Most Rated Page"
+msgid_plural "%s Most Rated Pages"
+msgstr[0] "%s чаще всего оцениваемая страница"
+msgstr[1] "%s чаще всего оцениваемых страницы"
+msgstr[2] "%s чаще всего оцениваемых страниц"
+
+#: wp-postratings.php:825 wp-postratings.php:827 wp-postratings.php:868
+msgid "%s Most Rated Post"
+msgid_plural "%s Most Rated Posts"
+msgstr[0] "%s чаще всего оцениваемая запись"
+msgstr[1] "%s чаще всего оцениваемых записи"
+msgstr[2] "%s чаще всего оцениваемых записей"
+
+#: wp-postratings.php:820 wp-postratings.php:822 wp-postratings.php:862
+msgid "%s Highest Rated Page"
+msgid_plural "%s Highest Rated Pages"
+msgstr[0] "%s страница с самой высокой оценкой"
+msgstr[1] "%s страницы с самой высокой оценкой"
+msgstr[2] "%s страниц с самой высокой оценкой"
+
+#: wp-postratings.php:815 wp-postratings.php:817 wp-postratings.php:856
+msgid "%s Highest Rated Post"
+msgid_plural "%s Highest Rated Posts"
+msgstr[0] "%s запись с самой высокой оценкой"
+msgstr[1] "%s записи с самой высокой оценкой"
+msgstr[2] "%s записей с самой высокой оценкой"
+
+#. #-#-#-#-#  tmp-wp-postratings.pot (WP-PostRatings 1.84)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: wp-postratings.php:802 wp-postratings.php:804 wp-postratings.php:842
+msgid "WP-PostRatings"
+msgstr "WP-PostRatings"
+
+#: wp-postratings.php:624
+msgid "%s Star"
+msgstr "Звёзд: %s"
+
+#: wp-postratings.php:622
+msgid "%s Stars"
+msgstr "Звёзд: %s"
+
+#: wp-postratings.php:585
+msgid "You Had Already Rated This Post. Post ID #%s."
+msgstr "Вы уже оценили эту запись. ID записи %s."
+
+#: wp-postratings.php:563
+msgid "Guest"
+msgstr "Гость"
+
+#: wp-postratings.php:518
+msgid "Failed To Verify Referrer"
+msgstr "Невозможно проверить Referrer"
+
+#: wp-postratings.php:469
+msgid "There is no excerpt because this is a protected post."
+msgstr "Здесь нет цитаты, потому что это защищённая запись."
+
+#: includes/postratings-shortcodes.php:30
+msgid "Note: There is a rating embedded within this post, please visit this post to rate it."
+msgstr "Примечание: к этой записи прикреплена форма для оценки. Чтобы оценить её, зайдите на сайт."
+
+#: wp-postratings.php:326 wp-postratings.php:365
+msgid "%s gives a rating of %s"
+msgstr "%s оценил запись на %s"
+
+#: includes/postratings-scripts.php:60
+msgid "Please rate only 1 item at a time."
+msgstr "Пожалуйста, не голосуйте за несколько записей одновременно."
+
+#: wp-postratings.php:101
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: includes/postratings-admin.php:75 includes/postratings-admin.php:76
+msgid "Ratings Options"
+msgstr "Настройки оценок"
+
+#: includes/postratings-admin.php:55 includes/postratings-admin.php:56
+#: includes/postratings-admin.php:97 includes/postratings-widgets.php:26
+#: includes/postratings-widgets.php:116
+msgid "Ratings"
+msgstr "WP-PostRatings"
+
+#: postratings-templates.php:241
+msgid "Most Rated:"
+msgstr "Шаблон &laquo;Больше всего оценок&raquo;:"
+
+#: postratings-templates.php:220
+msgid "Highest Rated:"
+msgstr "Шаблон &laquo;Самая высокая оценка&raquo;:"
+
+#: postratings-templates.php:204
+msgid "Ratings None:"
+msgstr "Шаблон &laquo;Нет оценок&raquo;:"
+
+#: postratings-templates.php:189
+msgid "Ratings No Permission Text:"
+msgstr "Шаблон &laquo;Оценки запрещены&raquo;:"
+
+#: postratings-templates.php:174
+msgid "Ratings Voted Text:"
+msgstr "Шаблон &laquo;Есть оценка&raquo;:"
+
+#: postratings-templates.php:168 postratings-templates.php:183
+#: postratings-templates.php:198 postratings-templates.php:214
+#: postratings-templates.php:235 postratings-templates.php:252
+msgid "Restore Default Template (Up/Down Rating)"
+msgstr "Восстановить стандартный шаблон (Вверх/Вниз)"
+
+#: postratings-templates.php:166 postratings-templates.php:182
+#: postratings-templates.php:197 postratings-templates.php:213
+#: postratings-templates.php:234 postratings-templates.php:251
+msgid "Restore Default Template (Normal Rating)"
+msgstr "Восстановить стандартный шаблон (обычная оценка)"
+
+#: postratings-templates.php:158 postratings-templates.php:175
+#: postratings-templates.php:190 postratings-templates.php:205
+#: postratings-templates.php:221 postratings-templates.php:242
+msgid "Allowed Variables:"
+msgstr "Разрешенные переменные:"
+
+#: postratings-templates.php:157
+msgid "Ratings Vote Text:"
+msgstr "Шаблон &laquo;Оценить&raquo;:"
+
+#: includes/postratings-admin.php:84 includes/postratings-admin.php:85
+#: postratings-templates.php:153
+msgid "Ratings Templates"
+msgstr "Шаблоны оценок"
+
+#: postratings-templates.php:150
+msgid "Display the individual rating text. Eg: 1 Star, 2 Stars, etc"
+msgstr "Текст оценки. Например: одна звезда, две звезды и т.д."
+
+#: postratings-templates.php:149
+msgid "Display the total score of the ratings"
+msgstr "Общее число оценок"
+
+#: postratings-templates.php:146
+msgid "Display the ratings percentage"
+msgstr "Оценки в процентах"
+
+#: postratings-templates.php:145
+msgid "Display the max number of ratings"
+msgstr "Максимальное количество оценок"
+
+#: postratings-templates.php:142
+msgid "Display the total number of users rated for the post"
+msgstr "Общее количество проголосовавших за запись"
+
+#: postratings-templates.php:141
+msgid "Display the average ratings"
+msgstr "Средняя оценка"
+
+#: postratings-templates.php:138
+msgid "Display the ratings voting image"
+msgstr "Изображение для голосования"
+
+#: postratings-templates.php:137
+msgid "Display the ratings images"
+msgstr "Изображение оценки"
+
+#: postratings-templates.php:134
+msgid "Template Variables"
+msgstr "Переменные шаблона"
+
+#: postratings-templates.php:131
+msgid "Post Ratings Templates"
+msgstr "Шаблоны оценок записей"
+
+#: postratings-templates.php:65
+msgid "No Ratings Templates Updated"
+msgstr "Шаблоны оценок не обновлены"
+
+#: includes/postratings-stats.php:61 includes/postratings-stats.php:120
+#: includes/postratings-stats.php:173 includes/postratings-stats.php:233
+#: includes/postratings-stats.php:286 includes/postratings-stats.php:346
+#: includes/postratings-stats.php:399 includes/postratings-stats.php:459
+#: includes/postratings-stats.php:512 includes/postratings-stats.php:572
+#: includes/postratings-stats.php:625 includes/postratings-stats.php:670
+#: includes/postratings-stats.php:722 includes/postratings-stats.php:768
+#: includes/postratings-stats.php:821 includes/postratings-stats.php:880
+#: includes/postratings-stats.php:939
+msgid "N/A"
+msgstr "Неизвестно"
+
+#: postratings-options.php:420 postratings-templates.php:258
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: postratings-options.php:414
+msgid "Logged By Username"
+msgstr "По имени пользователя"
+
+#: postratings-options.php:413
+msgid "Logged By Cookie And IP"
+msgstr "С помощью cookie и IP-адреса"
+
+#: postratings-options.php:412
+msgid "Logged By IP"
+msgstr "По IP-адресу"
+
+#: postratings-options.php:411
+msgid "Logged By Cookie"
+msgstr "С помощью cookie"
+
+#: postratings-options.php:410
+msgid "Do Not Log"
+msgstr "Не отслеживать"
+
+#: postratings-options.php:407
+msgid "Ratings Logging Method:"
+msgstr "Способ отслеживания оценок:"
+
+#: postratings-options.php:394
+msgid "Guests Only"
+msgstr "Только гости"
+
+#: postratings-options.php:391
+msgid "Who Is Allowed To Rate?"
+msgstr "Кто может выставлять оценки?"
+
+#: postratings-options.php:388
+msgid "Allow To Rate"
+msgstr "Разрешить оценку"
+
+#: postratings-options.php:379
+msgid "Show Fading In And Fading Out Of Ratings"
+msgstr "Использовать эффекты появления и затухания"
+
+#: postratings-options.php:370
+msgid "Show Loading Image With Text"
+msgstr "Использовать изображение-заставку с текстом"
+
+#: postratings-options.php:318 wp-postratings.php:635
+msgid "Rating Value"
+msgstr "Значение"
+
+#: postratings-options.php:317 wp-postratings.php:634
+msgid "Rating Text"
+msgstr "Текст"
+
+#: postratings-options.php:316 wp-postratings.php:633
+msgid "Rating Image"
+msgstr "Изображение"
+
+#: postratings-options.php:311
+msgid "Individual Rating Text/Value"
+msgstr "Текст и значение оценки"
+
+#: postratings-options.php:308
+msgid "Update 'Individual Rating Text/Value' Display"
+msgstr "Обновить текст и изображение"
+
+#: postratings-options.php:304 postratings-options.php:373
+#: postratings-options.php:382
+msgid "No"
+msgstr "Нет"
+
+#: postratings-options.php:302 postratings-options.php:374
+#: postratings-options.php:383
+msgid "Yes"
+msgstr "Да"
+
+#: postratings-options.php:300
+msgid "Enable Google Rich Snippets?"
+msgstr "Включить расширенные описания страниц от Google?"
+
+#: postratings-options.php:296
+msgid "Max Ratings:"
+msgstr "Максимальная оценка:"
+
+#: postratings-options.php:226
+msgid "Ratings Image:"
+msgstr "Изображение:"
+
+#: postratings-options.php:213
+msgid "Post Ratings Options"
+msgstr "Настройки WP-PostRatings"
+
+#: includes/postratings-activation.php:58
+#: includes/postratings-activation.php:59
+#: includes/postratings-activation.php:68
+#: includes/postratings-activation.php:74 postratings-options.php:155
+#: postratings-options.php:158 postratings-options.php:161
+#: postratings-options.php:167 postratings-templates.php:103
+#: postratings-templates.php:106 postratings-templates.php:109
+#: postratings-templates.php:115 wp-postratings.php:1091
+msgid "out of"
+msgstr "из"
+
+#: includes/postratings-activation.php:58
+#: includes/postratings-activation.php:59
+#: includes/postratings-activation.php:74 postratings-options.php:155
+#: postratings-options.php:158 postratings-options.php:161
+#: postratings-templates.php:103 postratings-templates.php:106
+#: postratings-templates.php:109 wp-postratings.php:1091
+msgid "average"
+msgstr "среднее"
+
+#: includes/postratings-activation.php:60 postratings-options.php:136
+#: postratings-options.php:164 postratings-templates.php:84
+#: postratings-templates.php:112
+msgid "No Ratings Yet"
+msgstr "Пока оценок нет"
+
+#: includes/postratings-activation.php:74 postratings-options.php:133
+#: postratings-options.php:161 postratings-templates.php:81
+#: postratings-templates.php:109
+msgid "You need to be a registered member to rate this."
+msgstr "Для того чтобы оценить запись, вы должны быть зарегистрированным пользователем сайта."
+
+#: includes/postratings-activation.php:59 postratings-options.php:130
+#: postratings-options.php:133 postratings-options.php:158
+#: postratings-templates.php:78 postratings-templates.php:81
+#: postratings-templates.php:106
+msgid "rated"
+msgstr "вы уже поставили оценку"
+
+#: includes/postratings-activation.php:58
+#: includes/postratings-activation.php:59
+#: includes/postratings-activation.php:74
+#: includes/postratings-activation.php:76 postratings-options.php:127
+#: postratings-options.php:130 postratings-options.php:133
+#: postratings-options.php:139 postratings-options.php:142
+#: postratings-options.php:155 postratings-options.php:158
+#: postratings-options.php:161 postratings-options.php:170
+#: postratings-templates.php:75 postratings-templates.php:78
+#: postratings-templates.php:81 postratings-templates.php:87
+#: postratings-templates.php:90 postratings-templates.php:103
+#: postratings-templates.php:106 postratings-templates.php:109
+#: postratings-templates.php:118
+msgid "votes"
+msgstr "оценок"
+
+#: includes/postratings-activation.php:58
+#: includes/postratings-activation.php:59
+#: includes/postratings-activation.php:74 postratings-options.php:127
+#: postratings-options.php:130 postratings-options.php:133
+#: postratings-options.php:139 postratings-options.php:155
+#: postratings-options.php:158 postratings-options.php:161
+#: postratings-templates.php:75 postratings-templates.php:78
+#: postratings-templates.php:81 postratings-templates.php:87
+#: postratings-templates.php:103 postratings-templates.php:106
+#: postratings-templates.php:109 wp-postratings.php:1088
+#: wp-postratings.php:1091
+msgid ","
+msgstr ","
+
+#: postratings-options.php:127 postratings-options.php:130
+#: postratings-options.php:133 postratings-options.php:139
+#: postratings-templates.php:75 postratings-templates.php:78
+#: postratings-templates.php:81 postratings-templates.php:87
+msgid "rating"
+msgstr "баллов"
+
+#: postratings-options.php:106
+msgid "No Ratings Option Updated"
+msgstr "Настройки оценок не обновлены"
+
+#: postratings-options.php:101 postratings-templates.php:60
+msgid "Updated"
+msgstr "&mdash; обновлено"
+
+#: postratings-options.php:96 postratings-options.php:223
+msgid "Ratings Settings"
+msgstr "Параметры оценки"
+
+#: postratings-options.php:95
+msgid "Allow To Vote Option"
+msgstr "Настройка &laquo;Разрешить оценку&raquo;"
+
+#: postratings-options.php:94 postratings-options.php:404
+msgid "Logging Method"
+msgstr "Способ отслеживания"
+
+#: postratings-options.php:93 postratings-options.php:367
+msgid "Ratings AJAX Style"
+msgstr "AJAX-стиль оценок"
+
+#: postratings-options.php:92
+msgid "Individual Rating Value"
+msgstr "Значение оценки"
+
+#: postratings-options.php:91
+msgid "Individual Rating Text"
+msgstr "Текст оценки"
+
+#: postratings-options.php:90
+msgid "Max Ratings"
+msgstr "Максимальная оценка"
+
+#: postratings-options.php:89
+msgid "Ratings Image"
+msgstr "Изображение оценки"
+
+#: postratings-options.php:88 postratings-templates.php:55
+msgid "Ratings Template For Most Rated"
+msgstr "Шаблон &laquo;Больше всего оценок&raquo;"
+
+#: postratings-options.php:87 postratings-templates.php:54
+msgid "Ratings Template For Highest Rated"
+msgstr "Шаблон &laquo;Самая высокая оценка&raquo;"
+
+#: postratings-options.php:86 postratings-templates.php:53
+msgid "Ratings Template For No Ratings"
+msgstr "Шаблон &laquo;Нет оценок&raquo;"
+
+#: postratings-options.php:85 postratings-templates.php:52
+msgid "Ratings Template No Permission"
+msgstr "Шаблон &laquo;Оценки запрещены&raquo;"
+
+#: postratings-options.php:84 postratings-templates.php:51
+msgid "Ratings Template Voted"
+msgstr "Шаблон &laquo;Есть оценка&raquo;"
+
+#: postratings-options.php:83 postratings-templates.php:50
+msgid "Ratings Template Vote"
+msgstr "Шаблон &laquo;Оценить&raquo;"
+
+#: postratings-options.php:82
+msgid "Custom Rating"
+msgstr "Свой шаблон оценки"
+
+#: postratings-manager.php:572
+msgid "If your logging method is by IP and Cookie or by Cookie, users may still be unable to rate if they have voted before as the cookie is still stored in their computer."
+msgstr "Если вы отслеживаете пользователей по IP или cookie, они, возможно, не смогут оценить запись, если они уже оценили её ранее и этот cookie все еще хранится на их компьютере."
+
+#: postratings-manager.php:571
+msgid "'Logs And Data' means both the logs generated and the rating data for the post."
+msgstr "&laquo;Журналы и данные&raquo; означает, что будут удалены и журналы, и данные об оценках записи."
+
+#: postratings-manager.php:570
+msgid "'Data Only' means the rating data for the post."
+msgstr "&laquo;Только данные&raquo; означает, что будут удалены данные об оценках записи."
+
+#: postratings-manager.php:569
+msgid "'Logs Only' means the logs generated when a user rates a post."
+msgstr "&laquo;Только журналы&raquo; означает, что будут удалены журналы, которые создаются и обновляются когда кто-то оценивает запись."
+
+#: postratings-manager.php:567
+msgid "Note:"
+msgstr "Примечание:"
+
+#: postratings-manager.php:561
+msgid "You Are About To Delete Post Ratings Data/Logs.\\nThis Action Is Not Reversible.\\n\\n Choose \\'Cancel\\' to stop, \\'OK\\' to delete."
+msgstr "Вы собираетесь удалить данные об оценках и журналы.\\nЭто действие необратимо.\\n\\nЧтобы остановить удаление, выберите [Отмена]. Выберите [OK], если вы хотите его продолжить."
+
+#: postratings-manager.php:561
+msgid "Delete Data/Logs"
+msgstr "Удалить данные и журналы"
+
+#: postratings-manager.php:556
+msgid "To delete ratings data/logs for all posts. Just type in: <b>all</b>"
+msgstr "Чтобы удалить данные обо всех оценках всех записей и все журналы, введите <b>all</b>"
+
+#: postratings-manager.php:555
+msgid "To delete ratings data/logs from Post ID 2, 3 and 4. Just type in: <b>2,3,4</b>"
+msgstr "Чтобы удалить данные об оценках и журналы записей с ID 2, 3 и 4, введите <b>2,3,4</b>"
+
+#: postratings-manager.php:554
+msgid "Seperate each Post ID with a comma."
+msgstr "Разделяйте несколько ID записей запятыми."
+
+#: postratings-manager.php:551
+msgid "Post ID(s):"
+msgstr "ID записи(ей):"
+
+#: postratings-manager.php:546
+msgid "Logs And Data"
+msgstr "Журналы и данные"
+
+#: postratings-manager.php:545
+msgid "Data Only"
+msgstr "Только данные"
+
+#: postratings-manager.php:544
+msgid "Logs Only"
+msgstr "Только журналы"
+
+#: postratings-manager.php:541
+msgid "Delete Type: "
+msgstr "Что удалить:"
+
+#: postratings-manager.php:534
+msgid "Delete Ratings Data/Logs"
+msgstr "Удалить журналы и данные об оценках"
+
+#: postratings-manager.php:525
+msgid "Total Average:"
+msgstr "Средняя оценка:"
+
+#: postratings-manager.php:521
+msgid "Total Score:"
+msgstr "Общий счет:"
+
+#: postratings-manager.php:517
+msgid "Total Users Voted:"
+msgstr "Всего проголосовало:"
+
+#: postratings-manager.php:504
+msgid "Go"
+msgstr "Вперед"
+
+#: postratings-manager.php:494 postratings-manager.php:496
+msgid "Per Page"
+msgstr "Записей на страницу"
+
+#: postratings-manager.php:472
+msgid "Sort Options:"
+msgstr "Порядок сортировки:"
+
+#: postratings-manager.php:459
+msgid "Rating: "
+msgstr "Оценка:"
+
+#: postratings-manager.php:440
+msgid "Comment Author: "
+msgstr "Автор комментария:"
+
+#: postratings-manager.php:438
+msgid "Registered User: "
+msgstr "Зарегистрированный пользователь:"
+
+#: postratings-manager.php:432
+msgid " Guest"
+msgstr "Гость"
+
+#: postratings-manager.php:427
+msgid "Post ID:"
+msgstr "ID записи:"
+
+#: postratings-manager.php:425
+msgid "Filter Options:"
+msgstr "Параметры фильтра:"
+
+#: postratings-manager.php:410
+msgid "Last"
+msgstr "Последняя"
+
+#: postratings-manager.php:410
+msgid "Go to Last Page"
+msgstr "Перейти на последнюю страницу"
+
+#: postratings-manager.php:402
+msgid "Page"
+msgstr "Страница"
+
+#: postratings-manager.php:395 postratings-manager.php:407
+msgid "Go to Page"
+msgstr "Перейти на страницу"
+
+#: postratings-manager.php:392
+msgid "First"
+msgstr "Первая"
+
+#: postratings-manager.php:392
+msgid "Go to First Page"
+msgstr "Перейти на первую страницу"
+
+#: postratings-manager.php:389
+msgid "Pages (%s): "
+msgstr "Страницы (%s):"
+
+#: postratings-manager.php:380
+msgid "Next Page"
+msgstr "Следующая страница"
+
+#: postratings-manager.php:371
+msgid "Previous Page"
+msgstr "Предыдущая страница"
+
+#: postratings-manager.php:327 postratings-manager.php:329
+#: postratings-manager.php:335 postratings-manager.php:337
+msgid " Out Of "
+msgstr " из "
+
+#: postratings-manager.php:306
+msgid "%s @ %s"
+msgstr "%s в %s"
+
+#: postratings-manager.php:288
+msgid "IP / Host"
+msgstr "IP / Хост"
+
+#: postratings-manager.php:287
+msgid "Date / Time"
+msgstr "Дата / Время"
+
+#: includes/postratings-admin.php:66 includes/postratings-admin.php:67
+#: postratings-manager.php:262
+msgid "Manage Ratings"
+msgstr "Управление оценками"
+
+#: postratings-manager.php:212 postratings-manager.php:487
+msgid "Descending"
+msgstr "По убыванию"
+
+#: postratings-manager.php:210 postratings-manager.php:486
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: postratings-manager.php:204 postratings-manager.php:480
+msgid "Date"
+msgstr "Дата"
+
+#: postratings-manager.php:199 postratings-manager.php:482
+msgid "Host"
+msgstr "Хост"
+
+#: postratings-manager.php:195 postratings-manager.php:481
+msgid "IP"
+msgstr "IP"
+
+#: postratings-manager.php:191 postratings-manager.php:286
+#: postratings-manager.php:479
+msgid "Post Title"
+msgstr "Заголовок записи"
+
+#: postratings-manager.php:187 postratings-manager.php:285
+#: postratings-manager.php:478
+msgid "Post ID"
+msgstr "ID записи"
+
+#: postratings-manager.php:183 postratings-manager.php:284
+#: postratings-manager.php:477
+msgid "Rating"
+msgstr "Оценка"
+
+#: postratings-manager.php:179 postratings-manager.php:283
+#: postratings-manager.php:476
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: postratings-manager.php:175 postratings-manager.php:282
+#: postratings-manager.php:475
+msgid "ID"
+msgstr "ID"
+
+#: postratings-manager.php:108 postratings-manager.php:141
+msgid "Rating Data \"%s\" For Post ID(s) %s Has Been Deleted."
+msgstr "Данные об оценке &laquo;%s&raquo; для записи(ей) %s удалены."
+
+#: postratings-manager.php:100 postratings-manager.php:126
+msgid "Rating Data \"%s\" Has Been Deleted."
+msgstr "Данные об оценке &laquo;%s&raquo; удалены."
+
+#: postratings-manager.php:90 postratings-manager.php:134
+msgid "An Error Has Occured While Deleting All Rating Logs For Post ID(s) %s."
+msgstr "Ошибка при удалении журнала оценок для записи(ей) %s. "
+
+#: postratings-manager.php:88 postratings-manager.php:132
+msgid "All Rating Logs For Post ID(s) %s Have Been Deleted."
+msgstr "Журнал оценок для записи(ей) %s удален. "
+
+#: postratings-manager.php:82 postratings-manager.php:120
+msgid "An Error Has Occured While Deleting All Rating Logs."
+msgstr "Ошибка при удалении всех журналов оценок записей."
+
+#: postratings-manager.php:80 postratings-manager.php:118
+msgid "All Rating Logs Have Been Deleted."
+msgstr "Все журналы оценок записей были удалены."

@@ -1,0 +1,760 @@
+# Translation of Stable (latest release) in Romanian
+# This file is distributed under the same license as the Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-23 20:45:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Stable (latest release)\n"
+
+#: admin/pages/dashboard.php:20
+msgid "System Info"
+msgstr "Informații despre sistem"
+
+#: admin/class-admin.php:547
+msgid "Google Analytics by MonsterInsights Pro"
+msgstr "Google Analytics de MonsterInsights Pro"
+
+#. #-#-#-#-#  tmp-google-analytics-for-wordpress.pot (Google Analytics by
+#. MonsterInsights 5.5.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/class-admin.php:553
+msgid "Google Analytics by MonsterInsights"
+msgstr "Google Analytics de MonsterInsights"
+
+#: admin/pages/dashboard.php:14 admin/pages/extensions.php:14
+#: admin/pages/settings.php:10
+msgid "Google Analytics by MonsterInsights: "
+msgstr "Google Analytics de MonsterInsights: "
+
+#: admin/views/content-footer.php:15
+msgid "Upgrade to Google Analytics By MonsterInsights Pro »"
+msgstr "Actualizează la Google Analytics de MonsterInsights Pro »"
+
+#: googleanalytics.php:58
+msgid "Google Analytics By Yoast is now MonsterInsights. Read about this transition %s here %s"
+msgstr "Google Analytics de Yoast este acum MonsterInsights. Citește despre această tranziție %s aici %s"
+
+#. Plugin URI of the plugin/theme
+msgid "https://www.monsterinsights.com/pricing/#utm_source=wordpress&utm_medium=plugin&utm_campaign=wpgaplugin&utm_content=v504"
+msgstr "https://www.monsterinsights.com/pricing/#utm_source=wordpress&utm_medium=plugin&utm_campaign=wpgaplugin&utm_content=v504"
+
+#. Author of the plugin/theme
+msgid "MonsterInsights"
+msgstr "MonsterInsights"
+
+#. Author URI of the plugin/theme
+msgid "https://www.monsterinsights.com/"
+msgstr "https://www.monsterinsights.com/"
+
+#: admin/class-admin-menu.php:100 admin/class-admin-menu.php:125
+msgid "Google Analytics by MonsterInsights:"
+msgstr "Google Analytics de MonsterInsights:"
+
+#: admin/class-admin-menu.php:100
+msgid "Insights"
+msgstr "Perspective"
+
+#: admin/pages/settings.php:102
+msgid "Ignore users"
+msgstr "Utilizatori ignorați"
+
+#: admin/pages/settings.php:102
+msgid "Users of the role you select will be ignored, so if you select Editor, all Editors will be ignored."
+msgstr "Utilizatorii cu rolul pe care îl selectezi vor fi ignorați, așa că dacă selectezi Editor, toți editorii vor fi ignorați."
+
+#: admin/pages/settings.php:103
+msgid "Disable analytics dashboard"
+msgstr "Dezactivează analiză panou control"
+
+#: admin/pages/settings.php:103
+msgid "This will completely disable the dashboard and stop the plugin from fetching the latest analytics data."
+msgstr "Acest lucru va dezactiva complet panoul control și împiedică modulul să aducă cele mai recente date de analiză."
+
+#: admin/pages/settings.php:109
+msgid "Universal settings"
+msgstr "Setări universale"
+
+#: admin/pages/settings.php:110
+msgid "Enable Universal tracking"
+msgstr "Activează urmărirea universală"
+
+#: admin/pages/settings.php:110
+msgid "First enable Universal tracking in your Google Analytics account. Please read %1$sthis guide%2$s to learn how to do that."
+msgstr "Prima dată activează urmărirea universală în contul tău Google Analytics. Te rog citește %1$sacest ghid%2$s pentru pentru a învăța cum să faci acest lucru."
+
+#: admin/pages/settings.php:113
+msgid "Enable Demographics and Interests Reports for Remarketing and Advertising"
+msgstr "Activează rapoarte demografice și de interes pentru remarketing și publicitate"
+
+#: admin/pages/settings.php:115
+msgid "Note that usage of this function is affected by privacy and cookie laws around the world. Be sure to follow the laws that affect your target audience."
+msgstr "Reține că folosirea acestei funcții este afectată de legile internaționale privind confidențialitatea și utilizarea cookie-urilor. Asigură-te că respecți legile care afectează publicul țintă."
+
+#: admin/pages/settings.php:118
+msgid "Check this setting to add the Demographics and Remarketing features to your Google Analytics tracking code. We've written an article in our %1$sknowledge base%2$s about Demographics and Interest reports. For more information about Remarketing, we refer you to %3$sGoogle's documentation%2$s."
+msgstr "Bifează această setare pentru a adăuga funcționalități demografice și de remarketing la codul tău de urmărire Google Analytics. Am scris un articol în %1$sbaza de cunoștințe%2$s despre rapoarte demografice și de interes. Pentru mai multe informații despre remarketing, consultă %3$sdocumentația Google%2$s."
+
+#: admin/pages/settings.php:124
+msgid "Enhanced Link Attribution"
+msgstr "Atribuire legătură îmbunătățită"
+
+#: admin/pages/settings.php:124
+msgid "Add %1$sEnhanced Link Attribution%2$s to your tracking code."
+msgstr "Adaugă %1$satribuire legătură îmbunătățită%2$s la codul tău de urmărire."
+
+#: admin/pages/settings.php:134
+msgid "Advanced settings"
+msgstr "Setări avansate"
+
+#: admin/pages/settings.php:135
+msgid "Track downloads as"
+msgstr "Urmărește descărcările ca"
+
+#: admin/pages/settings.php:135
+msgid "Not recommended, as this would skew your statistics, but it does make it possible to track downloads as goals."
+msgstr "Nerecomandat, deoarece ți-ar influența statisticile, dar face posibilă urmărirea descărcările ca obiectiv."
+
+#: admin/pages/settings.php:136
+msgid "Extensions of files to track as downloads"
+msgstr "Extensii de fișiere pentru a le urmări ca descărcări"
+
+#: admin/pages/settings.php:137
+msgid "Track full URL of outbound clicks or just the domain"
+msgstr "Urmărește URL-ul complet al clic-urilor de ieșire sau numai domeniul"
+
+#: admin/pages/settings.php:138
+msgid "Subdomain tracking"
+msgstr "Urmărire subdomeniu"
+
+#: admin/pages/settings.php:138
+msgid "This allows you to set the domain that's set by %1$s for tracking subdomains.<br/>If empty, this will not be set."
+msgstr "Îți permite să setați domeniul care este stabilit de %1$s pentru urmărirea subdomeniilor.<br/>Dacă e gol, nu va fi setat."
+
+#: admin/pages/settings.php:140
+msgid "Set path for internal links to track as outbound links"
+msgstr "Setează calea pentru legăturile interne pentru a fi urmărite ca legături de ieșire"
+
+#: admin/pages/settings.php:140
+msgid "If you want to track all internal links that begin with %1$s, enter %1$s in the box above. If you have multiple prefixes you can separate them with comma's: %2$s"
+msgstr "Dacă vrei să urmărești toate legăturile interne care încep cu %1$s, introdu %1$s în caseta de mai sus. Dacă ai mai multe prefixe le poți separa prin virgulă: %2$s"
+
+#: admin/pages/settings.php:141
+msgid "Label for those links"
+msgstr "Eticheta pentru aceste legături"
+
+#: admin/pages/settings.php:143
+msgid "Tag links in RSS feed with campaign variables"
+msgstr "Legături de etichete în fluxul RSS cu variabile de campanie"
+
+#: admin/pages/settings.php:143
+msgid "Do not use this feature if you use FeedBurner, as FeedBurner can do this automatically and better than this plugin can. Check <a href=\"https://support.google.com/feedburner/answer/165769?hl=en&amp;ref_topic=13075\" target=\"_blank\">this help page</a> for info on how to enable this feature in FeedBurner."
+msgstr "Nu folosi această funcționalitate dacă ai FeedBurner instalat, pentru că FeedBurner poate face acest lucru automat și mult mai bine decât acest modul. Verifică <a href=\"https://support.google.com/feedburner/answer/165769?hl=en&amp;ref_topic=13075\" target=\"_blank\">această pagina de ajutor</a> cu informații despre activarea acestei funcționalități în FeedBurner."
+
+#: admin/pages/settings.php:144
+msgid "Allow anchor"
+msgstr "Permite ancoră"
+
+#: admin/pages/settings.php:144
+msgid "This adds a %1$s call to your tracking code, and makes RSS link tagging use a %2$s as well."
+msgstr "Se adaugă un mesaj %1$s la codul de urmărire și face etichetarea legăturii RSS să folosească un %2$s de asemenea."
+
+#: admin/pages/settings.php:145
+msgid "Add <code>_setAllowLinker</code>"
+msgstr "Adaugă <code>_setAllowLinker</code>"
+
+#: admin/pages/settings.php:145
+msgid "This adds a %1$s call to your tracking code, allowing you to use %2$s and related functions."
+msgstr "Se adaugă un mesaj %1$s la codul de urmărire, permițându-ți să folosești %2$s și funcții similare."
+
+#: admin/pages/settings.php:147
+msgid "Custom code"
+msgstr "Cod personalizat"
+
+#: admin/pages/settings.php:147
+msgid "Not for the average user: this allows you to add a line of code, to be added before the %1$s call."
+msgstr "Nu este pentru utilizatorul mediu: îți permite să adaugi o linie de cod, care urmează să fie adăugată înainte de mesajul %1$s."
+
+#: admin/pages/settings.php:158
+msgid "Custom dimensions"
+msgstr "Dimensiuni personalizate"
+
+#: admin/pages/settings.php:165
+msgid "Debug"
+msgstr "Depanare"
+
+#: admin/pages/settings.php:168
+msgid "If you want to confirm that tracking on your blog is working as it should, enable this option and check the console of your browser. Be absolutely sure to disable debugging afterwards, as it is slower than normal tracking."
+msgstr "Dacă vrei confirmarea că urmărirea blogului tău funcționează așa cum ar trebui, activează această opțiune și verifică-ți consola navigatorului. Fii absolut sigur că dezactivezi depanarea ulterior, deoarece este mai lentă decât urmărirea normală."
+
+#: admin/pages/settings.php:169
+msgid "<strong>Note</strong> the debugging is only loaded for administrators."
+msgstr "<strong>Notă</strong> depanarea este încărcată numai pentru administratori."
+
+#: admin/pages/settings.php:171
+msgid "Enable debug mode"
+msgstr "Activare mod depanare"
+
+#: admin/pages/settings.php:185
+msgid "Select the users to ignore"
+msgstr "Selectează utilizatorii de ignorat"
+
+#: admin/views/content-footer.php:14
+msgid "Remove these ads?"
+msgstr "Vrei să elimini aceste anunțuri?"
+
+#: frontend/abstract-class-tracking.php:455
+#: frontend/abstract-class-tracking.php:476
+msgid "This site uses the %1$s plugin version %2$s"
+msgstr "Acest sit folosește versiunea %1$s a modulului %2$s"
+
+#: frontend/abstract-class-tracking.php:458
+msgid "@Webmaster, normally you will find the Google Analytics tracking code here, but you are in the disabled user groups. To change this, navigate to Analytics -> Settings (Ignore usergroups)"
+msgstr "@Webmaster, în mod normal vei găsi codul de urmărire Google Analytics aici, dar ești în grupurile utilizatori dezactivați. Pentru a modifica asta, navighează la Google Analytics -> Setări (Ignorare grupuri de utilizatori)"
+
+#: frontend/abstract-class-tracking.php:461
+msgid "Normally you will find the Google Analytics tracking code here, but the webmaster disabled your user group."
+msgstr "În mod normal vei găsi codul de urmărire Google Analytics aici, dar webmaster-ul a dezactivat grupul tău de utilizatori."
+
+#: frontend/abstract-class-tracking.php:479
+msgid "@Webmaster, normally you will find the Google Analytics tracking code here, but the Debug Mode is enabled. To change this, navigate to Analytics -> Settings -> (Tab) Debug Mode and disable Debug Mode to enable tracking of your site."
+msgstr "@Webmaster, în mod normal vei găsi codul de urmărire Google Analytics aici, dar Modul depanare este activat. Pentru a modifica asta, navighează la Google Analytics -> Setări -> (Filă) Mod depanare și dezactivează Mod depanare pentru a permite urmărirea sitului tău."
+
+#: frontend/abstract-class-tracking.php:482
+msgid "Normally you will find the Google Analytics tracking code here, but the webmaster has enabled the Debug Mode."
+msgstr "În mod normal vei găsi codul de urmărire Google Analytics aici, dar webmaster-ul a activat Modul depanare."
+
+#: googleanalytics.php:100
+msgid "The Standard PHP Library (SPL) extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "Extensia Standard PHP Library (SPL) pare a fi indisponibilă. Te rog cere serviciului tău de găzduire s-o activeze."
+
+#: googleanalytics.php:113
+msgid "The (standard) PHP filter extension seem to be unavailable. Please ask your web host to enable it."
+msgstr "Extensia filtru PHP (standard) pare a fi indisponibilă. Te rog cere serviciului tău de găzduire s-o activeze."
+
+#: vendor/yoast/license-manager/class-license-manager.php:134
+#: vendor/yoast/license-manager-2/class-license-manager.php:134
+msgid "<b>Warning!</b> You're blocking external requests which means you won't be able to get %s updates. Please add %s to %s."
+msgstr "<b>Avertizare!</b> Blochezi cererile externe ceea ce înseamnă că nu vei putea obține actualizări pentru %s. Te rog adaugă %s la %s."
+
+#: vendor/yoast/license-manager/class-license-manager.php:175
+#: vendor/yoast/license-manager-2/class-license-manager.php:175
+msgid "Your %s license has been activated. "
+msgstr "Licența ta %s a fost activată."
+
+#: vendor/yoast/license-manager/class-license-manager.php:179
+#: vendor/yoast/license-manager-2/class-license-manager.php:179
+msgid "You have an unlimited license. "
+msgstr "Ai o licență nelimitată."
+
+#: vendor/yoast/license-manager/class-license-manager.php:181
+#: vendor/yoast/license-manager-2/class-license-manager.php:181
+msgid "You have used %d/%d activations. "
+msgstr "Ai folosit activările %d/%d."
+
+#: vendor/yoast/license-manager/class-license-manager.php:186
+#: vendor/yoast/license-manager-2/class-license-manager.php:186
+msgid "<a href=\"%s\">Did you know you can upgrade your license?</a>"
+msgstr "<a href=\"%s\">Știi că îți poți actualiza licența?</a>"
+
+#: vendor/yoast/license-manager/class-license-manager.php:190
+#: vendor/yoast/license-manager-2/class-license-manager.php:190
+msgid "<a href=\"%s\">Your license is expiring in %d days, would you like to extend it?</a>"
+msgstr "<a href=\"%s\">Licența ta expiră în %d zile, ai vrea s-o prelungești?</a>"
+
+#: vendor/yoast/license-manager/class-license-manager.php:199
+#: vendor/yoast/license-manager-2/class-license-manager.php:199
+msgid "You've reached your activation limit. You must <a href=\"%s\">upgrade your license</a> to use it on this site."
+msgstr "Ai ajuns la limita de activare. Trebuie <a href=\"%s\">să-ți actualizezi licența</a> pentru a o putea folosi pe acest sit."
+
+#: vendor/yoast/license-manager/class-license-manager.php:202
+#: vendor/yoast/license-manager-2/class-license-manager.php:202
+msgid "Your license has expired. You must <a href=\"%s\">extend your license</a> in order to use it again."
+msgstr "Licența ta a expirat. Trebuie <a href=\"%s\">să-ți prelungești licența</a> pentru a o putea folosi din nou."
+
+#: vendor/yoast/license-manager/class-license-manager.php:205
+#: vendor/yoast/license-manager-2/class-license-manager.php:205
+msgid "Failed to activate your license, your license key seems to be invalid."
+msgstr "Activarea licenței a eșuat, cheia licenței tale pare a fi nevalidă."
+
+#: vendor/yoast/license-manager/class-license-manager.php:229
+#: vendor/yoast/license-manager-2/class-license-manager.php:229
+msgid "Your %s license has been deactivated."
+msgstr "Licența ta %s a fost dezactivată."
+
+#: vendor/yoast/license-manager/class-license-manager.php:231
+#: vendor/yoast/license-manager-2/class-license-manager.php:231
+msgid "Failed to deactivate your %s license."
+msgstr "Dezactivarea licenței tale %s a eșuat."
+
+#: vendor/yoast/license-manager/class-license-manager.php:267
+#: vendor/yoast/license-manager-2/class-license-manager.php:267
+msgid "Request error: \"%s\" (%scommon license notices%s)"
+msgstr "Eroare de solicitare: \"%s\" (%sobservații uzuale privind licența%s)"
+
+#: vendor/yoast/license-manager/class-license-manager.php:426
+#: vendor/yoast/license-manager-2/class-license-manager.php:426
+msgid "%s: License Settings"
+msgstr "%s: setări licență"
+
+#: vendor/yoast/license-manager/class-plugin-license-manager.php:73
+#: vendor/yoast/license-manager-2/class-plugin-license-manager.php:73
+msgid "%s is network activated, you can manage your license in the <a href=\"%s\">network admin license page</a>."
+msgstr "%s este activat în rețea, poți să-ți administrezi licența în <a href=\"%s\">pagina licență administrator de rețea</a>."
+
+#: vendor/yoast/license-manager/class-plugin-license-manager.php:75
+#: vendor/yoast/license-manager-2/class-plugin-license-manager.php:75
+msgid "%s is network activated, please contact your site administrator to manage the license."
+msgstr "%s este activat în rețea, te rog contactează administratorul sitului pentru a administra licența."
+
+#: vendor/yoast/license-manager/class-theme-license-manager.php:34
+#: vendor/yoast/license-manager/samples/sample-plugin.php:53
+#: vendor/yoast/license-manager-2/class-theme-license-manager.php:34
+#: vendor/yoast/license-manager-2/samples/sample-plugin.php:53
+msgid "%s License"
+msgstr "Licență %s"
+
+#: vendor/yoast/license-manager/class-theme-license-manager.php:34
+#: vendor/yoast/license-manager-2/class-theme-license-manager.php:34
+msgid "Theme License"
+msgstr "Licență temă"
+
+#: vendor/yoast/license-manager/class-theme-update-manager.php:92
+#: vendor/yoast/license-manager-2/class-theme-update-manager.php:92
+msgid "Updating this theme will lose any customizations you have made. 'Cancel' to stop, 'OK' to update."
+msgstr "Prin actualizarea acestei teme se vor pierde toate personalizările pe care le-ai făcut. \"Anulează\" pentru a opri, \"OK\" pentru a actualiza."
+
+#: vendor/yoast/license-manager/class-theme-update-manager.php:97
+#: vendor/yoast/license-manager-2/class-theme-update-manager.php:97
+msgid "<strong>%s version %s</strong> is available. <a href=\"%s\" class=\"thickbox\" title=\"%s\">Check out what's new</a> or <a href=\"%s\" %s>update now</a>."
+msgstr "<strong>%s versiunea %s</strong> este disponibilă. <a href=\"%s\" class=\"thickbox\" title=\"%s\">Verifică noutățile</a> sau <a href=\"%s\" %s>actualizează acum</a>."
+
+#: vendor/yoast/license-manager/class-update-manager.php:79
+#: vendor/yoast/license-manager-2/class-update-manager.php:79
+msgid "%s failed to check for updates because of the following error: <em>%s</em>"
+msgstr "%s nu a putut verifica actualizările din cauza acestei erori: <em>%s</em>"
+
+#: vendor/yoast/license-manager/class-update-manager.php:157
+#: vendor/yoast/license-manager-2/class-update-manager.php:157
+msgid "This site has not been activated properly on yoast.com and thus cannot check for future updates. Please activate your site with a valid license key."
+msgstr "Acest sit nu a fost activat în mod corespunzător pe yoast.com și de aceea nu se vor putea verifica actualizările viitoare. Te rog să activezi situl cu o cheie pentru licență valabilă."
+
+#: vendor/yoast/license-manager/views/form.php:15
+#: vendor/yoast/license-manager-2/views/form.php:15
+msgid "We couldn't create a connection to our API to verify your license key(s). Please ask your hosting company to allow outgoing connections from your server to %s."
+msgstr "Nu am putut crea o conexiune la API-ul tău pentru a verifica cheia de licență. Te rog să soliciți serviciului tău de găzduire să-ți permită conexiuni de ieșire de la server la %s."
+
+#: vendor/yoast/license-manager/views/form.php:19
+#: vendor/yoast/license-manager-2/views/form.php:19
+msgid "Your server has an outdated version of the PHP module cURL (Version: %s). Please ask your hosting company to update this to a recent version of cURL. You can read more about that in our %sKnowledge base%s."
+msgstr "Serverul tău folosește o versiune învechită a extensiei cURL pentru PHP (versiunea: %s). Te rog cere companiei tale de găzduire să actualizeze cURL la o versiune recentă. Poți citi mai multe despre acest lucru în %sCunoștințe de bază%s."
+
+#: vendor/yoast/license-manager/views/form.php:31
+#: vendor/yoast/license-manager-2/views/form.php:31
+msgid "License status"
+msgstr "Stare licență"
+
+#: vendor/yoast/license-manager/views/form.php:41
+#: vendor/yoast/license-manager-2/views/form.php:41
+msgid "Toggle license status"
+msgstr "Comută starea licenței"
+
+#: vendor/yoast/license-manager/views/form.php:45
+#: vendor/yoast/license-manager-2/views/form.php:45
+msgid "Deactivate License"
+msgstr "Dezactivare licență"
+
+#: vendor/yoast/license-manager/views/form.php:46
+#: vendor/yoast/license-manager-2/views/form.php:46
+msgid "(deactivate your license so you can activate it on another WordPress site)"
+msgstr "(dezactivează-ți licența ca s-o poți activa pe un alt sit WordPress)"
+
+#: vendor/yoast/license-manager/views/form.php:52
+#: vendor/yoast/license-manager-2/views/form.php:52
+msgid "Please enter a license key in the field below first."
+msgstr "Te rog să introduci întâi o cheie de licență în câmpul de mai jos."
+
+#: vendor/yoast/license-manager/views/form.php:60
+#: vendor/yoast/license-manager-2/views/form.php:60
+msgid "License Key"
+msgstr "Cheie licență"
+
+#: vendor/yoast/license-manager/views/form.php:62
+#: vendor/yoast/license-manager-2/views/form.php:62
+msgid "Paste your %s license key here.."
+msgstr "Lipește cheia licenței %s aici..."
+
+#: vendor/yoast/license-manager/views/form.php:64
+#: vendor/yoast/license-manager-2/views/form.php:64
+msgid "You defined your license key using the %s PHP constant."
+msgstr "Ai definit cheia licenței folosind constanta PHP %s."
+
+#: vendor/yoast/license-manager/views/form.php:81
+#: vendor/yoast/license-manager-2/views/form.php:81
+msgid "Your %s license will expire on %s."
+msgstr "Licență ta %s va expira pe %s."
+
+#: vendor/yoast/license-manager/views/form.php:84
+#: vendor/yoast/license-manager-2/views/form.php:84
+msgid "%sRenew your license now%s."
+msgstr "%sReînnoiește-ți licența acum%s."
+
+#. Description of the plugin/theme
+msgid "This plugin makes it simple to add Google Analytics to your WordPress site, adding lots of features, e.g. error page, search result and automatic outgoing links and download tracking."
+msgstr "Acest modul face simplă adăugarea Google Analytics pe situl tău WordPress, adăugând o mulțime de funcționalități, de exemplu, pagină de eroare, rezultatul căutării, legături automate de ieșire și urmărirea descărcării."
+
+#: admin/class-admin-form.php:46 admin/pages/settings.php:176
+msgid "Save changes"
+msgstr "Salvează modificările"
+
+#: admin/class-admin-menu.php:100 admin/pages/settings.php:32
+msgid "General settings"
+msgstr "Setări generale"
+
+#: admin/class-admin-menu.php:226 admin/pages/dashboard.php:14
+msgid "Dashboard"
+msgstr "Panou control"
+
+#: admin/class-admin-menu.php:232 admin/class-admin.php:328
+#: admin/pages/settings.php:10
+msgid "Settings"
+msgstr "Setări"
+
+#: admin/class-admin-menu.php:239 admin/pages/extensions.php:14
+#: admin/pages/extensions.php:17
+msgid "Extensions"
+msgstr "Extensii"
+
+#: admin/class-admin.php:93
+msgid "MonsterInsights plugins share some code between them to make your site faster. As a result of that, we need all MonsterInsights plugins to be up to date. We've detected this isn't the case, so please update the MonsterInsights plugins that aren't up to date yet."
+msgstr "Modulele MonsterInsights partajează unele coduri între ele pentru a-ți face situl mai rapid. Ca urmare, avem nevoie ca toate modulele MonsterInsights să fie actualizate. Am detectat că acest lucru nu e valabil, așa că te rog să actualizezi modulele MonsterInsights care nu sunt încă actualizate."
+
+#: admin/class-admin.php:136
+msgid "Settings saved."
+msgstr "Setări salvate."
+
+#: admin/class-admin.php:143
+msgid "There were no changes to save, please try again."
+msgstr "Nu au existat modificări de salvat, te rog încearcă din nou."
+
+#: admin/class-admin.php:187
+msgid "The UA code needs to follow UA-XXXXXXXX-X format."
+msgstr "Codul UA trebuie să aibă formatul UA-XXXXXXXX-X."
+
+#: admin/class-admin.php:325
+msgid "FAQ"
+msgstr "Întrebări frecvente"
+
+#: admin/class-admin.php:340
+msgid "If you want to track custom dimensions like page views per author or post type, you should upgrade to the %1$spremium version of Google Analytics by MonsterInsights%2$s."
+msgstr "Dacă vrei să urmărești dimensiuni personalizate ca vizualizări de pagină per autor sau tip de articol, ar trebui să actualizezi la %1$sversiunea premium Google Analytics de MonsterInsights%2$s."
+
+#: admin/class-admin.php:342
+msgid "This will also give you access to the support team at MonsterInsights, who will provide support on the plugin 24/7."
+msgstr "De asemenea, aceasta îți va oferi acces la echipa de suport de la MonsterInsights, care îți va asigura suport pentru modul 24/7."
+
+#: admin/class-admin.php:456
+msgid "Event"
+msgstr "Eveniment"
+
+#: admin/class-admin.php:457
+msgid "Pageview"
+msgstr "Afișare pagină"
+
+#: admin/class-admin.php:468
+msgid "Just the domain"
+msgstr "Doar domeniul"
+
+#: admin/class-admin.php:469
+msgid "Full links"
+msgstr "Legături complete"
+
+#: admin/class-admin.php:548
+msgid "The premium version of Google Analytics by MonsterInsights with more features and support."
+msgstr "Versiunea premium a Google Analytics de MonsterInsights cu mai multe funcționalități și suport."
+
+#: admin/class-admin.php:553
+msgid "eCommerce tracking"
+msgstr "urmărire eCommerce"
+
+#: admin/class-admin.php:554
+msgid "Track your eCommerce data and transactions with this eCommerce extension for Google Analytics."
+msgstr "Urmărește-ți datele eCommerce și tranzacțiile cu această extensie eCommerce pentru Google Analytics."
+
+#: admin/class-google-analytics.php:323
+msgid "Please configure your %sGoogle Analytics settings%s!"
+msgstr "Te rog configurează-ți %ssetările Google Analytics%s!"
+
+#: admin/class-google-analytics.php:336
+msgid "It seems the authentication for the plugin has expired, please %sre-authenticate%s with Google Analytics to allow the plugin to fetch data."
+msgstr "Se pare că autentificarea pentru modul a expirat, te rog %sreautentifică-te%s cu Google Analytics pentru a permite modulului să aducă date."
+
+#: admin/class-google-analytics.php:349
+msgid "Data is not up-to-date, there was an error in retrieving the data from Google Analytics. This error could be caused by several issues. If the error persists, please see %sthis page%s."
+msgstr "Datele nu sunt actualizate, a apărut o eroare la recuperarea datelor din Google Analytics. Această eroare ar putea fi cauzată de o serie de probleme. Dacă eroarea persistă, te rog vezi %saceastă pagină%s."
+
+#: admin/dashboards/class-admin-dashboards.php:135
+msgid ": activate to sort column ascending"
+msgstr ": activează pentru a sorta coloană ascendentă"
+
+#: admin/dashboards/class-admin-dashboards.php:136
+msgid ": activate to sort column descending"
+msgstr ": activează pentru a sorta coloană descendentă"
+
+#: admin/dashboards/class-admin-dashboards.php:137
+msgid "No data available"
+msgstr "Nu sunt date disponibile"
+
+#: admin/dashboards/class-admin-dashboards.php:138
+msgctxt "_START_, _END_ and _TOTAL_ will be replaced by JS (See: http://datatables.net/reference/option/language.info)"
+msgid "Showing _START_ to _END_ of _TOTAL_ rows"
+msgstr "Arată rândurile _START_ to _END_ of _TOTAL_"
+
+#: admin/dashboards/class-admin-dashboards.php:139
+msgid "No rows to show"
+msgstr "Niciun rând de arătat"
+
+#: admin/dashboards/class-admin-dashboards.php:140
+msgctxt "_MAX_ will be replaced by JS (See: http://datatables.net/reference/option/language.infoFiltered)"
+msgid "(filtered from _MAX_ total rows)"
+msgstr "(s-a filtrat din total rânduri _MAX_)"
+
+#: admin/dashboards/class-admin-dashboards.php:141
+msgctxt "_MAX_ will be replaced by JS"
+msgid "Show _MENU_ rows"
+msgstr "Arată rândurile_MENU_"
+
+#: admin/dashboards/class-admin-dashboards.php:142
+msgid "Loading..."
+msgstr "Se încarcă..."
+
+#: admin/dashboards/class-admin-dashboards.php:143
+msgid "First"
+msgstr "Primul"
+
+#: admin/dashboards/class-admin-dashboards.php:144
+msgid "Last"
+msgstr "Ultimul"
+
+#: admin/dashboards/class-admin-dashboards.php:145
+msgid "Next"
+msgstr "Următor"
+
+#: admin/dashboards/class-admin-dashboards.php:146
+msgid "Previous"
+msgstr "Anterior"
+
+#: admin/dashboards/class-admin-dashboards.php:147
+msgid "Processing..."
+msgstr "Se prelucrează..."
+
+#: admin/dashboards/class-admin-dashboards.php:148
+msgid "Search"
+msgstr "Caută"
+
+#: admin/dashboards/class-admin-dashboards.php:149
+msgid "No matching records found"
+msgstr "Nu s-au găsit înregistrări care să se potrivească"
+
+#: admin/dashboards/class-admin-dashboards.php:152 admin/pages/dashboard.php:18
+msgid "Reports"
+msgstr "Rapoarte"
+
+#: admin/dashboards/class-admin-dashboards.php:153 admin/pages/dashboard.php:19
+msgid "Custom dimension reports"
+msgstr "Rapoarte cu dimensiuni personalizate"
+
+#: admin/dashboards/class-admin-dashboards.php:191
+#: admin/dashboards/class-admin-dashboards.php:208
+#: admin/dashboards/class-admin-dashboards.php:217
+#: admin/dashboards/class-admin-dashboards.php:226
+msgid "Sessions"
+msgstr "Sesiuni"
+
+#: admin/dashboards/class-admin-dashboards.php:192
+msgid "A session is a group of interactions that take place on your website within a given time frame. For example a single session can contain multiple screen or page views, events, social interactions, and ecommerce transactions. <a href=\"http://yoa.st/gasessions\" target=\"_blank\">[Learn more]</a>"
+msgstr "O sesiune este un grup de interacțiuni care au loc pe situl tău într-un anumit interval de timp. De exemplu, o singură sesiune poate conține mai multe ecrane sau vizualizări de pagină, evenimente, interacțiuni sociale și tranzacții eCommerce. <a href=\"http://yoa.st/gasessions\" target=\"_blank\">[Află mai mult]</a>"
+
+#: admin/dashboards/class-admin-dashboards.php:197
+msgid "Bounce rate"
+msgstr "Rată de respingere"
+
+#: admin/dashboards/class-admin-dashboards.php:198
+msgid "Bounce Rate is the percentage of single-page sessions (i.e. sessions in which the person left your site from the entrance page without interacting with the page). <a href=\"http://yoa.st/gabounce\" target=\"_blank\">[Learn more]</a>"
+msgstr "Rata de respingere este procentul de sesiuni a unei pagini singulare (de exemplu, sesiunile în care o persoană a părăsit situl tău din pagina de intrare, fără a interacționa cu pagina). <a href=\"http://yoa.st/gabounce\" target=\"_blank\">[Află mai mult]</a>"
+
+#: admin/dashboards/class-admin-dashboards.php:204
+msgid "Traffic sources"
+msgstr "Surse de trafic"
+
+#: admin/dashboards/class-admin-dashboards.php:205
+msgid "Every referral to a web site has an origin, or (traffic) source. Possible sources include: “google” (the name of a search engine), “facebook.com” (the name of a referring site), “spring_newsletter” (the name of one of your newsletters), and “direct” (users that typed your URL directly into their browser, or who had bookmarked your site). <a href=\"http://yoa.st/gabnce\" target=\"_blank\">[Learn more]</a>"
+msgstr "Fiecare referire la un sit web are o origine sau o sursă (de trafic). Sursele posibile includ: „google” (numele unui motor de căutare), „facebook.com” (numele unui sit de referință) și „directe” (utilizatori care au tastat URL-ul tău direct în navigatorul lor sau care au pus un semn de carte sitului tău). <a href=\"http://yoa.st/gabnce\" target=\"_blank\">[Află mai mult]</a>"
+
+#: admin/dashboards/class-admin-dashboards.php:213
+msgid "Popular pages"
+msgstr "Pagini populare"
+
+#: admin/dashboards/class-admin-dashboards.php:214
+msgid "Pages by url."
+msgstr "Pagini după URL."
+
+#: admin/dashboards/class-admin-dashboards.php:222
+msgid "Countries"
+msgstr "Țări"
+
+#: admin/dashboards/class-admin-dashboards.php:223
+msgid "The country or territory from which visits originated. <a href=\"http://yoa.st/gacountry\" target=\"_blank\">[Learn more]</a>"
+msgstr "Țara sau teritoriul din care au provenit vizitele. <a href=\"http://yoa.st/gacountry\" target=\"_blank\">[Află mai mult]</a>"
+
+#: admin/dashboards/views/graph.php:15 admin/dashboards/views/table.php:15
+msgid "Last month"
+msgstr "Luna trecută"
+
+#: admin/pages/dashboard.php:17
+msgid "Overview"
+msgstr "Prezentare generală"
+
+#: admin/pages/dashboard.php:44 admin/pages/dashboard.php:83
+msgid "We need you to authenticate with Google Analytics to use this functionality. If you set your UA-code manually, this won't work. You can %sauthenticate your Google Analytics profile here%s to enable dashboards."
+msgstr "Trebuie să te autentifici cu Google Analytics pentru a folosi această funcționalitate. Dacă-ți setezi manual codul UA, nu va funcționa. Poți %ssă te autentifici la profilul Google Analytics aici%s pentru a activa panouri de control."
+
+#: admin/pages/dashboard.php:53 admin/pages/dashboard.php:92
+msgid "Because we've switched to a newer version of the Google Analytics API, you'll need to re-authenticate with Google Analytics. We're sorry for the inconvenience. You can %sre-authenticate your Google Analytics profile here%s."
+msgstr "Pentru că am trecut la o versiune mai nouă pentru API Google Analytics, va trebui să te reautentifici cu Google Analytics. Ne cerem scuze pentru inconvenient. Poți %ssă te reautentifici la profilul Google Analytics aici%s."
+
+#: admin/pages/dashboard.php:66 admin/pages/dashboard.php:112
+msgid "You have not yet finished setting up Google Analytics for Wordpress by MonsterInsights. Please %sadd your Analytics profile here%s to enable tracking."
+msgstr "Încă nu ai terminat inițializarea Google Analytics pentru WordPress de MonsterInsights. Te rog %sadaugă-ți profilul Google Analytics aici%s pentru a activa urmărirea."
+
+#: admin/pages/dashboard.php:101
+msgid "Select a dimension"
+msgstr "Selectează o dimensiune"
+
+#: admin/pages/extensions.php:18
+msgid "Licenses"
+msgstr "Licențe"
+
+#: admin/pages/extensions.php:36
+msgid "Get this extension"
+msgstr "Obține această extensie"
+
+#: admin/pages/extensions.php:39 vendor/yoast/license-manager/views/form.php:50
+#: vendor/yoast/license-manager-2/views/form.php:50
+msgid "Activate License"
+msgstr "Activare licență"
+
+#: admin/pages/extensions.php:41
+msgid "Installed"
+msgstr "Instalată"
+
+#: admin/pages/extensions.php:51
+msgid "You have not installed any extensions for Google Analytics by MonsterInsights, so there are no licenses to activate."
+msgstr "Nu ai instalat nicio extensie pentru Google Analytics de MonsterInsights, deci nu există licențe de activat."
+
+#: admin/pages/settings.php:17
+msgid "General"
+msgstr "General"
+
+#: admin/pages/settings.php:18
+msgid "Universal"
+msgstr "Universal"
+
+#: admin/pages/settings.php:19
+msgid "Advanced"
+msgstr "Avansat"
+
+#: admin/pages/settings.php:20
+msgid "Custom Dimensions"
+msgstr "Dimensiuni personalizate"
+
+#: admin/pages/settings.php:22
+msgid "Debug mode"
+msgstr "Mod depanare"
+
+#: admin/pages/settings.php:46
+msgid "Paste your Google authentication code"
+msgstr "Lipește-ți codul de autentificare Google"
+
+#: admin/pages/settings.php:51
+msgid "Google profile"
+msgstr "Profil Google"
+
+#: admin/pages/settings.php:52
+msgid "Authenticate with your Google account"
+msgstr "Autentifică-te la contul Google"
+
+#: admin/pages/settings.php:55
+msgid "Current UA-profile"
+msgstr "Profil UA actual"
+
+#: admin/pages/settings.php:60
+msgid "Analytics profile"
+msgstr "Profil Analytics"
+
+#: admin/pages/settings.php:60
+msgid "Select a profile"
+msgstr "Selectează un profil"
+
+#: admin/pages/settings.php:64
+msgid "Re-authenticate with your Google account"
+msgstr "Reautentifică-te la contul Google"
+
+#: admin/pages/settings.php:70
+msgid "Paste your Google code here"
+msgstr "Lipește-ți codul Google aici"
+
+#: admin/pages/settings.php:74
+msgid "Save authentication code"
+msgstr "Salvează codul de autentificare"
+
+#: admin/pages/settings.php:78
+msgid "Cannot connect to Google"
+msgstr "Nu se poate conecta la Google"
+
+#: admin/pages/settings.php:80
+msgid "Your server is blocking requests to Google, to fix this, add <code>*.googleapis.com</code> to the <code>WP_ACCESSIBLE_HOSTS</code> constant in your <em>wp-config.php</em> or ask your webhost to do this."
+msgstr "Serverul tău blochează solicitările către Google, pentru a corecta acest lucru adaugă <code>*.googleapis.com</code> la constanta <code>WP_ACCESSIBLE_HOSTS</code> în <em>wp-config.php</em> sau cere-i gazdei tale web să facă asta."
+
+#: admin/pages/settings.php:83
+msgid "Your firewall or webhost is blocking requests to Google, please ask your webhost company to fix this."
+msgstr "Firewall-ul sau gazda ta web blochează solicitările către Google, te rog cere-i companiei de găzduire să corecteze acest lucru."
+
+#: admin/pages/settings.php:85
+msgid "Until this is fixed, you can only use the manual authentication method and cannot use the dashboards feature."
+msgstr "Până când acest acest lucru este corectat, poți folosi numai metoda de autentificare manuală și nu poți folosi funcționalitatea panouri de control."
+
+#: admin/pages/settings.php:89
+msgid "Manually enter your UA code"
+msgstr "Introdu manual codul tău UA"
+
+#: admin/pages/settings.php:93
+msgid "Warning: If you use a manual UA code, you won't be able to use the dashboards."
+msgstr "Avertizare: Dacă folosești un cod UA manual, nu vei putea să folosești panourile de control."
+
+#: admin/pages/settings.php:99
+msgid "Track outbound click and downloads"
+msgstr "Urmărește clic de ieșire și descărcări"
+
+#: admin/pages/settings.php:99
+msgid "Clicks and downloads will be tracked as events, you can find these under Content &#xBB; Event Tracking in your Google Analytics reports."
+msgstr "Clic-urile și descărcările vor fi urmărite ca evenimente, le poți găsi la Content &#xBB; Event Tracking în rapoartele tale Google Analytics."
+
+#: admin/pages/settings.php:100
+msgid "Allow tracking of anonymous data"
+msgstr "Permite urmărirea datelor anonime"
+
+#: admin/pages/settings.php:100
+msgid "By allowing us to track anonymous data we can better help you, because we know with which WordPress configurations, themes and plugins we should test. No personal data will be submitted."
+msgstr "Prin permisiunea de a urmări datele anonime, te putem ajuta mai mult, pentru că știm cu ce  configurații WordPress, teme și module ar trebui testate. Nu vor fi trimise niciun fel de date personale."
+
+#: admin/pages/settings.php:101
+msgid "Anonymize IPs"
+msgstr "IP-uri anonime"
+
+#: admin/pages/settings.php:101
+msgid "This adds %1$s, telling Google Analytics to anonymize the information sent by the tracker objects by removing the last octet of the IP address prior to its storage."
+msgstr "Se adaugă %1$s, indicând pentru Google Analytics să facă anonimă informația trimisă de către obiectele de urmărire prin îndepărtarea ultimului octet al adresei IP înainte de stocarea ei."

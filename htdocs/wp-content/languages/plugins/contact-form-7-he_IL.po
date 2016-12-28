@@ -1,0 +1,1222 @@
+# Translation of Plugins - Contact Form 7 - Stable (latest release) in Hebrew
+# This file is distributed under the same license as the Plugins - Contact Form 7 - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-09-12 11:15:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: he_IL\n"
+"Project-Id-Version: Plugins - Contact Form 7 - Stable (latest release)\n"
+
+#: includes/config-validator.php:327
+msgid "http://contactform7.com/configuration-errors/#messages:error_html_in_message"
+msgstr "http://contactform7.com/configuration-errors/#messages:error_html_in_message"
+
+#: includes/config-validator.php:305
+msgid "http://contactform7.com/configuration-errors/#mail.body:error_maybe_empty"
+msgstr "http://contactform7.com/configuration-errors/#mail.body:error_maybe_empty"
+
+#: includes/config-validator.php:291
+msgid "The %name% field value is invalid."
+msgstr "ערך השדה %name% לא תקין."
+
+#: includes/config-validator.php:285 includes/config-validator.php:293
+msgid "http://contactform7.com/configuration-errors/#mail.additional_headers:error_invalid_syntax"
+msgstr "http://contactform7.com/configuration-errors/#mail.additional_headers:error_invalid_syntax"
+
+#: includes/config-validator.php:265
+msgid "http://contactform7.com/configuration-errors/#mail.recipient:error_invalid_syntax"
+msgstr "http://contactform7.com/configuration-errors/#mail.recipient:error_invalid_syntax"
+
+#: includes/config-validator.php:253
+msgid "http://contactform7.com/configuration-errors/#mail.sender:error_email_not_in_site_domain"
+msgstr "http://contactform7.com/configuration-errors/#mail.sender:error_email_not_in_site_domain"
+
+#: includes/config-validator.php:249
+msgid "http://contactform7.com/configuration-errors/#mail.sender:error_invalid_syntax"
+msgstr "http://contactform7.com/configuration-errors/#mail.sender:error_invalid_syntax"
+
+#: includes/config-validator.php:237
+msgid "http://contactform7.com/configuration-errors/#mail.subject:error_maybe_empty"
+msgstr "http://contactform7.com/configuration-errors/#mail.subject:error_maybe_empty"
+
+#: includes/config-validator.php:200
+msgid "http://contactform7.com/configuration-errors/#form.body:error_multiple_controls_in_label"
+msgstr "http://contactform7.com/configuration-errors/#form.body:error_multiple_controls_in_label"
+
+#: includes/config-validator.php:120
+msgid "Multiple form controls are placed inside a single label element."
+msgstr "בקרים מרובים ממוקמים בתוך תווית אחת."
+
+#: admin/admin.php:538
+msgid "What's this?"
+msgstr "מה זה?"
+
+#: admin/admin.php:257
+msgid "How to correct this?"
+msgstr "איך לתקן את זה?"
+
+#: admin/admin.php:358
+msgid "FAQ about Configuration Validator"
+msgstr "שאלות ותשובות על אימות תצורה"
+
+#: admin/admin.php:358 admin/admin.php:536
+msgid "http://contactform7.com/configuration-validator-faq/"
+msgstr "http://contactform7.com/configuration-validator-faq/"
+
+#: modules/text.php:189
+msgid "The telephone number is invalid."
+msgstr "מספר הטלפון אינו תקין."
+
+#: modules/text.php:184
+msgid "The URL is invalid."
+msgstr "הקישור אינו תקין."
+
+#: modules/text.php:179
+msgid "The e-mail address entered is invalid."
+msgstr "כתובת האימייל שהוזנה אינה תקינה."
+
+#: modules/quiz.php:153
+msgid "The answer to the quiz is incorrect."
+msgstr "התשובה לשאלת הביטחון אינה נכונה."
+
+#: modules/number.php:135
+msgid "The number is larger than the maximum allowed."
+msgstr "המספר גדול מהמקסימום המותר."
+
+#: modules/number.php:130
+msgid "The number is smaller than the minimum allowed."
+msgstr "המספר קטן מהמינימום המותר."
+
+#: modules/number.php:125
+msgid "The number format is invalid."
+msgstr "פורמט המספר אינו תקין."
+
+#: modules/file.php:211
+msgid "There was an error uploading the file."
+msgstr "שגיאה בהעלאת הקובץ."
+
+#: modules/file.php:206
+msgid "The file is too big."
+msgstr "הקובץ גדול מדי."
+
+#: modules/file.php:201
+msgid "You are not allowed to upload files of this type."
+msgstr "אין לך הרשאות להעלות קבצים בפורמט זה."
+
+#: modules/file.php:196
+msgid "There was an unknown error uploading the file."
+msgstr "שגיאה לא ידועה בהעלאת הקובץ."
+
+#: modules/date.php:132
+msgid "The date is after the latest one allowed."
+msgstr "התאריך מאוחר מהתאריך המותר."
+
+#: modules/date.php:127
+msgid "The date is before the earliest one allowed."
+msgstr "התאריך מוקדם מהתאריך המותר."
+
+#: modules/date.php:122
+msgid "The date format is incorrect."
+msgstr "שדה התאריך אינו נכון."
+
+#: includes/contact-form-template.php:181
+msgid "The field is too short."
+msgstr "השדה קצר מדי."
+
+#: includes/contact-form-template.php:174
+msgid "The field is too long."
+msgstr "השדה ארוך מדי."
+
+#: includes/contact-form-template.php:167
+msgid "The field is required."
+msgstr "זהו שדה חובה."
+
+#: includes/contact-form-template.php:160
+msgid "You must accept the terms and conditions before sending your message."
+msgstr "עליך להסכים לתנאים לפני שליחת ההודעה."
+
+#: includes/contact-form-template.php:146
+msgid "One or more fields have an error. Please check and try again."
+msgstr "קיימת שגיאה בשדה אחד או יותר."
+
+#: includes/contact-form-template.php:139
+#: includes/contact-form-template.php:153
+msgid "There was an error trying to send your message. Please try again later."
+msgstr "ארעה שגיאה בשליחת ההודעה."
+
+#: includes/contact-form-template.php:132
+msgid "Thank you for your message. It has been sent."
+msgstr "ההודעה נשלחה."
+
+#: includes/contact-form-template.php:50 includes/contact-form-template.php:76
+msgctxt "mail subject"
+msgid "%1$s \"%2$s\""
+msgstr "%1$s \"%2$s\""
+
+#: includes/config-validator.php:118
+msgid "HTML tags are not allowed in a message."
+msgstr "תגי HTML אינם מורשים בהודעה."
+
+#: includes/config-validator.php:116
+msgid "This email address does not belong to the same domain as the site."
+msgstr "כתובת האימייל שונה מהדומיין של השרת."
+
+#: includes/config-validator.php:114
+msgid "This field has syntax errors."
+msgstr "שדה מכיל שגיאות תחביר."
+
+#: includes/config-validator.php:112
+msgid "This field can be empty depending on user input."
+msgstr "השדה יכול להשאר ריק בהתאם לקלט המשתמש."
+
+#: admin/admin.php:529 admin/includes/class-contact-forms-list-table.php:119
+msgid "%s configuration error found"
+msgid_plural "%s configuration errors found"
+msgstr[0] "נמצאה שגיאת אימות תצורה %s"
+msgstr[1] "נמצאו %s שגיאות אימות תצורה"
+
+#: admin/admin.php:570
+msgid "Misconfiguration leads to mail delivery failure or other troubles. Validate your contact forms now."
+msgstr "תצורה שגויה מובילה לכישלון אימיילים וצרות אחרות. יש לאמת עכשיו תצורת טפסים."
+
+#: admin/admin.php:568
+msgid "Validate Contact Form 7 Configuration"
+msgstr "אימות תצורת לטפסים"
+
+#: admin/admin.php:453
+msgid "Configuration validation completed. No invalid contact form was found."
+msgstr "אימות תצורה הושלם. לא נמצאו טפסים לא תקינים."
+
+#: admin/admin.php:445
+msgid "Configuration validation completed. An invalid contact form was found."
+msgid_plural "Configuration validation completed. %s invalid contact forms were found."
+msgstr[0] "אימות תצורה הושלם. נמצא טופס לא תקין."
+msgstr[1] "אימות תצורה הושלם. נמצאו %s טפסים לא תקינים."
+
+#: admin/admin.php:350
+msgid "Validate Configuration"
+msgstr "אימות תצורה"
+
+#: admin/admin.php:341
+msgid "Validate %s Contact Form Now"
+msgid_plural "Validate %s Contact Forms Now"
+msgstr[0] "אמת עכשיו טופס %s"
+msgstr[1] "אמת עכשיו %s טפסים"
+
+#: admin/admin.php:163
+msgid "You are not allowed to validate configuration."
+msgstr "אין לך הרשאות לאמת תצורה."
+
+#: includes/controller.php:170
+msgid "Please verify that you are not a robot."
+msgstr "נא לאשר שהנך לא רובוט."
+
+#: modules/recaptcha.php:452
+msgid "Compact"
+msgstr "דחוס"
+
+#: modules/recaptcha.php:450
+msgid "Normal"
+msgstr "רגיל"
+
+#: modules/recaptcha.php:446 modules/recaptcha.php:449
+msgid "Size"
+msgstr "גודל"
+
+#: modules/recaptcha.php:440
+msgid "Dark"
+msgstr "כהה"
+
+#: modules/recaptcha.php:438
+msgid "Light"
+msgstr "בהיר"
+
+#: modules/recaptcha.php:434 modules/recaptcha.php:437
+msgid "Theme"
+msgstr "תבנית"
+
+#: modules/recaptcha.php:422
+msgid "Generate a form-tag for a reCAPTCHA widget. For more details, see %s."
+msgstr "יצירת תג-טופס עבור ווידג׳ט reCAPTCHA. לפרטים נוספים ראו %s."
+
+#: modules/recaptcha.php:414
+msgid "To use reCAPTCHA, first you need to install an API key pair. For more details, see %s."
+msgstr "כדי להשתמש ב-reCAPTCHA להתקין API key pair. למידע נוסף ראו %s."
+
+#: admin/includes/welcome-panel.php:26 modules/recaptcha.php:184
+#: modules/recaptcha.php:414 modules/recaptcha.php:424
+msgid "http://contactform7.com/recaptcha/"
+msgstr "http://contactform7.com/recaptcha/"
+
+#: modules/recaptcha.php:184
+msgid "For more details, see %s."
+msgstr "למידע נוסף ראו %s."
+
+#: modules/recaptcha.php:182
+msgid "Configure Keys"
+msgstr "הגדרת מפתח"
+
+#: modules/recaptcha.php:180
+msgid "To use reCAPTCHA, you need to install an API key pair."
+msgstr "כדי להשתמש ב-reCAPTCHA להתקין API key pair."
+
+#: modules/recaptcha.php:175
+msgid "Reset Keys"
+msgstr "איפוס מפתח"
+
+#: modules/recaptcha.php:169 modules/recaptcha.php:200
+msgid "Secret Key"
+msgstr "מפתח סודי"
+
+#: modules/recaptcha.php:165 modules/recaptcha.php:196
+msgid "Site Key"
+msgstr "מפתח אתר"
+
+#: modules/recaptcha.php:150
+msgid "reCAPTCHA is a free service to protect your website from spam and abuse."
+msgstr "reCAPTCHA הוא שירות חינמי המגן על האתר שלך מספאם ושימוש לרעה."
+
+#: modules/recaptcha.php:144
+msgid "Settings saved."
+msgstr "ההגדרות נשמרו."
+
+#: modules/recaptcha.php:139
+msgid "Invalid key values."
+msgstr "ערכי מפתח לא תקינים."
+
+#: modules/recaptcha.php:138
+msgid "ERROR"
+msgstr "שגיאה"
+
+#: admin/includes/welcome-panel.php:26 modules/recaptcha.php:23
+#: modules/recaptcha.php:184 modules/recaptcha.php:401
+#: modules/recaptcha.php:414 modules/recaptcha.php:424
+msgid "reCAPTCHA"
+msgstr "reCAPTCHA"
+
+#: modules/really-simple-captcha.php:210
+msgid "CAPTCHA (Really Simple CAPTCHA)"
+msgstr "CAPTCHA (Really Simple CAPTCHA)"
+
+#. Author URI of the plugin/theme
+msgid "http://ideasilo.wordpress.com/"
+msgstr "http://ideasilo.wordpress.com/"
+
+#. Author of the plugin/theme
+msgid "Takayuki Miyoshi"
+msgstr "טקאיוקי מיושי"
+
+#. Description of the plugin/theme
+msgid "Just another contact form plugin. Simple but flexible."
+msgstr "עוד תוסף טופס יצירת קשר. פשוט אבל גמיש."
+
+#. Plugin URI of the plugin/theme
+msgid "http://contactform7.com/"
+msgstr "http://contactform7.com/"
+
+#: settings.php:137
+msgid "Contact form %d"
+msgstr "טופס יצירת קשר %d"
+
+#: modules/textarea.php:138
+msgid "Generate a form-tag for a multi-line text input field. For more details, see %s."
+msgstr "יצירת תג-טופס עבור שדה טקסט בעל מספר שורות. לפרטים נוספים ראו %s."
+
+#: modules/textarea.php:130
+msgid "text area"
+msgstr "אזור טקסט"
+
+#: modules/text.php:278
+msgid "This field requires author's URL"
+msgstr "שדה זה דורש את הכתובת של הכותב"
+
+#: modules/text.php:273
+msgid "This field requires author's email address"
+msgstr "שדה זה דורש את הדואר האלקטרוני של הכותב"
+
+#: modules/text.php:268
+msgid "This field requires author's name"
+msgstr "שדה זה דורש את שם הכותב"
+
+#: admin/includes/welcome-panel.php:26 modules/text.php:260
+#: modules/text.php:263
+msgid "Akismet"
+msgstr "Akismet - בודק תגובות זבל"
+
+#: modules/text.php:228 modules/textarea.php:140
+msgid "Text Fields"
+msgstr "שדה טקסט"
+
+#: modules/text.php:228 modules/textarea.php:140
+msgid "http://contactform7.com/text-fields/"
+msgstr "http://contactform7.com/text-fields/"
+
+#: modules/text.php:225
+msgid "Generate a form-tag for a single-line telephone number input field. For more details, see %s."
+msgstr "יצירת תג-טופס עבור שדה מספר טלפון בשורה אחת. לפרטים נוספים ראו %s."
+
+#: modules/text.php:223
+msgid "Generate a form-tag for a single-line URL input field. For more details, see %s."
+msgstr "יצירת תג-טופס עבור שדה כתובת אינטרנט בשורה אחת. לפרטים נוספים ראו %s."
+
+#: modules/text.php:221
+msgid "Generate a form-tag for a single-line email address input field. For more details, see %s."
+msgstr "יצירת תג-טופס עבור שדה כתובת אימייל בשורה אחת. לפרטים נוספים ראו %s."
+
+#: modules/text.php:219
+msgid "Generate a form-tag for a single-line plain text input field. For more details, see %s."
+msgstr "יצירת תג-טופס עבור שדה טקסט פשוט של שורה אחת. לפרטים נוספים ראו %s."
+
+#: modules/text.php:206
+msgid "tel"
+msgstr "טלפון"
+
+#: modules/text.php:204
+msgid "URL"
+msgstr "כתובת URL"
+
+#: modules/text.php:202
+msgid "email"
+msgstr "אימייל"
+
+#: modules/text.php:200
+msgid "text"
+msgstr "טקסט"
+
+#: modules/text.php:188
+msgid "Telephone number that the sender entered is invalid"
+msgstr "מספר הטלפון שהשולח הזין אינו תקף"
+
+#: modules/text.php:183
+msgid "URL that the sender entered is invalid"
+msgstr "כתובת ה URL שהשולח הזין אינה תקפה"
+
+#: modules/text.php:178
+msgid "Email address that the sender entered is invalid"
+msgstr "כתובת הדואר האלקטרוני שהוזנה אינה תקינה"
+
+#: modules/submit.php:67
+msgid "Label"
+msgstr "תווית"
+
+#: modules/submit.php:57
+msgid "Submit Button"
+msgstr "כפתור שליחה"
+
+#: modules/submit.php:57
+msgid "http://contactform7.com/submit-button/"
+msgstr "http://contactform7.com/submit-button/"
+
+#: modules/submit.php:55
+msgid "Generate a form-tag for a submit button. For more details, see %s."
+msgstr "יצירת תג-טופס עבור כפתור שליחה. לפרטים נוספים ראו %s."
+
+#: modules/submit.php:48
+msgid "submit"
+msgstr "שלח"
+
+#: modules/select.php:203
+msgid "Insert a blank item as the first option"
+msgstr "להכניס פריט ריק כאופציה הראשונה"
+
+#: modules/select.php:202
+msgid "Allow multiple selections"
+msgstr "אפשר בחירה מרובה"
+
+#: modules/select.php:169
+msgid "Generate a form-tag for a drop-down menu. For more details, see %s."
+msgstr "יצירת תג-טופס עבור שדה תיבת בחירה נפתחת. לפרטים נוספים ראו %s."
+
+#: modules/select.php:162
+msgid "drop-down menu"
+msgstr "תפריט נפתח"
+
+#: modules/quiz.php:194
+msgid "One pipe-separated question-answer pair (e.g. The capital of Brazil?|Rio) per line."
+msgstr "בכל שורה, צמד שאלה תשובה מופרדים באמצעות קו אנכי (לדוגמה בירת ברזיל|ריו)"
+
+#: modules/quiz.php:189 modules/quiz.php:192
+msgid "Questions and answers"
+msgstr "שאלות ותשובות"
+
+#: modules/quiz.php:174
+msgid "Quiz"
+msgstr "שאלה"
+
+#: modules/quiz.php:174
+msgid "http://contactform7.com/quiz/"
+msgstr "http://contactform7.com/quiz/"
+
+#: modules/quiz.php:172
+msgid "Generate a form-tag for a question-answer pair. For more details, see %s."
+msgstr "יצירת תג-טופס עבור צמד שאלה-תשובה. לפרטים נוספים ראו %s."
+
+#: modules/quiz.php:164
+msgid "quiz"
+msgstr "חידון"
+
+#: modules/quiz.php:152
+msgid "Sender doesn't enter the correct answer to the quiz"
+msgstr "השולח לא להזין את התשובה הנכונה לשאלה"
+
+#: modules/number.php:172
+msgid "Slider"
+msgstr "סליידר"
+
+#: modules/number.php:171
+msgid "Spinbox"
+msgstr "ספינבוקס"
+
+#: modules/number.php:156
+msgid "Number Fields"
+msgstr "שדות מספרים"
+
+#: modules/number.php:156
+msgid "http://contactform7.com/number-fields/"
+msgstr "http://contactform7.com/number-fields/"
+
+#: modules/number.php:154
+msgid "Generate a form-tag for a field for numeric value input. For more details, see %s."
+msgstr "יצירת תג-טופס עבור שדה בעל ערך מספרי. לפרטים נוספים ראו %s."
+
+#: modules/number.php:146
+msgid "number"
+msgstr "מספר"
+
+#: modules/number.php:134
+msgid "Number is larger than maximum limit"
+msgstr "המספר גדול מהמגבלה המרבית"
+
+#: modules/number.php:129
+msgid "Number is smaller than minimum limit"
+msgstr "המספר קטן ממגבלת המינימום"
+
+#: modules/number.php:124
+msgid "Number format that the sender entered is invalid"
+msgstr "פורמט המספר שהשולח הזין שגוי"
+
+#: modules/file.php:317
+msgid "This contact form contains file uploading fields, but the temporary folder for the files (%s) does not exist or is not writable. You can create the folder or change its permission manually."
+msgstr "טופס קשר זה מכיל שדות העלאת קובץ, אך תיקיית הקבצים הזמניים עבור הקובץ (%s) אינה קיימת או שחסרות בה הרשאות כתיבה. באפשרותך ליצור את התיקיה או לשנות באופן ידני את ההרשאות שלה."
+
+#: modules/file.php:291
+msgid "To attach the file uploaded through this field to mail, you need to insert the corresponding mail-tag (%s) into the File Attachments field on the Mail tab."
+msgstr "כדי לצרף קובץ שהועלה דרך שדה זה לאימייל, יש להכניס את תגית-המייל המתאימה (%s) אל תוך שדה ״קבצים מצורפים״ בלשונית ״מייל״."
+
+#: modules/file.php:263
+msgid "Acceptable file types"
+msgstr "סוגי קבצים מקובלים"
+
+#: modules/file.php:258
+msgid "File size limit (bytes)"
+msgstr "מגבלת גודל קובץ (bytes)"
+
+#: modules/file.php:233
+msgid "File Uploading and Attachment"
+msgstr "העלאת קבצים"
+
+#: modules/file.php:233
+msgid "http://contactform7.com/file-uploading-and-attachment/"
+msgstr "http://contactform7.com/file-uploading-and-attachment/"
+
+#: modules/file.php:231
+msgid "Generate a form-tag for a file uploading field. For more details, see %s."
+msgstr "יצירת תג-טופס עבור שדה העלאת קובץ. לפרטים נוספים ראו %s."
+
+#: modules/file.php:223
+msgid "file"
+msgstr "קובץ"
+
+#: modules/file.php:210
+msgid "Uploading a file fails for PHP error"
+msgstr "טעינת קובץ נכשלה בגלל שגיאת PHP."
+
+#: modules/file.php:205
+msgid "Uploaded file is too large"
+msgstr "הקובץ שהועלה גדול מדי."
+
+#: modules/file.php:200
+msgid "Uploaded file is not allowed for file type"
+msgstr "הקובץ שהועלה הוא מסוג שאינו מורשה."
+
+#: modules/file.php:195
+msgid "Uploading a file fails for any reason"
+msgstr "טעינת הקובץ נכשלה."
+
+#: modules/date.php:194 modules/number.php:202
+msgid "Max"
+msgstr "מקסימום"
+
+#: modules/date.php:189 modules/number.php:197
+msgid "Min"
+msgstr "מינימום"
+
+#: modules/date.php:184 modules/date.php:187 modules/number.php:192
+#: modules/number.php:195
+msgid "Range"
+msgstr "טווח"
+
+#: modules/date.php:180 modules/number.php:188 modules/text.php:255
+#: modules/textarea.php:167
+msgid "Use this text as the placeholder of the field"
+msgstr "השתמש בטקסט זה כ-placeholder של השדה"
+
+#: modules/date.php:178 modules/number.php:186 modules/text.php:253
+#: modules/textarea.php:165
+msgid "Default value"
+msgstr "ערך ברירת המחדל"
+
+#: modules/date.php:153
+msgid "Date Field"
+msgstr "שדה תאריך"
+
+#: modules/date.php:153
+msgid "http://contactform7.com/date-field/"
+msgstr "http://contactform7.com/date-field/"
+
+#: modules/date.php:151
+msgid "Generate a form-tag for a date input field. For more details, see %s."
+msgstr "יצירת תג-טופס לקלט של תאריך. לפרטים נוספים ראו %s."
+
+#: modules/date.php:143
+msgid "date"
+msgstr "תאריך"
+
+#: modules/date.php:131
+msgid "Date is later than maximum limit"
+msgstr "התאריך מאוחר מהמקסימום המותר."
+
+#: modules/date.php:126
+msgid "Date is earlier than minimum limit"
+msgstr "התאריך מוקדם מהמינימום המותר."
+
+#: modules/date.php:121
+msgid "Date format that the sender entered is invalid"
+msgstr "פורמט התאריך לא תקין."
+
+#: modules/checkbox.php:358 modules/date.php:224 modules/number.php:232
+#: modules/select.php:232 modules/text.php:311 modules/textarea.php:194
+msgid "To use the value input through this field in a mail field, you need to insert the corresponding mail-tag (%s) into the field on the Mail tab."
+msgstr "כדי להשתמש בערך שהוזן בשדה זה במייל, יש להכניס את תגית-המייל המתאימה (%s) אל תוך השדה בלשונית ״מייל״."
+
+#: modules/checkbox.php:328
+msgid "Make checkboxes exclusive"
+msgstr "הפכו את תיבות הסימון לבלעדיות"
+
+#: modules/checkbox.php:326
+msgid "Wrap each item with label element"
+msgstr "עטוף כל אובייקט בתווית"
+
+#: modules/checkbox.php:325
+msgid "Put a label first, a checkbox last"
+msgstr "יש לשים קודם תווית ואז תיבת סימון."
+
+#: modules/checkbox.php:324 modules/select.php:201
+msgid "One option per line."
+msgstr "אופציה אחת בכל שורה."
+
+#: modules/checkbox.php:307 modules/date.php:167 modules/file.php:247
+#: modules/number.php:175 modules/select.php:185 modules/text.php:242
+#: modules/textarea.php:154
+msgid "Required field"
+msgstr "שדה חובה"
+
+#: modules/checkbox.php:303 modules/checkbox.php:306 modules/date.php:163
+#: modules/date.php:166 modules/file.php:243 modules/file.php:246
+#: modules/number.php:166 modules/number.php:169 modules/select.php:181
+#: modules/select.php:184 modules/text.php:238 modules/text.php:241
+#: modules/textarea.php:150 modules/textarea.php:153
+msgid "Field type"
+msgstr "סוג שדה"
+
+#: modules/checkbox.php:292 modules/select.php:171
+msgid "Checkboxes, Radio Buttons and Menus"
+msgstr "תיבות-סימון, כפתורי-רדיו ותפריטים"
+
+#: modules/checkbox.php:292 modules/select.php:171
+msgid "http://contactform7.com/checkboxes-radio-buttons-and-menus/"
+msgstr "http://contactform7.com/checkboxes-radio-buttons-and-menus/"
+
+#: modules/checkbox.php:289
+msgid "Generate a form-tag for a group of radio buttons. For more details, see %s."
+msgstr "יצירת תג-טופס כפתורי רדיו. לפרטים נוספים ראו %s."
+
+#: modules/checkbox.php:287
+msgid "Generate a form-tag for a group of checkboxes. For more details, see %s."
+msgstr "יצירת תג-טופס של קבוצת תיבות סימון. לפרטים נוספים ראו %s."
+
+#: modules/checkbox.php:274
+msgid "radio buttons"
+msgstr "כפתורי רדיו"
+
+#: modules/checkbox.php:272
+msgid "checkboxes"
+msgstr "תיבות סימון"
+
+#: modules/really-simple-captcha.php:320
+msgid "This contact form contains CAPTCHA fields, but the necessary libraries (GD and FreeType) are not available on your server."
+msgstr "טופס צור קשר זה מכיל שדות קוד אימות CAPTCHA, אך הספריות הדרושות (GD ו- FreeType) אינן זמינות בשרת שלך."
+
+#: modules/really-simple-captcha.php:314
+msgid "This contact form contains CAPTCHA fields, but the temporary folder for the files (%s) does not exist or is not writable. You can create the folder or change its permission manually."
+msgstr "טופס צור קשר זה מכיל שדות קוד אימות CAPTCHA, אך תיקיית הקבצים הזמניים (%s) אינה קיימת או שאינה ניתנת לכתיבה. באפשרותך ליצור את התיקיה או לשנות באופן ידני את ההרשאות שלה."
+
+#: modules/really-simple-captcha.php:263
+msgid "Input field settings"
+msgstr "הגדרות שדה קלט"
+
+#: modules/really-simple-captcha.php:248
+msgid "Image settings"
+msgstr "הגדרות תמונה"
+
+#: modules/really-simple-captcha.php:231
+msgid "http://contactform7.com/captcha/"
+msgstr "http://contactform7.com/captcha/"
+
+#: modules/really-simple-captcha.php:229
+msgid "Generate form-tags for a CAPTCHA image and corresponding response input field. For more details, see %s."
+msgstr "יצירת תגיות-טופס עבור תמונת CAPTCHA ושדות תגובה. למידע נוסף ראו %s."
+
+#: modules/really-simple-captcha.php:221
+msgid "To use CAPTCHA, you first need to install and activate %s plugin."
+msgstr "כדי להשתמש ב-CAPTCHA, יש להתקין ולהפעיל את התוסף %s."
+
+#: modules/really-simple-captcha.php:231 modules/recaptcha.php:218
+msgid "CAPTCHA"
+msgstr "CAPTCHA"
+
+#: modules/really-simple-captcha.php:194
+msgid "Your entered code is incorrect."
+msgstr "הקוד שהזנת שגוי."
+
+#: modules/really-simple-captcha.php:193
+msgid "The code that sender entered does not match the CAPTCHA"
+msgstr "הקוד שהשולח הזין אינו תואם את קוד האימות"
+
+#: modules/really-simple-captcha.php:19
+msgid "To use CAPTCHA, you need <a href=\"http://wordpress.org/extend/plugins/really-simple-captcha/\">Really Simple CAPTCHA</a> plugin installed."
+msgstr "כדי להשתמש ב CAPTCHA, יש להתקין את התוסף <a href=\"http://wordpress.org/extend/plugins/really-simple-captcha/\">Really Simple CAPTCHA</a>."
+
+#: modules/acceptance.php:189 modules/checkbox.php:353 modules/date.php:219
+#: modules/file.php:286 modules/number.php:227 modules/quiz.php:218
+#: modules/really-simple-captcha.php:283 modules/recaptcha.php:476
+#: modules/select.php:227 modules/submit.php:90 modules/text.php:306
+#: modules/textarea.php:189
+msgid "Insert Tag"
+msgstr "הכנס תגית"
+
+#: modules/acceptance.php:176 modules/checkbox.php:340 modules/date.php:207
+#: modules/file.php:273 modules/number.php:215 modules/quiz.php:205
+#: modules/really-simple-captcha.php:256 modules/really-simple-captcha.php:271
+#: modules/recaptcha.php:463 modules/select.php:214 modules/submit.php:77
+#: modules/text.php:293 modules/textarea.php:176
+msgid "Class attribute"
+msgstr "שדה CLASS"
+
+#: modules/acceptance.php:171 modules/checkbox.php:335 modules/date.php:202
+#: modules/file.php:268 modules/number.php:210 modules/quiz.php:200
+#: modules/really-simple-captcha.php:251 modules/really-simple-captcha.php:266
+#: modules/recaptcha.php:458 modules/select.php:209 modules/submit.php:72
+#: modules/text.php:288 modules/textarea.php:171
+msgid "Id attribute"
+msgstr "שדה ID"
+
+#: modules/acceptance.php:165
+msgid "Make this work inversely"
+msgstr "בצע בצורה הפוכה"
+
+#: modules/acceptance.php:164
+msgid "Make this checkbox checked by default"
+msgstr "השאר תיבת-סימון מסומנת כברירת מחדל."
+
+#: modules/acceptance.php:160 modules/acceptance.php:163
+#: modules/checkbox.php:319 modules/checkbox.php:322 modules/select.php:196
+#: modules/select.php:199
+msgid "Options"
+msgstr "אפשרויות"
+
+#: modules/acceptance.php:155 modules/checkbox.php:314 modules/date.php:173
+#: modules/file.php:253 modules/number.php:181 modules/quiz.php:184
+#: modules/really-simple-captcha.php:241 modules/select.php:191
+#: modules/text.php:248 modules/textarea.php:160
+msgid "Name"
+msgstr "שם"
+
+#: modules/acceptance.php:145
+msgid "Acceptance Checkbox"
+msgstr "תיבת סימון"
+
+#: modules/acceptance.php:145
+msgid "http://contactform7.com/acceptance-checkbox/"
+msgstr "http://contactform7.com/acceptance-checkbox/"
+
+#: modules/acceptance.php:143
+msgid "Generate a form-tag for an acceptance checkbox. For more details, see %s."
+msgstr "יצירת תג-טופס עבור תיבת סימון מאושרת. לפרטים נוספים ראו %s."
+
+#: modules/acceptance.php:135
+msgid "acceptance"
+msgstr "קבלה"
+
+#: includes/contact-form.php:151
+msgid "<code>%1$s</code> property of a <code>WPCF7_ContactForm</code> object is <strong>no longer accessible</strong>. Use <code>%2$s</code> method instead."
+msgstr "<code>%1$s</code> תכונה של <code>WPCF7_ContactForm</code> אובייקט <strong>אינה נגישה יותר</strong>. השתמש ב מקום זה בשיטת <code>%2$s</code>."
+
+#: includes/contact-form.php:77 includes/contact-form.php:225
+msgid "Untitled"
+msgstr "ללא כותרת"
+
+#: includes/contact-form.php:31
+msgid "Contact Form"
+msgstr "טופס יצירת קשר"
+
+#: includes/contact-form-template.php:179
+msgid "There is a field with input that is shorter than the minimum allowed length"
+msgstr "יש שדה שבו הקלט של המשתמש קצר מהמותר"
+
+#: includes/contact-form-template.php:172
+msgid "There is a field with input that is longer than the maximum allowed length"
+msgstr "יש שדה שבו הקלט של המשתמש ארוך מהמותר"
+
+#: includes/contact-form-template.php:165
+msgid "There is a field that the sender must fill in"
+msgstr "יש שדה חובה שעל השולח למלא"
+
+#: includes/contact-form-template.php:158
+msgid "There are terms that the sender must accept"
+msgstr "ישנם תנאים שהשולח חייב לקבל"
+
+#: includes/contact-form-template.php:151
+msgid "Submission was referred to as spam"
+msgstr "השליחה קיבלה יחס של ספאם"
+
+#: includes/contact-form-template.php:144
+msgid "Validation errors occurred"
+msgstr "אירעו שגיאות אימות"
+
+#: includes/contact-form-template.php:137
+msgid "Sender's message failed to send"
+msgstr "שליחת ההודעה נכשלה"
+
+#: includes/contact-form-template.php:130
+msgid "Sender's message was sent successfully"
+msgstr "ההודעה נשלחה בהצלחה"
+
+#: includes/contact-form-template.php:61 includes/contact-form-template.php:84
+msgid "This e-mail was sent from a contact form on %1$s (%2$s)"
+msgstr "אימייל זה נשלח מטופס יצירת קשר ב %1$s (%2$s)"
+
+#: includes/contact-form-template.php:58 includes/contact-form-template.php:81
+msgid "Message Body:"
+msgstr "תוכן ההודעה:"
+
+#: includes/contact-form-template.php:56
+msgid "Subject: %s"
+msgstr "נושא: %s"
+
+#: includes/contact-form-template.php:54
+msgid "From: %s"
+msgstr "מאת: %s"
+
+#: includes/contact-form-template.php:42 modules/submit.php:28
+msgid "Send"
+msgstr "שלח"
+
+#: includes/contact-form-template.php:41
+msgid "Your Message"
+msgstr "ההודעה שלך"
+
+#: includes/contact-form-template.php:39
+msgid "Your Email"
+msgstr "האימייל שלך"
+
+#: includes/contact-form-template.php:37
+msgid "(required)"
+msgstr "(חובה)"
+
+#: includes/contact-form-template.php:38
+msgid "Your Name"
+msgstr "השם שלך"
+
+#: admin/includes/tag-generator.php:43
+msgid "Form-tag Generator: %s"
+msgstr "מחולל תג-טופס: %s"
+
+#: admin/includes/help-tabs.php:91
+msgid "For more information:"
+msgstr "למידע נוסף:"
+
+#: admin/includes/help-tabs.php:83
+msgid "Any information you provide will not be shared with service providers without your authorization."
+msgstr "כל האינפורמציה שהנך מספק לא תועבר למספקי שרות זה ללא אישורך."
+
+#: admin/includes/help-tabs.php:82
+msgid "You may need to first sign up for an account with the service that you plan to use. When you do so, you would need to authorize Contact Form 7 to access the service with your account."
+msgstr "כדי להשתמש בשרות זה יש צורך ביצירת חשבון קודם. לאחר שתעשה זאת, תצטרך לאפשר גישה לטפסי צרו קשר 7 לחשבונך."
+
+#: admin/includes/help-tabs.php:81
+msgid "On this screen, you can manage services that are available through Contact Form 7. Using API will allow you to collaborate with any services that are available."
+msgstr "במסך זה, ניתן לנהל שירותים זמינים של טפסי צרו קשר 7. באמצעות API ניתן לעבוד במשותף עם כל שרות המתממשק לטפסים של התוסף."
+
+#: admin/includes/help-tabs.php:79
+msgid "There are also special mail-tags that have specific names, but don&#8217;t have corresponding form-tags. They are used to represent meta information of form submissions like the submitter&#8217;s IP address or the URL of the page."
+msgstr "יש גם תגיות-מייל מיוחדות עם שמות מיוחדים, אבל ללא תגיות-טופס תואמותת להם. הן בשימוש כדי לייצג מידע תיאור של הרשמות טופס כגון כתובת ה IP של השולח או כתובת ה URL של העמוד."
+
+#: admin/includes/help-tabs.php:78
+msgid "A mail-tag is also a short code enclosed in square brackets that you can use in every Mail and Mail (2) field. A mail-tag represents a user input value through an input field of a corresponding form-tag."
+msgstr "תגית-אימייל היא קיצור קוד בתוך סוגריים מרובעים, שאפשר להשתמש בה בכל אימייל ובכל שדה באימייל. תגית-אימייל מייצגת ערך קלט של משתמש דרך שדה קלט של תגית-טופס תואמת."
+
+#: admin/includes/help-tabs.php:76
+msgid "While form-tags have a comparatively complex syntax, you don&#8217;t need to know the syntax to add form-tags because you can use the straightforward tag generator (<strong>Generate Tag</strong> button on this screen)."
+msgstr "כאשר לתגיות-טופס יש תחביר מורכב יחסית, אינך חייב לדעת את התחביר כדי להוסיף תגיות-טופס, אתה יכול פשוט להשתמש בגנרטור התגית (<strong>צור תגית</strong> button במסך זה)."
+
+#: admin/includes/help-tabs.php:75
+msgid "A form-tag is a short code enclosed in square brackets used in a form content. A form-tag generally represents an input field, and its components can be separated into four parts: type, name, options, and values. Contact Form 7 supports several types of form-tags including text fields, number fields, date fields, checkboxes, radio buttons, menus, file-uploading fields, CAPTCHAs, and quiz fields."
+msgstr "תגית-טופס היא קיצור קוד הסגור בתוך סוגריים מרובעים לשימוש בתוכן הטופס. תגית-טופס ככלל מייצגת שדה קלט, והרכיבים שלה ניתנים להפרדה לארבעה חלקים, סוג, שם, אפשרויות, וערכים. תוסף טפסי צרו קשר 7 תומך בכמה סוגים של תגיות-טופס כולל שדות טקסט, שדות מספר, שדות תאריך, תיבות סימון, כפתורי רדיו, תפריטים, שדות העלאת קובץ, קוד אימות CAPTCHAs, ושדות שאלה."
+
+#: admin/includes/help-tabs.php:73
+msgid "<strong>Additional Settings</strong> provides a place where you can customize the behavior of this contact form by adding code snippets."
+msgstr "<strong>הגדרות נוספות</strong> מאפשר להגדיר את התנהגות טופס יצירת הקשר הזה באמצעות הוספת קטעי קוד."
+
+#: admin/includes/help-tabs.php:72
+msgid "In <strong>Messages</strong>, you can edit various types of messages used for this contact form. These messages are relatively short messages, like a validation error message you see when you leave a required field blank."
+msgstr "ב <strong>הודעות</strong>, אפשר לערוך כמה סוגים של הודעות לשימוש בטופס יצירת הקשר הזה. הודעות אלו קצרות יחסית, כמו הודעת שגיאת אימות שרואים כאשר משאירים שדה חובה ריק."
+
+#: admin/includes/help-tabs.php:71
+msgid "<strong>Mail (2)</strong> is an additional mail template that works similar to Mail. Mail (2) is different in that it is sent only when Mail has been sent successfully."
+msgstr "<strong>אימייל (2)</strong> היא תבנית אימייל נוספת הפועלת באופן דומה לאימייל. אימייל (2) שונה בכך שהיא נשלחת רק כאשר האימייל נשלח בהצלחה."
+
+#: admin/includes/help-tabs.php:70
+msgid "<strong>Mail</strong> manages a mail template (headers and message body) that this contact form will send when users submit it. You can use Contact Form 7&#8217;s mail-tags here."
+msgstr "<strong>אימייל</strong> מנהל תבנית אימייל (כותרות וגוף הודעה) שתוסף יצירת קשר זה זה ישלח כאשר משתמש שולח הודעה באמצעותו. אפשר להשתמש כאן בתגיות-מייל של התוסף."
+
+#: admin/includes/help-tabs.php:69
+msgid "<strong>Form</strong> is a content of HTML form. You can use arbitrary HTML, which is allowed inside a form element. You can also use Contact Form 7&#8217;s form-tags here."
+msgstr "<strong>טופס</strong> הוא תוכן של טופס HTML. שאתה יכול להשתמש בו ב HTML באופן שרירותי, אשר מותר לשימוש ברכיב טופס. אפשר להשתמש כאן גם בתגיות טופס של התוסף."
+
+#: admin/includes/help-tabs.php:68
+msgid "<strong>Title</strong> is the title of a contact form. This title is only used for labeling a contact form, and can be edited."
+msgstr "<strong>כותרת</strong> היא כותרת הטופס. כותרת זו משמשת רק מתן תווים לטופס יצירת הקשר, ואפשר לערוך אותה."
+
+#: admin/includes/help-tabs.php:67
+msgid "On this screen, you can edit a contact form. A contact form is comprised of the following components:"
+msgstr "במסך זה, אפשר לערוך את הטופס. טופס יצירת קשר מורכב מהרכיבים הבאים:"
+
+#: admin/includes/help-tabs.php:65
+msgid "<strong>Duplicate</strong> - Clones that contact form. A cloned contact form inherits all content from the original, but has a different ID."
+msgstr "<strong>שכפל</strong> - משכפל את הטופס הזה. טופס יצירת קשר משוכפל יורש את כל התוכן של הטופס המקורי, אבל יש לו מזהה שונה."
+
+#: admin/includes/help-tabs.php:64
+msgid "<strong>Edit</strong> - Navigates to the editing screen for that contact form. You can also reach that screen by clicking on the contact form title."
+msgstr "<strong>עריכה</strong> - מנווט למסך העריכה של טופס יצירת קשר זה. אפשר לנווט לשם גם באמצעות לחיצה על שם הטופס."
+
+#: admin/includes/help-tabs.php:63
+msgid "Hovering over a row in the contact forms list will display action links that allow you to manage your contact form. You can perform the following actions:"
+msgstr "ריחוף עכבר מעל שורה בטפסי יצירת קשר יציג קישורים פעילים שיאפשרו לך לנהל אתהטפסים שלך. אפשר לבצע את הפעולות הבאות:"
+
+#: admin/includes/help-tabs.php:61
+msgid "On this screen, you can manage contact forms provided by Contact Form 7. You can manage an unlimited number of contact forms. Each contact form has a unique ID and Contact Form 7 shortcode ([contact-form-7 ...]). To insert a contact form into a post or a text widget, insert the shortcode into the target."
+msgstr "במסך זה, אפשר לנהל טפסי יצירת קשר. אפשר לנהל מספר בלתי מוגבל של טפסים. לכל טופס יש מזהה ייחודי ושורטקוד של הטופס ([contact-form-7 ...]). כדי להוסיף טופס יצירת קשר לפוסט, לעמוד או וידג'ט טקסט, פשוט מוסיפים את השורטקוד למקום המיועד."
+
+#: admin/includes/help-tabs.php:40
+msgid "Mail-tags"
+msgstr "תגיות-מייל"
+
+#: admin/includes/help-tabs.php:35
+msgid "Form-tags"
+msgstr "תגיות-טופס"
+
+#: admin/includes/help-tabs.php:21
+msgid "Available Actions"
+msgstr "פעולות זמינות"
+
+#: admin/includes/help-tabs.php:16 admin/includes/help-tabs.php:30
+#: admin/includes/help-tabs.php:49
+msgid "Overview"
+msgstr "סקירה"
+
+#: admin/includes/editor.php:198
+msgid "You can add customization code snippets here. For details, see %s."
+msgstr "כאן ניתן להוסיף קטעי קוד מותאמים. לפרטים ראו %s."
+
+#: admin/includes/editor.php:196
+msgid "http://contactform7.com/additional-settings/"
+msgstr "http://contactform7.com/additional-settings/"
+
+#: admin/includes/editor.php:175
+msgid "Edit messages used in the following situations."
+msgstr "עריכת הודעות שיוצגו במצבים הבאים."
+
+#: admin/includes/editor.php:151
+msgid "File Attachments"
+msgstr "קבצים מצורפים"
+
+#: admin/includes/editor.php:145
+msgid "Use HTML content type"
+msgstr "השתמש בתוכן מסוג HTML"
+
+#: admin/includes/editor.php:143
+msgid "Exclude lines with blank mail-tags from output"
+msgstr "אל תכלול בפלט שורות עם תגיות-מייל ריקות"
+
+#: admin/includes/editor.php:138
+msgid "Message Body"
+msgstr "תוכן ההודעה"
+
+#: admin/includes/editor.php:129
+msgid "Additional Headers"
+msgstr "מידע נוסף"
+
+#: admin/includes/editor.php:120 includes/contact-form-template.php:40
+msgid "Subject"
+msgstr "נושא"
+
+#: admin/includes/editor.php:111
+msgid "From"
+msgstr "מאת"
+
+#: admin/includes/editor.php:102
+msgid "To"
+msgstr "אל"
+
+#: admin/includes/editor.php:96
+msgid "In the following fields, you can use these mail-tags:"
+msgstr "בשדות הבאים ניתן להשתמש בתגיות-אימייל:"
+
+#: admin/includes/editor.php:90
+msgid "Mail (2) is an additional mail template often used as an autoresponder."
+msgstr "אימייל (2) היא תבנית אימייל נוספת המשמשת בדרך כלל למענה אוטומטי."
+
+#: admin/includes/editor.php:65
+msgid "Use Mail (2)"
+msgstr "השתמש במייל (2)"
+
+#: admin/includes/editor.php:64
+msgid "Mail (2)"
+msgstr "מייל (2)"
+
+#: admin/includes/class-contact-forms-list-table.php:197
+msgid "Y/m/d"
+msgstr "Y/m/d g:i:s A"
+
+#: admin/includes/class-contact-forms-list-table.php:195
+msgid "%s ago"
+msgstr "לפני %s"
+
+#: admin/includes/class-contact-forms-list-table.php:188
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: admin/includes/class-contact-forms-list-table.php:107
+msgid "Edit &#8220;%s&#8221;"
+msgstr "עריכת “%s”"
+
+#: admin/includes/class-contact-forms-list-table.php:133
+msgid "Edit"
+msgstr "עריכה"
+
+#: admin/includes/class-contact-forms-list-table.php:15
+msgid "Date"
+msgstr "תאריך"
+
+#: admin/includes/class-contact-forms-list-table.php:14
+msgid "Author"
+msgstr "מחבר"
+
+#: admin/includes/class-contact-forms-list-table.php:13
+msgid "Shortcode"
+msgstr "שורטקוד"
+
+#: admin/includes/class-contact-forms-list-table.php:12
+msgid "Title"
+msgstr "כותרת"
+
+#: admin/edit-contact-form.php:206 admin/includes/editor.php:197
+#: admin/includes/editor.php:202
+msgid "Additional Settings"
+msgstr "הגדרות נוספות"
+
+#: admin/edit-contact-form.php:204
+msgid "Additional Settings (%d)"
+msgstr "הגדרות נוספות (%d)"
+
+#: admin/edit-contact-form.php:193 admin/includes/editor.php:173
+msgid "Messages"
+msgstr "הודעות"
+
+#: admin/edit-contact-form.php:190 admin/includes/editor.php:72
+msgid "Mail"
+msgstr "אימייל"
+
+#: admin/edit-contact-form.php:187 admin/includes/editor.php:45
+msgid "Form"
+msgstr "טופס"
+
+#: admin/edit-contact-form.php:177
+msgid "%s keys switch panels"
+msgstr "%s כפתורים למעבר טאבים"
+
+#: admin/edit-contact-form.php:168 admin/includes/help-tabs.php:94
+msgid "Support"
+msgstr "תמיכה"
+
+#: admin/edit-contact-form.php:168 admin/includes/help-tabs.php:94
+msgid "http://contactform7.com/support/"
+msgstr "http://contactform7.com/support/"
+
+#: admin/edit-contact-form.php:167 admin/includes/help-tabs.php:93
+msgid "FAQ"
+msgstr "שאלות נפוצות"
+
+#: admin/edit-contact-form.php:167 admin/includes/help-tabs.php:93
+msgid "http://contactform7.com/faq/"
+msgstr "http://contactform7.com/faq/"
+
+#: admin/edit-contact-form.php:166 admin/includes/help-tabs.php:92
+msgid "Docs"
+msgstr "תיעוד"
+
+#: admin/edit-contact-form.php:166 admin/includes/help-tabs.php:92
+msgid "http://contactform7.com/docs/"
+msgstr "http://contactform7.com/docs/"
+
+#: admin/edit-contact-form.php:163
+msgid "Information"
+msgstr "מידע"
+
+#: admin/edit-contact-form.php:147
+msgid ""
+"You are about to delete this contact form.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"אתה עומד למחוק טופס צרו קשר זה.\n"
+"ליחצו על 'בטל' כדי לעצור או 'אישור' כדי למחוק."
+
+#: admin/edit-contact-form.php:147
+#: admin/includes/class-contact-forms-list-table.php:84
+msgid "Delete"
+msgstr "מחיקה"
+
+#: admin/edit-contact-form.php:132
+#: admin/includes/class-contact-forms-list-table.php:143
+msgid "Duplicate"
+msgstr "שכפול"
+
+#: admin/edit-contact-form.php:118
+msgid "Status"
+msgstr "סטטוס"
+
+#: admin/edit-contact-form.php:104
+msgid "You can also use this old-style shortcode:"
+msgstr "ניתן גם להשתמש ושורטקודים בסגנון הישן:"
+
+#: admin/edit-contact-form.php:97
+msgid "Copy this shortcode and paste it into your post, page, or text widget content:"
+msgstr "אפשר להעתיק את השורטקוד הזה ולהדביק אותה בפוסט, בעמוד, או בוידג׳ט טקסט:"
+
+#: admin/edit-contact-form.php:75
+msgid "Enter title here"
+msgstr "כותרת"
+
+#: admin/edit-contact-form.php:26 admin/edit-contact-form.php:125
+#: modules/recaptcha.php:206
+msgid "Save"
+msgstr "שמירה"
+
+#: admin/admin.php:505
+msgid "You are not allowed to edit this contact form."
+msgstr "אינך רשאי לערוך טופס צרו קשר זה."
+
+#: admin/includes/welcome-panel.php:34
+msgid "http://contactform7.com/save-submitted-messages-with-flamingo/"
+msgstr "http://contactform7.com/save-submitted-messages-with-flamingo/"
+
+#: admin/includes/welcome-panel.php:26
+msgid "http://contactform7.com/spam-filtering-with-akismet/"
+msgstr "http://contactform7.com/spam-filtering-with-akismet/"
+
+#: admin/includes/welcome-panel.php:16
+msgid "Dismiss"
+msgstr "שחרר"
+
+#: admin/admin.php:487
+msgid "<strong>Contact Form 7 %1$s requires WordPress %2$s or higher.</strong> Please <a href=\"%3$s\">update WordPress</a> first."
+msgstr "<strong>טפסי צרו קשר 7 גרסה %1$s דורשת וורדפרס בגרסה %2$s ומעלה.</strong> נא <a href=\"%3$s\">לעדכן את גרסת וורדפרס</a>."
+
+#: admin/admin.php:469
+msgid "Settings"
+msgstr "הגדרות"
+
+#: admin/admin.php:430
+msgid "Contact form deleted."
+msgstr "הטופס נמחק."
+
+#: admin/admin.php:428
+msgid "Contact form saved."
+msgstr "הטופס נשמר."
+
+#: admin/admin.php:426
+msgid "Contact form created."
+msgstr "הטופס נוצר."
+
+#: admin/admin.php:328
+msgid "Search Contact Forms"
+msgstr "חיפוש בטפסי יצירת קשר"
+
+#: admin/admin.php:317
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "תוצאות חיפוש עבור “%s”"
+
+#: admin/admin.php:252
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "השינויים שעשית יאבדו אם לא תישאר/י בעמוד הזה."
+
+#: admin/admin.php:142
+msgid "Error in deleting."
+msgstr "שגיאה במחיקה."
+
+#: admin/admin.php:139
+msgid "You are not allowed to delete this item."
+msgstr "אינך רשאי למחוק פריט זה."
+
+#: admin/admin.php:78 admin/admin.php:100
+msgid "You are not allowed to edit this item."
+msgstr "אינך רשאי לערוך פריט זה."
+
+#: admin/admin.php:48
+msgid "Integration"
+msgstr "אינטגרציות"
+
+#: admin/admin.php:47 admin/admin.php:396
+msgid "Integration with Other Services"
+msgstr "אינטגרציות עם שירותי צד ג'"
+
+#: admin/admin.php:37 admin/admin.php:312 admin/edit-contact-form.php:41
+msgid "Add New"
+msgstr "הוספה"
+
+#: admin/admin.php:36 admin/edit-contact-form.php:36
+msgid "Add New Contact Form"
+msgstr "הוספת טופס חדש ליצירת קשר"
+
+#: admin/admin.php:29 admin/admin.php:309 includes/contact-form.php:30
+msgid "Contact Forms"
+msgstr "טפסי יצירת קשר"
+
+#: admin/admin.php:28 admin/edit-contact-form.php:38
+msgid "Edit Contact Form"
+msgstr "עריכת טופס יצירת קשר"
+
+#: admin/admin.php:22
+msgid "Contact"
+msgstr "צור קשר"
+
+#. #-#-#-#-#  tmp-contact-form-7.pot (Contact Form 7 4.6)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: admin/admin.php:21 modules/flamingo.php:138
+msgid "Contact Form 7"
+msgstr "טפסי צרו קשר 7"

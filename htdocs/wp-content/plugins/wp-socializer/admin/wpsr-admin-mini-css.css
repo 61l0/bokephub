@@ -1,0 +1,46 @@
+/*
+ * Author : Aakash Chakravarthy
+ * Version : 1.1
+*/
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font: 13px Arial, Helvetica, sans-serif;
+	background: #F9F9F9;
+}
+h2{
+	margin: 0 0 10px 0;
+}
+small {
+	color: #999999;
+	margin: 0px !important;
+	padding: 0px !important;
+}
+input{
+	padding: 3px;
+}
+#wrapper {
+	border: 1px solid #D4D4D4;
+	background: #FFFFFF;
+	padding: 20px;
+	margin: 20px;
+	-moz-border-radius: 6px;
+	border-radius: 6px;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.0976563) 0px 2px 3px;
+}
+
+#wrapper form {
+	border-top: 1px solid #D4D4D4;
+	margin: 15px 0 0 0;
+	padding: 15px 0;
+}
+#services{
+	width: 96%;
+}
+#updateBt{
+	padding: 5px 15px;
+	font-size: 18px;
+}

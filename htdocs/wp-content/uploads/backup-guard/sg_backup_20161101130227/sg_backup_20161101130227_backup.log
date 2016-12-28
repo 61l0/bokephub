@@ -1,0 +1,59 @@
+Date: 2016-11-01 13:02
+Method: reload
+User Mode: Free
+BackupGuard version: 1.1.22
+SG archive version: 5
+OS: Linux
+Server: Apache
+User agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0
+PHP version: 7.0.8-0ubuntu0.16.04.3
+SAPI: apache2handler
+Codepage: C
+Int size: 8
+Int lib: BigInteger
+Memory limit: 512M
+Max execution time: 1000
+Environment: Wordpress 4.6.1
+Backup type: database
+
+2016-11-01 13:02: Start backup
+2016-11-01 13:02: Start backup database
+2016-11-01 13:02: Total tables to backup: 14
+2016-11-01 13:02: Total rows to backup: 503
+2016-11-01 13:02: Start backup table: wp_commentmeta
+2016-11-01 13:02: End backup table: wp_commentmeta
+2016-11-01 13:02: Start backup table: wp_comments
+2016-11-01 13:02: End backup table: wp_comments
+2016-11-01 13:02: Start backup table: wp_links
+2016-11-01 13:02: End backup table: wp_links
+2016-11-01 13:02: Start backup table: wp_options
+2016-11-01 13:02: End backup table: wp_options
+2016-11-01 13:02: Start backup table: wp_phppc_functions
+2016-11-01 13:02: End backup table: wp_phppc_functions
+2016-11-01 13:02: Start backup table: wp_postmeta
+2016-11-01 13:02: End backup table: wp_postmeta
+2016-11-01 13:02: Start backup table: wp_posts
+2016-11-01 13:02: End backup table: wp_posts
+2016-11-01 13:02: Start backup table: wp_term_relationships
+2016-11-01 13:02: End backup table: wp_term_relationships
+2016-11-01 13:02: Start backup table: wp_term_taxonomy
+2016-11-01 13:02: End backup table: wp_term_taxonomy
+2016-11-01 13:02: Start backup table: wp_termmeta
+2016-11-01 13:02: End backup table: wp_termmeta
+2016-11-01 13:02: Start backup table: wp_terms
+2016-11-01 13:02: End backup table: wp_terms
+2016-11-01 13:02: Start backup table: wp_usermeta
+2016-11-01 13:02: End backup table: wp_usermeta
+2016-11-01 13:02: Start backup table: wp_users
+2016-11-01 13:02: End backup table: wp_users
+2016-11-01 13:02: Start backup table: wp_video_upload
+2016-11-01 13:02: End backup table: wp_video_upload
+2016-11-01 13:02: End backup database
+2016-11-01 13:02: Start backup files
+2016-11-01 13:02: Backup files: wp-content/uploads/backup-guard/sg_backup_20161101130227/sg_backup_20161101130227.sql
+2016-11-01 13:02: Number of files to backup: 1
+2016-11-01 13:02: Start backup file: /var/www/html/wp-content/uploads/backup-guard/sg_backup_20161101130227/sg_backup_20161101130227.sql
+2016-11-01 13:02: End backup file: /var/www/html/wp-content/uploads/backup-guard/sg_backup_20161101130227/sg_backup_20161101130227.sql
+2016-11-01 13:02: End backup files
+2016-11-01 13:02: End backup
+2016-11-01 13:02: Total duration: 0.00 seconds

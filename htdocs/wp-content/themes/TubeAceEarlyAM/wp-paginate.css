@@ -1,0 +1,20 @@
+.wp-paginate {padding:20px 0 0 0; margin:0;}
+.wp-paginate li {display:inline; list-style:none;}
+.wp-paginate a {background:#ccc; border:1px solid #ccc; color:#000; margin-right:4px; padding:3px 6px; text-align:center; text-decoration:none;}
+.wp-paginate a:hover, .wp-paginate a:active {background:#ccc; color:#000;}
+.wp-paginate .title {color:#555; margin-right:4px;}
+.wp-paginate .gap {color:#999; margin-right:4px;}
+.wp-paginate .current {color:#000; background:#F90; border:1px solid #89adcf; margin-right:4px; padding:3px 6px;}
+.wp-paginate .page {}
+.wp-paginate .prev, .wp-paginate .next {}
+
+/* style overrides for comments pagination */
+.wp-paginate-comments {}
+.wp-paginate-comments li {}
+.wp-paginate-comments a {}
+.wp-paginate-comments a:hover, .wp-paginate-comments a:active {}
+.wp-paginate-comments .title {}
+.wp-paginate-comments .gap {}
+.wp-paginate-comments .current {}
+.wp-paginate-comments .page {}
+.wp-paginate-comments .prev, .wp-paginate-comments .next {}

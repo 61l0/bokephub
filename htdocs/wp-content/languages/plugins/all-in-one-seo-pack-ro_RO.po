@@ -1,0 +1,3336 @@
+# Translation of Plugins - All in One SEO Pack - Stable (latest release) in Romanian
+# This file is distributed under the same license as the Plugins - All in One SEO Pack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-10-14 10:43:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ro\n"
+"Project-Id-Version: Plugins - All in One SEO Pack - Stable (latest release)\n"
+
+#: modules/aioseop_sitemap.php:988
+msgid "Removed empty file %s."
+msgstr "Fișierul gol %s îndepărtat."
+
+#: inc/commonstrings.php:45
+msgid "This displays an SEO News widget on the dashboard."
+msgstr "Asta afișează o piesă Știri SEO pe panoul de control."
+
+#: inc/commonstrings.php:42
+msgid "Show SEO News"
+msgstr "Arată știri SEO"
+
+#: modules/aioseop_sitemap.php:621
+msgid " and changes are automatically submitted to search engines"
+msgstr "și modificările sunt trimise automat la motoarele de căutare"
+
+#: modules/aioseop_sitemap.php:619
+msgid " Your sitemap has been created"
+msgstr "Harta ta sit a fost creată"
+
+#: modules/aioseop_sitemap.php:618
+msgid "Click here to %s."
+msgstr "Dă clic aici pentru %s."
+
+#: modules/aioseop_opengraph.php:85
+msgid "Enter your Facebook Admin ID here. You can look up your Facebook ID using this tool http://findmyfbid.com/"
+msgstr "Introdu aici ID-ul tău de administrator Facebook. Poți să-ți cauți ID-ul Facebook folosind acest instrument http://findmyfbid.com/"
+
+#: admin/display/welcome-content.php:36
+msgid "Continue to the General Settings"
+msgstr "Continuă la setările generale"
+
+#: admin/display/dashboard_widget.php:22
+msgid "SEO News"
+msgstr "Știri SEO"
+
+#: admin/display/welcome.php:93
+msgid "Credits"
+msgstr "Recunoștințe"
+
+#: admin/display/welcome.php:89
+msgid "What&#8217;s New"
+msgstr "Ce este nou"
+
+#: admin/display/welcome.php:84
+msgid "All in One SEO Pack %s contains new features, bug fixes, increased security, and tons of under the hood performance improvements."
+msgstr "All in One SEO Pack %s conține funcționalități noi, corecții de erori, are securitate sporită și tone de îmbunătățiri de performanță sub capotă."
+
+#: admin/display/welcome.php:82
+msgid "Welcome to All in One SEO Pack %s"
+msgstr "Bine ai venit la All in One SEO Pack %s"
+
+#: admin/display/welcome.php:34 admin/display/welcome.php:35
+msgid "Welcome to All in One SEO Pack"
+msgstr "Bine ai venit la All in One SEO Pack"
+
+#: admin/display/welcome-content.php:31
+msgid "You can control SEO on categories, tags and custom taxonomies with the Pro version"
+msgstr "Poți controla SEO pe categorii, etichete și taxonomii personalizate cu versiunea Pro"
+
+#: admin/display/welcome-content.php:30
+msgid "You can get access to video tutorials about SEO with the Pro version"
+msgstr "Poți obține acces la tutoriale video despre SEO cu versiunea Pro"
+
+#: admin/display/welcome-content.php:29
+msgid "We have complete documentation on every setting and feature"
+msgstr "Avem documentație completă pentru fiecare setare și funcționalitate."
+
+#: admin/display/welcome-content.php:27
+msgid "Did You Know?"
+msgstr "Știai?"
+
+#: admin/display/welcome-content.php:22
+msgid "Set up Google Analytics"
+msgstr "Inițializează Google Analytics"
+
+#: admin/display/welcome-content.php:21
+msgid "Submit an XML Sitemap to Google"
+msgstr "Trimite o hartă sit XML la Google"
+
+#: admin/display/welcome-content.php:20
+msgid "Quality guidelines for SEO titles and descriptions"
+msgstr "Instrucțiuni de calitate pentru titluri și descrieri SEO"
+
+#: admin/display/welcome-content.php:19
+msgid "Tips for good on-page SEO"
+msgstr "Sfaturi pentru SEO bun pe pagină"
+
+#: admin/display/welcome-content.php:18
+msgid "Beginners Guide for Social Meta module"
+msgstr "Ghid pentru începători pentru extensia Meta social"
+
+#: admin/display/welcome-content.php:17
+msgid "Beginners Guide for XML Sitemap module"
+msgstr "Ghid pentru începători pentru extensia Hartă sit XML"
+
+#: admin/display/welcome-content.php:16
+msgid "Beginners Guide for All in One SEO Pack"
+msgstr "Ghid pentru începători pentru All in One SEO Pack"
+
+#: admin/display/welcome-content.php:14
+msgid "Get Started"
+msgstr "Începe"
+
+#: admin/display/welcome-content.php:10
+msgid "Translate"
+msgstr "Traducere"
+
+#: admin/display/welcome-content.php:9
+msgid "Help translate All in One SEO Pack into your language."
+msgstr "Ajută la traducerea All in One SEO Pack în limba ta."
+
+#: admin/display/welcome-content.php:8
+msgid "Upgrade"
+msgstr "Actualizează"
+
+#: admin/display/welcome-content.php:7
+msgid "Upgrade to All in One SEO Pack Pro to access priority support and premium features."
+msgstr "Actualizează la All in One SEO Pack Pro pentru a avea acces la suport prioritar și funcționalități premium."
+
+#: admin/display/welcome-content.php:6
+msgid "There are many ways you can help support All in One SEO Pack."
+msgstr "Există mai multe modalități prin care poți ajuta suportul pentru All in One SEO Pack"
+
+#: admin/display/welcome-content.php:5
+msgid "Support All in One SEO Pack"
+msgstr "Suport pentru All in One SEO Pack"
+
+#: admin/display/credits-content.php:61
+msgid "Translation contributors and translation editors"
+msgstr "Contributori traducere și editori traducere"
+
+#: admin/display/credits-content.php:40
+msgid "Want to see your name and picture here as a community developer? Open a new issue on Github to report a bug or request a feature or find an issue and submit code!"
+msgstr "Vrei să-ți vezi numele și poza aici ca dezvoltator al comunității? Deschide o nouă problemă pe Github pentru a raporta o eroare ori solicită o funcționalitate sau găsește o problemă și trimite codul!"
+
+#: admin/display/credits-content.php:38
+msgid "Recent Rockstar Contributors"
+msgstr "Contributori remarcați recent"
+
+#: admin/display/credits-content.php:24 admin/display/credits-content.php:29
+#: admin/display/credits-content.php:34
+msgid "Development Team"
+msgstr "Echipă de dezvoltare"
+
+#: admin/display/credits-content.php:19
+msgid "Core Team"
+msgstr "Echipă pentru nucleu"
+
+#: admin/display/credits-content.php:15
+msgid "Project Manager"
+msgstr "Manager proiect"
+
+#: admin/display/credits-content.php:10
+msgid "Project Lead"
+msgstr "Conducător de proiect"
+
+#: admin/display/credits-content.php:5
+msgid "Project Leaders"
+msgstr "Conducători de proiect"
+
+#: admin/display/credits-content.php:3
+msgid "All in One SEO Pack is created by a worldwide network of friendly folks like these."
+msgstr "All in One SEO Pack este creat de mai mulți oameni prietenoși din toată lumea, ca aceștia."
+
+#: modules/aioseop_opengraph.php:372
+msgid "Custom Twitter Image"
+msgstr "Imagine Twitter personalizată"
+
+#: modules/aioseop_opengraph.php:114
+msgid "This option lets you upload an image to use as the Twitter image for this Page or Post."
+msgstr "Această opțiune îți permite să încarci o imagine pentru a o folosi ca imagine Twitter pentru această pagină sau acest articol."
+
+#: aioseop_class.php:880
+msgid "Redirect Attachments to Post Parent:"
+msgstr "Redirecționează atașamente la articolul părinte:"
+
+#: aioseop_class.php:227
+msgid "Redirect attachment pages to post parent."
+msgstr "Redirecționează pagini de atașamente la articolul părinte."
+
+#: modules/aioseop_sitemap.php:52
+msgid "Dynamically creates the XML sitemap instead of using a static file."
+msgstr "Creează o hartă sit dinamică în loc de a folosi un fișier static."
+
+#: modules/aioseop_importer_exporter.php:553
+msgid "<b>Security warning:</b> Your file looks compromised. Please check the file for any script-injection."
+msgstr "<b>Avertizare de securitate:</b> Fișierul tău pare compromis. Te rog verifică-ți fișierul pentru vreo injectare de script."
+
+#. translators: %1$s expands to the number of languages All in One SEO Pack has
+#. been translated into. $2%s to the percentage translated of the current
+#. language, $3%s to the language name, %4$s and %5$s to anchor tags with link
+#. to translation page at translate.wordpress.org
+#: admin/display/general-metaboxes.php:98
+msgid "All in One SEO Pack has been translated into %1$s languages, but currently the %3$s translation is only %2$s percent complete. %4$s Click here %5$s to help get it to 100 percent."
+msgstr "All in One SEO Pack a fost tradus în %1$s limbi, dar acum traducerea în %3$s este finalizată doar în procent de %2$s. %4$s Dă clic aici %5$s pentru a ajuta să ajungă la 100%."
+
+#: admin/meta_import.php:79 admin/meta_import.php:85
+msgid "Sorry, you can't do that. Please choose a platform and then click Analyze or Convert."
+msgstr "Regret, nu poți face asta. Te rog alege o platformă și apoi dă clic pe Analizează sau Conversie."
+
+#: aioseop_class.php:3102
+msgid "New in 2.4: Improved support for taxonomies, Woocommerce and massive performance improvements under the hood! Please review your settings on each options page!"
+msgstr "Nou în 2.4: Suport îmbunătățit pentru taxonomii, Woocommerce și îmbunătățiri masive de performanță în interior! Te rog revizuiește-ți setările pe fiecare pagină de opțiuni!"
+
+#: aioseop_class.php:446
+msgid "Capitalize Tag and Search Titles:"
+msgstr "Scrie cu majuscule Eticheta și Caută titlurile:"
+
+#: admin/meta_import.php:199
+msgid "Convert"
+msgstr "Conversie"
+
+#: admin/meta_import.php:198
+msgid "Analyze"
+msgstr "Analizează"
+
+#: admin/meta_import.php:187
+msgid "Themes"
+msgstr "Teme"
+
+#: admin/meta_import.php:179
+msgid "Plugins"
+msgstr "Module"
+
+#: admin/meta_import.php:177
+msgid "Choose platform:"
+msgstr "Alege platformă:"
+
+#: admin/meta_import.php:175
+msgid "Import SEO data from:"
+msgstr "Importă date SEO de la:"
+
+#: admin/meta_import.php:165
+msgid "Before performing an import, we strongly recommend that you make a backup of your site. We use and recommend %s BackupBuddy %s for backups."
+msgstr "Înainte de a efectua un import, îți recomandăm insistent să-ți faci o copie de rezervă a sitului. Noi folosim și recomandăm %s BackupBuddy %s pentru copii de rezervă."
+
+#: admin/meta_import.php:161
+msgid "Click \"Convert\" to perform the import. After the import has completed, you will be alerted to how many records were imported, and how many records had to be ignored, based on the criteria above."
+msgstr "Clic \"Conversie\" pentru a efectua importul. După ce importul s-a finalizat, vei fi avertizat despre câte înregistrări au fost importate și câte înregistrări au trebuit să fie ignorate, pe baza criteriilor de mai sus."
+
+#: admin/meta_import.php:157
+msgid "Some plugins and themes do not share similar data, or they store data in a non-standard way. If we cannot import this data, it will remain unchanged in your database. Any compatible SEO data will be displayed for you to review. If a post or page already has SEO data in All in One SEO Pack, we will not import data from another plugin/theme."
+msgstr "Unele module și teme nu partajează date similare, sau stochează date într-un mod non-standard. Dacă nu putem importa aceste date, ele vor rămâne neschimbate în baza ta de date. Orice date compatibile SEO vor fi afișate pentru a fi revizuite de tine. Dacă un articol sau pagină are deja date SEO în All in One SEO Pack, nu vom importa datele de la un alt modul/temă."
+
+#: admin/meta_import.php:157
+msgid "Please Note: "
+msgstr "Te rog reține:"
+
+#: admin/meta_import.php:153
+msgid "Click \"Analyze\" for a list of SEO data that can be imported into All in One SEO Pack, along with the number of records that will be imported."
+msgstr "Dă clic pe \"Analizează\" pentru o listă de date SEO ce poate fi importată în All in One SEO Pack, împreună cu numărul de înregistrări ce vor fi importate."
+
+#: admin/meta_import.php:149
+msgid "Use the drop down below to choose which plugin or theme you wish to import SEO data from."
+msgstr "Utilizează meniul derulant de mai jos pentru a alege din care modul sau temă dorești să imporți datele SEO."
+
+#: admin/meta_import.php:146
+msgid "Import SEO Settings"
+msgstr "Importă setări SEO"
+
+#: admin/meta_import.php:117
+msgid "Conversion Results"
+msgstr "Rezultate conversie"
+
+#: admin/meta_import.php:107
+msgid "Compatible data:"
+msgstr "Date compatibile:"
+
+#: admin/meta_import.php:103
+msgid "<p>Analyzing records in a %s to %s conversion&hellip;"
+msgstr "<p>Analizare înregistrări într-o conversie de la %s la %s&hellip;"
+
+#: admin/meta_import.php:98 admin/meta_import.php:121
+msgid "Sorry, something went wrong. Please try again"
+msgstr "Regret, ceva a mers greșit. Te rog să încerci din nou"
+
+#: admin/meta_import.php:94
+msgid "Analysis Results"
+msgstr "Rezultate Analiză"
+
+#: admin/meta_import.php:62
+msgid "SEO Data Import"
+msgstr "Import date SEO"
+
+#: admin/meta_import.php:62
+msgid "Import SEO Data"
+msgstr "Importă date SEO"
+
+#: admin/meta_import.php:37
+msgid "All in One SEO has been deactivated"
+msgstr "All in One SEO a fost dezactivat"
+
+#: admin/meta_import.php:32
+msgid "The plugin All-In-One-SEO has been detected. Do you want to %simport its settings%s?"
+msgstr "Modulul All-In-One-SEO a fost detectat. Vrei să-i %simporți setările%s?"
+
+#: admin/meta_import.php:28
+msgid "The plugin Yoast SEO has been detected. Do you want to %simport its settings%s into All in One SEO Pack?"
+msgstr "Modulul Yoast SEO a fost detectat. Vrei să-i %simporți setările%s în All in One SEO Pack?"
+
+#: modules/aioseop_feature_manager.php:75
+msgid "Pro Version Only"
+msgstr "Numai versiunea Pro"
+
+#: aioseop_class.php:3725
+msgid "%s Upgrade%s to All in One SEO Pack Pro for increased SEO compatibility for your products."
+msgstr "%s Actualizează%s la All in One SEO Pack Pro pentru o compatibilitate SEO îmbunătățită a produselor tale."
+
+#: aioseop_class.php:3724
+msgid "We've detected you're running WooCommerce."
+msgstr "Am detectat că folosești WooCommerce."
+
+#. Description of the plugin/theme
+msgid "Out-of-the-box SEO for your WordPress blog. Features like XML Sitemaps, SEO for custom post types, SEO for blogs or business sites, SEO for ecommerce sites, and much more. Almost 30 million downloads since 2007."
+msgstr "SEO este gata de funcționare pentru blogul tău WordPress. Caracteristici cum ar fi hărți de sit XML, SEO pentru tipuri de articole personalizate, SEO pentru bloguri sau situri de afaceri, SEO pentru situri de comerț electronic și multe altele. Aproape 30 de milioane de descărcări din anul 2007."
+
+#: modules/aioseop_performance.php:318
+msgid "Check For Updates"
+msgstr "Caută actualizări"
+
+#: modules/aioseop_performance.php:294
+msgid "%s has checked for updates."
+msgstr "%s a căutat actualizări."
+
+#: modules/aioseop_feature_manager.php:68
+msgid "Create and manage your Video Sitemap using this feature and submit your Video Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Creează și administrează-ți harta sit Video folosind această funcționalitate și trimite harta sit Video la Google, Bing/Yahoo și Ask.com."
+
+#: modules/aioseop_feature_manager.php:63
+msgid "Image SEO"
+msgstr "Imagine SEO"
+
+#: modules/aioseop_bad_robots.php:38
+msgid "Use Custom Blocklists"
+msgstr "Folosește liste de blocare personalizate"
+
+#: modules/aioseop_bad_robots.php:37
+msgid "Block Bad Bots using .htaccess"
+msgstr "Blochează boții nedoriți folosind .htaccess"
+
+#: modules/aioseop_bad_robots.php:35
+msgid "Block Referral Spam using HTTP"
+msgstr "Blochează spamul redirecționat folosind HTTP"
+
+#: modules/aioseop_bad_robots.php:34
+msgid "Block Bad Bots using HTTP"
+msgstr "Blochează boții nedoriți folosind HTTP"
+
+#: modules/aioseop_bad_robots.php:24
+msgid "Block Referral Spam using HTTP."
+msgstr "Blochează spamul redirecționat folosind HTTP."
+
+#: inc/commonstrings.php:39
+msgid "Manage Licenses"
+msgstr "Administrare licențe"
+
+#: inc/commonstrings.php:38
+msgid "Notice: "
+msgstr "Observație:"
+
+#: inc/commonstrings.php:37
+msgid " Need a license key?"
+msgstr "Ai nevoie de o cheie de licență?"
+
+#: inc/commonstrings.php:36
+msgid "License Key is not set yet or invalid. "
+msgstr "Cheia de licență nu este setată încă sau este invalidă."
+
+#: inc/commonstrings.php:35
+msgid "Purchase one now"
+msgstr "Cumpără una acum"
+
+#: inc/commonstrings.php:32
+msgid "Finished scanning posts"
+msgstr "S-a finalizat scanarea articolelor"
+
+#: inc/commonstrings.php:29
+msgid "Scan"
+msgstr "Scanează"
+
+#: inc/commonstrings.php:28
+msgid "You do not have access to this page; try logging in as an administrator."
+msgstr "Nu ai acces la această pagină; încearcă să te autentifica ca administrator."
+
+#: inc/commonstrings.php:27
+msgid "Enable this option to only allow access to your sitemap by site administrators and major search engines."
+msgstr "Activează această opțiune pentru a permite accesul la harta ta sit doar pentru administratorii sitului și pentru motoarelor de căutare importante."
+
+#: inc/commonstrings.php:26
+msgid "If checked, only posts that have videos in them will be displayed on the sitemap."
+msgstr "Dacă bifezi, vor fi afișate în harta sit numai articolele care conțin videouri."
+
+#: inc/commonstrings.php:25
+msgid "Press the Scan button to scan your posts for videos! Do this if video content from a post or posts is not showing up in your sitemap."
+msgstr "Apasă butonul Scanare pentru a-ți scana articolele pentru videouri! Fă asta lucru dacă conținutul video al unui articol sau a mai multora nu sunt arătate în harta ta sit."
+
+#: inc/commonstrings.php:24
+msgid "Restrict Access to Video Sitemap"
+msgstr "Restricționare acces la harta sit video"
+
+#: inc/commonstrings.php:23
+msgid "Scan Posts For Videos"
+msgstr "Scanare articole pentru videouri"
+
+#: inc/commonstrings.php:22
+msgid "Show Only Posts With Videos"
+msgstr "Arată doar articolele cu videouri"
+
+#: all_in_one_seo_pack.php:288
+msgid "Amazon Wishlist"
+msgstr "Lista de dorinţe Amazon"
+
+#: all_in_one_seo_pack.php:340
+msgid "Upgrade to Pro"
+msgstr "Actualizează la versiunea Pro"
+
+#: all_in_one_seo_pack.php:329
+msgid "Documentation"
+msgstr "Documentație"
+
+#: all_in_one_seo_pack.php:319
+msgid "SEO Settings"
+msgstr "Setări SEO"
+
+#: aioseop_class.php:4761
+msgid "About"
+msgstr "Despre"
+
+#: aioseop_class.php:3788
+msgid "Debug String"
+msgstr "Depanare șir"
+
+#: aioseop_class.php:3094
+msgid "Thank you for running the latest and greatest All in One SEO Pack Pro ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Mulțumim pentru rularea celui mai nou și bun All in One SEO Pack Pro dintotdeauna! Te rog să revezi setările, fiindcă mereu adăugăm noi caracteristici pentru tine!"
+
+#: aioseop_class.php:3260
+msgid "%taxonomy_description% - The description of the taxonomy"
+msgstr "%taxonomy_title% - Descrierea taxonomiei"
+
+#: aioseop_class.php:3259
+msgid "%taxonomy_title% - The original title of the taxonomy"
+msgstr "%taxonomy_title% - Titlul original al taxonomiei"
+
+#: aioseop_class.php:3245
+msgid "Taxonomy Title Format:"
+msgstr "Format titlu taxonomie:"
+
+#: aioseop_class.php:973 all_in_one_seo_pack.php:324
+msgid "Support Forum"
+msgstr "Forum pentru suport"
+
+#: aioseop_class.php:537
+msgid "SEO on only these taxonomies:"
+msgstr "SEO numai pentru aceste taxonomii:"
+
+#: aioseop_class.php:341
+msgid "License Key:"
+msgstr "Cheie licență:"
+
+#: aioseop_class.php:178
+msgid "Use these checkboxes to select which Taxonomies you want to use All in One SEO Pack with."
+msgstr "Folosește aceste bife pentru a selecta ce taxonomii vrei să folosești pentru All in One SEO Pack."
+
+#: aioseop_class.php:80
+msgid "This will be the license key received when the product was purchased. This is used for automatic upgrades."
+msgstr "Aceasta va fi cheia licenței primită la achiziționarea produsului. Este folosită pentru actualizări automate."
+
+#: modules/aioseop_opengraph.php:202
+msgid "Facebook App ID"
+msgstr "ID aplicație Facebook"
+
+#: modules/aioseop_opengraph.php:197
+msgid "Facebook Admin ID"
+msgstr "ID administrator Facebook"
+
+#: modules/aioseop_opengraph.php:86
+msgid "Enter your Facebook App ID here. Information about how to get your Facebook App ID can be found at https://developers.facebook.com/docs/apps/register"
+msgstr "Introdu aici ID-ul aplicației tale Facebook. Poți găsi informații despre obținerea ID-ului aplicației Facebook la https://developers.facebook.com/docs/apps/register"
+
+#: aioseop_class.php:3703
+msgid "You can %s click here%s to go to your reading settings and toggle your blog visibility."
+msgstr "Poți %s da clic aici %s pentru a ajunge la setările de citire și pentru a comuta vizibilitatea blogului."
+
+#: aioseop_class.php:3702
+msgid "Warning: You're blocking access to search engines."
+msgstr "Avertizare: Blochezi accesul motoarelor de căutare."
+
+#. Author URI of the plugin/theme
+msgid "http://michaeltorbert.com"
+msgstr "http://michaeltorbert.com"
+
+#. Author of the plugin/theme
+msgid "Michael Torbert"
+msgstr "Michael Torbert"
+
+#. Plugin URI of the plugin/theme
+msgid "http://semperfiwebdesign.com"
+msgstr "http://semperfiwebdesign.com"
+
+#. Plugin Name of the plugin/theme
+msgid "All In One SEO Pack"
+msgstr "All In One SEO Pack"
+
+#: modules/aioseop_sitemap.php:1320
+msgid "Failed to notify %s about changes to your sitemap at %s, unable to access via wp_remote_get()."
+msgstr "Nu a reușit să notifice% s despre modificările aduse sitemap-ului la% s, imposibilitatea de a accesa prin wp_remote_get ()."
+
+#: modules/aioseop_sitemap.php:1317
+msgid "Failed to notify %s about changes to your sitemap at %s, error code %s."
+msgstr "Nu a reușit să notifice% s despre modificările aduse sitemap-ului la% s, codul de eroare% s."
+
+#: modules/aioseop_sitemap.php:1149
+msgid "static"
+msgstr "static"
+
+#: modules/aioseop_sitemap.php:1154
+msgid "dynamic"
+msgstr "dinamic"
+
+#: modules/aioseop_sitemap.php:1151
+msgid "compressed"
+msgstr "comprimat"
+
+#: modules/aioseop_sitemap.php:1025
+msgid "Delete Conflicting Files"
+msgstr "Sterge fisierele conflictuale"
+
+#: modules/aioseop_sitemap.php:1024
+msgid "Rename Conflicting Files"
+msgstr "Redenumeste fisiere conflictuale"
+
+#: modules/aioseop_sitemap.php:984
+msgid "Potential conflict with unknown file %s."
+msgstr "Potențial conflict cu fișier necunoscut% s."
+
+#: modules/aioseop_sitemap.php:979
+msgid "Warning: a static sitemap '%s' generated by All in One SEO Pack %s on %s already exists that may conflict with dynamic sitemap generation."
+msgstr "Avertisment : un sitemap static %s  generat de All in One SEO Pack %s pe %s exista deja si poate intra in conflict cu  sitemap-ul generat dinamic."
+
+#: modules/aioseop_sitemap.php:900
+msgid "Couldn't find file %s!"
+msgstr "Nu s-a putut gasi fisiereul %!"
+
+#: modules/aioseop_sitemap.php:896
+msgid "Renamed %s to %s."
+msgstr "Redenumeste % cu %"
+
+#: modules/aioseop_sitemap.php:892
+msgid "Couldn't rename file %s!"
+msgstr "Nu s-a reusit redenumirea fisierului %"
+
+#: modules/aioseop_sitemap.php:882
+msgid "Deleted %s."
+msgstr "% Sters"
+
+#: modules/aioseop_sitemap.php:865
+msgid "Warning: dynamic sitemap generation must have permalinks enabled."
+msgstr "Atentie:  generarea sitemap-ului dinamic trebuie sa aiba permalinks-urile activate."
+
+#: modules/aioseop_sitemap.php:642
+msgid "Warning: your privacy settings are configured to ask search engines to not index your site; you can change this under %s for your blog."
+msgstr "Atenție: setările de confidențialitate sunt configurate pentru a cere motoarele de căutare pentru sa nu indexeze site-ul dvs.; puteți schimba aceste setari sub% pentru blog-ul dvs."
+
+#: modules/aioseop_sitemap.php:640
+msgid "Privacy Settings"
+msgstr "Setări de confidențialitate"
+
+#: modules/aioseop_sitemap.php:638
+msgid "Reading Settings"
+msgstr "Setări de lectură"
+
+#: modules/aioseop_sitemap.php:632
+msgid "Dynamic sitemap generation does not appear to be using the correct rewrite rules; please disable any other sitemap plugins or functionality on your site and reset your permalinks."
+msgstr "Generarea dinamica a hartii site-ului pare sa nu utilizeze corect regulile de rescriere; va rugam sa dezactivati orice alt plugin sau functionalitate pentru harta site-ului dvs si resetati permalinks-urile."
+
+#: modules/aioseop_sitemap.php:618
+msgid "view your sitemap"
+msgstr "vezi harta site-ului dvs."
+
+#: modules/aioseop_sitemap.php:557
+msgid "Update Sitemap"
+msgstr "Actualizare Harta site-ului"
+
+#: modules/aioseop_sitemap.php:480
+msgid " Taxonomy"
+msgstr "Taxonomie"
+
+#: modules/aioseop_sitemap.php:479
+msgid " Post Type"
+msgstr "Tipul postarii"
+
+#: modules/aioseop_sitemap.php:478
+msgid "Manually set the frequency for the "
+msgstr "Setați manual frecvența"
+
+#: modules/aioseop_sitemap.php:477
+msgid "Manually set the priority for the "
+msgstr "Setați manual prioritate pentru"
+
+#: modules/aioseop_sitemap.php:473
+msgid "All Taxonomies"
+msgstr "Toate taxonomiile"
+
+#: modules/aioseop_sitemap.php:472
+msgid "All Post Types"
+msgstr "Toate tipurile postarilor"
+
+#: modules/aioseop_sitemap.php:470
+msgid "Media / Attachments"
+msgstr "Media / Atasamente"
+
+#: modules/aioseop_sitemap.php:384
+msgid "Daily scheduled sitemap check has finished."
+msgstr "Verificarea hărții sit programată zilnic a fost finalizată."
+
+#: modules/aioseop_sitemap.php:361
+msgid "Once Monthly"
+msgstr "O dată pe lună"
+
+#: modules/aioseop_sitemap.php:357
+msgid "Once Weekly"
+msgstr "O dată pe săptămână"
+
+#: modules/aioseop_sitemap.php:286
+msgid "Frequencies"
+msgstr "Frecventa"
+
+#: modules/aioseop_sitemap.php:280
+msgid "Priorities"
+msgstr "Prioritati"
+
+#: modules/aioseop_sitemap.php:274
+msgid "Excluded Items"
+msgstr "Iteme excluse"
+
+#: modules/aioseop_sitemap.php:264
+msgid "Excluded Pages"
+msgstr "Pagini excluse"
+
+#: modules/aioseop_sitemap.php:260
+msgid "Excluded Categories"
+msgstr "Categorii excluse"
+
+#: modules/aioseop_sitemap.php:250
+msgid "Add URL"
+msgstr "Adauga URL"
+
+#: modules/aioseop_sitemap.php:243 modules/aioseop_sitemap.php:268
+msgid "Additional Pages"
+msgstr "Pagini aditionale"
+
+#: modules/aioseop_sitemap.php:237
+msgid "Last Modified"
+msgstr "Ultima modificare"
+
+#: modules/aioseop_sitemap.php:230
+msgid "Page Frequency"
+msgstr "Frecventa paginii"
+
+#: modules/aioseop_sitemap.php:223
+msgid "Page Priority"
+msgstr "Prioritatea paginii"
+
+#: modules/aioseop_sitemap.php:217
+msgid "Page URL"
+msgstr "URL pagină"
+
+#: modules/aioseop_sitemap.php:211
+msgid "Enter information below for any additional links for your sitemap not already managed through WordPress."
+msgstr "Introduceți informațiile de mai jos pentru orice link-uri suplimentare pentru sitemap-ul dvs. care nu sunt inca gestionate prin WordPress."
+
+#: modules/aioseop_sitemap.php:197
+msgid "Manually set the %s of your %s."
+msgstr "Setati manual s% din% s dvs.."
+
+#: modules/aioseop_sitemap.php:185
+msgid "author pages"
+msgstr "Paginile autorului"
+
+#: modules/aioseop_sitemap.php:184
+msgid "archive pages"
+msgstr "pagini arhivă"
+
+#: modules/aioseop_sitemap.php:183
+msgid "taxonomies"
+msgstr "taxonomii"
+
+#: modules/aioseop_sitemap.php:182
+msgid "posts"
+msgstr "articole"
+
+#: modules/aioseop_sitemap.php:181
+msgid "homepage"
+msgstr "prima pagină"
+
+#: modules/aioseop_sitemap.php:174
+msgid "frequency"
+msgstr "frecventa "
+
+#: modules/aioseop_sitemap.php:173
+msgid "priority"
+msgstr "prioritate"
+
+#: modules/aioseop_sitemap.php:160
+msgid "Select Individual"
+msgstr "Selectați individual"
+
+#: modules/aioseop_sitemap.php:159
+msgid "Do Not Override"
+msgstr "Nu suprasolicitați"
+
+#: modules/aioseop_sitemap.php:143
+msgid "Sitemap Status"
+msgstr "Stare Harta site-ului"
+
+#: modules/aioseop_sitemap.php:132
+msgid "Dynamically Generate Sitemap"
+msgstr "Genereaza harta site-ului dinamic"
+
+#: modules/aioseop_sitemap.php:128
+msgid "Link From Virtual Robots.txt"
+msgstr "Link de la Roboti.txt virtual"
+
+#: modules/aioseop_sitemap.php:124
+msgid "Create Compressed Sitemap"
+msgstr "Creaaza harta site-ului comprimat"
+
+#: modules/aioseop_sitemap.php:122
+msgid "Include Author Pages"
+msgstr "Include pagini autor"
+
+#: modules/aioseop_sitemap.php:121
+msgid "Include Date Archive Pages"
+msgstr "Include data paginilor arhivate"
+
+#: modules/aioseop_sitemap.php:117
+msgid "Taxonomies"
+msgstr "taxonomii"
+
+#: modules/aioseop_sitemap.php:112
+msgid "Post Types"
+msgstr "Tipuri de articol"
+
+#: modules/aioseop_sitemap.php:106
+msgid "Maximum Posts Per Sitemap"
+msgstr "Postari maxime pe Harta site-ului"
+
+#: modules/aioseop_sitemap.php:102
+msgid "Paginate Sitemap Indexes"
+msgstr "Numeroteaza indexarile sitemap-ilui"
+
+#: modules/aioseop_sitemap.php:100
+msgid "Enable Sitemap Indexes"
+msgstr "Activati indexarile sitemap-ului"
+
+#: modules/aioseop_sitemap.php:96
+msgid "Monthly"
+msgstr "Lunar"
+
+#: modules/aioseop_sitemap.php:95
+msgid "Weekly"
+msgstr "Săptămânal"
+
+#: modules/aioseop_sitemap.php:94
+msgid "Daily"
+msgstr "Zilnic"
+
+#: modules/aioseop_sitemap.php:93
+msgid "No Schedule"
+msgstr "Nicio programă"
+
+#: modules/aioseop_sitemap.php:90
+msgid "Schedule Updates"
+msgstr "Programați actualizările"
+
+#: modules/aioseop_sitemap.php:84
+msgid "Filename Prefix"
+msgstr "Prefix Nume-fisier"
+
+#: modules/aioseop_sitemap.php:58
+msgid "Use page slugs or page IDs, seperated by commas, to exclude pages from the sitemap."
+msgstr "Utilizați pagina slug sau ID-uri de pagini, separate prin virgula, pentru a exclude pagini din sitemap."
+
+#: modules/aioseop_sitemap.php:57
+msgid "Entries from these categories will be excluded from the sitemap."
+msgstr "Intrările din aceste categorii vor fi excluse din sitemap."
+
+#: modules/aioseop_sitemap.php:56
+msgid "Last modified date of the page."
+msgstr "Ultima dată modificată a paginii."
+
+#: modules/aioseop_sitemap.php:55
+msgid "The frequency of the page."
+msgstr "Frecventa paginii."
+
+#: modules/aioseop_sitemap.php:54
+msgid "The priority of the page."
+msgstr "Prioritatea paginii."
+
+#: modules/aioseop_sitemap.php:53
+msgid "URL to the page."
+msgstr "URL-ul catre pagina."
+
+#: modules/aioseop_sitemap.php:51
+msgid "Places a link to your Sitemap.xml into your virtual Robots.txt file."
+msgstr "Plasează un link către sitemap.xml dumneavoastră în fișierul robots.txt virtual."
+
+#: modules/aioseop_sitemap.php:50
+msgid "Create a compressed sitemap file in .xml.gz format."
+msgstr "Creați un fișier sitemap comprimat în format .xml.gz."
+
+#: modules/aioseop_sitemap.php:49
+msgid "Include Author Archives in your sitemap."
+msgstr "includeți Arhivele Autor in sitemap-ul dvs."
+
+#: modules/aioseop_sitemap.php:48
+msgid "Include Date Archives in your sitemap."
+msgstr "Includeti Arhive Date in harta site-ului dvs."
+
+#: modules/aioseop_sitemap.php:47
+msgid "Select which taxonomy archives appear in your sitemap"
+msgstr "Selectati care arhive taxonomy apar in harta site-ului dvs."
+
+#: modules/aioseop_sitemap.php:46
+msgid "Select which Post Types appear in your sitemap."
+msgstr "Selectati ce tipuri de postari apar in harta site-ului dvs."
+
+#: modules/aioseop_sitemap.php:45
+msgid "Allows you to specify the maximum number of posts in a sitemap (up to 50,000)."
+msgstr "Permite specificarea numărului maxim de posturi într-un sitemap (până la 50.000)."
+
+#: modules/aioseop_sitemap.php:44
+msgid "Split long sitemaps into separate files."
+msgstr "Impartiti harta site-ului mare in fisiere separate."
+
+#: modules/aioseop_sitemap.php:43
+msgid "Organize sitemap entries into distinct files in your sitemap. Enable this only if your sitemap contains over 50,000 URLs or the file is over 5MB in size."
+msgstr "Organizati intrarile in fisiere distincte in harta site-ului. Activati aceasta numai in cazul in care harta site-ului contine peste 50,000 URL-uri sau fisierul este de peste 5 MB ca marime."
+
+#: modules/aioseop_sitemap.php:42
+msgid "Notify search engines based on the selected schedule, and also update static sitemap daily if in use. (this uses WP-Cron, so make sure this is working properly on your server as well)"
+msgstr "Notifică motoarele de căutare în baza programei selectate și, de asemenea, actualizează zilnic harta sit statică, dacă este în uz. (folosește WP-Cron, așa că asigură-te că funcționează corespunzător și pe serverul tău)"
+
+#: modules/aioseop_sitemap.php:41
+msgid "Specifies the name of your sitemap file. This will default to 'sitemap'."
+msgstr "Specifică numele fișierului sitemap. Acest lucru va lipsi(implicit) la \"sitemap\"."
+
+#: modules/aioseop_sitemap.php:31
+msgid "XML Sitemap"
+msgstr "XML Harta site-ului"
+
+#: modules/aioseop_robots.php:363
+msgid "More Information"
+msgstr "Mai multe informații"
+
+#: modules/aioseop_robots.php:361
+msgid "The red indicator means that the syntax is invalid for a robots.txt file."
+msgstr "Indicatorul roșu înseamnă că sintaxa este invalida pentru un fișier robots.txt."
+
+#: modules/aioseop_robots.php:360
+msgid "The yellow indicator means that a non-standard extension was recognized; not all crawlers may recognize it or interpret it the same way. The Allow and Sitemap directives are commonly used by Google and Yahoo."
+msgstr "Indicatorul de culoare galbena inseamna ca o extindere non-standard a fost recunoscuta ;nu toti crawlers pot recunoaste sau interpreta in acelasi fel. Permite si directivele harta site-ului sunt utilizate in mod obisnuit de catre Google si Yahoo."
+
+#: modules/aioseop_robots.php:358
+msgid "Legend"
+msgstr "Legenda"
+
+#: modules/aioseop_robots.php:299
+msgid "Proposed Changes"
+msgstr "Schimbari propuse"
+
+#: modules/aioseop_robots.php:299 modules/aioseop_robots.php:301
+msgid "Current File"
+msgstr "Fisier curent"
+
+#: modules/aioseop_robots.php:154
+msgid "Your Robots.txt file has been optimized.  Here are the results and recommendations.  Click the Update Robots.txt File button below to write these changes to your Robots.txt file.  Click the Disregard Changes button to ignore these recommendations and keep your current Robots.txt file."
+msgstr "Fisierul Roboti.txt a fost optimizat. Aici sunt rezultatele si recomandarile. Faceti clik pe butonul de actualizare fisier Roboti.txt de mai jos pentru a scrie aceste modificari in fisierul dvs. Roboti.txt. Faceti click pe butonul de Ignorati schimbarile ca sa ignore aceste recomandari si sa pastreze fisierul Roboti.txt curent."
+
+#: modules/aioseop_robots.php:144
+msgid "Optimize your Robots.txt File"
+msgstr "Optimizeaza fisierul Robots.txt"
+
+#: modules/aioseop_robots.php:130
+msgid "Create a Robots.txt File"
+msgstr "Creeaza fisier Robots.exe"
+
+#: modules/aioseop_robots.php:97
+msgid "Optimize"
+msgstr "Optimizeaza"
+
+#: modules/aioseop_robots.php:91
+msgid "Disregard Changes"
+msgstr "Ignorati schimbarile"
+
+#: modules/aioseop_robots.php:84
+msgid "Update Robots.txt File"
+msgstr "Actualizare fisiere Roboti.txt"
+
+#: modules/aioseop_robots.php:78
+msgid "Click the Optimize button below and All in One SEO Pack will analyze your Robots.txt file to make sure it complies with the standards for Robots.txt files.  The results will be displayed in a table below."
+msgstr "Dati click pe butonul optimizare de mai jos si All in One SEO Pack va analiza fisierul Roboti.txt pentru a va asigura ca respecta standardele pentru fisierele Roboti.txt. Rezultatele vor fi afisate in tabelul de mai jos."
+
+#: modules/aioseop_robots.php:72
+msgid "Delete Robots.txt File"
+msgstr "Sterge fisierul Robots.txt"
+
+#: modules/aioseop_robots.php:66
+msgid "Save Robots.txt File"
+msgstr "Salveaza fisierul Robots.txt"
+
+#: modules/aioseop_robots.php:60
+msgid "Add Rule"
+msgstr "Adaugă regulă "
+
+#: modules/aioseop_robots.php:48
+msgid "Generate Robots.txt"
+msgstr "Genereaza Robots.txt"
+
+#: modules/aioseop_robots.php:28
+msgid "Use the rule builder below to add rules to create a new Robots.txt file.  If you already have a Robots.txt file you should use the File Editor feature in All in One SEO Pack to edit it or you can delete your current Robots.txt file and start a new one with the rule builder below."
+msgstr " Utilizați constructor regulă de mai jos pentru a adăuga reguli pentru a crea un nou fișier robots.txt. Dacă aveți deja un fișier robots.txt ar trebui să utilizați caracteristica Editor fișiere în All in One SEO Pack pentru a edita sau puteți șterge fișierul robots.txt curent și a începe unul nou cu constructorul regula de mai jos."
+
+#: modules/aioseop_robots.php:20 modules/aioseop_robots.php:43
+msgid "Directory Path"
+msgstr "Cale director"
+
+#: modules/aioseop_robots.php:19 modules/aioseop_robots.php:38
+msgid "User Agent"
+msgstr "Agent utilizator"
+
+#: modules/aioseop_robots.php:18 modules/aioseop_robots.php:32
+msgid "Rule Type"
+msgstr "Tip regulă"
+
+#: modules/aioseop_performance.php:315
+msgid "Submit"
+msgstr "Trimite"
+
+#: modules/aioseop_performance.php:314
+msgid "E-mail debug information"
+msgstr "Informații depanare email"
+
+#: modules/aioseop_performance.php:308
+msgid "Error: please enter an e-mail address before submitting."
+msgstr "Eroare: te rog introdu o adresă de email înainte de a trimite."
+
+#: modules/aioseop_performance.php:305
+msgid "Failed to send to %s."
+msgstr "Trimiterea la %s a eșuat."
+
+#: modules/aioseop_performance.php:303
+msgid "Sent to %s."
+msgstr "Trimis la %s."
+
+#: modules/aioseop_performance.php:302
+msgid "SFWD Debug Mail From Site %s."
+msgstr "SFWD Depanare mail de la site-ul% s."
+
+#: modules/aioseop_performance.php:288
+msgid "Form submission error: verification check failed."
+msgstr "Eroare formular de inscriere : control de verificare esuat."
+
+#: modules/aioseop_performance.php:270
+msgid "All in One SEO Pack Pro Debug Info"
+msgstr "Informații depanare All in One SEO Pack Pro"
+
+#: modules/aioseop_performance.php:255
+msgid "Active Theme"
+msgstr "Temă activă"
+
+#: modules/aioseop_performance.php:254
+msgid "Multisite"
+msgstr "Sitemultiplu"
+
+#: modules/aioseop_performance.php:253
+msgid "WordPress DB Version"
+msgstr "Versiune bază de date WordPress"
+
+#: modules/aioseop_performance.php:252
+msgid "WordPress Version"
+msgstr "Versiune WordPress"
+
+#: modules/aioseop_performance.php:251
+msgid "Home URL"
+msgstr "URL prima pagină"
+
+#: modules/aioseop_performance.php:250
+msgid "Site URL"
+msgstr "URL sit"
+
+#: modules/aioseop_performance.php:249
+msgid "PHP XML support"
+msgstr "Suport PHP XML"
+
+#: modules/aioseop_performance.php:248
+msgid "PHP IPTC support"
+msgstr "SuportPHP IPTC"
+
+#: modules/aioseop_performance.php:247
+msgid "PHP Exif support"
+msgstr "Suport PHP Exif"
+
+#: modules/aioseop_performance.php:246
+msgid "PHP Max Script Execute Time"
+msgstr "Timp maxim de executare script PHP"
+
+#: modules/aioseop_performance.php:245
+msgid "PHP Max Post Size"
+msgstr "Dimensiune maximă articol PHP"
+
+#: modules/aioseop_performance.php:244
+msgid "PHP Max Upload Size"
+msgstr "Dimensiune maximă de încărcare PHP"
+
+#: modules/aioseop_performance.php:243
+msgid "PHP Memory Limit"
+msgstr "Limită de memorie PHP"
+
+#: modules/aioseop_performance.php:242
+msgid "PHP Allow URL fopen"
+msgstr "PHP Permite URL fopen"
+
+#: modules/aioseop_performance.php:241
+msgid "PHP Version"
+msgstr "Versiune PHP"
+
+#: modules/aioseop_performance.php:240
+msgid "SQL Mode"
+msgstr "Mod SQL"
+
+#: modules/aioseop_performance.php:239
+msgid "MYSQL Version"
+msgstr "Versiune MYSQL"
+
+#: modules/aioseop_performance.php:238
+msgid "Memory usage"
+msgstr "Folosirea memoriei"
+
+#: modules/aioseop_performance.php:237
+msgid "Server"
+msgstr "Server"
+
+#: modules/aioseop_performance.php:236
+msgid "Operating System"
+msgstr "Sistem de operare"
+
+#: modules/aioseop_performance.php:203 modules/aioseop_performance.php:208
+#: modules/aioseop_performance.php:213 modules/aioseop_performance.php:222
+msgid "Yes"
+msgstr "Da"
+
+#: modules/aioseop_performance.php:198
+msgid " MByte"
+msgstr " MByte"
+
+#: modules/aioseop_performance.php:180 modules/aioseop_performance.php:185
+#: modules/aioseop_performance.php:190 modules/aioseop_performance.php:195
+#: modules/aioseop_performance.php:200 modules/aioseop_performance.php:228
+msgid "N/A"
+msgstr "Nu se aplică"
+
+#: modules/aioseop_performance.php:175
+msgid "Off"
+msgstr "Off"
+
+#: modules/aioseop_performance.php:173
+msgid "On"
+msgstr "On"
+
+#: modules/aioseop_performance.php:170
+msgid "Not set"
+msgstr "Nesetat"
+
+#: modules/aioseop_performance.php:86
+msgid "System Status"
+msgstr "Stare sistem"
+
+#: modules/aioseop_performance.php:49
+msgid "No limit"
+msgstr "Fara limita"
+
+#: modules/aioseop_performance.php:40
+msgid "Raise execution time"
+msgstr "Prelungeste timpul de executie"
+
+#: modules/aioseop_performance.php:32 modules/aioseop_performance.php:44
+msgid "Use the system default"
+msgstr "Foloseste setari standard"
+
+#: modules/aioseop_performance.php:28
+msgid "Raise memory limit"
+msgstr "Mareste limita memoriei"
+
+#: modules/aioseop_performance.php:23
+msgid "Use output buffering to ensure that the title gets rewritten. Enable this option if you run into issues with the title tag being set by your theme or another plugin."
+msgstr "Utilizați ieșire tamponare pentru a se asigura că titlul sa rescris. Activați această opțiune dacă aveți probleme cu tag-ul titlu, fiind stabilit de temă sau de un alt plugin."
+
+#: modules/aioseop_performance.php:22
+msgid "This setting allows you to raise your PHP execution time to a reasonable value."
+msgstr "Această setare vă permite să ridicati timpul de executie PHP la o valoare rezonabilă."
+
+#: modules/aioseop_performance.php:21
+msgid "This setting allows you to raise your PHP memory limit to a reasonable value. Note: WordPress core and other WordPress plugins may also change the value of the memory limit."
+msgstr "Această setare vă permite să ridicati limita de memorie PHP la o valoare rezonabilă. Notă: WordPress core si alte plugin-uri WordPress poate modifica, de asemenea, valoarea limita de memorie."
+
+#: modules/aioseop_opengraph.php:1289
+msgid "Choose a default value that best describes the content of your post type."
+msgstr "Alege o valoare prestabilită care descrie cel mai bine conținutul tipul de mesaj."
+
+#: modules/aioseop_opengraph.php:1282
+msgid "Object Type"
+msgstr "Tip obiect"
+
+#: modules/aioseop_opengraph.php:757
+msgid "Scan your site for duplicate social meta tags."
+msgstr "Scanează site-ul dvs. pentru duplicate meta tag-uri sociale."
+
+#: modules/aioseop_opengraph.php:756
+msgid "Scan Now"
+msgstr "Scaneaza acum"
+
+#: modules/aioseop_opengraph.php:689
+msgid "Default "
+msgstr "Implicit"
+
+#: modules/aioseop_opengraph.php:637
+msgid "Blog on front page detected, suggested Facebook Object Type is 'blog'."
+msgstr "Blog pe prima pagină detectat, a sugerat Facebook obiect de tip este \"blog\"."
+
+#: modules/aioseop_opengraph.php:632
+msgid "Static front page detected, suggested Facebook Object Type is 'website'."
+msgstr "Prima pagină statică detectată, a sugerat Facebook Obiectul de tip \"site\"."
+
+#: modules/aioseop_opengraph.php:598
+msgid "Scan Social Meta"
+msgstr "Scanare Meta Social"
+
+#: modules/aioseop_opengraph.php:593
+msgid "Twitter Settings"
+msgstr "Setari Twitter"
+
+#: modules/aioseop_opengraph.php:577
+msgid "Facebook Settings"
+msgstr "Setari Facebook"
+
+#: modules/aioseop_opengraph.php:567
+msgid "Image Settings"
+msgstr "Setări imagine"
+
+#: modules/aioseop_opengraph.php:530
+msgid "Social Settings"
+msgstr "Setari retele de socializare ******* "
+
+#: modules/aioseop_opengraph.php:474
+msgid "Associated Name"
+msgstr "Nume asociat"
+
+#: modules/aioseop_opengraph.php:470
+msgid "Organization"
+msgstr "Organizație"
+
+#: modules/aioseop_opengraph.php:469
+msgid "Person"
+msgstr "Persoană"
+
+#: modules/aioseop_opengraph.php:466
+msgid "Person or Organization?"
+msgstr "Persoană sau Organizație?"
+
+#: modules/aioseop_opengraph.php:460 modules/aioseop_opengraph.php:572
+msgid "Social Profile Links"
+msgstr "Legături profil social"
+
+#: modules/aioseop_opengraph.php:458
+msgid "Show Facebook Author on Articles"
+msgstr "Arata autor Facebook pe articole"
+
+#: modules/aioseop_opengraph.php:454
+msgid "Show Facebook Publisher on Articles"
+msgstr "Arata editura Facebook pe articole"
+
+#: modules/aioseop_opengraph.php:448
+msgid "Article Tags"
+msgstr "Etichete articol"
+
+#: modules/aioseop_opengraph.php:442
+msgid "Article Section"
+msgstr "Sectiune articol"
+
+#: modules/aioseop_opengraph.php:437
+msgid "Debug This Post"
+msgstr "Depanează acest articol"
+
+#: modules/aioseop_opengraph.php:422
+msgid "Facebook Debug"
+msgstr "Depanare Facebook"
+
+#: modules/aioseop_opengraph.php:392
+msgid "Enable Facebook Meta for"
+msgstr "Activeaza Facebook Meta pentru"
+
+#: modules/aioseop_opengraph.php:387
+msgid "Use Post Tags In Article Tags"
+msgstr "Utilizează etichete articol pentru etichetele articolelor"
+
+#: modules/aioseop_opengraph.php:382
+msgid "Use Categories In Article Tags"
+msgstr "Utilizează categorii pentru etichetele articolelor"
+
+#: modules/aioseop_opengraph.php:377
+msgid "Use Keywords In Article Tags"
+msgstr "Foloseste cuvinte cheie in cazul etichetelor articolelor"
+
+#: modules/aioseop_opengraph.php:375
+msgid "Automatically Generate Article Tags"
+msgstr "Genereaza automat etichete articol"
+
+#: modules/aioseop_opengraph.php:367
+msgid "Twitter Domain"
+msgstr "Domeniu Twitter"
+
+#: modules/aioseop_opengraph.php:365
+msgid "Show Twitter Author"
+msgstr "Afiseaza Autor Twitter"
+
+#: modules/aioseop_opengraph.php:361
+msgid "Twitter Site"
+msgstr "Site Twitter"
+
+#: modules/aioseop_opengraph.php:352
+msgid "Twitter Card Type"
+msgstr "Tip Card Twitter"
+
+#: modules/aioseop_opengraph.php:346 modules/aioseop_opengraph.php:355
+msgid "Summary Large Image"
+msgstr "Imagine mare cuprins"
+
+#: modules/aioseop_opengraph.php:345 modules/aioseop_opengraph.php:356
+msgid "Summary"
+msgstr "Cuprins"
+
+#: modules/aioseop_opengraph.php:342
+msgid "Default Twitter Card"
+msgstr "Card Twitter standard"
+
+#: modules/aioseop_opengraph.php:330
+msgid "Specify Video Height"
+msgstr "Specifica inaltimea videoclipului"
+
+#: modules/aioseop_opengraph.php:318
+msgid "Specify Video Width"
+msgstr "Specifica latimea videoclipului"
+
+#: modules/aioseop_opengraph.php:314
+msgid "Custom Video"
+msgstr "Videoclip personalizat"
+
+#: modules/aioseop_opengraph.php:309
+msgid "Specify Image Height"
+msgstr "Specifica inaltimea imaginii"
+
+#: modules/aioseop_opengraph.php:304
+msgid "Specify Image Width"
+msgstr "Specifica latimea imaginii"
+
+#: modules/aioseop_opengraph.php:300
+msgid "Custom Image"
+msgstr "Imagine personalizată"
+
+#: modules/aioseop_opengraph.php:295
+msgid "Image"
+msgstr "Imagine"
+
+#: modules/aioseop_opengraph.php:289 modules/aioseop_opengraph.php:415
+msgid "Facebook Object Type"
+msgstr "Obiect de tip Facebook"
+
+#: modules/aioseop_opengraph.php:284
+msgid "Use Custom Field For Image"
+msgstr "Folosiți câmp personalizat pentru imagine"
+
+#: modules/aioseop_opengraph.php:279
+msgid "Default Image Height"
+msgstr "Înălțimea imaginii implicite"
+
+#: modules/aioseop_opengraph.php:274
+msgid "Default Image Width"
+msgstr "Lățimea imaginii implicite"
+
+#: modules/aioseop_opengraph.php:269
+msgid "Default OG:Image"
+msgstr "Implicit OG:Image"
+
+#: modules/aioseop_opengraph.php:265
+msgid "Use Default If No Image Found"
+msgstr "Utilizati Implicit daca nu ati gasit imaginea"
+
+#: modules/aioseop_opengraph.php:261
+msgid "First Available Image"
+msgstr "Prima Imagine Disponibila"
+
+#: modules/aioseop_opengraph.php:260
+msgid "Post Author Image"
+msgstr "Posteaza autorul imaginii"
+
+#: modules/aioseop_opengraph.php:259
+msgid "Image From Custom Field"
+msgstr "Imagine Din Camp Personalizat"
+
+#: modules/aioseop_opengraph.php:258
+msgid "First Image In Content"
+msgstr "Prima Imagine In Continut"
+
+#: modules/aioseop_opengraph.php:257
+msgid "First Attached Image"
+msgstr "Prima Imagine Atasata"
+
+#: modules/aioseop_opengraph.php:256
+msgid "Featured Image"
+msgstr "Imagine reprezentativă"
+
+#: modules/aioseop_opengraph.php:255
+msgid "Default Image"
+msgstr "Imagine implicită"
+
+#: modules/aioseop_opengraph.php:252
+msgid "Select OG:Image Source"
+msgstr "Selectati OG: Sursa Imaginii"
+
+#: modules/aioseop_opengraph.php:248
+msgid "Autogenerate OG Descriptions"
+msgstr "Descrieri OG Autogenerate"
+
+#: modules/aioseop_opengraph.php:242
+msgid "Home Article Tags"
+msgstr "Tag-uri pentru Articolul Acasa"
+
+#: modules/aioseop_opengraph.php:238
+msgid "Home Image"
+msgstr "Imagine Acasa"
+
+#: modules/aioseop_opengraph.php:226
+msgid "Home Description"
+msgstr "Descriere Acasa"
+
+#: modules/aioseop_opengraph.php:214
+msgid "Home Title"
+msgstr "Tiltu Acasa"
+
+#: modules/aioseop_opengraph.php:209
+msgid "Site Name"
+msgstr "Nume sit"
+
+#: modules/aioseop_opengraph.php:207
+msgid "Run Shortcodes In Description"
+msgstr "Rulează scurtcoduri în descriere"
+
+#: modules/aioseop_opengraph.php:206
+msgid "Run Shortcodes In Title"
+msgstr "Rulează scurtcoduri în titlu"
+
+#: modules/aioseop_opengraph.php:193
+msgid "Use AIOSEO Title and Description"
+msgstr "Foloseste AIOSEO Titlu si Descriere"
+
+#: modules/aioseop_opengraph.php:188
+msgid "Scan Header"
+msgstr "Scaneaza Header"
+
+#: modules/aioseop_opengraph.php:185
+msgid " characters. Open Graph allows up to a maximum of %s chars for the %s."
+msgstr "caractere. Open Graph permite pana un maxim de %s caractere pentru %s."
+
+#: modules/aioseop_opengraph.php:130
+msgid "Add the name of the person or organization who owns these profiles."
+msgstr "Adaugă numele persoanei sau a organizației care deține aceste profiluri."
+
+#: modules/aioseop_opengraph.php:129
+msgid "Add URLs for your website's social profiles here (Facebook, Twitter, Google+, Instagram, LinkedIn), one per line."
+msgstr "Adaugă legăturile profilurilor sociale ale sitului tău web aici (Facebook, Twitter, Google+, Instagram, LinkedIn), câte unul pe linie."
+
+#: modules/aioseop_opengraph.php:128
+msgid "Are the social profile links for your website for a person or an organization?"
+msgstr "Legăturile profilurilor sociale ale sitului tău web sunt ale unei persoane sau a unei organizații?"
+
+#: modules/aioseop_opengraph.php:127
+msgid "Allows your authors to be identified by their Facebook pages as content authors on the Opengraph meta for their articles."
+msgstr "Permite autorilor dvs.sa fie identificati dupa pagina de Facebook ca autori de continut in meta Open Graph pentru articolele lor."
+
+#: modules/aioseop_opengraph.php:126
+msgid "Link articles to the Facebook page associated with your website."
+msgstr "Leaga articolele cu pagina de Facebook asociata siteului"
+
+#: modules/aioseop_opengraph.php:125
+msgid "This Open Graph meta allows you to add a list of keywords that best describe this content."
+msgstr "Acest meta Open Graph va permite sa adaugati o lista de cuvinte cheie care descriu cel mai bine acest continut."
+
+#: modules/aioseop_opengraph.php:124
+msgid "This Open Graph meta allows you to add a general section name that best describes this content."
+msgstr "Acest meta Open Graph ca permite sa adaugati un nume sectiunii generale care descrie cel mai bine acest continut. "
+
+#: modules/aioseop_opengraph.php:123
+msgid "Press this button to have Facebook re-fetch and debug this page."
+msgstr "Apasă acest buton pentru a repreluare Facebook și pentru depanarea acestei pagini."
+
+#: modules/aioseop_opengraph.php:122
+msgid "Select the Open Graph type that best describes the content of this Page or Post."
+msgstr "Selectati  tipul Open Graph care descrie cel mai bine continutul acestei Pagini sau Postare."
+
+#: modules/aioseop_opengraph.php:121
+msgid "This is the Open Graph description of this Page or Post."
+msgstr "Aceasta este descrierea Open Graph a acestei Pagini sau Postare."
+
+#: modules/aioseop_opengraph.php:120
+msgid "This is the Open Graph title of this Page or Post."
+msgstr "Acesta este Open Graph pentru titlul acestei pagini sau postari."
+
+#: modules/aioseop_opengraph.php:119
+msgid "Select which Post Types you want to use All in One SEO Pack to set Open Graph meta values for."
+msgstr "Selectati ce Tipuri de Postari doriti sa utilizati in All SEO Pack pentru a seta valori meta pentru Open Graph."
+
+#: modules/aioseop_opengraph.php:118
+msgid "Use post tags in generated article tags."
+msgstr "Utilizează etichete articol pentru etichetele generate ale articolelor"
+
+#: modules/aioseop_opengraph.php:117
+msgid "Use catergories in generated article tags."
+msgstr "Utilizează categorii pentru etichetele generate ale articolelor"
+
+#: modules/aioseop_opengraph.php:116
+msgid "Use keywords in generated article tags."
+msgstr "Foloseste cuvinte cheie in cazul etichetelor pentru articol generate."
+
+#: modules/aioseop_opengraph.php:115
+msgid "Automatically generate article tags for Facebook type article when not provided."
+msgstr "Genereaza automat tag-uri pentru articole tip Facebook atunci cand nu sunt prevazute."
+
+#: modules/aioseop_opengraph.php:113
+msgid "Enter the name of your website here."
+msgstr "Introduceti numele sitelui dvs aici."
+
+#: modules/aioseop_opengraph.php:112
+msgid "Allows your authors to be identified by their Twitter usernames as content creators on the Twitter cards for their posts."
+msgstr "Permite autorilor dvs. sa fie identificati prin numele de utilizator Twitter  ca si creatori de continut de pe cardurile Twitter pentru postarile lor."
+
+#: modules/aioseop_opengraph.php:111
+msgid "Enter the Twitter username associated with your website here."
+msgstr "Introdu numele de utilizator Twitter asociat cu website-ul tau aici."
+
+#: modules/aioseop_opengraph.php:109 modules/aioseop_opengraph.php:110
+msgid "Select the default type of Twitter card to display."
+msgstr "Selectați tipul implicit de card Twitter pentru a fi afișat."
+
+#: modules/aioseop_opengraph.php:108
+msgid "Enter the height for your Open Graph video in pixels (i.e. 600)."
+msgstr "Introduceți înălțimea dvs. video Open Graph  în pixeli (de exemplu, 600)."
+
+#: modules/aioseop_opengraph.php:107
+msgid "Enter the width for your Open Graph video in pixels (i.e. 600)."
+msgstr "Introduceți lățimea dvs. video Open Graph  în pixeli (de exemplu, 600)."
+
+#: modules/aioseop_opengraph.php:106
+msgid "This option lets you specify a link to the Open Graph video used on this Page or Post."
+msgstr "Această opțiune vă permite să specificați un link către video Open Graph de folosit pe această pagină sau post."
+
+#: modules/aioseop_opengraph.php:105
+msgid "Enter the height for your Open Graph image in pixels (i.e. 600)."
+msgstr "Introduceți înălțimea pentru imaginea dvs. Deschideți Graph in pixeli (de exemplu, 600)."
+
+#: modules/aioseop_opengraph.php:104
+msgid "Enter the width for your Open Graph image in pixels (i.e. 600)."
+msgstr "Introduceți lățimea pentru imaginea dvs. Open(deschideti) Graph in pixeli (de exemplu, 600)."
+
+#: modules/aioseop_opengraph.php:103
+msgid "This option lets you upload an image to use as the Open Graph image for this Page or Post."
+msgstr "Această opțiune vă permite să încărcați o imagine pentru a folosi ca imaginea Open Graph pentru această pagină sau post."
+
+#: modules/aioseop_opengraph.php:102
+msgid "This option lets you select the Open Graph image that will be used for this Page or Post, overriding the default settings."
+msgstr "Această opțiune vă permite să selectați  imaginea Open Graph care va fi utilizata pentru această pagină sau post, imperative setările implicite."
+
+#: modules/aioseop_opengraph.php:101
+msgid "Set the Open Graph type for your website as either a blog or a website."
+msgstr "Setați tipul Grafic Deschis pentru site-ul dvs., fie ca un blog sau un site web."
+
+#: modules/aioseop_opengraph.php:100
+msgid "Enter the name of a custom field (or multiple field names separated by commas) to use that field to specify the Open Graph image on Pages or Posts."
+msgstr "Introduceți numele unui câmp personalizat (sau nume de câmpuri multiple separate prin virgula) să folosească acel câmp pentru a specifica imaginea Deschideți Graph pe pagini sau postari."
+
+#: modules/aioseop_opengraph.php:99
+msgid "This option lets you set a default height for your images, where unspecified."
+msgstr "Această opțiune îți permite să setezi o înălțime implicită pentru imaginile tale, acolo unde nu este specificată."
+
+#: modules/aioseop_opengraph.php:98
+msgid "This option lets you set a default width for your images, where unspecified."
+msgstr "Această opțiune îți permite să setezi o lățime implicită pentru imaginile tale, acolo unde nu este specificată."
+
+#: modules/aioseop_opengraph.php:97
+msgid "This option sets a default image that can be used for the Open Graph image. You can upload an image, select an image from your Media Library or paste the URL of an image here."
+msgstr "Această opțiune setează o imagine implicită care poate fi utilizată pentru imaginea Deschis Graph. Puteți încărca o imagine, selectați o imagine din biblioteca media sau inserați adresa URL a unei imagini aici."
+
+#: modules/aioseop_opengraph.php:96
+msgid "This option lets you fall back to the default image if no image could be found above."
+msgstr "Această opțiune vă permite să reveniti  la imaginea implicita dacă nici o imagine a putut fi găsită mai sus."
+
+#: modules/aioseop_opengraph.php:95
+msgid "This option lets you choose which image will be displayed by default for the Open Graph image. You may override this on individual posts."
+msgstr "Această opțiune vă permite să alegeți ce imagine va fi afișată în mod implicit pentru imaginea Deschis Graph. Veti putea trece peste asta pe posturi individuale."
+
+#: modules/aioseop_opengraph.php:94
+msgid "Check this and your Open Graph descriptions will be auto-generated from your content."
+msgstr "Verificati acest lucru si descrierile Open Graph deschise vor fi autogenerate din continut. "
+
+#: modules/aioseop_opengraph.php:93
+msgid "The Home Tag allows you to add a list of keywords that best describe your home page content."
+msgstr "Tag-ul Acasa va permite sa adaugati o lista de cuvinte cheie care descriu cel mai bine continutul paginii dvs de start."
+
+#: modules/aioseop_opengraph.php:92
+msgid "The Home Image is the Open Graph image for your home page."
+msgstr "Imaginea Acasa este imaginea Open Graph pentru pagina dvs de start."
+
+#: modules/aioseop_opengraph.php:91
+msgid "The Home Description is the Open Graph description for your home page."
+msgstr "Descrierea Acasa este descrierea Open Graph pentru pagina dvs de start."
+
+#: modules/aioseop_opengraph.php:90
+msgid "The Home Title is the Open Graph title for your home page."
+msgstr "Titlul Acasă este  Graph titlu deschisl pentru pagina dvs de start."
+
+#: modules/aioseop_opengraph.php:89
+msgid "The Site Name is the name that is used to identify your website."
+msgstr "Numele site-ului este numele care este utilizat pentru a identifica site-ul dumneavoastră."
+
+#: modules/aioseop_opengraph.php:88
+msgid "Run shortcodes that appear in social description meta tags."
+msgstr "Rulează scurtcodurile care apar în meta tagurile descrierilor de rețele sociale."
+
+#: modules/aioseop_opengraph.php:87
+msgid "Run shortcodes that appear in social title meta tags."
+msgstr "Rulează scurtcodurile care apar în meta tagurile titlurilor de rețele sociale."
+
+#: modules/aioseop_opengraph.php:84
+msgid "Checking this box will use the Home Title and Home Description set in All in One SEO Pack, General Settings as the Open Graph title and description for your home page."
+msgstr "Bifand aceasta caseta va folosi Titlul Acasa si Descriere Acasa stabilite in All in One SEO Pack, Setarile Generale ca titlu Open Graph si descriere pentru pagina dvs de start. "
+
+#: modules/aioseop_opengraph.php:72 modules/aioseop_opengraph.php:79
+msgid "Website"
+msgstr "Sit web"
+
+#: modules/aioseop_opengraph.php:71 modules/aioseop_opengraph.php:78
+msgid "Blog"
+msgstr "Blog"
+
+#: modules/aioseop_opengraph.php:70 modules/aioseop_opengraph.php:80
+msgid "Article"
+msgstr "Articol"
+
+#: modules/aioseop_opengraph.php:67
+msgid "Episode"
+msgstr "Episod"
+
+#: modules/aioseop_opengraph.php:66
+msgid "TV Show"
+msgstr "Show TV"
+
+#: modules/aioseop_opengraph.php:65
+msgid "Song"
+msgstr "Melodie"
+
+#: modules/aioseop_opengraph.php:64
+msgid "Product"
+msgstr "Produs"
+
+#: modules/aioseop_opengraph.php:63
+msgid "Movie"
+msgstr "Film"
+
+#: modules/aioseop_opengraph.php:62
+msgid "Game"
+msgstr "Joc"
+
+#: modules/aioseop_opengraph.php:61
+msgid "Food"
+msgstr "Mancare"
+
+#: modules/aioseop_opengraph.php:60
+msgid "Drink"
+msgstr "Bauturi"
+
+#: modules/aioseop_opengraph.php:59
+msgid "Book"
+msgstr "Carte"
+
+#: modules/aioseop_opengraph.php:58
+msgid "Album"
+msgstr "Album"
+
+#: modules/aioseop_opengraph.php:55
+msgid "State Province"
+msgstr "Provincie"
+
+#: modules/aioseop_opengraph.php:54
+msgid "Landmark"
+msgstr "Obiectiv  ****"
+
+#: modules/aioseop_opengraph.php:53
+msgid "Country"
+msgstr "Țară"
+
+#: modules/aioseop_opengraph.php:52
+msgid "City"
+msgstr "Oraș"
+
+#: modules/aioseop_opengraph.php:49
+msgid "Public Figure"
+msgstr "Persoana publica"
+
+#: modules/aioseop_opengraph.php:48
+msgid "Profile"
+msgstr "Profil"
+
+#: modules/aioseop_opengraph.php:47
+msgid "Politician"
+msgstr "Politician"
+
+#: modules/aioseop_opengraph.php:46
+msgid "Musician"
+msgstr "Muzician"
+
+#: modules/aioseop_opengraph.php:45
+msgid "Director"
+msgstr "Director / Regizor ***"
+
+#: modules/aioseop_opengraph.php:44
+msgid "Author"
+msgstr "Autor"
+
+#: modules/aioseop_opengraph.php:43
+msgid "Athlete"
+msgstr "Atlet"
+
+#: modules/aioseop_opengraph.php:42
+msgid "Actor"
+msgstr "Actor"
+
+#: modules/aioseop_opengraph.php:39
+msgid "University"
+msgstr "Universitate"
+
+#: modules/aioseop_opengraph.php:38
+msgid "School"
+msgstr "Școală"
+
+#: modules/aioseop_opengraph.php:37
+msgid "Non Profit"
+msgstr "Non Profit"
+
+#: modules/aioseop_opengraph.php:36
+msgid "Government"
+msgstr "Guvern"
+
+#: modules/aioseop_opengraph.php:35
+msgid "Band"
+msgstr "Trupa / Formatie"
+
+#: modules/aioseop_opengraph.php:32
+msgid "Sports Team"
+msgstr "Echipa de sport"
+
+#: modules/aioseop_opengraph.php:31
+msgid "Sports League"
+msgstr "Liga sportiva"
+
+#: modules/aioseop_opengraph.php:30
+msgid "Cause"
+msgstr "Cauza"
+
+#: modules/aioseop_opengraph.php:27
+msgid "Restaurant"
+msgstr "Restaurant"
+
+#: modules/aioseop_opengraph.php:26
+msgid "Hotel"
+msgstr "Hotel"
+
+#: modules/aioseop_opengraph.php:25
+msgid "Cafe"
+msgstr "Cafenea"
+
+#: modules/aioseop_opengraph.php:24
+msgid "Company"
+msgstr "Companie"
+
+#: modules/aioseop_opengraph.php:23
+msgid "Bar"
+msgstr "Bar"
+
+#: modules/aioseop_opengraph.php:20
+msgid "Sport"
+msgstr "Sport"
+
+#: modules/aioseop_opengraph.php:19
+msgid "Activity"
+msgstr "Activitate"
+
+#: admin/aioseop_module_class.php:2237
+msgid "Update Options"
+msgstr "Actualizare opțiuni"
+
+#: admin/aioseop_module_class.php:2172
+msgid "All in One SEO Options Updated."
+msgstr "Actualizare optiuni All in One SEO"
+
+#: admin/aioseop_module_class.php:2163
+msgid "Options Reset."
+msgstr "Resetare Optiuni"
+
+#: admin/aioseop_module_class.php:2160 modules/aioseop_sitemap.php:870
+msgid "Security Check - If you receive this in error, log out and back in to WordPress"
+msgstr "Verificare de securitate - Daca primiti eroare, delogati-va  si logati-va inapoi in WordPress"
+
+#: admin/aioseop_module_class.php:1964
+msgid "Click for Help!"
+msgstr "Dă clic pentru ajutor!"
+
+#: admin/aioseop_module_class.php:1931
+msgid " characters. Most search engines use a maximum of %s chars for the %s."
+msgstr "caractere. Cele mai multe motoare de cautare folosesc un maxim de % harti pentru %"
+
+#: admin/aioseop_module_class.php:1423
+msgid "Click here for documentation on this setting"
+msgstr "Apasa aici pentru informatii despre aceasta setare"
+
+#: modules/aioseop_importer_exporter.php:513
+msgid "Settings export file for All in One SEO Pack"
+msgstr "Fișier export setări pentru All in One SEO Pack"
+
+#: modules/aioseop_importer_exporter.php:465
+msgid "<b>Warning:</b> This following post could not be found: <b>\"%s\"</b>"
+msgstr "<b> Avertisment: </ b> Acest postare din urma nu a putut fi găsita: <b>  \"% s \" </ b>"
+
+#: modules/aioseop_importer_exporter.php:416
+msgid "<b>Warning:</b> Line not matched: <b>\"%s\"</b>, On Line: <b>%s</b>"
+msgstr "<b> Avertisment: </ b> Linia nu corespunde cu: <b> \"% s \" </ b>, On Line: <b>% s </ b>"
+
+#: modules/aioseop_importer_exporter.php:155
+msgid ""
+"You may change this by activating or deactivating\n"
+"\t\t\t\t\t\tmodules in the Feature Manager."
+msgstr ""
+"Poți modifica acest lucru prin activarea sau dezactivarea\n"
+"→\t→\t→\t→\t→\t→\textensiilor în Administratorul funcționalități."
+
+#: modules/aioseop_importer_exporter.php:148
+msgid "There are no other modules currently loaded!"
+msgstr "Nu exista alte module incarcate in momentul de fata"
+
+#: modules/aioseop_importer_exporter.php:115
+msgid "Export"
+msgstr "Export"
+
+#: modules/aioseop_importer_exporter.php:64
+msgid ""
+"Note: If General Settings is checked, the\n"
+"\t\t\t\t\t\t\t\tGeneral Settings, the Feature Manager settings,\n"
+"\t\t\t\t\t\t\t\tand the following currently active modules will\n"
+"\t\t\t\t\t\t\t\thave their settings data exported:"
+msgstr ""
+"Notă: Dacă Setările generale sunt selectate,\n"
+"→\t→\t→\t→\t→\t→\t→\t→\tSetările Generale, setările Administrator funcționalități\n"
+"→\t→\t→\t→\t→\t→\t→\t→\tși următoarele extensii active în prezent vor avea datele\n"
+"→\t→\t→\t→\t→\t→\t→\t→\tsetărilor lor exportate:"
+
+#: modules/aioseop_importer_exporter.php:51
+msgid "Export Post Types:"
+msgstr "Exporta tipul postarilor"
+
+#: modules/aioseop_importer_exporter.php:43
+msgid "Export Settings"
+msgstr "Exportă setările"
+
+#: modules/aioseop_importer_exporter.php:37
+#: modules/aioseop_importer_exporter.php:105
+msgid "Import"
+msgstr "Import"
+
+#: modules/aioseop_importer_exporter.php:29
+msgid "Select which Post Types you want to export your All in One SEO Pack meta data for.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Selectează pentru care tipuri de articole dorești să exporți meta datele All in One SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Clic aici pentru documentație despre această setare</a>"
+
+#: modules/aioseop_importer_exporter.php:25
+msgid "You may choose to export settings from active modules, and content from post data.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Puteti allege sa exportati setarile din modulele active si continutul postarilor. <br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+
+#: modules/aioseop_importer_exporter.php:21
+msgid "Select a valid All in One SEO Pack ini file and click 'Import' to import options from a previous state or install of All in One SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Selectează un fișier ini valid All in One SEO Pack și dă clic pe 'Import' pentru a importa opțiunile de la o stare sau instalare anterioară a All in One SEO Pack.<br /><a href='http://semperplugins.com/documentation/importer-exporter-module/' target='_blank'>Clic aici pentru documentația petru această setare</a>"
+
+#: inc/aioseop_functions.php:912
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/aioseop_functions.php:909
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/aioseop_functions.php:903
+msgid "Google+"
+msgstr "Google+"
+
+#: inc/aioseop_functions.php:572
+msgid "Please refer to the document for each tool for help in using these to debug your social meta."
+msgstr "Vă rugăm să consultați documentul pentru fiecare instrument de ajutor în utilizarea acestora pentru a depana meta social."
+
+#: inc/aioseop_functions.php:561
+msgid "You should avoid duplicate social meta tags. You can use these free tools from Facebook, Google and Twitter to validate your social meta and check for errors:"
+msgstr "Ar trebui să eviți duplicarea tagurilor meta sociale. Poți folosi aceste instrumente gratuite de la Facebook, Google și Twitter pentru a-ți valida tagurile meta sociale și pentru a verifica erorile:"
+
+#: inc/aioseop_functions.php:560
+msgid "You may prefer to use the social meta tags that are being output by the other plugin(s) or theme. If so, then you should deactivate this Social Meta feature in All in One SEO Pack Feature Manager."
+msgstr "Poate preferi să folosești taguri meta sociale care sunt produse de alt(e) modul(e) sau de o temă. În acest caz, ar trebui să dezactivezi această funcționalitate meta socială în Administrator funcționalități din All in One SEO Pack."
+
+#: inc/aioseop_functions.php:559
+msgid "All in One SEO Pack has detected that a plugin(s) or theme is also outputting social meta tags on your site. You can view this social meta in the source code of your site (check your browser help for instructions on how to view source code)."
+msgstr "All in One SEO Pack a detectat, de asemenea, că un modul sau tema produce taguri meta sociale pe situl tău. Poți vedea aceste taguri meta sociale în codul sursă al sitului (verifică ajutorul navigatorului pentru instrucțiuni despre cum să vizualizezi codul sursă)."
+
+#: inc/aioseop_functions.php:558
+msgid "What Does This Mean?"
+msgstr "Ce inseamna ?"
+
+#: inc/aioseop_functions.php:555
+msgid "No duplicate meta tags found."
+msgstr "Nici un duplicat meta tag gasit."
+
+#: inc/aioseop_functions.php:546
+msgid "Duplicate %s Meta"
+msgstr "Duplicare % Meta"
+
+#: inc/aioseop_functions.php:482
+msgid "Row %s not found; no rows were deleted."
+msgstr "Randul % nu a fost gasit; niciun rand nu a fost sters"
+
+#: inc/aioseop_functions.php:382
+msgid "Unauthorized access; try reloading the page."
+msgstr "Acces neautorizat, reincarca pagina"
+
+#: inc/aioseop_functions.php:359 inc/aioseop_functions.php:711
+#: modules/aioseop_performance.php:205 modules/aioseop_performance.php:210
+#: modules/aioseop_performance.php:215 modules/aioseop_performance.php:224
+msgid "No"
+msgstr "Nu"
+
+#: inc/aioseop_functions.php:254
+msgid "Insert time"
+msgstr "Introduceti data"
+
+#: inc/aioseop_functions.php:253
+msgid "Revisions"
+msgstr "Revizii"
+
+#: inc/aioseop_functions.php:252
+msgid "Slug may not be empty!"
+msgstr "SWAG is for boys"
+
+#: inc/aioseop_functions.php:251
+msgid "Please wait..."
+msgstr "Te rog așteaptă..."
+
+#: inc/aioseop_functions.php:249
+msgid "Cancel"
+msgstr "Anulare"
+
+#: inc/aioseop_functions.php:248
+msgid "Save"
+msgstr "Salvează"
+
+#: inc/aioseop_functions.php:247
+msgid "Post"
+msgstr "Articol"
+
+#: inc/aioseop_functions.php:246 inc/aioseop_functions.php:363
+#: inc/aioseop_functions.php:715
+msgid "Edit"
+msgstr "Editare"
+
+#: inc/aioseop_functions.php:176
+msgid "SEO Keywords"
+msgstr "Cuvinte cheie SEO"
+
+#: inc/aioseop_functions.php:174
+msgid "SEO Description"
+msgstr "Descriere SEO"
+
+#: inc/aioseop_functions.php:173
+msgid "SEO Title"
+msgstr "Titlu SEO"
+
+#: modules/aioseop_file_editor.php:108
+msgid "Update .htaccess"
+msgstr "Actualizare .htaccess"
+
+#: modules/aioseop_file_editor.php:102
+msgid "Update robots.txt"
+msgstr "Actualizare robots.txt"
+
+#: modules/aioseop_file_editor.php:65
+msgid "Edit robots.txt"
+msgstr "Editare robots.txt"
+
+#: modules/aioseop_file_editor.php:60
+msgid ".htaccess"
+msgstr ".htaccess"
+
+#: modules/aioseop_file_editor.php:59
+msgid "robots.txt"
+msgstr "robots.txt"
+
+#: modules/aioseop_file_editor.php:43 modules/aioseop_file_editor.php:70
+msgid "Edit .htaccess"
+msgstr "Editare .htaccess"
+
+#: modules/aioseop_file_editor.php:34
+msgid "Edit Robots.txt"
+msgstr "Editare Robots.txt"
+
+#: modules/aioseop_file_editor.php:30
+msgid ".htaccess editor"
+msgstr "editor .htaccess"
+
+#: modules/aioseop_file_editor.php:29 modules/aioseop_robots.php:21
+msgid "Robots.txt editor"
+msgstr "editor Robots.txt"
+
+#: modules/aioseop_feature_manager.php:149
+msgid "Reset Features"
+msgstr "Reseteaza Caracteristici ***"
+
+#: modules/aioseop_feature_manager.php:147
+msgid "Update Features"
+msgstr "Actualizare Caracteristici"
+
+#: inc/commonstrings.php:21 modules/aioseop_feature_manager.php:67
+#: modules/aioseop_feature_manager.php:74
+msgid "Video Sitemap"
+msgstr "Harta Site-ului Video"
+
+#: modules/aioseop_feature_manager.php:62
+msgid "Coming Soon..."
+msgstr "În Curând ..."
+
+#: modules/aioseop_feature_manager.php:46
+msgid "Exports and imports your All in One SEO Pack plugin settings."
+msgstr "Exporta si importa setarile tale pentru pluginul All in One SEO Pack."
+
+#: modules/aioseop_feature_manager.php:45
+#: modules/aioseop_importer_exporter.php:16
+msgid "Importer & Exporter"
+msgstr "Importator si exportator"
+
+#: modules/aioseop_feature_manager.php:54
+msgid "Optimize performance related to SEO and check your system status."
+msgstr "Optimizati performantele legate de SEO si verificati starea sistemului. "
+
+#: modules/aioseop_feature_manager.php:53 modules/aioseop_performance.php:15
+msgid "Performance"
+msgstr "Performanță"
+
+#: modules/aioseop_feature_manager.php:50
+msgid "Stop badly behaving bots from slowing down your website."
+msgstr "Oprește boții ce se comportă nociv și care îți încetinesc situl. "
+
+#: modules/aioseop_feature_manager.php:42
+msgid "Edit your robots.txt file and your .htaccess file to fine-tune your site."
+msgstr "Editeaza fișierul robots.txt și fișierul .htaccess pentru a ajusta site-ul tău."
+
+#: modules/aioseop_feature_manager.php:41 modules/aioseop_file_editor.php:19
+msgid "File Editor"
+msgstr "Editor fisier"
+
+#: modules/aioseop_feature_manager.php:38
+msgid "Generate and validate your robots.txt file to guide search engines through your site."
+msgstr "Generarea și validarea fișierul robots.txt pentru a ghida motoarele de căutare prin intermediul site-ului."
+
+#: modules/aioseop_feature_manager.php:37 modules/aioseop_robots.php:12
+#: modules/aioseop_robots.php:175
+msgid "Robots.txt"
+msgstr "Roboti.txt"
+
+#: modules/aioseop_feature_manager.php:34
+msgid "Activate this feature to add Social Meta data to your site to deliver closer integration between your website/blog and Facebook, Twitter, and Google+."
+msgstr "Activați această funcție pentru a adăuga date Social Meta  pentru site-ul dumneavoastra pentru a furniza o integrare mai indeaproape între site-ul dvs. / blog și Facebook, Twitter, Google+."
+
+#: modules/aioseop_feature_manager.php:33 modules/aioseop_opengraph.php:14
+msgid "Social Meta"
+msgstr "Meta Social"
+
+#: modules/aioseop_feature_manager.php:30
+msgid "Create and manage your XML Sitemaps using this feature and submit your XML Sitemap to Google, Bing/Yahoo and Ask.com."
+msgstr "Creați și gestionați Sitemap-urile dvs. XML folosind această funcție și să prezinte Sitemap-ul XML la Google, Bing / Yahoo si Ask.com."
+
+#: modules/aioseop_feature_manager.php:29
+msgid "XML Sitemaps"
+msgstr "Sitemap-XML"
+
+#: modules/aioseop_feature_manager.php:23
+msgid "Feature Manager"
+msgstr "Administrator funcționalități"
+
+#: aioseop_class.php:4474
+msgid "Main Settings"
+msgstr "Setari principale"
+
+#: admin/aioseop_module_class.php:1742 admin/aioseop_module_class.php:1996
+#: admin/aioseop_module_class.php:2273 aioseop_class.php:4801
+#: aioseop_class.php:4819
+msgid "Help"
+msgstr "Ajutor"
+
+#: aioseop_class.php:4771
+msgid "Version"
+msgstr "Versiune"
+
+#: aioseop_class.php:4771
+msgid "Support"
+msgstr "Suport"
+
+#: aioseop_class.php:4756
+msgid "Join Our Mailing List"
+msgstr "Alaturati-va Listei noastre Postale"
+
+#: aioseop_class.php:4713
+msgid "Thank you for your donation, it helps keep this plugin free and actively developed!"
+msgstr "Mulțumesc pentru donație, va ajuta la menținerea acestui modul gratis și dezvoltat în mod activ!"
+
+#: aioseop_class.php:4712
+msgid "Thank you!"
+msgstr "Mulțumesc!"
+
+#: aioseop_class.php:4659
+msgid "All in One SEO"
+msgstr "SEO All in toate (SEO toate in unul)"
+
+#: aioseop_class.php:4531
+msgid "Upgrade To Pro"
+msgstr "Actualizează la Pro"
+
+#: aioseop_class.php:4551
+msgid "Edit SEO"
+msgstr "Editeaza SEO"
+
+#: aioseop_class.php:4524
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/deprecated.php:173 inc/deprecated.php:220 inc/deprecated.php:261
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: inc/deprecated.php:145
+msgid "Connect With Google Analytics"
+msgstr "Conecteaza cu Google Analytics"
+
+#: inc/deprecated.php:138
+msgid "Remove Stored Credentials"
+msgstr "Eliminați Atestări stocate"
+
+#: inc/deprecated.php:137
+msgid "Disconnect From Google Analytics"
+msgstr "Deconectare de la Google Analytics"
+
+#: aioseop_class.php:3764
+msgid "Debug Warning: All in One SEO Pack meta data was included again from %s filter. Called %s times!"
+msgstr "Atenționare depanare: Metadata All in One SEO Pack a fost inclusă din nou din filtrul %s. Apelat de %s ori."
+
+#: admin/display/general-metaboxes.php:159
+msgid "Getting started? Read the Beginners Guide"
+msgstr "Doar ce ai inceput ? Citeste Ghidul Incepaporului"
+
+#: admin/display/general-metaboxes.php:155
+msgid "Watch video tutorials"
+msgstr "Vizioneaza tutorial video"
+
+#: admin/display/general-metaboxes.php:151
+msgid "View the Changelog"
+msgstr "Vezi Log Modificari"
+
+#: admin/display/general-metaboxes.php:146
+msgid "All in One SEO Pro Plugin Changelog"
+msgstr "All in One SEO Pro Plugin Changelog"
+
+#: admin/display/general-metaboxes.php:143
+msgid "Access our Premium Support Forums"
+msgstr "Accesati Forumurile Suport Premium"
+
+#: admin/display/general-metaboxes.php:142
+msgid "All in One SEO Pro Plugin Support Forum"
+msgstr "Forum Suport pentru Plugin All in One SEO Pro"
+
+#: admin/display/general-metaboxes.php:138
+msgid "Read the All in One SEO Pack user guide"
+msgstr "Citiți ghidul de utilizare All in One SEO Pack"
+
+#: admin/display/general-metaboxes.php:122
+msgid "Sign up today and receive a free copy of the e-book 5 SEO Tips for WordPress ($39 value)."
+msgstr "Înscrieți-vă astăzi și  primiti o copie gratuită a ebook 5 sfaturi SEO pentru WordPress (valoare 39 dolari)."
+
+#: admin/display/general-metaboxes.php:120
+msgid "Join our mailing list for tips, tricks, and WordPress secrets."
+msgstr "Înscrieți-vă pe lista noastră de discuții pentru sfaturi, trucuri, secrete WordPress."
+
+#: admin/display/general-metaboxes.php:83
+msgid "Follow us on Twitter"
+msgstr "Urmărește-ne pe Twitter"
+
+#: admin/display/general-metaboxes.php:80
+msgid "Follow us on Facebook"
+msgstr "Urmareste-ne pe Facebook"
+
+#: admin/display/general-metaboxes.php:77
+msgid "My Amazon Wish List"
+msgstr "Lista mea de dorințe Amazon"
+
+#: admin/display/general-metaboxes.php:73
+msgid "Donate with Paypal"
+msgstr "Donați cu Paypal"
+
+#: admin/display/general-metaboxes.php:70 all_in_one_seo_pack.php:284
+msgid "Donate"
+msgstr "Donează"
+
+#: admin/display/general-metaboxes.php:44 aioseop_class.php:967
+msgid "UPGRADE TO PRO VERSION"
+msgstr "ACTUALIZEAZĂ LA VERSIUNEA PRO"
+
+#: admin/display/general-metaboxes.php:44
+msgid "Pro Version"
+msgstr "Versiune Pro"
+
+#: admin/display/general-metaboxes.php:39
+msgid "Reset Dismissed Notices"
+msgstr "Resetati Notificările respinse"
+
+#: admin/display/general-metaboxes.php:28
+msgid "by %s of %s."
+msgstr "cu% s din% s."
+
+#: aioseop_class.php:3410
+msgid "noydir"
+msgstr "fara ydir"
+
+#: aioseop_class.php:3409
+msgid "ydir"
+msgstr "ydir"
+
+#: aioseop_class.php:3408
+msgid "Default - noydir"
+msgstr "Implicit - fara ydir"
+
+#: aioseop_class.php:3402
+msgid "noodp"
+msgstr "fara odp"
+
+#: aioseop_class.php:3401
+msgid "odp"
+msgstr "odp"
+
+#: aioseop_class.php:3400
+msgid "Default - noodp"
+msgstr "implicit -  fara odp"
+
+#: aioseop_class.php:3394
+msgid "nofollow"
+msgstr "nu urmari"
+
+#: aioseop_class.php:3393
+msgid "follow"
+msgstr "urmărește"
+
+#: aioseop_class.php:3392
+msgid "Default - nofollow"
+msgstr "implicit - nu urmari"
+
+#: aioseop_class.php:3386
+msgid "noindex"
+msgstr "Lipsa index"
+
+#: aioseop_class.php:3385
+msgid "index"
+msgstr "Index"
+
+#: aioseop_class.php:3384
+msgid "Default - noindex"
+msgstr "Implicit - lipsa index"
+
+#: aioseop_class.php:3302
+msgid "Reset ALL Settings to Defaults"
+msgstr "Reseteaza toate setarile - setari standard"
+
+#: aioseop_class.php:3298
+msgid "Reset General Settings to Defaults"
+msgstr "Resetati Setările generale la valorile implicite"
+
+#: aioseop_class.php:3120
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! New since 2.2: Control who accesses your site with the new Robots.txt Editor and File Editor modules!  Enable them from the Feature Manager.  Remember to review your settings, we have added some new ones!"
+msgstr "Îți mulțumim pentru utilizarea celui mai recent și mai grozav All in One SEO Pack dintotdeauna! Nou de la 2.2: Controlezi cine îți accesează situl cu noul editor pentru Robots.txt și extensiile de editare fișiere! Activează-le din Administrator funcționalități. Nu uita să-ți revezi setările, am adăugat câteva noi!"
+
+#: aioseop_class.php:3101 aioseop_class.php:3119
+msgid "Review Your Settings"
+msgstr "Revizuiti-va  Setarile "
+
+#: aioseop_class.php:3112
+msgid "Thank you for running the latest and greatest All in One SEO Pack ever! Please review your settings, as we're always adding new features for you!"
+msgstr "Îți mulțumim că folosești ultima și cea mai bună versiune All in One SEO Pack! Te rog reexaminează setările, întrucât adăugăm mereu funcționalități noi pentru tine!"
+
+#: aioseop_class.php:3093 aioseop_class.php:3111
+msgid "Welcome to Version %s!"
+msgstr "Bine ati venit la versiunea% s!"
+
+#: aioseop_class.php:3211
+msgid "%%tax_%s%% - This post's associated %s taxonomy title"
+msgstr "%%tax_%s%% - Acest articol este asociat cu titlul taxonomiei %s"
+
+#: aioseop_class.php:3207
+msgid "%post_title% - The original title of the post."
+msgstr "%post_title% - Titlul original al articolului."
+
+#: aioseop_class.php:3193
+msgid "Title Format:"
+msgstr "Format Nume"
+
+#: aioseop_class.php:3185
+msgid "Everywhere Else"
+msgstr "Oriunde altundeva"
+
+#: aioseop_class.php:3185
+msgid "Front Page"
+msgstr "Pagina din față"
+
+#: aioseop_class.php:1148
+msgid "Advanced Settings"
+msgstr "Setări avansate"
+
+#: aioseop_class.php:1127
+msgid "Noindex Settings"
+msgstr "Setări noindex"
+
+#: aioseop_class.php:1100
+msgid "Google Settings"
+msgstr "Setări Google"
+
+#: aioseop_class.php:1095
+msgid "Webmaster Verification"
+msgstr "Verificarea Webmaster"
+
+#: aioseop_class.php:1090
+msgid "Display Settings"
+msgstr "Setări afișare"
+
+#: aioseop_class.php:1085
+msgid "Custom Post Type Settings"
+msgstr "Setari Tip Mesaj Personalizat"
+
+#: aioseop_class.php:1064
+msgid "Title Settings"
+msgstr "Setări titlu"
+
+#: aioseop_class.php:1166
+msgid "Keyword Settings"
+msgstr "Setari cuvinte cheie"
+
+#: aioseop_class.php:1059 modules/aioseop_opengraph.php:562
+msgid "Home Page Settings"
+msgstr "Setari pagina de pornire"
+
+#: aioseop_class.php:1038
+msgid "Disable Google Analytics"
+msgstr "Dezactiveaza Google Analytics"
+
+#: aioseop_class.php:1036
+msgid "Disable on this page/post"
+msgstr "Dezactiveaa pentru aceasta pagina/postare"
+
+#: aioseop_class.php:1035
+msgid "Exclude From Sitemap"
+msgstr "Exclude din harta site"
+
+#: aioseop_class.php:1031
+msgid "Menu Label"
+msgstr "eticheta meniului"
+
+#: aioseop_class.php:1026
+msgid "Title Attribute"
+msgstr "Atribut titlu"
+
+#: aioseop_class.php:1024
+msgid "Robots Meta NOYDIR"
+msgstr "Roboți Meta NOYDIR"
+
+#: aioseop_class.php:1023
+msgid "Robots Meta NOODP"
+msgstr "Roboti Meta NOODP"
+
+#: aioseop_class.php:1020
+msgid "Robots Meta NOFOLLOW"
+msgstr "Roboți Meta nofollow"
+
+#: aioseop_class.php:1016
+msgid "Robots Meta NOINDEX"
+msgstr "Roboți Meta NOINDEX"
+
+#: aioseop_class.php:1011
+msgid "Custom Canonical URL"
+msgstr "URL canonic personalizat"
+
+#: aioseop_class.php:1007
+msgid "Keywords (comma separated)"
+msgstr "Cuvinte cheie (separate prin virgulă)"
+
+#: aioseop_class.php:999 modules/aioseop_opengraph.php:406
+msgid "Description"
+msgstr "Descriere"
+
+#: aioseop_class.php:993 modules/aioseop_opengraph.php:398
+msgid "Title"
+msgstr "Titlu"
+
+#: aioseop_class.php:976
+msgid "Preview Snippet"
+msgstr "Previzualizare fragment"
+
+#: aioseop_class.php:967
+msgid "Upgrade to All in One SEO Pack Pro Version"
+msgstr "Actualizează la versiunea PRO All in One SEO Pack"
+
+#: aioseop_class.php:913
+msgid "Log important events:"
+msgstr "Log evenimente importante:"
+
+#: aioseop_class.php:907
+msgid "Additional Blog Page Headers:"
+msgstr "Antete suplimentare pentru Pagina Blog"
+
+#: aioseop_class.php:901
+msgid "Additional Front Page Headers:"
+msgstr "Antete suplimentare pentru Prima Pagina"
+
+#: aioseop_class.php:895
+msgid "Additional Page Headers:"
+msgstr "Antete suplimentare pentru Pagini"
+
+#: aioseop_class.php:889
+msgid "Additional Post Headers:"
+msgstr "Antete suplimentare pentru Post"
+
+#: aioseop_class.php:884
+msgid "Exclude Pages:"
+msgstr "Exclude paginile:"
+
+#: aioseop_class.php:876
+msgid "Unprotect Post Meta Fields:"
+msgstr "Neprotejeaza Domeniile Post Meta"
+
+#: aioseop_class.php:872
+msgid "Use Schema.org Markup"
+msgstr "Utilizati Schema.org Markup"
+
+#: aioseop_class.php:868
+msgid "Never Shorten Long Descriptions:"
+msgstr "Nu scurta niciodata descrierile lungi"
+
+#: aioseop_class.php:864
+msgid "Remove Descriptions For Paginated Pages:"
+msgstr "Scoateti Descrierile Pentru Paginile Paginate:"
+
+#: aioseop_class.php:859
+msgid "Run Shortcodes In Autogenerated Descriptions:"
+msgstr "Rulati Scurtaturile in Descrierile Autogenerate"
+
+#: aioseop_class.php:855
+msgid "Autogenerate Descriptions:"
+msgstr "Autogenereaza descrieri:"
+
+#: aioseop_class.php:851
+msgid "Avoid Using The Excerpt In Descriptions:"
+msgstr "Evitați sa utilizati Extrasul In Descrieri:"
+
+#: aioseop_class.php:847
+msgid "Exclude site from Yahoo! Directory:"
+msgstr "Exclude site-ul din directorul Yahoo!"
+
+#: aioseop_class.php:843
+msgid "Exclude site from the Open Directory Project:"
+msgstr "Excludeți site-ul de la Open Directory Project:"
+
+#: aioseop_class.php:839
+msgid "Use nofollow for paginated pages/posts:"
+msgstr "Utilizați nofollow pentru pagini/posturi paginate:"
+
+#: aioseop_class.php:835
+msgid "Use noindex for paginated pages/posts:"
+msgstr "Utilizați noindex pentru pagini paginate / posturi:"
+
+#: aioseop_class.php:829
+msgid "Use noindex for Taxonomy Archives:"
+msgstr "Utilizați noindex pentru Taxonomie Archives:"
+
+#: aioseop_class.php:825
+msgid "Use noindex for the 404 page:"
+msgstr "Utilizați noindex pentru pagina 404:"
+
+#: aioseop_class.php:821
+msgid "Use noindex for the Search page:"
+msgstr "Utilizați noindex pentru pagina de căutare:"
+
+#: aioseop_class.php:817
+msgid "Use noindex for Tag Archives:"
+msgstr "Utilizați noindex pentru Tag Archives:"
+
+#: aioseop_class.php:813
+msgid "Use noindex for Author Archives:"
+msgstr "Utilizați noindex pentru Arhiva Autor:"
+
+#: aioseop_class.php:809
+msgid "Use noindex for Date Archives:"
+msgstr "Utilizați noindex pentru Data Archives:"
+
+#: aioseop_class.php:805
+msgid "Use noindex for Categories:"
+msgstr "Utilizați noindex pentru Categorii:"
+
+#: aioseop_class.php:800
+msgid "Dynamically Generate Keywords for Posts Page/Archives:"
+msgstr "Generează în mod dinamic cuvintele cheie pentru pagina articolelor/arhivelor:"
+
+#: aioseop_class.php:795
+msgid "Use Tags for META keywords:"
+msgstr "Folositi Tag-uri pentru cuvinte cheie META:"
+
+#: aioseop_class.php:790
+msgid "Use Categories for META keywords:"
+msgstr "Folositi Categorii pentru cuvinte cheie META:"
+
+#: aioseop_class.php:778
+msgid "Enhanced Ecommerce:"
+msgstr "Ecommerce Imbunatatit:"
+
+#: aioseop_class.php:766
+msgid "Enhanced Link Attribution:"
+msgstr "Atributie Link Imbunatatita:"
+
+#: aioseop_class.php:754
+msgid "Track Outbound Links:"
+msgstr "Urmareste Link-uri de Iesire"
+
+#: aioseop_class.php:742
+msgid "Exclude Users From Tracking:"
+msgstr "Excludeți utilizatorii din urmărire:"
+
+#: aioseop_class.php:730
+msgid "Display Advertiser Tracking:"
+msgstr "Afiseaza urmarirea publicitatii"
+
+#: aioseop_class.php:718
+msgid "Anonymize IP Addresses:"
+msgstr "Ascunde Adresa IP "
+
+#: aioseop_class.php:705
+msgid "Additional Domains:"
+msgstr "Domenii aditionale:"
+
+#: aioseop_class.php:693
+msgid "Track Multiple Domains:"
+msgstr "Urmăriți mai multe domenii:"
+
+#: aioseop_class.php:681
+msgid "Tracking Domain:"
+msgstr "Domeniul urmarit:"
+
+#: aioseop_class.php:665
+msgid "Advanced Analytics Options:"
+msgstr "Opțiuni avansate Google Analytics:"
+
+#: aioseop_class.php:659
+msgid "Google Analytics ID:"
+msgstr "ID Google Analytics:"
+
+#: aioseop_class.php:653
+msgid "Specify Publisher URL:"
+msgstr "Specificati URL-ul editurii "
+
+#: aioseop_class.php:643
+msgid "Display Publisher Meta on Front Page:"
+msgstr "Afiseaza Editorul Meta pe Prima Pagina"
+
+#: aioseop_class.php:637
+msgid "Display Google Authorship:"
+msgstr "Afișează Google autor:"
+
+#: aioseop_class.php:627
+msgid "Advanced Authorship Options:"
+msgstr "Opțiuni avansate de autor:"
+
+#: aioseop_class.php:621
+msgid "Specify A Preferred Name:"
+msgstr "Specifică un nume preferat:"
+
+#: aioseop_class.php:618
+msgid "Set Preferred Site Name:"
+msgstr "Setează numele preferat al sitului:"
+
+#: aioseop_class.php:615
+msgid "Display Sitelinks Search Box:"
+msgstr "Afiseaza Sitelinks Search Box:"
+
+#: aioseop_class.php:610
+msgid "Disable Google Plus Profile:"
+msgstr "Dezactivați profilul Google Plus:"
+
+#: aioseop_class.php:605
+msgid "Google Plus Default Profile:"
+msgstr "Profilul implicit Google Plus"
+
+#: aioseop_class.php:600
+msgid "Pinterest Site Verification:"
+msgstr "Site-ul Pinterest de identificare:"
+
+#: aioseop_class.php:595
+msgid "Bing Webmaster Center:"
+msgstr "Bing Webmaster Center:"
+
+#: aioseop_class.php:590
+msgid "Google Webmaster Tools:"
+msgstr "Google Webmaster Tools:"
+
+#: inc/commonstrings.php:44
+msgid "Display Menu At The Top:"
+msgstr "Afișeaza meniul în partea de sus:"
+
+#: inc/commonstrings.php:43
+msgid "Display Menu In Admin Bar:"
+msgstr "Afișează Meniul In Admin Bar:"
+
+#: aioseop_class.php:584
+msgid "Show Column Labels for Custom Post Types:"
+msgstr "Arata  Etichetele de Coloana pentru tipurile de postare personalizate"
+
+#: aioseop_class.php:574
+msgid "Custom titles:"
+msgstr "Titluri preferentiale:"
+
+#: aioseop_class.php:569
+msgid "Default to NOYDIR:"
+msgstr "Implicit la NOYDIR:"
+
+#: aioseop_class.php:564
+msgid "Default to NOODP:"
+msgstr "Implicit la NOODP:"
+
+#: aioseop_class.php:559
+msgid "Default to NOFOLLOW:"
+msgstr "Implicit la nofollow:"
+
+#: aioseop_class.php:554
+msgid "Default to NOINDEX:"
+msgstr "Implicit la NOINDEX:"
+
+#: aioseop_class.php:543
+msgid "Enable Advanced Options:"
+msgstr "Activeaza optiunile avansate:"
+
+#: aioseop_class.php:531
+msgid "SEO on only these post types:"
+msgstr "SEO doar pentru aceste tipuri de postari:"
+
+#: aioseop_class.php:522
+msgid "SEO for Custom Post Types:"
+msgstr "SEO pentru Tip de Postare customizat (Custom Post Types)"
+
+#: aioseop_class.php:516
+msgid "Paged Format:"
+msgstr "Format pagina:"
+
+#: aioseop_class.php:510
+msgid "404 Title Format:"
+msgstr "Format Titlu 404"
+
+#: aioseop_class.php:504
+msgid "Description Format"
+msgstr "Format descriere"
+
+#: aioseop_class.php:498
+msgid "Search Title Format:"
+msgstr "Cauta formatul titlului:"
+
+#: aioseop_class.php:492
+msgid "Tag Title Format:"
+msgstr "Format Nume Eticheta"
+
+#: aioseop_class.php:486
+msgid "Author Archive Title Format:"
+msgstr "Format Nume Arhiva Autori"
+
+#: aioseop_class.php:480
+msgid "Date Archive Title Format:"
+msgstr "Format Nume Arhiva Date"
+
+#: aioseop_class.php:474
+msgid "Archive Title Format:"
+msgstr "Format Nume Arhiva"
+
+#: aioseop_class.php:468
+msgid "Category Title Format:"
+msgstr "Format Nume Categorie "
+
+#: aioseop_class.php:462
+msgid "Post Title Format:"
+msgstr "Format Nume Postare"
+
+#: aioseop_class.php:456
+msgid "Page Title Format:"
+msgstr "Format Nume Pagina"
+
+#: aioseop_class.php:450
+msgid "Home Page Title Format:"
+msgstr "Format titlu pentru prima pagină:"
+
+#: aioseop_class.php:437
+msgid "Use Original Title:"
+msgstr "Foloseste titlul original"
+
+#: aioseop_class.php:427 modules/aioseop_performance.php:63
+msgid "Force Rewrites:"
+msgstr "Forteaza inlocuirea ****"
+
+#: aioseop_class.php:418
+msgid "Rewrite Titles:"
+msgstr "Rescrie numele"
+
+#: aioseop_class.php:413
+msgid "HTTPS"
+msgstr "HTTPS"
+
+#: aioseop_class.php:412
+msgid "HTTP"
+msgstr "HTTP"
+
+#: aioseop_class.php:411
+msgid "Auto"
+msgstr "Automat"
+
+#: aioseop_class.php:407
+msgid "Set Protocol For Canonical URLs:"
+msgstr "Seteaza Protocolul pentru URL-urile Canonical"
+
+#: aioseop_class.php:402
+msgid "Enable Custom Canonical URLs:"
+msgstr "Activați adresele URL canonice personalizate:"
+
+#: aioseop_class.php:397
+msgid "No Pagination for Canonical URLs:"
+msgstr "Nu Paginare pentru URL-uri canonice:"
+
+#: aioseop_class.php:393
+msgid "Canonical URLs:"
+msgstr "URL-uri canonice:"
+
+#: aioseop_class.php:384
+msgid "Use Static Front Page Instead"
+msgstr "Folosește pagină statică din față ca alternativă"
+
+#: aioseop_class.php:377
+msgid "Home Keywords (comma separated):"
+msgstr "Cuvinte cheie (keywords) pentru Pagina de pornire (separate prin virgula)"
+
+#: aioseop_class.php:373 aioseop_class.php:389 aioseop_class.php:423
+#: aioseop_class.php:433 aioseop_class.php:442 aioseop_class.php:527
+#: aioseop_class.php:548 aioseop_class.php:632 aioseop_class.php:648
+#: aioseop_class.php:670 modules/aioseop_performance.php:68
+msgid "Disabled"
+msgstr "Dezactivat"
+
+#: aioseop_class.php:372 aioseop_class.php:388 aioseop_class.php:422
+#: aioseop_class.php:432 aioseop_class.php:441 aioseop_class.php:526
+#: aioseop_class.php:547 aioseop_class.php:631 aioseop_class.php:647
+#: aioseop_class.php:669 modules/aioseop_performance.php:67
+msgid "Enabled"
+msgstr "Activat"
+
+#: aioseop_class.php:368
+msgid "Use Keywords:"
+msgstr "Foloseste cuvinte cheie"
+
+#: aioseop_class.php:358
+msgid "Home Description:"
+msgstr "Descrierea Paginii de pornire"
+
+#: aioseop_class.php:348
+msgid "Home Title:"
+msgstr "Numele paginii de pornire"
+
+#: aioseop_class.php:345
+msgid "I enjoy this plugin and have made a donation:"
+msgstr "Îmi place acest modul și am făcut o donație:"
+
+#: aioseop_class.php:336
+msgid "Disable Google Analytics on this page."
+msgstr "Dezactiveaza Google Analyctics pentru aceasta pagina"
+
+#: aioseop_class.php:335
+msgid "Disable SEO on this page."
+msgstr "Dezactiveaza SEO pentru aceasta pagina"
+
+#: aioseop_class.php:334
+msgid "Don't display this page in the sitemap."
+msgstr "Nu afisa aceasta pagina in harta site-ului."
+
+#: aioseop_class.php:333
+msgid "Set the label for this page menu item."
+msgstr "Setați eticheta pentru acesta pagina element de meniu."
+
+#: aioseop_class.php:332
+msgid "Set the title attribute for menu links."
+msgstr "Setați titlul atribut pentru link-urile din meniu."
+
+#: aioseop_class.php:331
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for this page."
+msgstr "Bifați această casetă pentru a cere Yahoo! să nu utilizeze descrieri din directorul Yahoo! pentru aceasta pagina."
+
+#: aioseop_class.php:330
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for this page."
+msgstr "Bifați această casetă pentru a cere motoarele de căutare să nu utilizeze descrieri de Open Directory Project pentru această pagină."
+
+#: aioseop_class.php:329
+msgid "Check this box to ask search engines not to follow links from this page."
+msgstr "Bifați această casetă pentru a cere motoarele de căutare să nu urmeze link-uri din această pagină."
+
+#: aioseop_class.php:328
+msgid "Check this box to ask search engines not to index this page."
+msgstr "Selecteaza aceasta casuta pentru a solicita motoarelor de cautare sa nu indexeze aceasta pagina"
+
+#: aioseop_class.php:327
+msgid "Override the canonical URLs for this post."
+msgstr "Override URL-urile canonice pentru acest post."
+
+#: aioseop_class.php:326
+msgid "A comma separated list of your most important keywords for this page that will be written as META keywords."
+msgstr "O lista cu cele mai importante cuvinte cheie, separate prin virgula, pentru aceasta pagina, ce vor fi scrise ca Meta keywords"
+
+#: aioseop_class.php:325
+msgid "The META description for this page. This will override any autogenerated descriptions."
+msgstr "Descrierea META pentru această pagină. Va contramanda orice descrieri generate automat."
+
+#: aioseop_class.php:324
+msgid "A custom title that shows up in the title tag for this page."
+msgstr "Un titlu personalizat care apare în tag-ul titlu pentru aceasta pagina."
+
+#: aioseop_class.php:323
+msgid "A preview of what this page might look like in search engine results."
+msgstr "O previzualizare a felului în care ar putea arăta această pagină în rezultatele motorului de căutare."
+
+#: aioseop_class.php:232
+msgid "What you enter here will be copied verbatim to the header of the home page if you have Front page displays your latest posts selected in Settings, Reading.  It will also be copied verbatim to the header on the Posts page if you have one set in Settings, Reading. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Ceea ce introduceți aici va fi copiat cuvânt cu cuvânt la antetul paginii de start, dacă aveți Prima pagina, afișează toate posturile selectate în Setări, Reading. Acestea vor fi, de asemenea, copiate cuvânt cu cuvânt la antetul de pe pagina Posturi dacă aveți un set în Setări de lectură. Puteți introduce orice antete suplimentar vrei aici, chiar trimiteri la foi de stil(stylesheets)."
+
+#: aioseop_class.php:231
+msgid "What you enter here will be copied verbatim to the header of the front page if you have set a static page in Settings, Reading, Front Page Displays. You can enter whatever additional headers you want here, even references to stylesheets. This will fall back to using Additional Page Headers if you have them set and nothing is entered here."
+msgstr "Ceea ce introduceți aici va fi copiat cuvânt cu cuvânt la antetul primei pagini, dacă ați setat o pagină statică în Setări, Reading, Monitoare Front Page. Puteți introduce orice antete suplimentar vreti aici, chiar trimiteri la foi de stil(stylesheets). Acest lucru va duce înapoi la utilizarea Additional Page Headers, dacă le-ați stabilit și nimic nu este înscris aici."
+
+#: aioseop_class.php:230
+msgid "What you enter here will be copied verbatim to the header of all Pages. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Ceea ce introduceți aici va fi copiat cuvânt cu cuvânt la antetul tuturor paginilor. Puteți introduce orice antete suplimentar vreti aici, chiar trimiteri la stylesheets."
+
+#: aioseop_class.php:229
+msgid "What you enter here will be copied verbatim to the header of all Posts. You can enter whatever additional headers you want here, even references to stylesheets."
+msgstr "Ceea ce introduceți aici va fi copiat cuvânt cu cuvânt la antetul tuturor posturilor. Puteți introduce orice antete suplimentare vreti aici, chiar trimiteri la stylesheets."
+
+#: aioseop_class.php:228
+msgid "Enter a comma separated list of pages here to be excluded by All in One SEO Pack.  This is helpful when using plugins which generate their own non-WordPress dynamic pages.  Ex: <em>/forum/, /contact/</em>  For instance, if you want to exclude the virtual pages generated by a forum plugin, all you have to do is add forum or /forum or /forum/ or and any URL with the word \\\"forum\\\" in it, such as http://mysite.com/forum or http://mysite.com/forum/someforumpage here and it will be excluded from All in One SEO Pack."
+msgstr "Introdu aici o listă de pagini separate prin virgulă pentru a fi excluse de All in One SEO Pack. Acest lucru este util când se utilizează module care generează propriile lor pagini dinamice non-WordPress. Exemple: <em>/forum/, /contact/</em> De exemplu, dacă vrei să excluzi paginile virtuale generate de un modul pentru forum, tot ce trebuie să faci este să adaugi aici forum, /forum ori /forum/ sau orice URL care conține cuvântul \\\"forum\\\", cum ar fi http://mysite.com/forum sau http://mysite.com/forum/someforumpage și va fi exclus din All in One SEO Pack."
+
+#: aioseop_class.php:226
+msgid "Check this to unprotect internal postmeta fields for use with XMLRPC. If you don't know what that is, leave it unchecked."
+msgstr "Verificați acest lucru pentru a deproteja domeniile postmeta interne pentru utilizare XMLRPC. Dacă nu știți ce este acesta, lăsați-l nebifat."
+
+#: aioseop_class.php:225
+msgid "Check this to support Schema.org markup, i.e., itemprop on supported metadata."
+msgstr "Verificați acest lucru pentru a sprijini Schema.org markup, de exemplu, item prop privind meta datele acceptate."
+
+#: aioseop_class.php:224
+msgid "Check this to prevent your Description from being truncated regardless of its length."
+msgstr "Verificați acest lucru pentru a împiedica Descriere ta de a fi trunchiată/taiata, indiferent de lungimea sa."
+
+#: aioseop_class.php:223
+msgid "Check this and your Meta Descriptions will be removed from page 2 or later of paginated content."
+msgstr "Verificați acest lucru și Meta Description  vor fi eliminate de pe pagina 2 sau mai târziu din conținutul paginat."
+
+#: aioseop_class.php:222
+msgid "Check this and shortcodes will get executed for descriptions auto-generated from content."
+msgstr "Verificați acest lucru și Shortcpdes vor fi executate pentru descrieri auto-generate din continut."
+
+#: aioseop_class.php:221
+msgid "Check this and your Meta Descriptions will be auto-generated from your excerpt or content."
+msgstr "Verificați acest lucru și Meta Descriptions vor fi auto-generate de extras sau conținut."
+
+#: aioseop_class.php:220
+msgid "Check this and your Meta Descriptions won't be generated from the excerpt."
+msgstr "Verificați acest lucru și Meta Descriptions  nu va fi generat din extras/fragment."
+
+#: aioseop_class.php:219
+msgid "Set the default noydir setting for each Post Type."
+msgstr "Setați implicit noydir setare pentru fiecare Post Type."
+
+#: aioseop_class.php:218
+msgid "Check this box to ask Yahoo! not to use descriptions from the Yahoo! directory for your entire site."
+msgstr "Bifați această casetă pentru ca Yahoo! să nu utilizeze descrieri din directorul Yahoo! pentru întregul site."
+
+#: aioseop_class.php:217
+msgid "Set the default noodp setting for each Post Type."
+msgstr "Setați implicit noodp  pentru fiecare Post Type."
+
+#: aioseop_class.php:216
+msgid "Check this box to ask search engines not to use descriptions from the Open Directory Project for your entire site."
+msgstr "Bifați această casetă pentru ca motoarele de căutare să nu utilizeze descrieri de Open Directory Project pentru întregul site."
+
+#: aioseop_class.php:215
+msgid "Check this to ask search engines not to follow links from paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Verificați acest lucru pentru a cere motoarele de căutare să nu urmeze link-uri la pagini paginate / posturi. Util pentru evitarea conținut duplicat."
+
+#: aioseop_class.php:214
+msgid "Check this to ask search engines not to index paginated pages/posts. Useful for avoiding duplicate content."
+msgstr "Bifați acesta opţiune pentru a cere motoarelor de căutare nu să indexeze pagini sau postări paginate. Util pentru evitarea duplicării de conținut."
+
+#: aioseop_class.php:213
+msgid "Check this to ask search engines not to index custom Taxonomy archive pages. Useful for avoiding duplicate content."
+msgstr "Bifați acesta opţiune pentru a cere motoarelor de căutare nu să indexeze \"custom Taxonomy archive pages\". Util pentru evitarea duplicării de conținut."
+
+#: aioseop_class.php:212
+msgid "Check this to ask search engines not to index the 404 page."
+msgstr "Bifați acesta opţiune pentru a cere motoarelor de căutare nu să indexeze pagina de eroare 404."
+
+#: aioseop_class.php:211
+msgid "Check this to ask search engines not to index the Search page. Useful for avoiding duplicate content."
+msgstr "Bifați acesta opţiune pentru a cere motoarelor de căutare nu să indexeze pagina de cautare. Util pentru evitarea duplicării de conținut."
+
+#: aioseop_class.php:210
+msgid "Check this to ask search engines not to index Tag Archives. Useful for avoiding duplicate content."
+msgstr "Bifați acesta opţiune pentru a cere motoarelor de căutare nu să indexeze Tag Archives. Util pentru evitarea duplicării de conținut."
+
+#: aioseop_class.php:209
+msgid "Check this to ask search engines not to index Author Archives. Useful for avoiding duplicate content."
+msgstr "Bifați acesta opţiune pentru a cere motoarelor de căutare nu să indexeze Author Archives. Util pentru evitarea duplicării de conținut."
+
+#: aioseop_class.php:208
+msgid "Check this to ask search engines not to index Date Archives. Useful for avoiding duplicate content."
+msgstr "Bifați acesta opţiune pentru a cere motoarelor de căutare nu să indexeze Date Archives. Util pentru evitarea duplicării de conținut."
+
+#: aioseop_class.php:207
+msgid "Check this to ask search engines not to index Category Archives. Useful for avoiding duplicate content."
+msgstr "Bifați acesta opţiune pentru a cere motoarelor de căutare nu să indexeze Category Archives. Util pentru evitarea duplicării de conținut."
+
+#: aioseop_class.php:205
+msgid "Set the default NOFOLLOW setting for each Post Type."
+msgstr "Seteaza optiunea implicita NOFOLLOW pentru fiecare Tip de Postare (Post Type)"
+
+#: aioseop_class.php:204
+msgid "Set the default NOINDEX setting for each Post Type."
+msgstr "Seteaza optiunea implicita NOINDEX pentru fiecare Tip de Postare (Post Type)"
+
+#: aioseop_class.php:203
+msgid "This enables support for the Enhanced Ecommerce in Google Analytics."
+msgstr "Aceasta optiune permite sprijin pentru Enhanced Ecommerce in Google Analytics."
+
+#: aioseop_class.php:202
+msgid "This enables support for the Enhanced Link Attribution in Google Analytics."
+msgstr "Aceasta opţiune permite sprijin pentru Enhanced Link Attribution in Google Analytics."
+
+#: aioseop_class.php:201
+msgid "Check this if you want to track outbound links with Google Analytics."
+msgstr "Bifează opțiunea daca doriți să urmăriți Link-urile Outbound cu Google Analytics."
+
+#: aioseop_class.php:200
+msgid "Exclude logged-in users from Google Analytics tracking by role."
+msgstr "Excludeți utilizatorii autentificați la Google Analytics dupa rol."
+
+#: aioseop_class.php:199
+msgid "This enables support for the Display Advertiser Features in Google Analytics."
+msgstr "Aceasta optiune permite sprijin pentru Display Advertiser Features in Google Analytics."
+
+#: aioseop_class.php:198
+msgid "This enables support for IP Anonymization in Google Analytics."
+msgstr "Aceasta opţiune permite sprijin pentru anonimizarea IP-ului in Google Analytics."
+
+#: aioseop_class.php:197
+msgid "Add a list of additional domains to track here.  Enter one domain name per line without the http://."
+msgstr "Adăugați o listă de domenii suplimentare pentru a urmări aici. Introduceți un nume de domeniu / linie fără http: //."
+
+#: aioseop_class.php:196
+msgid "Use this option to enable tracking of multiple or additional domains."
+msgstr "Utilizați această opțiune pentru a activa urmărirea de domenii multiple sau suplimentare."
+
+#: aioseop_class.php:195
+msgid "Enter your domain name without the http:// to set your cookie domain."
+msgstr "Introduceți numele dvs. de domeniu, fără http: // pentru a seta domeniul dvs. cookie."
+
+#: aioseop_class.php:194
+msgid "Check to use advanced Google Analytics options."
+msgstr "Selecteaza aceasta optiunes pentru a folosi optiunile avansate ale Google Analytics"
+
+#: aioseop_class.php:193
+msgid "Enter your Google Analytics ID here to track visitor behavior on your site using Google Analytics."
+msgstr "Introduceți ID-ul Google Analytics aici pentru a urmări comportamentul vizitatorilor pe site-ul dvs. utilizând Google Analytics."
+
+#: aioseop_class.php:192
+msgid "Press the connect button to connect with Google Analytics; or if already connected, press the disconnect button to disable and remove any stored analytics credentials."
+msgstr "Apăsați butonul Connect pentru a se conecta cu Google Analytics; sau dacă deja conectat, apăsați butonul de deconectare pentru a dezactiva și elimina orice analiză a acreditărilor stocate."
+
+#: aioseop_class.php:191
+msgid "Add markup to tell Google the preferred name for your website."
+msgstr "Adaugă un markup pentru a indica pentru Google numele preferat al sitului tău."
+
+#: aioseop_class.php:190
+msgid "Add markup to display the Google Sitelinks Search Box next to your search results in Google."
+msgstr "Adaugă markup pentru a afișa Google Sitelinks Search Box lângă rezultatele căutării în Google."
+
+#: aioseop_class.php:189
+msgid "The Google+ profile you enter here will appear on your homepage only as the rel=\\\"publisher\\\" tag. It is recommended that the URL you enter here should be the Google+ profile for your business."
+msgstr "Profilul Google+ pe care l-ai introdus aici va apărea în prima ta pagină ca tagul rel=\\\"publisher\\\". Se recomandă ca URL-ul pe care l-ai introdus aici să fie profilul Google+ al  afacerii tale."
+
+#: aioseop_class.php:188
+msgid "This option allows you to control whether rel=\\\"publisher\\\" is displayed on the homepage of your site. Google recommends using this if the site is a business website."
+msgstr "Această opțiune îți permite să controlezi dacă rel=\\\"publisher\\\" este afișat în prima pagină a sitului tău. Google recomandă folosirea acesteia dacă situl este un sit web de afaceri."
+
+#: aioseop_class.php:187
+msgid "This option allows you to control which types of pages you want to display rel=\\\"author\\\" on for Google authorship. The options include the Front Page (the homepage of your site), Posts, Pages, and any Custom Post Types. The Everywhere Else option includes 404, search, categories, tags, custom taxonomies, date archives, author archives and any other page template."
+msgstr "Această opțiune îți permite să controlezi în ce tipuri de pagini vrei să afișezi rel=\\\"author\\\" în calitate de autor Google. Opțiunile includ pagina din față (prima pagina a sitului tău), articole, pagini și orice tipuri de articol personalizat. Opțiunea Oriunde altundeva include 404, căutare, categorii, etichete, taxonomii personalizate, arhive dată, arhive autor și orice alt șablon de pagină."
+
+#: aioseop_class.php:186
+msgid "Enable this to display advanced options for controlling Google Plus authorship information on your website."
+msgstr "Activați pentru a afișa opțiuni avansate de control al Google Plus de autor pe site-ul tau."
+
+#: aioseop_class.php:185
+msgid "Check this to remove the Google Plus field from the user profile screen."
+msgstr "Bifeaza aceasta optiune pentru a elimina campul Google Plus din pagina userului."
+
+#: aioseop_class.php:184
+msgid "Enter your Google+ Profile URL here to add the rel=“author” tag to your site for Google authorship. It is recommended that the URL you enter here should be your personal Google+ profile.  Use the Advanced Authorship Options below if you want greater control over the use of authorship."
+msgstr "Introduceți URL-ul Profilului Google+ aici pentru a adăuga eticheta rel = \"autor\" pe site-ul dvs. pentru Google autor. Se recomandă ca adresa URL introdusa aici să fie cea de profil personal Google+. Utilizați Opțiunile avansate de autor de mai jos dacă doriți un control mai mare asupra utilizării in calitate de autor."
+
+#: aioseop_class.php:183
+msgid "Enter your verification code here to verify your site with Pinterest.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Introdu codul de verificare aici pentru a-ti verifica site-ul cu Pinterest.<br /><a href='http://semperplugins.com/documentation/pinterest-site-verification/' target='_blank'>Click aici pentru documentatie (en)</a>"
+
+#: aioseop_class.php:182
+msgid "Enter your verification code here to verify your site with Bing Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Introdu codu de verificare aici pentru a-ti verifica site-ul cu Bing Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/bing-webmaster-verification/' target='_blank'>Click aici pentru documentatie (en)</a>"
+
+#: aioseop_class.php:181
+msgid "Enter your verification code here to verify your site with Google Webmaster Tools.<br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Click here for documentation on this setting</a>"
+msgstr "Introdu codul de verificare aici pentru a-ti verifica site-ul cu Google Webmaster Tools. <br /><a href='http://semperplugins.com/documentation/google-webmaster-tools-verification/' target='_blank'>Click aici pentru documentatie (en)</a>"
+
+#: inc/commonstrings.php:47
+msgid "Check this to move the All in One SEO Pack menu item to the top of your WordPress Dashboard menu."
+msgstr "Verificați acest lucru pentru a muta elementul de meniu All in One SEO Pack  în partea de sus a meniului tabloului de bord WordPress"
+
+#: inc/commonstrings.php:46
+msgid "Check this to add All in One SEO Pack to the Admin Bar for easy access to your SEO settings."
+msgstr "Bifati aceasta optiune pentru a adauga All in one SEO Pack la Bara Adminului pentru acces rapid la setarile SEO. "
+
+#: aioseop_class.php:180
+msgid "This lets you select which screens display the SEO Title, SEO Keywords and SEO Description columns."
+msgstr "Aceasta opţiune va permite sa alegeți ce ferestre afișează Titlu SEO, Cuvinte cheie SEO si Coloanele cu descrieri SEO."
+
+#: aioseop_class.php:179
+msgid "This allows you to set the title tags for each Custom Post Type."
+msgstr "Aceasta optiune permite setarea etichetei titlului pentru fiecare Tip de Postare Personalizata. "
+
+#: aioseop_class.php:177
+msgid "Use these checkboxes to select which Post Types you want to use All in One SEO Pack with."
+msgstr "Bifati aceste casute pentru a selecta ce Tipuri de Postari doriti sa utilizati All in one SEO Pack."
+
+#: aioseop_class.php:176
+msgid "This will show or hide the advanced options for SEO for Custom Post Types."
+msgstr "Aceasta optiune va arata/ascunde optiunile avansate SEO pentru Tipuri de Postari Personalizate (Custom Post Types)"
+
+#: aioseop_class.php:175
+msgid "Check this if you want to use All in One SEO Pack with any Custom Post Types on this site."
+msgstr "Bifati aceasta optiune daca doriti sa folositi All in One SEO Pack cu Tipuri de Postari Personalizate (Custom Post Types) pentru acest site."
+
+#: aioseop_class.php:174
+msgid "%page% - The page number"
+msgstr "%page% - Numarul paginii"
+
+#: aioseop_class.php:173 aioseop_class.php:3204 aioseop_class.php:3256
+msgid "The following macros are supported:"
+msgstr "Urmatoarele comenzi macro sunt acceptate:"
+
+#: aioseop_class.php:172
+msgid "This string gets appended/prepended to titles of paged index pages (like home or archive pages)."
+msgstr "Acest șir se adauga la inceputul/finalul titlurilor paginilor indexate (cum ar fi pagina de start sau arhiva)."
+
+#: aioseop_class.php:171
+msgid "%404_title% - Additional 404 title input\""
+msgstr "%404_title% - Titluri 404 adiționale\""
+
+#: aioseop_class.php:170
+msgid "%request_words% - The URL path in human readable form, like \"Url That Does Not Exist\""
+msgstr "%request_words% -Calea URL in format lizibil, precum \"Url That Does Not Exist\""
+
+#: aioseop_class.php:169
+msgid "%request_url% - The original URL path, like \"/url-that-does-not-exist/\""
+msgstr "%request_url% - Calea originala pentru URL, precum \"/url-that-does-not-exist/\""
+
+#: aioseop_class.php:166
+msgid "This controls the format of the title tag for the 404 page.<br />The following macros are supported:"
+msgstr "Aceasta optiune seteaza formatul etichetei titlului pentru pagina 404. <br /> Urmatoarele comenzi macro sunt acceptate:"
+
+#: aioseop_class.php:165
+msgid "%wp_title% - The original wordpress title, e.g. post_title for posts"
+msgstr "%wp_title% - Titlul original wordpress, ex. post_title pentru postari"
+
+#: aioseop_class.php:163
+msgid "%description% - The original description as determined by the plugin, e.g. the excerpt if one is set or an auto-generated one if that option is set"
+msgstr "%description% - Descrierea originala setata de catre plugin"
+
+#: aioseop_class.php:160
+msgid "This controls the format of Meta Descriptions.The following macros are supported:"
+msgstr "Aceasta optiune seteaza formatul Meta Description. Urmatoarele comenzi macro sunt acceptate:"
+
+#: aioseop_class.php:159
+msgid "%search% - What was searched for"
+msgstr "%search% - Ce a fost cautat"
+
+#: aioseop_class.php:156
+msgid "This controls the format of the title tag for the Search page.<br />The following macros are supported:"
+msgstr "Aceasta optiune seteaza formatul etichetei titlului pentru Pagina de cautare. <br />Urmatoarele comenzi macro sunt acceptate:"
+
+#: aioseop_class.php:154
+msgid "%tag% - The name of the tag"
+msgstr "%tag% - Numele etichetei"
+
+#: aioseop_class.php:151
+msgid "This controls the format of the title tag for Tag Archives.<br />The following macros are supported:"
+msgstr "Aceasta optiune stabileste formatul etichetei titlului pentru Arhiva Etichetelor. <br /> Urmatoarele comenzi macro sunt acceptate:"
+
+#: aioseop_class.php:149
+msgid "%author% - The original archive title given by wordpress, e.g. \"Steve\" or \"John Smith\""
+msgstr "%author% - Titlul arhivei stabilit inițial de WordPress, ex. \"Steve\" sau \"John Smith\""
+
+#: aioseop_class.php:146
+msgid "This controls the format of the title tag for Author Archives.<br />The following macros are supported:"
+msgstr "Aceasta optiune controleaza formatul titlului pentru Author Archives.<br />Urmatoarele comenzi macro sunt suportate:"
+
+#: aioseop_class.php:144
+msgid "%year% - The original archive year given by wordpress, e.g. \"2007\""
+msgstr "%year% - Anul arhivei stabilit inițial de WordPress, ex. \"2007\""
+
+#: aioseop_class.php:143
+msgid "%month% - The original archive month given by wordpress, e.g. \"August\""
+msgstr "%day% - Luna arhivei stabilita inițial de WordPress, ex. \"August\""
+
+#: aioseop_class.php:142
+msgid "%day% - The original archive day given by wordpress, e.g. \"17\""
+msgstr "%day% - Ziua arhivei stabilita inițial de WordPress, ex. \"17\""
+
+#: aioseop_class.php:141
+msgid "%date% - The original archive title given by wordpress, e.g. \"2007\" or \"2007 August\""
+msgstr "%date% - Titlul arhivei stabilit inițial de WordPress, ex. \"2007\" sau \"2007 August\""
+
+#: aioseop_class.php:138
+msgid "This controls the format of the title tag for Date Archives.<br />The following macros are supported:"
+msgstr "Aceasta optiune controleaza formatul titlului pentru Date Archives.<br />Urmatoarele comenzi macro sunt suportate:"
+
+#: aioseop_class.php:136
+msgid "%archive_title - The original archive title given by wordpress"
+msgstr "%archive_title - Titlul inițial al arhivei dat de WordPress"
+
+#: aioseop_class.php:133
+msgid "This controls the format of the title tag for Custom Post Archives.<br />The following macros are supported:"
+msgstr "Aceasta optiune controleaza formatul titlului pentru Custom Post Archives.<br />Urmatoarele comenzi macro sunt acceptate:"
+
+#: aioseop_class.php:131
+msgid "%category_description% - The description of the category"
+msgstr "%category_description% - Descrierea categoriei"
+
+#: aioseop_class.php:130
+msgid "%category_title% - The original title of the category"
+msgstr "%category_title% - Numele original al categoriei"
+
+#: aioseop_class.php:127
+msgid "This controls the format of the title tag for Category Archives.<br />The following macros are supported:"
+msgstr "Aceasta optiune controleaza formatul titlului pentru Category Archives.<br />Urmatoarele comenzi macro sunt acceptate:"
+
+#: aioseop_class.php:125 aioseop_class.php:3218
+msgid "%post_author_lastname% - This post's author' last name (capitalized)"
+msgstr "%post_author_lastname% - Numele autorului postului (majuscule)"
+
+#: aioseop_class.php:124 aioseop_class.php:3217
+msgid "%post_author_firstname% - This post's author' first name (capitalized)"
+msgstr "%post_author_firstname% - Prenumele autorului postului (majuscule)"
+
+#: aioseop_class.php:123 aioseop_class.php:3216
+msgid "%post_author_nicename% - This post's author' nicename"
+msgstr "%post_author_nicename% - Nickname al autorului postului (nicename)"
+
+#: aioseop_class.php:122 aioseop_class.php:3215
+msgid "%post_author_login% - This post's author' login"
+msgstr "%post_author_login% - Logare pentru autorul postării"
+
+#: aioseop_class.php:121
+msgid "%category% - Alias for %category_title%"
+msgstr "%category% - Alias pentru %category_title%"
+
+#: aioseop_class.php:120
+msgid "%category_title% - The (main) category of the post"
+msgstr "%category_title% - Categoria (principala) a postarii"
+
+#: aioseop_class.php:119 aioseop_class.php:164
+msgid "%post_title% - The original title of the post"
+msgstr "%post_title% - Numele original al postarii"
+
+#: aioseop_class.php:116
+msgid "This controls the format of the title tag for Posts.<br />The following macros are supported:"
+msgstr "Aceasta optiune stabileste formatul titlului pentru Postari </br/>. Urmatoarele macro sunt acceptate:"
+
+#: aioseop_class.php:107
+msgid "This controls the format of the title tag for Pages.<br />The following macros are supported:"
+msgstr "Aceasta controlează formatul tag-ului titlu pentru pagini. <br /> Următoarele macro-uri sunt acceptate:"
+
+#: aioseop_class.php:105 aioseop_class.php:114
+msgid "%page_author_lastname% - This page's author' last name (capitalized)"
+msgstr "%page_author_lastname% - Numele autorului paginii (majuscule)"
+
+#: aioseop_class.php:104 aioseop_class.php:113
+msgid "%page_author_firstname% - This page's author' first name (capitalized)"
+msgstr "%page_author_firstname% - Prenumele autorului paginii (majuscule)"
+
+#: aioseop_class.php:103 aioseop_class.php:112
+msgid "%page_author_nicename% - This page's author' nicename"
+msgstr "%page_author_nicename% - Nickname pentru autorului paginii (nicename)"
+
+#: aioseop_class.php:102 aioseop_class.php:111
+msgid "%page_author_login% - This page's author' login"
+msgstr "%page_author_login% - Logare pentru autorul paginii"
+
+#: aioseop_class.php:101 aioseop_class.php:110
+msgid "%page_title% - The original title of the page"
+msgstr "%page_title% - Numele original al paginii"
+
+#: aioseop_class.php:100 aioseop_class.php:109 aioseop_class.php:118
+#: aioseop_class.php:129 aioseop_class.php:135 aioseop_class.php:140
+#: aioseop_class.php:148 aioseop_class.php:153 aioseop_class.php:158
+#: aioseop_class.php:162 aioseop_class.php:168 aioseop_class.php:3206
+#: aioseop_class.php:3258
+msgid "%blog_description% - Your blog description"
+msgstr "%blog_description% - Descrierea blogului tau"
+
+#: aioseop_class.php:99 aioseop_class.php:108 aioseop_class.php:117
+#: aioseop_class.php:128 aioseop_class.php:134 aioseop_class.php:139
+#: aioseop_class.php:147 aioseop_class.php:152 aioseop_class.php:157
+#: aioseop_class.php:161 aioseop_class.php:167 aioseop_class.php:3205
+#: aioseop_class.php:3257
+msgid "%blog_title% - Your blog title"
+msgstr "%blog_title% - Titlul Blogului tau"
+
+#: aioseop_class.php:98
+msgid "This controls the format of the title tag for your Home Page.<br />The following macros are supported:"
+msgstr "Aceasta controlează formatul tagului de titlul pentru prima pagină. <br />Următoarele macrouri sunt suportate:"
+
+#: aioseop_class.php:96
+msgid "Check this and Search Page Titles and Tag Page Titles will have the first letter of each word capitalized."
+msgstr "Bifați această opțiune dacă doriți ca Titlul paginii de cautare si Titlul paginilor de etichete (Tag Page Titles) sa aiba prima litera majuscula."
+
+#: aioseop_class.php:95
+msgid "Note that this is all about the title tag. This is what you see in your browser's window title bar. This is NOT visible on a page, only in the title bar and in the source code. If enabled, all page, post, category, search and archive page titles get rewritten. You can specify the format for most of them. For example: Using the default post title format below, Rewrite Titles will write all post titles as 'Post Title | Blog Name'. If you have manually defined a title using All in One SEO Pack, this will become the title of your post in the format string."
+msgstr "Rețineți că aceasta opţiune este legata de titlul etichetelor. Aceasta este ceea ce vedeți în bara de titlu a ferestrei browser-ului. Acest lucru NU este vizibil de pe o pagină, numai în bara de titlu și în codul sursă. Dacă este activată, toate titlurile de pagină, postare, categorie, pagina de căutare și arhivă se vor rescrie. Puteți specifica formatul pentru cele mai multe dintre ele. De exemplu: Folosind formatul implicit de titlu de mai jos, Rescrie Titlurile va scrie toate titlurile ca \"Titlul Postării | Nume Blog\". Dacă ați definit un titlu folosind All in One SEO Pack, acesta va deveni formatul titlurilor postărilor dvs."
+
+#: aioseop_class.php:94
+msgid "Check this if you want your keywords on your Posts page (set in WordPress under Settings, Reading, Front Page Displays) and your archive pages to be dynamically generated from the keywords of the posts showing on that page.  If unchecked, it will use the keywords set in the edit page screen for the posts page."
+msgstr "Bifați asta dacă vă doriți cuvintele cheie pe pagina de articole (setată în WordPress sub Setări, Citire, Afișare Prima Pagină) și paginile tale de arhive pentru a fi generate dinamic de la cuvintele cheie ale articolelor afișate pe acea pagină. Dacă este nebifat, va utiliza cuvintele cheie setate în ecranul de editare pentru pagina de articole."
+
+#: aioseop_class.php:93
+msgid "Check this if you want your tags for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Bifați această opțiune dacă doriți etichetele pentru un anumit post sa fie folosit ca si Cuvinte cheie (Meta Keywords) pentru acest post  (în plus față de orice cuvinte cheie pe care le specificați în ecranul Edit post)."
+
+#: aioseop_class.php:92
+msgid "Check this if you want your categories for a given post used as the Meta Keywords for this post (in addition to any keywords you specify on the Edit Post screen)."
+msgstr "Bifati această opțiune dacă doriți categoriile dvs sa fie folosite ca si cuvinte cheie (Meta Keywords) pentru o postare dorita (în plus față de orice cuvinte cheie pe care le specificați în ecranul Modificare postare (Edit Post))."
+
+#: aioseop_class.php:91
+msgid "This option allows you to toggle the use of Meta Keywords throughout the whole of the site."
+msgstr "Această opțiune vă permite să utilizati cuvintele cheie (Meta Keywords) pe website."
+
+#: aioseop_class.php:90
+msgid "Checking this option uses the title, description, and keywords set on your static Front Page."
+msgstr "Bifarea acestei opțiuni folosește titlul, descrierea și cuvintele cheie setate pe pagina ta statică din față."
+
+#: aioseop_class.php:89
+msgid "Enter a comma separated list of your most important keywords for your site that will be written as Meta Keywords on your homepage. Do not stuff everything in here."
+msgstr "Introdu o listă cu cele mai importante cuvinte cheie ale sitului tău, separate prin virgulă, care vor fi scrise ca meta cuvinte cheie pe prima ta pagină. Nu le introdu pe toate aici."
+
+#: aioseop_class.php:88
+msgid "This will be the Meta Description for your homepage. This is independent of any other option. The default is no Meta Description at all if this is not set."
+msgstr "Aceasta va fi Descrierea paginii dvs principale (Homepage Meta Description). Aceasta optiune este independentă de orice altă opțiune. Nu se seteaza automat \"Meta Description\" daca aceasta optiune nu este folosita."
+
+#: aioseop_class.php:87
+msgid "As the name implies, this will be the Meta Title of your homepage. This is independent of any other option. If not set, the default Site Title (found in WordPress under Settings, General, Site Title) will be used."
+msgstr "După cum sugerează și numele, acesta va fi Titlul paginii dvs. principale (Homepage Meta Title). Aceasta optiune este independentă de orice altă opțiune. În cazul în care nu este setata aceasta opţiune, se folosește implicit titlul site-ului (găsit în WordPress la Setări, General, titlul site-ului)."
+
+#: aioseop_class.php:86
+msgid "Check this and All in One SEO Pack will create a log of important events (all-in-one-seo-pack.log) in its plugin directory which might help debugging. Make sure this directory is writable."
+msgstr "Bifează aici și All in One SEO Pack va creea un jurnal cu evenimentele importante (all_in_one_seo_pack.log) in directorul modulului ce poate fi util în depanare. Asigură-te că în director se pot scrie fișiere."
+
+#: aioseop_class.php:85
+msgid "Use wp_title to get the title used by the theme; this is disabled by default. If you use this option, set your title formats appropriately, as your theme might try to do its own title SEO as well."
+msgstr "Folosește wp_title pentru a avea titlul folosit de temă; acesta este implicit dezactivat. Dacă folosești această opțiune, setează-ți corespunzător formatul titlului, întrucât tema s-ar putea să-și facă de asemenea propriul ei titlu SEO."
+
+#: aioseop_class.php:84
+msgid "Set protocol for canonical URLs."
+msgstr "Setează protocolul pentru URL-urile canonice."
+
+#: aioseop_class.php:83
+msgid "Checking this option will allow you to customize Canonical URLs for specific posts."
+msgstr "Selectarea acestei optiuni va permite personalizarea URL-urilor Canonical pentru postari specifice. "
+
+#: aioseop_class.php:82
+msgid "Checking this option will set the Canonical URL for all paginated content to the first page."
+msgstr "Selectarea acestei opțiuni va atribui paginii inițiale URL-ul Canonic pentru conținutul paginat."
+
+#: aioseop_class.php:81
+msgid "This option will automatically generate Canonical URLs for your entire WordPress installation.  This will help to prevent duplicate content penalties by <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a>."
+msgstr "Aceasta optiune va genera in mod automat URL-uri canonice pentru intreaga instalare WordPress. Aceasta optiune asigura evitarea acordarii de penalitati de catre <a href=\\'http://googlewebmastercentral.blogspot.com/2009/02/specify-your-canonical.html\\' target=\\'_blank\\'>Google</a> in cazul continutului duplicat. "
+
+#: aioseop_class.php:79
+msgid "All donations support continued development of this free software."
+msgstr "Toate donațiile sprijină în continuare dezvoltarea acestui modul gratuit."
+
+#: aioseop_class.php:69 aioseop_class.php:1054
+#: modules/aioseop_opengraph.php:557
+msgid "General Settings"
+msgstr "Setări generale"
+
+#: aioseop_class.php:68
+msgid "%s Plugin Options"
+msgstr "%s Optiuni Plugin"
+
+#: modules/aioseop_bad_robots.php:182
+msgid "No rules to update!"
+msgstr "Nicio regulă de actualizat!"
+
+#: modules/aioseop_bad_robots.php:146 modules/aioseop_bad_robots.php:179
+msgid "Failed to update .htaccess rules!"
+msgstr "Actualizarea regulilor .htaccess a eșuat!"
+
+#: modules/aioseop_bad_robots.php:144 modules/aioseop_bad_robots.php:177
+msgid "Updated .htaccess rules."
+msgstr "Regulile .htaccess s-au actualizat."
+
+#: modules/aioseop_bad_robots.php:157
+msgid "Apache module %s is required!"
+msgstr "Extensia Apache %s este obligatorie!"
+
+#: modules/aioseop_bad_robots.php:109
+msgid "Blocked bot with IP %s -- matched referer %s found in blocklist."
+msgstr "Bot blocat cu IP %s -- referință similară %s găsită în lista de blocare."
+
+#: modules/aioseop_bad_robots.php:103
+msgid "Blocked bot with IP %s -- matched user agent %s found in blocklist."
+msgstr "Bot blocat cu IP %s -- agent utilizator similar %s găsit în lista de blocare."
+
+#: modules/aioseop_bad_robots.php:60
+msgid "No requests yet."
+msgstr "Nicio solicitare încă."
+
+#: modules/aioseop_bad_robots.php:59
+msgid "Log Of Blocked Bots"
+msgstr "Deautentificare boți blocați"
+
+#: modules/aioseop_bad_robots.php:48
+msgid "Referer Blocklist"
+msgstr "Listă de blocare referințe"
+
+#: modules/aioseop_bad_robots.php:40
+msgid "User Agent Blocklist"
+msgstr "Listă de blocare agenți utilizatori."
+
+#: modules/aioseop_bad_robots.php:36
+msgid "Track Blocked Bots"
+msgstr "Urmărește Roboții Blocați"
+
+#: modules/aioseop_bad_robots.php:30
+msgid "Shows log of most recent requests from blocked bots. Note: this will not track any bots that were already blocked at the web server / .htaccess level."
+msgstr "Arată cele mai recente cereri de deautentificare ale boților blocați. Notă: aceasta nu va urmări niciun bot deja blocat pe serverul web / la nivelul .htaccess."
+
+#: modules/aioseop_bad_robots.php:29
+msgid "This is the list of disallowed referers used for blocking bad bots."
+msgstr "Aceasta este lista referenților respinși folosită pentru blocarea boților răi."
+
+#: modules/aioseop_bad_robots.php:28
+msgid "This is the list of disallowed user agents used for blocking bad bots."
+msgstr "Aceasta este lista agenților utilizator respinși folosită pentru blocarea boților răi."
+
+#: modules/aioseop_bad_robots.php:27
+msgid "Check this to edit the list of disallowed user agents for blocking bad bots."
+msgstr "Bifează asta pentru a edita lista agenților utilizator respinși pentru blocarea boților răi."
+
+#: modules/aioseop_bad_robots.php:26
+msgid "Block bad robots via Apache .htaccess rules. Warning: this will change your web server configuration, make sure you are able to edit this file manually as well."
+msgstr "Blochează boții răi prin regulile .htaccess Apache. Atenție: aceasta va schimba configurația serverului tău web, asigură-te că poți edita și manual acest fișier."
+
+#: modules/aioseop_bad_robots.php:25
+msgid "Log and show recent requests from blocked bots."
+msgstr "Înregistrează și afișează cererile recente de la roboții blocați."
+
+#: modules/aioseop_bad_robots.php:23
+msgid "Block requests from user agents that are known to misbehave with 503."
+msgstr "Blochează cererile de la agenții utilizator care sunt știuți ca având comportament problematic cu 503."
+
+#: modules/aioseop_bad_robots.php:17 modules/aioseop_feature_manager.php:49
+msgid "Bad Bot Blocker"
+msgstr "Blocare bot rău"

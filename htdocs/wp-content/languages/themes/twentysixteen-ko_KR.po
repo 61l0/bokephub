@@ -1,0 +1,328 @@
+# Translation of Twenty Sixteen in Korean
+# This file is distributed under the same license as the Twenty Sixteen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2015-12-09 07:20:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Twenty Sixteen\n"
+
+#. Description of the plugin/theme
+msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
+msgstr "Twenty Sixteen (2016)은 항상 인기있는 워드프레스 레이아웃을 기반으로 현대적 감성을 추가했습니다. - 우측 사이드바 옵션이 있는 수평 마스트헤드는 블로그와 웹사이트에 완벽하게 어울립니다. 아름다운 기본 색상 구조와 모바일 우선 방식을 사용한 조화로운 유동 그리드 사용자 정의 색상 옵션이 있으며 모든 면에서 결함 없이 사용할 수 있습니다. Twenty Sixteen은 어느곳에서든지 워드프레스를 아름답게 보일 것입니다."
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Sixteen"
+msgstr "Twenty Sixteen"
+
+#. translators: %s: Name of current post
+#: image.php:84 template-parts/content-page.php:37
+#: template-parts/content-search.php:28 template-parts/content-search.php:43
+#: template-parts/content-single.php:45 template-parts/content.php:49
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "편집<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:184 template-parts/content.php:28
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "더 보기<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/customizer.php:283
+msgid "Red"
+msgstr "빨강"
+
+#. translators: %s: post title
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo;의 한가지 생각"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "검색"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "검색 &hellip;"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "검색:"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "푸터 주 메뉴"
+
+#: footer.php:28
+msgid "Footer Social Links Menu"
+msgstr "푸터 소셜 링크 메뉴"
+
+#: functions.php:158
+msgid "Add widgets here to appear in your sidebar."
+msgstr "사이드바에 나타나도록 하려면 여기에 위젯을 추가하세요."
+
+#: template-parts/content.php:14
+msgid "Featured"
+msgstr "특성"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "찾고 있는 것을 찾을 수 없는 것 같습니다. 검색이 도움이 될 수도 있습니다."
+
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "죄송하지만 검색어와 일치하는 것이 없습니다. 다른 검색어로 다시 시도해보세요."
+
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "첫 번째 글을 발행할 준비가 됐나요? <a href=\"%1$s\">여기서 시작하세요</a>."
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "찾을 수 없습니다"
+
+#: template-parts/biography.php:33
+msgid "View all posts by %s"
+msgstr "%s의 모든 글 보기"
+
+#: template-parts/biography.php:28
+msgid "Author:"
+msgstr "글쓴이:"
+
+#: single.php:38
+msgid "Previous post:"
+msgstr "이전 글:"
+
+#: single.php:35
+msgid "Next post:"
+msgstr "다음 글:"
+
+#: single.php:37
+msgid "Previous"
+msgstr "이전"
+
+#: single.php:34
+msgid "Next"
+msgstr "다음"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "결색 결과: %s"
+
+#: inc/template-tags.php:106
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "태그"
+
+#: inc/template-tags.php:98
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "카테고리"
+
+#: inc/template-tags.php:95 inc/template-tags.php:103
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:79
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr "작성일자"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%s</span>에 댓글 남기기"
+
+#: inc/template-tags.php:38
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "글 형식"
+
+#: inc/template-tags.php:25
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "글쓴이"
+
+#: inc/customizer.php:293
+msgid "Yellow"
+msgstr "노랑"
+
+#: inc/customizer.php:273
+msgid "Gray"
+msgstr "회색"
+
+#: inc/customizer.php:263
+msgid "Dark"
+msgstr "어두움"
+
+#: inc/customizer.php:184
+msgid "Secondary Text Color"
+msgstr "보조 텍스트 색상"
+
+#: inc/customizer.php:253
+msgid "Default"
+msgstr "기본"
+
+#: inc/customizer.php:172
+msgid "Main Text Color"
+msgstr "메인 텍스트 색상"
+
+#: inc/customizer.php:145
+msgid "Page Background Color"
+msgstr "페이지 배경 색상"
+
+#: inc/customizer.php:160
+msgid "Link Color"
+msgstr "링크 색상"
+
+#: inc/customizer.php:130
+msgid "Base Color Scheme"
+msgstr "기본 색상 구조"
+
+#: inc/back-compat.php:41 inc/back-compat.php:53 inc/back-compat.php:68
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Sixteen은 적어도 워드프레스 4.4. 버전 이상이 필요합니다. 현재 버전은 %s. 입니다. 버전을 업그레이드 후 다시 시도해 주세요."
+
+#: image.php:102 single.php:29
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">발행됨</span><span class=\"post-title\">%title</span>"
+
+#: image.php:73
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "전체 크기"
+
+#: image.php:56 template-parts/content-page.php:23
+#: template-parts/content-single.php:25 template-parts/content.php:33
+msgid "Pages:"
+msgstr "페이지:"
+
+#: image.php:25
+msgid "Next Image"
+msgstr "다음 이미지"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "이전 이미지"
+
+#: header.php:47
+msgid "Menu"
+msgstr "메뉴"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "콘텐츠로 바로가기"
+
+#: functions.php:285
+msgid "collapse child menu"
+msgstr "하위 메뉴 축소"
+
+#: functions.php:284
+msgid "expand child menu"
+msgstr "하위 메뉴 확장"
+
+#. translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:208
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "끄기"
+
+#. translators: If there are characters in your language that are not supported
+#. by Merriweather, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:203
+msgctxt "Merriweather font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:176
+msgid "Content Bottom 2"
+msgstr "콘텐츠 하단 2"
+
+#: functions.php:168 functions.php:178
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "포스트와 페이지의 콘텐츠 하단에 나타납니다."
+
+#: functions.php:166
+msgid "Content Bottom 1"
+msgstr "콘텐츠 하단 1"
+
+#. translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:213
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr "끄기"
+
+#: functions.php:156
+msgid "Sidebar"
+msgstr "사이드바"
+
+#: functions.php:89 header.php:62
+msgid "Social Links Menu"
+msgstr "소셜 링크 메뉴"
+
+#: functions.php:88 header.php:51
+msgid "Primary Menu"
+msgstr "기본 메뉴"
+
+#: footer.php:51
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "댓글이 닫혀있습니다."
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:35
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo;의 %1$s개의 생각"
+
+#: archive.php:51 image.php:60 index.php:48 search.php:39
+#: template-parts/content-page.php:27 template-parts/content-single.php:29
+#: template-parts/content.php:37
+msgid "Page"
+msgstr "페이지"
+
+#: archive.php:50 index.php:47 search.php:38
+msgid "Next page"
+msgstr "다음 쪽"
+
+#: archive.php:49 index.php:46 search.php:37
+msgid "Previous page"
+msgstr "이전 쪽"
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "해당 위치에서 찾을 수 있는 것이 아무 것도 없는 것 같습니다. 검색을 해보시겠습니까?"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "이런! 해당 페이지를 찾을 수 없습니다."
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "워드프레스 팀"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentysixteen/"
+msgstr "https://wordpress.org/themes/twentysixteen/"
+
+#. #-#-#-#-#  twentysixteen.pot (Twenty Sixteen 1.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:51
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
